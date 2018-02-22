@@ -43,7 +43,7 @@ return [
     "Pick another date" => "Nimm ein anderes Datum",
     "All years" => "All years",
     "You have supplied an invalid date" => "Du hast ein ungültiges Datum angegeben",
-    "This date lies in the future and can not be used" => "Dieses Datum liget in der Zukunft und kann nicht benutzt werden",
+    "This date lies in the future and can not be used" => "Dieses Datum liegt in der Zukunft und kann nicht benutzt werden",
 
     // Habinfo Form
     "Find Habinfo on.." => "Finde die Habinfo von..",
