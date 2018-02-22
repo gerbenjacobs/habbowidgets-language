@@ -40,10 +40,10 @@ return [
     "Birthdays in Habbo." => "Geburtstage im Habbo.",
     "Do you know anyone?" => "Kennst du jemanden?",
     "There are no birthdays in this hotel as far as we know?" => "Heute gibt es soweit wir wissen keine Geburtstage in diesem Hotel?",
-    "Pick another date" => "Pick another date",
+    "Pick another date" => "Nimm ein anderes Datum",
     "All years" => "All years",
-    "You have supplied an invalid date" => "You have supplied an invalid date",
-    "This date lies in the future and can not be used" => "This date lies in the future and can not be used",
+    "You have supplied an invalid date" => "Du hast ein ungültiges Datum angegeben",
+    "This date lies in the future and can not be used" => "Dieses Datum liget in der Zukunft und kann nicht benutzt werden",
 
     // Habinfo Form
     "Find Habinfo on.." => "Finde die Habinfo von..",
@@ -58,10 +58,10 @@ return [
 
     /* -- "Looking for :name: on :hotel:" */
     "Looking for" => "Suche nach",
-    "someone" => "jemandem",
+    "someone" => "jemanden",
     "on" => "im",
     "on_time" => "auf", // could be different in languages other than English i.e. Dutch.
-    "One moment.." => "Ein Moment..",
+    "One moment.." => "Einen Moment..",
     "Something went wrong, we couldn't find that Habbo. Or they are banned.." => "Etwas ist schief gelaufen. Wir konnten den Habbo nicht finden. Vielleicht ist er gebannt..",
     "Return to the Habinfo widget" => "Zurück zum Habinfo Widget",
     "Visit Habinfo history" => "Besuche die Geschichte von Habinfo",
@@ -130,13 +130,13 @@ return [
     "Return" => "Zurück",
 
     // Badges
-    "Achievement top 50 for" => "Top 250 Bonussystem Badges für", // "Achievement top 50 for :hotel:"
+    "Achievement top 50 for" => "Top 50 Bonussystem Badges für", // "Achievement top 50 for :hotel:"
     "Last updated" => "Zuletzt aktualisiert",
-    "Badge top 50 for" => "Top 250 Badge für",
+    "Badge top 50 for" => "Top 50 Badge für",
     "All x badges in" => "Alle %s Badges im", // Leave the %s intact; "All :number: badges in :hotel:"
     "First discovered" => "Zum ersten Mal gefunden",
     "Find out which Habbos own a specific badge!" => "Finde heraus welche Habbos spezielle Badges besitzen!",
-    "Only 1 Habbo in Habbo.%s owns the %s badge" => "Nur 1 Habbo im Habbo.%s besitzt %s das Badge", // Leave the %s intact
+    "Only 1 Habbo in Habbo.%s owns the %s badge" => "Nur 1 Habbo im Habbo.%s besitzt das %s Badge", // Leave the %s intact
     "%d Habbos in Habbo.%s own the %s badge" => "%d Habbos im Habbo.%s besitzen das %s Badge", // Leave the %s and %d intact -- "15 Habbos in Habbo.com own the ADM badge"
     "Sorry, we don't know anyone who has this badge" => "Entschuldigung, wir wissen nicht wer das Badge besitzt",
     "Only one Habbo has this badge.." => "Nur ein Habbo besitzt das Badge..",
