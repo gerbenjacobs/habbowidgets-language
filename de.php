@@ -6,9 +6,9 @@ return [
     "Birthdays" => "Geburtstage",
     "Badges" => "Badges",
     "All badges" => "Alle Badges",
-    "Badge top 50" => "Top 250 Badge",
+    "Badge top x" => "Top %d Badge", // %d will be replaced by the number
     "Badge owners" => "Badge Besitzer",
-    "Achievements top 50" => "Top 250 Bonussystem",
+    "Achievements top %x" => "Top %d Bonussystem",
     "News" => "Aktuell",
     "About" => "Über",
 
@@ -41,7 +41,7 @@ return [
     "Do you know anyone?" => "Kennst du jemanden?",
     "There are no birthdays in this hotel as far as we know?" => "Heute gibt es soweit wir wissen keine Geburtstage in diesem Hotel?",
     "Pick another date" => "Nimm ein anderes Datum",
-    "All years" => "All years",
+    "All years" => "Alle Jahre",
     "You have supplied an invalid date" => "Du hast ein ungültiges Datum angegeben",
     "This date lies in the future and can not be used" => "Dieses Datum liegt in der Zukunft und kann nicht benutzt werden",
 
@@ -130,9 +130,9 @@ return [
     "Return" => "Zurück",
 
     // Badges
-    "Achievement top 50 for" => "Top 50 Bonussystem Badges für", // "Achievement top 50 for :hotel:"
+    "Achievement top x for" => "Top %d Bonussystem Badges für", // "Achievement top 250 for :hotel:"
     "Last updated" => "Zuletzt aktualisiert",
-    "Badge top 50 for" => "Top 50 Badge für",
+    "Badge top x for" => "Top %d Badge für", //
     "All x badges in" => "Alle %s Badges im", // Leave the %s intact; "All :number: badges in :hotel:"
     "First discovered" => "Zum ersten Mal gefunden",
     "Find out which Habbos own a specific badge!" => "Finde heraus welche Habbos spezielle Badges besitzen!",

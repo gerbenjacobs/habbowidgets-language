@@ -6,9 +6,9 @@ return [
     "Birthdays" => "Fødselsdage",
     "Badges" => "Skilte",
     "All badges" => "Alle skilte",
-    "Badge top 50" => "Skilte top 250",
+    "Badge top x" => "Skilte top %d", // %d will be replaced by the number
     "Badge owners" => "Skilte ejere",
-    "Achievements top 50" => "Missioner top 250",
+    "Achievements top x" => "Missioner top %d",
     "News" => "Nyheder",
     "About" => "Om os",
 
@@ -130,9 +130,9 @@ return [
     "Return" => "Tilbage",
 
     // Badges
-    "Achievement top 50 for" => "Missioner top 250 for", // "Achievement top 50 for :hotel:"
+    "Achievement top x for" => "Missioner top %d for", // "Achievement top x for :hotel:"
     "Last updated" => "Sidst opdateret",
-    "Badge top 50 for" => "Skilte top 250 for",
+    "Badge top x for" => "Skilte top %d for",
     "All x badges in" => "Alle %s skilte på", // Leave the %s intact; "All :number: badges in :hotel:"
     "First discovered" => "Først opdaget",
     "Find out which Habbos own a specific badge!" => "Find ud af hvilke Habboer der ejer et bestemt badge!",

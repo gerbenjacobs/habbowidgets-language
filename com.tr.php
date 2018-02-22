@@ -6,9 +6,9 @@ return [
     "Birthdays" => "Doğum Günleri",
     "Badges" => "Rozetler",
     "All badges" => "Bütün Rozetler",
-    "Badge top 50" => "Rozet Top 250",
+    "Badge top x" => "Rozet Top %d", // %d will be replaced by the number
     "Badge owners" => "Rozet Sahipleri",
-    "Achievements top 50" => "Toplam Başarılar Top 250",
+    "Achievements top x" => "Toplam Başarılar Top %d",
     "News" => "Haberler",
     "About" => "Hakkımızda",
 
@@ -131,9 +131,9 @@ return [
     "Return" => "Geri dön",
 
     // Badges
-    "Achievement top 50 for" => "Toplam Başarı top 250", // "Achievement top 50 for :hotel:"
+    "Achievement top x for" => "Toplam Başarı top %d", // "Achievement top x for :hotel:"
     "Last updated" => "Son güncelleme",
-    "Badge top 50 for" => "Toplam Rozet top 250",
+    "Badge top x for" => "Toplam Rozet top %d",
     "All x badges in" => "Tüm Rozetler %s bu Otelde", // Leave the %s intact; "All :number: badges in :hotel:"
     "First discovered" => "keşfedilen gün",
     "Find out which Habbos own a specific badge!" => "Nadir rozet sahip olanlara bak!",

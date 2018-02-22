@@ -6,9 +6,9 @@ return [
     "Birthdays" => "Birthdays",
     "Badges" => "Badges",
     "All badges" => "All badges",
-    "Badge top 50" => "Badge top 250",
+    "Badge top x" => "Badge top %d", // %d will be replaced by the number
     "Badge owners" => "Badge owners",
-    "Achievements top 50" => "Achievements top 250",
+    "Achievements top x" => "Achievements top %d",
     "News" => "News",
     "About" => "About",
 
@@ -130,9 +130,9 @@ return [
     "Return" => "Return",
 
     // Badges
-    "Achievement top 50 for" => "Achievement top 250 for", // "Achievement top 50 for :hotel:"
+    "Achievement top x for" => "Achievement top %d for", // "Achievement top x for :hotel:"
     "Last updated" => "Last updated",
-    "Badge top 50 for" => "Badge top 250 for",
+    "Badge top x for" => "Badge top %d for",
     "All x badges in" => "All %s badges in", // Leave the %s intact; "All :number: badges in :hotel:"
     "First discovered" => "First discovered",
     "Find out which Habbos own a specific badge!" => "Find out which Habbos own a specific badge!",

@@ -6,9 +6,9 @@ return [
     "Birthdays" => "Compleanni",
     "Badges" => "Distintivi",
     "All badges" => "Tutti i distintivi",
-    "Badge top 50" => "Top 250 Badge",
+    "Badge top x" => "Top %d Badge", // %d will be replaced by the number
     "Badge owners" => "Badge ottenuti",
-    "Achievements top 50" => "Top 250 Traguardi",
+    "Achievements top x" => "Top %d Traguardi",
     "News" => "News",
     "About" => "Info",
 
@@ -130,9 +130,9 @@ return [
     "Return" => "Indietro",
 
     // Badges
-    "Achievement top 50 for" => "Traguardi top 250 per", // "Achievement top 50 for :hotel:"
+    "Achievement top x for" => "Traguardi top %d per", // "Achievement top x for :hotel:"
     "Last updated" => "Ultimo aggiornamento",
-    "Badge top 50 for" => "Distintivi top 250 per",
+    "Badge top x for" => "Distintivi top %d per",
     "All x badges in" => "Tutti i %s distintivi su", // Leave the %s intact; "All :number: badges in :hotel:"
     "First discovered" => "Prima scoperta",
     "Find out which Habbos own a specific badge!" => "Scopri quali Habbo posseggono un distintivo specifico!",

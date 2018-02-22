@@ -6,9 +6,9 @@ return [
     "Birthdays" => "Verjaardagen",
     "Badges" => "Badges",
     "All badges" => "Alle badges",
-    "Badge top 50" => "Badge top 250",
+    "Badge top x" => "Badge top %d", // %d will be replaced by the number
     "Badge owners" => "Badge eigenaren",
-    "Achievements top 50" => "Achievement top 250",
+    "Achievements top x" => "Achievement top %d",
     "News" => "Nieuws",
     "About" => "Over ons",
 
@@ -130,9 +130,9 @@ return [
     "Return" => "Ga terug",
 
     // Badges
-    "Achievement top 50 for" => "Achievement top 250 voor", // "Achievement top 50 for :hotel:"
+    "Achievement top x for" => "Achievement top %d voor", // "Achievement top x for :hotel:"
     "Last updated" => "Laatst geüpdate",
-    "Badge top 50 for" => "Badge top 250 voor",
+    "Badge top x for" => "Badge top %d voor",
     "All x badges in" => "Alle %s badges in", // Leave the %s intact; "All :number: badges in :hotel:"
     "First discovered" => "Voor het eerst gespot",
     "Find out which Habbos own a specific badge!" => "Ontdek welke Habbo's een specifieke badge hebben!",

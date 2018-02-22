@@ -6,9 +6,9 @@ return [
     "Birthdays" => "Cumpleaños",
     "Badges" => "Placas",
     "All badges" => "Todas las placas",
-    "Badge top 50" => "Top 250 de placas",
+    "Badge top x" => "Top %d de placas", // %d will be replaced by the number
     "Badge owners" => "Dueños de placas",
-    "Achievements top 50" => "Top 250 de puntos de actividad",
+    "Achievements top x" => "Top %d de puntos de actividad",
     "News" => "Noticias",
     "About" => "Acerca de",
 
@@ -130,9 +130,9 @@ return [
     "Return" => "Volver",
 
     // Badges
-    "Achievement top 50 for" => "Top 250 de puntos de actividad en", // "Achievement top 50 for :hotel:"
+    "Achievement top x for" => "Top %d de puntos de actividad en", // "Achievement top x for :hotel:"
     "Last updated" => "Última actualización",
-    "Badge top 50 for" => "Top 250 de placas en",
+    "Badge top x for" => "Top %d de placas en",
     "All x badges in" => "Todas las %s placas en", // Leave the %s intact; "All :number: badges in :hotel:"
     "First discovered" => "Descubierta por primera vez",
     "Find out which Habbos own a specific badge!" => "¡Descubre qué Habbos tienen una placa específica!",

@@ -6,9 +6,9 @@ return [
     "Birthdays" => "Syntymäpäivät",
     "Badges" => "Merkit",
     "All badges" => "Kaikki merkit",
-    "Badge top 50" => "Merkit top 250",
+    "Badge top x" => "Merkit top %d", // %d will be replaced by the number
     "Badge owners" => "Merkin omistajat",
-    "Achievements top 50" => "Saavutukset top 250",
+    "Achievements top x" => "Saavutukset top %d",
     "News" => "Uutiset",
     "About" => "Tietoa",
 
@@ -131,9 +131,9 @@ return [
     "Return" => "Takaisin",
 
     // Badges
-    "Achievement top 50 for" => "Saavutukset top 250 hotellissa", // "Achievement top 50 for :hotel:"
+    "Achievement top x for" => "Saavutukset top %d hotellissa", // "Achievement top x for :hotel:"
     "Last updated" => "Viimeksi päivitetty",
-    "Badge top 50 for" => "Merkit top 250 hotellissa",
+    "Badge top x for" => "Merkit top %d hotellissa",
     "All x badges in" => "Kaikki %s merkit hotellissa", // Leave the %s intact; "All :number: badges in :hotel:"
     "First discovered" => "Löydetty ensimmäisenä",
     "Find out which Habbos own a specific badge!" => "Ota selvää, ketkä hahmot ovat saaneet tietyn merkin!",

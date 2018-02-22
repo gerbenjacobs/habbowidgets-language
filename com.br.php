@@ -6,9 +6,9 @@ return [
     "Birthdays" => "Aniversariantes",
     "Badges" => "Emblemas",
     "All badges" => "Todos os emblemas",
-    "Badge top 50" => "Top 250 de Emblemas",
+    "Badge top x" => "Top %d de Emblemas", // %d will be replaced by the number
     "Badge owners" => "Emblemas de usuários",
-    "Achievements top 50" => "Top 250 de Conquistas",
+    "Achievements top x" => "Top %d de Conquistas",
     "News" => "Notícias",
     "About" => "Sobre",
 
@@ -130,9 +130,9 @@ return [
     "Return" => "Retornar",
 
     // Badges
-    "Achievement top 50 for" => "Top 250 de Conquistas do", // "Achievement top 50 for :hotel:"
+    "Achievement top x for" => "Top %d de Conquistas do", // "Achievement top x for :hotel:"
     "Last updated" => "Última atualização",
-    "Badge top 50 for" => "Top 250 de Emblemas do",
+    "Badge top x for" => "Top %d de Emblemas do",
     "All x badges in" => "Todos os %s emblemas do", // Leave the %s intact; "All :number: badges in :hotel:"
     "First discovered" => "Descoberto pela primeira vez",
     "Find out which Habbos own a specific badge!" => "Descubra qual Habbo possui um emblema específico",
