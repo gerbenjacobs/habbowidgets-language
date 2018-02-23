@@ -8,7 +8,7 @@ return [
     "All badges" => "Alle Badges",
     "Badge top x" => "Top %d Badge", // %d will be replaced by the number
     "Badge owners" => "Badge Besitzer",
-    "Achievements top %x" => "Top %d Bonussystem",
+    "Achievements top x" => "Top %d Bonussystem",
     "News" => "Aktuell",
     "About" => "Über",
 
