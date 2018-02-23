@@ -85,7 +85,6 @@ return [
     "Groups" => "Grupları",
     "Rooms" => "Odaları",
     "Photos" => "Resımlerı",
-    "Hide achievements" => "Başarıları gizle",
     "new" => "new", // Little label on new badges/friends etc. If your word is long (6+ characters), see if you can shorten it
     "This Habbo is not in the Habinfo system yet" => "Bu Habbo şuan Habbo sisteminde bulunmakta değil",
     "Show old badges" => "Eski Rozetleri göster",
@@ -117,6 +116,8 @@ return [
     "Go to Groups" => "Gruplara git",
     "Go to Rooms" => "Odalara git",
     "Go to Photos" => "Fotolara git",
+    "Toggle achievements" => "Toggle achievements",
+    "Toggle unique badges" => "Toggle unique badges",
 
     // Maintenance
     "Maintenance.." => "Bakım Arası..",

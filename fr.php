@@ -84,7 +84,6 @@ return [
     "Groups" => "Groupes",
     "Rooms" => "Apparts",
     "Photos" => "Photos",
-    "Hide achievements" => "Cacher les exploits",
     "new" => "new", // Little label on new badges/friends etc. If your word is long (6+ characters), see if you can shorten it
     "This Habbo is not in the Habinfo system yet" => "Ce Habbo ne se trouve pas encore dans le système Habinfo",
     "Show old badges" => "Afficher les anciens badges",
@@ -116,6 +115,8 @@ return [
     "Go to Groups" => "Voir les Groupes",
     "Go to Rooms" => "Voir les Apparts",
     "Go to Photos" => "Voir les Photos",
+    "Toggle achievements" => "Toggle achievements",
+    "Toggle unique badges" => "Toggle unique badges",
 
     // Maintenance
     "Maintenance.." => "Maintenance..",

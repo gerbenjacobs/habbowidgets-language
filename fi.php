@@ -85,7 +85,6 @@ return [
     "Groups" => "Ryhmät",
     "Rooms" => "Huoneet",
     "Photos" => "Kuvat",
-    "Hide achievements" => "Piilota saavutukset",
     "new" => "uusi", // Little label on new badges/friends etc. If your word is long (6+ characters), see if you can shorten it
     "This Habbo is not in the Habinfo system yet" => "Tämä hahmo ei ole vielä Habinfo-järjestelmässä",
     "Show old badges" => "Näytä vanhat merkit",
@@ -117,6 +116,8 @@ return [
     "Go to Groups" => "Mene ryhmiin",
     "Go to Rooms" => "Mene huoneisiin",
     "Go to Photos" => "Mene valokuviin",
+    "Toggle achievements" => "Toggle achievements",
+    "Toggle unique badges" => "Toggle unique badges",
 
     // Maintenance
     "Maintenance.." => "Huoltokatko..",
