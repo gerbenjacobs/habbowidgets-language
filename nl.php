@@ -158,7 +158,7 @@ return [
     "and" => "en",
     "ago" => "geleden",
     "hours" => "uren",
-    "years" => "jaren",
+    "years" => "jaar",
     "months" => "maanden",
     "days" => "dagen",
 ];
