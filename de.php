@@ -115,8 +115,8 @@ return [
     "Go to Groups" => "Gehe zu Gruppe",
     "Go to Rooms" => "Gehe zu Räume",
     "Go to Photos" => "Gehe zu Fotos",
-    "Toggle achievements" => "Toggle achievements",
-    "Toggle unique badges" => "Toggle unique badges",
+    "Toggle achievements" => "Verstecke Achievements",
+    "Toggle unique badges" => "Zeige einzigartige Badges",
 
     // Maintenance
     "Maintenance.." => "Wartungsmodus..",
