@@ -40,10 +40,10 @@ return [
     "Birthdays in Habbo." => "Cumpleaños en Habbo.",
     "Do you know anyone?" => "¿Conoces a alguien?",
     "There are no birthdays in this hotel as far as we know?" => "Por lo que sabemos, no hay ningún cumpleaños en este hotel",
-    "Pick another date" => "Pick another date",
-    "All years" => "All years",
-    "You have supplied an invalid date" => "You have supplied an invalid date",
-    "This date lies in the future and can not be used" => "This date lies in the future and can not be used",
+    "Pick another date" => "Elige una fecha",
+    "All years" => "Todos los años",
+    "You have supplied an invalid date" => "Has proporcionado una fecha no válida",
+    "This date lies in the future and can not be used" => "Esta fecha es del futuro y no puede ser utilizada",
 
     // Habinfo Form
     "Find Habinfo on.." => "Buscar Habbinfo de...",
@@ -60,12 +60,12 @@ return [
     "Looking for" => "Buscando a",
     "someone" => "alguien",
     "on" => "en",
-    "on_time" => "a tiempo", // could be different in languages other than English i.e. Dutch.
+    "on_time" => "el", // could be different in languages other than English i.e. Dutch.
     "One moment.." => "Un momento...",
     "Something went wrong, we couldn't find that Habbo. Or they are banned.." => "Algo salió mal, no pudimos encontrar a ese Habbo. O ha sido baneado...",
     "Return to the Habinfo widget" => "Volver al widget de Habinfo",
     "Visit Habinfo history" => "Visitar el historial de Habinfo",
-    "habinfo_user_banned" => "Este Habbo ha sido baneado, así que no podemos obtener su información.",
+    "habinfo_user_banned" => "Este Habbo ha sido baneado, por lo que no podemos obtener su información.",
 
     // Habinfo
     "Closed profile, loading might take longer." => "Perfil cerrado, la carga podría tardar más tiempo de lo esperado.",
@@ -115,8 +115,8 @@ return [
     "Go to Groups" => "Ir a los Grupos",
     "Go to Rooms" => "Ir a las Salas",
     "Go to Photos" => "Ir a las Fotos",
-    "Toggle achievements" => "Toggle achievements",
-    "Toggle unique badges" => "Toggle unique badges",
+    "Toggle achievements" => "Ocultar placas de recompensa",
+    "Toggle unique badges" => "Mostrar placas únicas",
 
     // Maintenance
     "Maintenance.." => "Mantenimiento...",
@@ -142,7 +142,7 @@ return [
     "Sorry, we don't know anyone who has this badge" => "Lo sentimos, no conocemos a nadie que tenga esta placa",
     "Only one Habbo has this badge.." => "Sólo un Habbo tiene esta placa...",
     "Habbos have this badge.." => "Habbos tienen esta placa...", // ":number: Habbos have this badge.."
-    "So we can not show them all." => "Así que no podemos mostrarlos todos.",
+    "So we can not show them all." => "Por lo que no podemos mostrarlos todos.",
     "Find Habbos who own.." => "Busca los Habbos que tienen..",
     "Badge code" => "Código de la placa",
     "Why don't you check out.." => "Por qué no echas un vistazo...",
