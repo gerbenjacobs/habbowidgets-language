@@ -134,6 +134,7 @@ return [
     "Achievement top x for" => "Missioner top %d for", // "Achievement top x for :hotel:"
     "Last updated" => "Sidst opdateret",
     "Badge top x for" => "Skilte top %d for",
+    "Rare badge top x for" => "Rare badge top %d for",
     "All x badges in" => "Alle %s skilte på", // Leave the %s intact; "All :number: badges in :hotel:"
     "First discovered" => "Først opdaget",
     "Find out which Habbos own a specific badge!" => "Find ud af hvilke Habboer der ejer et bestemt badge!",

@@ -134,6 +134,7 @@ return [
     "Achievement top x for" => "Achievement top %d for", // "Achievement top x for :hotel:"
     "Last updated" => "Last updated",
     "Badge top x for" => "Badge top %d for",
+    "Rare badge top x for" => "Rare badge top %d for",
     "All x badges in" => "All %s badges in", // Leave the %s intact; "All :number: badges in :hotel:"
     "First discovered" => "First discovered",
     "Find out which Habbos own a specific badge!" => "Find out which Habbos own a specific badge!",

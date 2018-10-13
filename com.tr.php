@@ -135,6 +135,7 @@ return [
     "Achievement top x for" => "Toplam Başarı top %d", // "Achievement top x for :hotel:"
     "Last updated" => "Son güncelleme",
     "Badge top x for" => "Toplam Rozet top %d",
+    "Rare badge top x for" => "Rare badge top %d for",
     "All x badges in" => "Tüm Rozetler %s bu Otelde", // Leave the %s intact; "All :number: badges in :hotel:"
     "First discovered" => "keşfedilen gün",
     "Find out which Habbos own a specific badge!" => "Nadir rozet sahip olanlara bak!",

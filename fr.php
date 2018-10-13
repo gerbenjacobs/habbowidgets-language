@@ -134,6 +134,7 @@ return [
     "Achievement top x for" => "Top %d des exploits pour", // "Achievement top x for :hotel:"
     "Last updated" => "Dernière mise à jour",
     "Badge top x for" => "Top %d des badges pour",
+    "Rare badge top x for" => "Rare badge top %d for",
     "All x badges in" => "%s badges sur", // Leave the %s intact; "All :number: badges in :hotel:"
     "First discovered" => "Première découverte",
     "Find out which Habbos own a specific badge!" => "Découvrez quels Habbos possèdent un badge spécifique!",

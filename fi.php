@@ -135,6 +135,7 @@ return [
     "Achievement top x for" => "Saavutukset top %d hotellissa", // "Achievement top x for :hotel:"
     "Last updated" => "Viimeksi päivitetty",
     "Badge top x for" => "Merkit top %d hotellissa",
+    "Rare badge top x for" => "Rare badge top %d for",
     "All x badges in" => "Kaikki %s merkit hotellissa", // Leave the %s intact; "All :number: badges in :hotel:"
     "First discovered" => "Löydetty ensimmäisenä",
     "Find out which Habbos own a specific badge!" => "Ota selvää, ketkä hahmot ovat saaneet tietyn merkin!",

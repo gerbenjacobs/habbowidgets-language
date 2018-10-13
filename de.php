@@ -133,7 +133,8 @@ return [
     // Badges
     "Achievement top x for" => "Top %d Bonussystem Badges für", // "Achievement top 250 for :hotel:"
     "Last updated" => "Zuletzt aktualisiert",
-    "Badge top x for" => "Top %d Badge für", //
+    "Badge top x for" => "Top %d Badge für",
+    "Rare badge top x for" => "Rare badge top %d for",
     "All x badges in" => "Alle %s Badges im", // Leave the %s intact; "All :number: badges in :hotel:"
     "First discovered" => "Zum ersten Mal gefunden",
     "Find out which Habbos own a specific badge!" => "Finde heraus welche Habbos spezielle Badges besitzen!",
