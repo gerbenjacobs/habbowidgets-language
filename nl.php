@@ -7,8 +7,9 @@ return [
     "Badges" => "Badges",
     "All badges" => "Alle badges",
     "Badge top x" => "Badge top %d", // %d will be replaced by the number
-    "Badge owners" => "Badge eigenaren",
     "Achievements top x" => "Achievement top %d",
+    "Unique badge top x" => "Unieke badge top %d", // 'Unique' is chosen as they're not technically 'rares'.
+    "Badge owners" => "Badge eigenaren",
     "News" => "Nieuws",
     "About" => "Over ons",
 
@@ -134,7 +135,7 @@ return [
     "Achievement top x for" => "Achievement top %d voor", // "Achievement top x for :hotel:"
     "Last updated" => "Laatst geüpdate",
     "Badge top x for" => "Badge top %d voor",
-    "Rare badge top x for" => "Zeldzame badge top %d voor",
+    "Unique badge top x for" => "Unieke badge top %d voor",
     "All x badges in" => "Alle %s badges in", // Leave the %s intact; "All :number: badges in :hotel:"
     "First discovered" => "Voor het eerst gespot",
     "Find out which Habbos own a specific badge!" => "Ontdek welke Habbo's een specifieke badge hebben!",

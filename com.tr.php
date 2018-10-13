@@ -7,8 +7,9 @@ return [
     "Badges" => "Rozetler",
     "All badges" => "Bütün Rozetler",
     "Badge top x" => "Rozet Top %d", // %d will be replaced by the number
-    "Badge owners" => "Rozet Sahipleri",
     "Achievements top x" => "Toplam Başarılar Top %d",
+    "Unique badge top x" => "Unique badge top %d", // 'Unique' is chosen as they're not technically 'rares'.
+    "Badge owners" => "Rozet Sahipleri",
     "News" => "Haberler",
     "About" => "Hakkımızda",
 
@@ -135,7 +136,7 @@ return [
     "Achievement top x for" => "Toplam Başarı top %d", // "Achievement top x for :hotel:"
     "Last updated" => "Son güncelleme",
     "Badge top x for" => "Toplam Rozet top %d",
-    "Rare badge top x for" => "Rare badge top %d for",
+    "Unique badge top x for" => "Unique badge top %d for",
     "All x badges in" => "Tüm Rozetler %s bu Otelde", // Leave the %s intact; "All :number: badges in :hotel:"
     "First discovered" => "keşfedilen gün",
     "Find out which Habbos own a specific badge!" => "Nadir rozet sahip olanlara bak!",

@@ -7,8 +7,9 @@ return [
     "Badges" => "Emblemas",
     "All badges" => "Todos os emblemas",
     "Badge top x" => "Top %d de Emblemas", // %d will be replaced by the number
-    "Badge owners" => "Emblemas de usuários",
     "Achievements top x" => "Top %d de Conquistas",
+    "Unique badge top x" => "Unique badge top %d", // 'Unique' is chosen as they're not technically 'rares'.
+    "Badge owners" => "Emblemas de usuários",
     "News" => "Notícias",
     "About" => "Sobre",
 
@@ -134,7 +135,7 @@ return [
     "Achievement top x for" => "Top %d de Conquistas do", // "Achievement top x for :hotel:"
     "Last updated" => "Última atualização",
     "Badge top x for" => "Top %d de Emblemas do",
-    "Rare badge top x for" => "Rare badge top %d for",
+    "Unique badge top x for" => "Unique badge top %d for",
     "All x badges in" => "Todos os %s emblemas do", // Leave the %s intact; "All :number: badges in :hotel:"
     "First discovered" => "Descoberto pela primeira vez",
     "Find out which Habbos own a specific badge!" => "Descubra qual Habbo possui um emblema específico",
