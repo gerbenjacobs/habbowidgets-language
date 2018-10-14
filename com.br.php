@@ -8,7 +8,7 @@ return [
     "All badges" => "Todos os emblemas",
     "Badge top x" => "Top %d de Emblemas", // %d will be replaced by the number
     "Achievements top x" => "Top %d de Conquistas",
-    "Unique badge top x" => "Unique badge top %d", // 'Unique' is chosen as they're not technically 'rares'.
+    "Unique badge top x" => "Top %d de emblemas únicos", // 'Unique' is chosen as they're not technically 'rares'.
     "Badge owners" => "Emblemas de usuários",
     "News" => "Notícias",
     "About" => "Sobre",
@@ -41,10 +41,10 @@ return [
     "Birthdays in Habbo." => "Aniversariantes no Habbo.",
     "Do you know anyone?" => "Você conhece alguém?",
     "There are no birthdays in this hotel as far as we know?" => "Não há nenhum aniversariante neste hotel... ou será que o Frank não nos avisou?",
-    "Pick another date" => "Pick another date",
-    "All years" => "All years",
-    "You have supplied an invalid date" => "You have supplied an invalid date",
-    "This date lies in the future and can not be used" => "This date lies in the future and can not be used",
+    "Pick another date" => "Escolha outra data",
+    "All years" => "Todos os anos",
+    "You have supplied an invalid date" => "Você forneceu uma data inválida",
+    "This date lies in the future and can not be used" => "Esta data encontra-se no futuro e não pode ser usada",
 
     // Habinfo Form
     "Find Habinfo on.." => "Encontrar Habinfo de...",
@@ -70,7 +70,7 @@ return [
 
     // Habinfo
     "Closed profile, loading might take longer." => "O perfil está fechado, o carregamento pode demorar um pouco mais.",
-    "This Habbo is banned. We can not get any new information.." => "Este Habbo está banido, nós não temos nenhuma informação nova.",
+    "This Habbo is banned. We can not get any new information.." => "Este Habbo está banido. Não podemos recuperar nenhuma informação nova.",
     "Previous mottos" => "Missões anteriores",
     "Previous looks" => "Visuais anteriores",
     "Last online" => "Última vez online",
@@ -116,18 +116,18 @@ return [
     "Go to Groups" => "Ir para Grupos",
     "Go to Rooms" => "Ir para Quartos",
     "Go to Photos" => "Ir para Fotos",
-    "Toggle achievements" => "Toggle achievements",
-    "Toggle unique badges" => "Toggle unique badges",
+    "Toggle achievements" => "Alternar conquistas",
+    "Toggle unique badges" => "Alternar emblemas únicos",
 
     // Maintenance
     "Maintenance.." => "Hora da Manutenção!",
-    "maintenance_paragraph_one" => "O Habinfo não virou o Triângulo das Bermudas, nós só estamos trabalhando no site no momento. ",
+    "maintenance_paragraph_one" => "O Habinfo não virou o Triângulo das Bermudas, nós só estamos trabalhando no site neste momento. ",
     "maintenance_paragraph_two" => "Fique conosco, nós voltaremos em instantes!",
     "Follow us on Twitter for updates" => "Siga-nos no Twitter para ficar por dentro de tudo",
 
     // 404
     "Oops, page not found" => "Oh não! Página não encontrada!",
-    "The page you tried to request doesn't exist.." => "A página que você tentou procurar não existe...",
+    "The page you tried to request doesn't exist.." => "A página que você tentou encontrar não existe...",
     "page_not_found_paragraph" => "Mas não se preocupe, você pode voltar para o %sinício%s ou ver se alguém está tendo %sum aniversário%s!", // Leave the %s intact, they will become links
     "Return" => "Retornar",
 
@@ -135,16 +135,16 @@ return [
     "Achievement top x for" => "Top %d de Conquistas do", // "Achievement top x for :hotel:"
     "Last updated" => "Última atualização",
     "Badge top x for" => "Top %d de Emblemas do",
-    "Unique badge top x for" => "Unique badge top %d for",
+    "Unique badge top x for" => "Top %d de emblemas únicos do",
     "All x badges in" => "Todos os %s emblemas do", // Leave the %s intact; "All :number: badges in :hotel:"
     "First discovered" => "Descoberto pela primeira vez",
     "Find out which Habbos own a specific badge!" => "Descubra qual Habbo possui um emblema específico",
-    "Only 1 Habbo in Habbo.%s owns the %s badge" => "Apenas 1 Habbo no Habbo.%s é o dono do emblema %s", // Leave the %s intact
+    "Only 1 Habbo in Habbo.%s owns the %s badge" => "Apenas 1 Habbo no Habbo.%s possui o emblema %s", // Leave the %s intact
     "%d Habbos in Habbo.%s own the %s badge" => "%d Habbos no Habbo.%s possuem o emblema %s", // Leave the %s and %d intact -- "15 Habbos in Habbo.com own the ADM badge"
     "Sorry, we don't know anyone who has this badge" => "Sinceras desculpas, mas o Telecourte não conhece ninguém que tenha este emblema.",
     "Only one Habbo has this badge.." => "Apenas um Habbo tem este emblema...",
     "Habbos have this badge.." => "Habbos tem este emblema...", // ":number: Habbos have this badge.."
-    "So we can not show them all." => "Oh! Nós não podemos mostrar tudo!",
+    "So we can not show them all." => "Oh! Nós não podemos mostrar todos!",
     "Find Habbos who own.." => "Procurar Habbos que tenham..",
     "Badge code" => "Código do emblema",
     "Why don't you check out.." => "Você também pode olhar...",
