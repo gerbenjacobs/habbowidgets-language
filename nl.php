@@ -74,6 +74,7 @@ return [
     "Previous mottos" => "Vorige missies",
     "Previous looks" => "Vorige looks",
     "Last online" => "Laatst online",
+    "Last change" => "Laatste wijziging",
     "Go to profile" => "Ga naar profiel",
     "Closed profile" => "Gesloten profiel",
     "Banned" => "Verbannen",
@@ -163,4 +164,18 @@ return [
     "years" => "jaar",
     "months" => "maanden",
     "days" => "dagen",
+
+    // Habbo Ticker
+    "Latest updates from Habbo Ticker" => "Nieuwste updates van Habbo Ticker",
+    // This habbo added more than 5 new badges, 3 new groups and changed their look
+    "changed their motto" => "veranderde hun missie",
+    "changed their look" => "veranderde hun look",
+    "more than x" => "meer dan %d",
+    "new badge(s)" => "nieuwe badge(s)",
+    "new group(s)" => "nieuwe groep(en)",
+    "new room(s)" => "nieuwe kamer(s)",
+    "new friend(s)" => "nieuwe vriend(en)",
+    "new photo(s)" => "nieuwe foto(s)",
+    "joined" => "werd lid van", // This habbo joined Habbowidgets
+    "added" => "heeft", // you can also replace this with "has"
 ];

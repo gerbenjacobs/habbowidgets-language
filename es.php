@@ -74,6 +74,7 @@ return [
     "Previous mottos" => "Misiones anteriores",
     "Previous looks" => "Looks anteriores",
     "Last online" => "Última conexión",
+    "Last change" => "Ultimo cambio",
     "Go to profile" => "Ir al perfil",
     "Closed profile" => "Perfil cerrado",
     "Banned" => "Baneado",
@@ -160,4 +161,18 @@ return [
     "years" => "años",
     "months" => "meses",
     "days" => "días",
+
+    // Habbo Ticker
+    "Latest updates from Habbo Ticker" => "Latest updates from Habbo Ticker",
+    // This habbo added more than 5 new badges, 3 new groups and changed their look
+    "changed their motto" => "changed their motto",
+    "changed their look" => "changed their look",
+    "more than x" => "more than %d",
+    "new badge(s)" => "new badge(s)",
+    "new group(s)" => "new group(s)",
+    "new room(s)" => "new room(s)",
+    "new friend(s)" => "new friend(s)",
+    "new photo(s)" => "new photo(s)",
+    "joined" => "joined", // This habbo joined Habbowidgets
+    "added" => "added", // you can also replace this with "has"
 ];
