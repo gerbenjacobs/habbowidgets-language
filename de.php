@@ -6,9 +6,9 @@ return [
     "Birthdays" => "Geburtstage",
     "Badges" => "Badges",
     "All badges" => "Alle Badges",
-    "Badge top x" => "Top %d Badge", // %d will be replaced by the number
+    "Badge top x" => "Top %d Badges", // %d will be replaced by the number
     "Achievements top x" => "Top %d Bonussystem",
-    "Unique badge top x" => "Unique badge top %d", // 'Unique' is chosen as they're not technically 'rares'.
+    "Unique badge top x" => "Top %d seltene Badges", // 'Unique' is chosen as they're not technically 'rares'.
     "Badge owners" => "Badge Besitzer",
     "News" => "Aktuell",
     "About" => "Über",
@@ -17,7 +17,7 @@ return [
     "Copyright" => "Copyright",
     /* -- "Made with :love: by :link: using the :link:" */
     "Made with" => "Gemacht mit",
-    "by" => "bei",
+    "by" => "von",
     "using the" => "basierend auf die",
     "Generated in" => "Erstellt in",
     "Current server time" => "Aktuelle Serverzeit",
@@ -136,25 +136,25 @@ return [
     "Achievement top x for" => "Top %d Bonussystem Badges für", // "Achievement top 250 for :hotel:"
     "Last updated" => "Zuletzt aktualisiert",
     "Badge top x for" => "Top %d Badge für",
-    "Unique badge top x for" => "Unique badge top %d for",
+    "Unique badge top x for" => "Top %d seltene Badges für",
     "All x badges in" => "Alle %s Badges im", // Leave the %s intact; "All :number: badges in :hotel:"
     "First discovered" => "Zum ersten Mal gefunden",
-    "Find out which Habbos own a specific badge!" => "Finde heraus welche Habbos spezielle Badges besitzen!",
+    "Find out which Habbos own a specific badge!" => "Finde heraus welche Habbos ein bestimmtes Badge besitzen!",
     "Only 1 Habbo in Habbo.%s owns the %s badge" => "Nur 1 Habbo im Habbo.%s besitzt das %s Badge", // Leave the %s intact
     "%d Habbos in Habbo.%s own the %s badge" => "%d Habbos im Habbo.%s besitzen das %s Badge", // Leave the %s and %d intact -- "15 Habbos in Habbo.com own the ADM badge"
-    "Sorry, we don't know anyone who has this badge" => "Entschuldigung, wir wissen nicht wer das Badge besitzt",
+    "Sorry, we don't know anyone who has this badge" => "Entschuldigung, wir wissen nicht, wer das Badge besitzt",
     "Only one Habbo has this badge.." => "Nur ein Habbo besitzt das Badge..",
     "Habbos have this badge.." => "Habbos besitzen das Badge..", // ":number: Habbos have this badge.."
     "So we can not show them all." => "Daher können wir nicht alles anzeigen.",
     "Find Habbos who own.." => "Finden Habbos, die besitzen..",
     "Badge code" => "Badge Code",
     "Why don't you check out.." => "Warum checkst du nicht..",
-    "unique badges in" => "Spezielle Badges in", // ":number: unique badges in :hotel:"
+    "unique badges in" => "Seltene Badges in", // ":number: unique badges in :hotel:"
     "owners" => "Besitzer",
-    "There are no unique badges in this hotel.." => "Es befinden sich keine speziellen Badges in diesem Hotel..",
+    "There are no unique badges in this hotel.." => "Es befinden sich keine seltenen Badges in diesem Hotel..",
 
     // Time
-    "today" => "heute",
+    "today" => "Heute",
     "and" => "und",
     "ago" => "vor",
     "hours" => "Stunde(n)",
@@ -163,16 +163,16 @@ return [
     "days" => "Tage",
 
     // Habbo Ticker
-    "Latest updates from Habbo Ticker" => "Latest updates from Habbo Ticker",
+    "Latest updates from Habbo Ticker" => "Letzte Updates im Habbo Ticker",
     // This habbo added more than 5 new badges, 3 new groups and changed their look
-    "changed their motto" => "changed their motto",
-    "changed their look" => "changed their look",
-    "more than x" => "more than %d",
-    "new badge(s)" => "new badge(s)",
-    "new group(s)" => "new group(s)",
-    "new room(s)" => "new room(s)",
-    "new friend(s)" => "new friend(s)",
-    "new photo(s)" => "new photo(s)",
-    "joined" => "joined", // This habbo joined Habbowidgets
-    "added" => "added", // you can also replace this with "has"
+    "changed their motto" => "hat die Mission geändert",
+    "changed their look" => "hat sein Aussehen geändert",
+    "more than x" => "mehr als %d",
+    "new badge(s)" => "neue(s) Badge(s)",
+    "new group(s)" => "neue Gruppe(n)",
+    "new room(s)" => "neue Räume",
+    "new friend(s)" => "neue(n) Freund(e)",
+    "new photo(s)" => "neue(s) Foto(s)",
+    "joined" => "ist neu auf", // This habbo joined Habbowidgets
+    "added" => "hat", // you can also replace this with "has" 
 ];
