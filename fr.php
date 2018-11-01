@@ -40,11 +40,11 @@ return [
     /* -- "Birthdays in Habbo.:hotel:" */
     "Birthdays in Habbo." => "Anniversaires sur Habbo.",
     "Do you know anyone?" => "Connaissez-vous quelqu'un ?",
-    "There are no birthdays in this hotel as far as we know?" => "Il n'y a pas d'anniversaire dans cet hôtel à ce que nous sachions?",
-    "Pick another date" => "Pick another date",
-    "All years" => "All years",
-    "You have supplied an invalid date" => "You have supplied an invalid date",
-    "This date lies in the future and can not be used" => "This date lies in the future and can not be used",
+    "There are no birthdays in this hotel as far as we know?" => "Il n'y a pas d'anniversaires dans cet hôtel à ce que nous sachions?",
+    "Pick another date" => "Choisissez une autre date",
+    "All years" => "Toutes les années",
+    "You have supplied an invalid date" => "Vous avez soumis une date invalide",
+    "This date lies in the future and can not be used" => "Cette date se situe dans le futur et ne peut pas être utilisée ",
 
     // Habinfo Form
     "Find Habinfo on.." => "Recherche Habinfo sur..",
@@ -90,7 +90,7 @@ return [
     "This Habbo is not in the Habinfo system yet" => "Ce Habbo ne se trouve pas encore dans le système Habinfo",
     "Show old badges" => "Afficher les anciens badges",
     "Show old friends" => "Afficher les anciens amis",
-    "Show old groups" => "Anciens les anciens groupes",
+    "Show old groups" => "Afficher les anciens groupes",
     "Show old rooms" => "Afficher les anciens apparts",
     "Administrator" => "Administrateur", // Someone with admin rights in a group
     "Group created" => "Créé le",
@@ -163,16 +163,16 @@ return [
     "days" => "jours",
 
     // Habbo Ticker
-    "Latest updates from Habbo Ticker" => "Latest updates from Habbo Ticker",
+    "Latest updates from Habbo Ticker" => "Dernières mises à jour de Habbo Ticker",
     // This habbo added more than 5 new badges, 3 new groups and changed their look
-    "changed their motto" => "changed their motto",
-    "changed their look" => "changed their look",
-    "more than x" => "more than %d",
-    "new badge(s)" => "new badge(s)",
-    "new group(s)" => "new group(s)",
-    "new room(s)" => "new room(s)",
-    "new friend(s)" => "new friend(s)",
-    "new photo(s)" => "new photo(s)",
-    "joined" => "joined", // This habbo joined Habbowidgets
-    "added" => "added", // you can also replace this with "has"
+    "changed their motto" => "a changé sa devise",
+    "changed their look" => "a changé sa tenue",
+    "more than x" => "plus de %d",
+    "new badge(s)" => "nouveau(x) badge(s)",
+    "new group(s)" => "nouveau(x) groupe(s)",
+    "new room(s)" => "nouvelle(s) salle(s)",
+    "new friend(s)" => "nouveaux amis", // can't use the same pattern as the others beacause the singular form is different : nouvel ami / nouveaux amis
+    "new photo(s)" => "nouvelle(s) photo(s)",
+    "joined" => "a rejoint", // This habbo joined Habbowidgets
+    "added" => "a ajouté", // you can also replace this with "has"
 ];
