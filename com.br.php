@@ -8,7 +8,7 @@ return [
     "All badges" => "Todos os emblemas",
     "Badge top x" => "Top %d de Emblemas", // %d will be replaced by the number
     "Achievements top x" => "Top %d de Conquistas",
-    "Unique badge top x" => "Top %d de emblemas únicos", // 'Unique' is chosen as they're not technically 'rares'.
+    "Unique badge top x" => "Top %d de Emblemas Únicos", // 'Unique' is chosen as they're not technically 'rares'.
     "Badge owners" => "Emblemas de usuários",
     "News" => "Notícias",
     "About" => "Sobre",
@@ -61,7 +61,7 @@ return [
     "Looking for" => "Procurando por",
     "someone" => "alguém",
     "on" => "no",
-    "on_time" => "na hora", // could be different in languages other than English i.e. Dutch.
+    "on_time" => "em", // could be different in languages other than English i.e. Dutch.
     "One moment.." => "Um momento...",
     "Something went wrong, we couldn't find that Habbo. Or they are banned.." => "Algo deu errado, nós não encontramos esse Habbo ou ele está banido.",
     "Return to the Habinfo widget" => "Retornar para o Habinfo",
@@ -103,8 +103,8 @@ return [
     "Maximum visitors" => "Capacidade máxima",
     "Go to room" => "Ir para o quarto",
     // "Taken in this room on :date: and received :number: likes
-    "Taken in" => "Tirada em",
-    "this room" => "este quarto",
+    "Taken in" => "Tirada",
+    "this room" => "neste quarto",
     "and received" => "e recebeu",
     "likes" => "curtidas",
     "Show on Habbo" => "Ver no Habbo",
@@ -136,7 +136,7 @@ return [
     "Achievement top x for" => "Top %d de Conquistas do", // "Achievement top x for :hotel:"
     "Last updated" => "Última atualização",
     "Badge top x for" => "Top %d de Emblemas do",
-    "Unique badge top x for" => "Top %d de emblemas únicos do",
+    "Unique badge top x for" => "Top %d de Emblemas Únicos do",
     "All x badges in" => "Todos os %s emblemas do", // Leave the %s intact; "All :number: badges in :hotel:"
     "First discovered" => "Descoberto pela primeira vez",
     "Find out which Habbos own a specific badge!" => "Descubra qual Habbo possui um emblema específico",
@@ -163,16 +163,16 @@ return [
     "days" => "dias",
 
     // Habbo Ticker
-    "Latest updates from Habbo Ticker" => "Latest updates from Habbo Ticker",
+    "Latest updates from Habbo Ticker" => "Últimas atualizações do Habbo Ticker",
     // This habbo added more than 5 new badges, 3 new groups and changed their look
-    "changed their motto" => "changed their motto",
-    "changed their look" => "changed their look",
-    "more than x" => "more than %d",
-    "new badge(s)" => "new badge(s)",
-    "new group(s)" => "new group(s)",
-    "new room(s)" => "new room(s)",
-    "new friend(s)" => "new friend(s)",
-    "new photo(s)" => "new photo(s)",
-    "joined" => "joined", // This habbo joined Habbowidgets
-    "added" => "added", // you can also replace this with "has"
+    "changed their motto" => "mudou sua missão",
+    "changed their look" => "mudou seu visual",
+    "more than x" => "mais de %d",
+    "new badge(s)" => "novo(s) emblema(s)",
+    "new group(s)" => "novo(s) grupo(s)",
+    "new room(s)" => "novo(s) quarto(s)",
+    "new friend(s)" => "novo(s) amigo(s)",
+    "new photo(s)" => "nova(s) foto(s)",
+    "joined" => "juntou-se", // This habbo joined Habbowidgets
+    "added" => "adicionou", // you can also replace this with "has"
 ];
