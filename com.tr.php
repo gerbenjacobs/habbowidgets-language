@@ -8,7 +8,7 @@ return [
     "All badges" => "Bütün Rozetler",
     "Badge top x" => "Rozet Top %d", // %d will be replaced by the number
     "Achievements top x" => "Toplam Başarılar Top %d",
-    "Unique badge top x" => "Unique badge top %d", // 'Unique' is chosen as they're not technically 'rares'.
+    "Unique badge top x" => "Benzersiz Rozetler Top %d", // 'Unique' is chosen as they're not technically 'rares'.
     "Badge owners" => "Rozet Sahipleri",
     "News" => "Haberler",
     "About" => "Hakkımızda",
@@ -26,12 +26,12 @@ return [
     // Landing page
     "What's your Habbo name?" => "Habbo Kullanıcı adın ney?",
     /* -- Try to add the <br> at around 70 characters, so the next part goes on a new line */
-    "landing_page_info" => "Tüm Habbolar hakkında daha fazla bilgi alabilirsin.<br>Mesela Personeller başka Habbolar veya Arakaşlar Hakkında!",
+    "landing_page_info" => "Tüm Habbolar hakkında daha fazla bilgi alabilirsin.<br>Mesela Personeller başka Habbolar veya Arkadaşınların Hakkında!",
 
     // General
     "Habbo" => "Habbo",
     "Hotel" => "Hotel",
-    "Habbo name" => "Habbo Kullanıcıadın ",
+    "Habbo name" => "Habbo Kullanıcı Adın",
     "Oops.." => "Oops..",
     "from" => "burdan", // "Viewing page of :habbo: from :hotel:"
     "View Habinfo" => " Habbo Bilgisini ziyaret",
@@ -39,13 +39,13 @@ return [
 
     // [habbo] Birthdays
     /* -- "Birthdays in Habbo.:hotel:" */
-    "Birthdays in Habbo." => "Habboda doğum günülerı.",
+    "Birthdays in Habbo." => "Habboda doğum günüleri.",
     "Do you know anyone?" => "Bunlardan birini tanıyormusun?",
     "There are no birthdays in this hotel as far as we know?" => "Bu otelde bugünün doğum günü olanı bilmiyorsa ya sen?",
-    "Pick another date" => "Pick another date",
-    "All years" => "All years",
-    "You have supplied an invalid date" => "You have supplied an invalid date",
-    "This date lies in the future and can not be used" => "This date lies in the future and can not be used",
+    "Pick another date" => "Başka bir tarih seç",
+    "All years" => "Bütün Yıllar",
+    "You have supplied an invalid date" => "Geçersiz bir tarih girdiniz",
+    "This date lies in the future and can not be used" => "Bu tarih gelecekte yatar ve kullanılamaz",
 
     // Habinfo Form
     "Find Habinfo on.." => "Habinfoyu buradan bulabilirsin..",
@@ -78,7 +78,7 @@ return [
     "Last change" => "Son değişiklik",
     "Go to profile" => "Profile geç",
     "Closed profile" => "Kapalı Profil",
-    "Banned" => "Banned",
+    "Banned" => "Bu Habbo Banlandı",
     "About me" => "Hakkımda",
     /* -- "Created on :date: and last updated :some time ago:" */
     "Created on" => "Tarıhınde açildi",
@@ -164,16 +164,16 @@ return [
     "days" => "Gün",
 
     // Habbo Ticker
-    "Latest updates from Habbo Ticker" => "Latest updates from Habbo Ticker",
+    "Latest updates from Habbo Ticker" => "Habbo Ticker'den son güncellemeler",
     // This habbo added more than 5 new badges, 3 new groups and changed their look
-    "changed their motto" => "changed their motto",
-    "changed their look" => "changed their look",
-    "more than x" => "more than %d",
-    "new badge(s)" => "new badge(s)",
-    "new group(s)" => "new group(s)",
-    "new room(s)" => "new room(s)",
-    "new friend(s)" => "new friend(s)",
-    "new photo(s)" => "new photo(s)",
-    "joined" => "joined", // This habbo joined Habbowidgets
-    "added" => "added", // you can also replace this with "has"
+    "changed their motto" => "Mottosunu değiştirdi",
+    "changed their look" => "Kıyafetini değiştirdi",
+    "more than x" => "Daha fazla %d",
+    "new badge(s)" => "Yeni Rozet(s)",
+    "new group(s)" => "Yeni Grup(s)",
+    "new room(s)" => "Yeni Oda(s)",
+    "new friend(s)" => "Yeni Arkadaş(s)",
+    "new photo(s)" => "Yeni Resim(s)",
+    "joined" => "Katıldı", // This habbo joined Habbowidgets
+    "added" => "Eklendi", // you can also replace this with "has"
 ];
