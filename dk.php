@@ -163,16 +163,16 @@ return [
     "days" => "dage",
 
     // Habbo Ticker
-    "Latest updates from Habbo Ticker" => "Latest updates from Habbo Ticker",
+    "Latest updates from Habbo Ticker" => "Seneste opdateringer fra Habbo Ticker",
     // This habbo added more than 5 new badges, 3 new groups and changed their look
-    "changed their motto" => "changed their motto",
-    "changed their look" => "changed their look",
-    "more than x" => "more than %d",
-    "new badge(s)" => "new badge(s)",
-    "new group(s)" => "new group(s)",
-    "new room(s)" => "new room(s)",
-    "new friend(s)" => "new friend(s)",
-    "new photo(s)" => "new photo(s)",
-    "joined" => "joined", // This habbo joined Habbowidgets
-    "added" => "added", // you can also replace this with "has"
+    "changed their motto" => "opdaterede sin mission",
+    "changed their look" => "skiftede deres udseende",
+    "more than x" => "mere end %d",
+    "new badge(s)" => "ny(e) skilt(e)",
+    "new group(s)" => "ny(e) gruppe(r)",
+    "new room(s)" => "ny(e/t) rum",
+    "new friend(s)" => "ny(e) ven(ner)",
+    "new photo(s)" => "ny(e) billede(r)",
+    "joined" => "blev medlem", // This habbo joined Habbowidgets
+    "added" => "tilføjet", // you can also replace this with "has"
 ];
