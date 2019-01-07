@@ -1,5 +1,4 @@
 <?php
-// Italian translations by kaselli (HabboLifeForum's founder)
 return [
     // Menu
     "Habinfo" => "Habinfo", // This is the actual name of the widget, probably keep it like this
