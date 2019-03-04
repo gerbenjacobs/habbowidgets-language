@@ -22,7 +22,6 @@ return [
     "using the" => "kullanarak",
     "Generated in" => "Burada yapıldı",
     "Current server time" => "Güncel server saati",
-
     // Landing page
     "What's your Habbo name?" => "Habbo Kullanıcı adın ney?",
     /* -- Try to add the <br> at around 70 characters, so the next part goes on a new line */
@@ -118,8 +117,8 @@ return [
     "Go to Groups" => "Gruplara git",
     "Go to Rooms" => "Odalara git",
     "Go to Photos" => "Fotolara git",
-    "Toggle achievements" => "Toggle achievements",
-    "Toggle unique badges" => "Toggle unique badges",
+    "Toggle achievements" => "Başarıları değiştir",
+    "Toggle unique badges" => "Benzersiz rozetleri değiştir",
 
     // Maintenance
     "Maintenance.." => "Bakım Arası..",
@@ -169,11 +168,11 @@ return [
     "changed their motto" => "Mottosunu değiştirdi",
     "changed their look" => "Kıyafetini değiştirdi",
     "more than x" => "Daha fazla %d",
-    "new badge(s)" => "Yeni Rozet(s)",
-    "new group(s)" => "Yeni Grup(s)",
-    "new room(s)" => "Yeni Oda(s)",
-    "new friend(s)" => "Yeni Arkadaş(s)",
-    "new photo(s)" => "Yeni Resim(s)",
+    "new badge(s)" => "Yeni Rozetler",
+    "new group(s)" => "Yeni Gruplar",
+    "new room(s)" => "Yeni Odalar",
+    "new friend(s)" => "Yeni Arkadaşler",
+    "new photo(s)" => "Yeni Resimler",
     "joined" => "Katıldı", // This habbo joined Habbowidgets
     "added" => "Eklendi", // you can also replace this with "has"
 ];
