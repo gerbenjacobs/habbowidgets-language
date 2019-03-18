@@ -50,7 +50,7 @@ return [
     "Find Habinfo on.." => "Vind Habinfo over..",
     "Find" => "Vind", // Button on the Habinfo form
     "Tip" => "Tip",
-    "Did you know you can also use a Direct URL to get to the Habbo you want to find?" => "Wist je dat je ook de Directe URL kan gebruiken om een Habbo te vinden?",
+    "Did you know you can also use a Direct URL to get to the Habbo you want to find?" => "Wist je dat je ook de directe URL kan gebruiken om een Habbo te vinden?",
     "Just use the following format" => "Gebruik gewoon het volgende formaat",
     "This hotel does not exist" => "Dit hotel bestaat niet",
     "You forgot the Habbo name.." => "Je bent de Habbo naam vergeten..",
@@ -63,7 +63,7 @@ return [
     "on" => "uit",
     "on_time" => "op", // could be different in languages other than English i.e. Dutch.
     "One moment.." => "Een moment geduld..",
-    "Something went wrong, we couldn't find that Habbo. Or they are banned.." => "Iets ging fout, we konden deze Habbo niet vinden of ze zijn verbannen..",
+    "Something went wrong, we couldn't find that Habbo. Or they are banned.." => "Iets ging fout, we konden deze Habbo niet vinden of deze Habbo is verbannen..",
     "Return to the Habinfo widget" => "Ga terug naar de Habinfo widget",
     "Visit Habinfo history" => "Bekijk Habinfo geschiedenis",
     "habinfo_user_banned" => "Deze Habbo is verbannen dus kunnen we hun informatie niet ophalen.",
@@ -168,8 +168,8 @@ return [
     // Habbo Ticker
     "Latest updates from Habbo Ticker" => "Nieuwste updates van Habbo Ticker",
     // This habbo added more than 5 new badges, 3 new groups and changed their look
-    "changed their motto" => "veranderde hun missie",
-    "changed their look" => "veranderde hun look",
+    "changed their motto" => "veranderde zijn/haar missie",
+    "changed their look" => "veranderde zijn/haar uiterlijk",
     "more than x" => "meer dan %d",
     "new badge(s)" => "nieuwe badge(s)",
     "new group(s)" => "nieuwe groep(en)",
