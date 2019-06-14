@@ -166,6 +166,6 @@ foreach ($data as $country => $d) {
     echo "-- Fetching done\n";
 }
 
-file_put_contents("extracted.json", json_encode($data, JSON_PRETTY_PRINT));
+file_put_contents("extracted.json", json_encode($data));
 
 echo "\nDone!";
