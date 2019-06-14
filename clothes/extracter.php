@@ -102,54 +102,17 @@ function nonStrictXMLParsing($xmlData)
 }
 
 /* Main */
-echo "-- Starting script\n";
-$data = [
-    'com' => [
-        'categories' => [],
-        'clothing' => [],
-    ],
-    'com.br' => [
-        'categories' => [],
-        'clothing' => [],
-    ],
-    'com.tr' => [
-        'categories' => [],
-        'clothing' => [],
-    ],
-    'de' => [
-        'categories' => [],
-        'clothing' => [],
-    ],
-    'es' => [
-        'categories' => [],
-        'clothing' => [],
-    ],
-    'fi' => [
-        'categories' => [],
-        'clothing' => [],
-    ],
-    'fr' => [
-        'categories' => [],
-        'clothing' => [],
-    ],
-    'nl' => [
-        'categories' => [],
-        'clothing' => [],
-    ],
-    'it' => [
-        'categories' => [],
-        'clothing' => [],
-    ]
-];
+echo "- Starting script\n";
+$countries = ['com', 'com.br', 'com.tr', 'de', 'es', 'fi', 'fr', 'nl', 'it'];
 
 $clothingIDs = getClothingIDs();
+foreach ($countries as $country) {
+    echo "- Extracting: .${country}\n";
+    echo "-- Fetching categories for ${country}\n";
+    $data['categories'] = getCategories($country);
 
-foreach ($data as $country => $d) {
-    echo "Fetching categories for ${country}\n";
-    $data[$country]['categories'] = getCategories($country);
 
-
-    echo "Fetching clothing for ${country}\n";
+    echo "-- Fetching clothing for ${country}\n";
     $clothingNames = getClothingNames($country);
 
     foreach ($clothingIDs as $cat => $ids) {
@@ -160,12 +123,12 @@ foreach ($data as $country => $d) {
             } else {
                 $clothing = null;
             }
-            $data[$country]['clothing'][$cat][$id] = $clothing;
+            $data['clothing'][$cat][$id] = $clothing;
         }
     }
-    echo "-- Fetching done\n";
+    echo "--- Fetching done\n";
+    file_put_contents("${country}.extracted.json", json_encode($data));
+    echo "---- Writing to file complete\n\n";
 }
-
-file_put_contents("extracted.json", json_encode($data));
 
 echo "\nDone!";
