@@ -78,6 +78,7 @@ function getClothingNames($country)
                 'slug' => $slug,
                 'name' => (string)$furni->name,
                 'description' => (string)$furni->description,
+                'buyout' => (int)$furni->buyout,
             ];
         }
 
