@@ -8,7 +8,7 @@ return [
     "All badges" => "Alle skilte",
     "Badge top x" => "Skilte top %d", // %d will be replaced by the number
     "Achievements top x" => "Missioner top %d",
-    "Unique badge top x" => "Unique badge top %d", // 'Unique' is chosen as they're not technically 'rares'.
+    "Unique badge top x" => "Unikke skilte top %d", // 'Unique' is chosen as they're not technically 'rares'.
     "Badge owners" => "Skilte ejere",
     "News" => "Nyheder",
     "About" => "Om os",
@@ -41,10 +41,10 @@ return [
     "Birthdays in Habbo." => "Fødselsdage på Habbo.",
     "Do you know anyone?" => "Kender du nogen af dem?",
     "There are no birthdays in this hotel as far as we know?" => "Der er ingen der har fødselsdag på dette hote, udfra hvad vi ved.",
-    "Pick another date" => "Pick another date",
-    "All years" => "All years",
-    "You have supplied an invalid date" => "You have supplied an invalid date",
-    "This date lies in the future and can not be used" => "This date lies in the future and can not be used",
+    "Pick another date" => "Vælg en anden dato",
+    "All years" => "Alle år",
+    "You have supplied an invalid date" => "Dette er ikke en tilladt dato",
+    "This date lies in the future and can not be used" => "Du kan ikke sætte datoen til frem i tiden",
 
     // Habinfo Form
     "Find Habinfo on.." => "Søg efter Habbo",
@@ -117,8 +117,8 @@ return [
     "Go to Groups" => "Se grupper",
     "Go to Rooms" => "Se rum",
     "Go to Photos" => "Se billeder",
-    "Toggle achievements" => "Toggle achievements",
-    "Toggle unique badges" => "Toggle unique badges",
+    "Toggle achievements" => "Toggle missioner",
+    "Toggle unique badges" => "Toggle unikke skilte",
 
     // Maintenance
     "Maintenance.." => "Vedligeholdelse..",
@@ -136,7 +136,7 @@ return [
     "Achievement top x for" => "Missioner top %d for", // "Achievement top x for :hotel:"
     "Last updated" => "Sidst opdateret",
     "Badge top x for" => "Skilte top %d for",
-    "Unique badge top x for" => "Unique badge top %d for",
+    "Unique badge top x for" => "Unikke skilte top %d for",
     "All x badges in" => "Alle %s skilte på", // Leave the %s intact; "All :number: badges in :hotel:"
     "First discovered" => "Først opdaget",
     "Find out which Habbos own a specific badge!" => "Find ud af hvilke Habboer der ejer et bestemt badge!",
