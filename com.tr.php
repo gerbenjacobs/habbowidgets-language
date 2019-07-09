@@ -8,7 +8,7 @@ return [
     "All badges" => "Bütün Rozetler",
     "Badge top x" => "Rozet Top %d", // %d will be replaced by the number
     "Achievements top x" => "Toplam Başarılar Top %d",
-    "Unique badge top x" => "Benzersiz Rozetler Top %d", // 'Unique' is chosen as they're not technically 'rares'.
+    "Unique badge top x" => "Nadir Rozetler Top %d", // 'Unique' is chosen as they're not technically 'rares'.
     "Badge owners" => "Rozet Sahipleri",
     "News" => "Haberler",
     "About" => "Hakkımızda",
@@ -53,14 +53,14 @@ return [
     "Did you know you can also use a Direct URL to get to the Habbo you want to find?" => "Bunu biliyormuydun? Bir Habbo bulmak için direk Link kullanarak bulabilirsin!",
     "Just use the following format" => "Bunu kullan",
     "This hotel does not exist" => "Bu Hotel bulunmakta değil",
-    "You forgot the Habbo name.." => "Habbo Kullanıcıadını unuttun..",
-    "Extracting Habinfo of %s from Habbo.%s" => "%s from Habbo.%s yönlendiriliyorsun", // Leave the %s intact
+    "You forgot the Habbo name.." => "Habbo Kullanıcı adını unuttun..",
+    "Extracting Habinfo of %s from Habbo.%s" => "%s , Habbo.%s yönlendiriliyorsun", // Leave the %s intact
     "Extracting Habinfo of someone from Habbo.%s" => "Herhangi bir Habbonun Habbo.%s Bilgisine yönlendiriliyorsun",
 
     /* -- "Looking for :name: on :hotel:" */
     "Looking for" => "Bunu aramaktayım",
     "someone" => "birisi",
-    "on" => "on",
+    "on" => "-",
     "on_time" => "on", // could be different in languages other than English i.e. Dutch.
     "One moment.." => "Bir dakika..",
     "Something went wrong, we couldn't find that Habbo. Or they are banned.." => "Bir şeyler yanlış gitti.. bu Habboyu bulamadık veyada yasaklandı..",
@@ -71,22 +71,22 @@ return [
     // Habinfo
     "Closed profile, loading might take longer." => "Kapalı Profili olan Habbo Bilgisini öğrenmek biraz zaman alır.",
     "This Habbo is banned. We can not get any new information.." => "Bu Habbo Kullanıcısı yasaklandı yeni bilgi bulunamadık..",
-    "Previous mottos" => "Eski motto",
-    "Previous looks" => "Eski Tarzi",
+    "Previous mottos" => "Eski mottoları",
+    "Previous looks" => "Eski Tarzı",
     "Last online" => "Son oturum açma",
     "Last change" => "Son değişiklik",
-    "Go to profile" => "Profile geç",
+    "Go to profile" => "Habbo Profiline Geç",
     "Closed profile" => "Kapalı Profil",
     "Banned" => "Bu Habbo Banlandı",
-    "About me" => "Hakkımda",
+    "About me" => "Benim Hakkımda",
     /* -- "Created on :date: and last updated :some time ago:" */
-    "Created on" => "Tarıhınde açildi",
+    "Created on" => "Tarihinde Açıldı",
     "and last updated" => "ve en son güncellendi",
     "Friends" => "Arkadaşları",
     "Groups" => "Grupları",
     "Rooms" => "Odaları",
     "Photos" => "Resımlerı",
-    "new" => "new", // Little label on new badges/friends etc. If your word is long (6+ characters), see if you can shorten it
+    "new" => "YENİ", // Little label on new badges/friends etc. If your word is long (6+ characters), see if you can shorten it
     "This Habbo is not in the Habinfo system yet" => "Bu Habbo şuan Habbo sisteminde bulunmakta değil",
     "Show old badges" => "Eski Rozetleri göster",
     "Show old friends" => "Eski Arkadaşları göster",
@@ -109,16 +109,16 @@ return [
     "likes" => "beğeni",
     "Show on Habbo" => "Habboda göster",
     "Who else has this badge?" => "Bu Rozet başka kimde var?",
-    "Removed" => "geri alindi",
+    "Removed" => "Geri alindi",
     "%s has been a Habbo since %s and has %d badges, %d friends, %d groups and %d rooms!" => "%s has been a Habbo since %s and has %d badges, %d friends, %d groups and %d rooms!", // Leave the %s and %d intact
     "Back to top" => "başa dön",
     "Go to Badges" => "Rozetlere git",
     "Go to Friends" => "Arkadaşlara git",
     "Go to Groups" => "Gruplara git",
     "Go to Rooms" => "Odalara git",
-    "Go to Photos" => "Fotolara git",
-    "Toggle achievements" => "Başarıları değiştir",
-    "Toggle unique badges" => "Benzersiz rozetleri değiştir",
+    "Go to Photos" => "Fotoğraflara git",
+    "Toggle achievements" => "Başarımları Göster / Gösterme",
+    "Toggle unique badges" => "Nadir Rozetleri Görüntüle",
 
     // Maintenance
     "Maintenance.." => "Bakım Arası..",
@@ -168,10 +168,10 @@ return [
     "changed their motto" => "Mottosunu değiştirdi",
     "changed their look" => "Kıyafetini değiştirdi",
     "more than x" => "Daha fazla %d",
-    "new badge(s)" => "Yeni Rozetler",
-    "new group(s)" => "Yeni Gruplar",
+    "new badge(s)" => "Yeni Rozet",
+    "new group(s)" => "Yeni Katıldığı Gruplar",
     "new room(s)" => "Yeni Odalar",
-    "new friend(s)" => "Yeni Arkadaşler",
+    "new friend(s)" => "Yeni Arkadaşlar",
     "new photo(s)" => "Yeni Resimler",
     "joined" => "Katıldı", // This habbo joined Habbowidgets
     "added" => "Eklendi", // you can also replace this with "has"
