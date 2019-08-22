@@ -130,6 +130,12 @@ foreach ($countries as $country) {
     echo "--- Fetching done\n";
     file_put_contents("${country}.extracted.json", json_encode($data));
     echo "---- Writing to file complete\n\n";
+
+    // Write out one pretty printed example to easily show changes/diff
+    // Uses Habbo.com as default hotel
+    if ($country == "com") {
+        file_put_contents("${country}.extracted.pretty.json", json_encode($data, JSON_PRETTY_PRINT));
+    }
 }
 
 echo "\nDone!";
