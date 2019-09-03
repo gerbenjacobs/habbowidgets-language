@@ -23,6 +23,18 @@
                 "description": "clothing_halftiedhair desc",
                 "buyout": 0
             },
+            "3847": {
+                "slug": "clothing_r19_longlonghair",
+                "name": "clothing_r19_longlonghair name",
+                "description": "clothing_r19_longlonghair desc",
+                "buyout": 0
+            },
+            "3846": {
+                "slug": "clothing_r19_warlocks",
+                "name": "clothing_r19_warlocks name",
+                "description": "clothing_r19_warlocks desc",
+                "buyout": 0
+            },
             "3841": {
                 "slug": "clothing_longmohawk",
                 "name": "Long Mohawk",
@@ -506,6 +518,12 @@
             "100": null
         },
         "hd": {
+            "3845": {
+                "slug": "clothing_possessedeyes",
+                "name": "clothing_possessedeyes name",
+                "description": "clothing_possessedeyes desc",
+                "buyout": 0
+            },
             "3814": {
                 "slug": "clothing_bohopaint",
                 "name": "Bohemian Facepaint",
@@ -614,6 +632,18 @@
                 "slug": "clothing_r19_teddygown",
                 "name": "Teddy Dressing Gown",
                 "description": "clothing_r19_teddygown desc",
+                "buyout": 0
+            },
+            "3849": {
+                "slug": "clothing_witchrobes",
+                "name": "clothing_witchrobes name",
+                "description": "clothing_witchrobes desc",
+                "buyout": 0
+            },
+            "3848": {
+                "slug": "clothing_witchrobes",
+                "name": "clothing_witchrobes name",
+                "description": "clothing_witchrobes desc",
                 "buyout": 0
             },
             "3840": {
@@ -1702,6 +1732,12 @@
                 "slug": "clothing_r19_teddygown",
                 "name": "Teddy Dressing Gown",
                 "description": "clothing_r19_teddygown desc",
+                "buyout": 0
+            },
+            "3843": {
+                "slug": "clothing_nt_witchhat2",
+                "name": "clothing_nt_witchhat2 name",
+                "description": "clothing_nt_witchhat2 desc",
                 "buyout": 0
             },
             "3823": {
@@ -3133,6 +3169,12 @@
                 "slug": "clothing_bookbag",
                 "name": "Book Bag",
                 "description": "clothing_bookbag desc",
+                "buyout": 0
+            },
+            "3844": {
+                "slug": "clothing_r19_demonwings",
+                "name": "clothing_r19_demonwings name",
+                "description": "clothing_r19_demonwings desc",
                 "buyout": 0
             },
             "3828": {
