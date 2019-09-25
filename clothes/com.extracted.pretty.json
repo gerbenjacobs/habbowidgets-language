@@ -25,13 +25,13 @@
             },
             "3847": {
                 "slug": "clothing_r19_longlonghair",
-                "name": "clothing_r19_longlonghair name",
+                "name": "Witch Hair",
                 "description": "clothing_r19_longlonghair desc",
                 "buyout": 0
             },
             "3846": {
                 "slug": "clothing_r19_warlocks",
-                "name": "clothing_r19_warlocks name",
+                "name": "Warlock Locks",
                 "description": "clothing_r19_warlocks desc",
                 "buyout": 0
             },
@@ -520,7 +520,7 @@
         "hd": {
             "3845": {
                 "slug": "clothing_possessedeyes",
-                "name": "clothing_possessedeyes name",
+                "name": "Possessed Eyes",
                 "description": "clothing_possessedeyes desc",
                 "buyout": 0
             },
@@ -636,13 +636,13 @@
             },
             "3849": {
                 "slug": "clothing_witchrobes",
-                "name": "clothing_witchrobes name",
+                "name": "Witch Robes",
                 "description": "clothing_witchrobes desc",
                 "buyout": 0
             },
             "3848": {
                 "slug": "clothing_witchrobes",
-                "name": "clothing_witchrobes name",
+                "name": "Witch Robes",
                 "description": "clothing_witchrobes desc",
                 "buyout": 0
             },
@@ -1736,7 +1736,7 @@
             },
             "3843": {
                 "slug": "clothing_nt_witchhat2",
-                "name": "clothing_nt_witchhat2 name",
+                "name": "Witch Hat",
                 "description": "clothing_nt_witchhat2 desc",
                 "buyout": 0
             },
@@ -3173,7 +3173,7 @@
             },
             "3844": {
                 "slug": "clothing_r19_demonwings",
-                "name": "clothing_r19_demonwings name",
+                "name": "Demon Lord Wings",
                 "description": "clothing_r19_demonwings desc",
                 "buyout": 0
             },
