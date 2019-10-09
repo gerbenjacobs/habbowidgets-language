@@ -522,7 +522,7 @@
                 "slug": "clothing_possessedeyes",
                 "name": "Possessed Eyes",
                 "description": "clothing_possessedeyes desc",
-                "buyout": 0
+                "buyout": 1
             },
             "3814": {
                 "slug": "clothing_bohopaint",
@@ -638,13 +638,13 @@
                 "slug": "clothing_witchrobes",
                 "name": "Witch Robes",
                 "description": "clothing_witchrobes desc",
-                "buyout": 0
+                "buyout": 1
             },
             "3848": {
                 "slug": "clothing_witchrobes",
                 "name": "Witch Robes",
                 "description": "clothing_witchrobes desc",
-                "buyout": 0
+                "buyout": 1
             },
             "3840": {
                 "slug": "clothing_nt_zebratop",
