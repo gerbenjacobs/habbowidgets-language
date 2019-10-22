@@ -17,6 +17,30 @@
     "clothing": {
         "hr": {
             "9534": null,
+            "3871": {
+                "slug": "clothing_shortfluffy",
+                "name": "Messy Tufts",
+                "description": "clothing_shortfluffy desc",
+                "buyout": 0
+            },
+            "3870": {
+                "slug": "clothing_nt_wavy3",
+                "name": "clothing_nt_wavy3 name",
+                "description": "clothing_nt_wavy3 desc",
+                "buyout": 0
+            },
+            "3866": {
+                "slug": "clothing_r19_elisa",
+                "name": "clothing_r19_elisa name",
+                "description": "clothing_r19_elisa desc",
+                "buyout": 0
+            },
+            "3860": {
+                "slug": "clothing_r19_frosted",
+                "name": "clothing_r19_frosted name",
+                "description": "clothing_r19_frosted desc",
+                "buyout": 0
+            },
             "3852": {
                 "slug": "clothing_halftiedhair",
                 "name": "Half Tied Hair",
@@ -622,6 +646,24 @@
             "180": null
         },
         "ch": {
+            "3881": {
+                "slug": "clothing_nt_hitchedjumper",
+                "name": "clothing_nt_hitchedjumper name",
+                "description": "clothing_nt_hitchedjumper desc",
+                "buyout": 0
+            },
+            "3880": {
+                "slug": "clothing_nt_hitchedjumper",
+                "name": "clothing_nt_hitchedjumper name",
+                "description": "clothing_nt_hitchedjumper desc",
+                "buyout": 0
+            },
+            "3868": {
+                "slug": "clothing_r19_autumndress",
+                "name": "Autumnal Dress",
+                "description": "clothing_r19_autumndress desc",
+                "buyout": 0
+            },
             "3854": {
                 "slug": "clothing_r19_teddygown",
                 "name": "Teddy Dressing Gown",
@@ -1357,6 +1399,12 @@
             "210": null
         },
         "lg": {
+            "3864": {
+                "slug": "clothing_nt_snowmansuit",
+                "name": "clothing_nt_snowmansuit name",
+                "description": "clothing_nt_snowmansuit desc",
+                "buyout": 0
+            },
             "3842": {
                 "slug": "clothing_layeredlongskirt",
                 "name": "Layered Long Skirt",
@@ -1728,6 +1776,24 @@
             "290": null
         },
         "ha": {
+            "3862": {
+                "slug": "clothing_nt_snowmansuit",
+                "name": "clothing_nt_snowmansuit name",
+                "description": "clothing_nt_snowmansuit desc",
+                "buyout": 0
+            },
+            "3859": {
+                "slug": "clothing_icecrown",
+                "name": "clothing_icecrown name",
+                "description": "clothing_icecrown desc",
+                "buyout": 0
+            },
+            "3857": {
+                "slug": "clothing_nt_pompomhat",
+                "name": "clothing_nt_pompomhat name",
+                "description": "clothing_nt_pompomhat desc",
+                "buyout": 0
+            },
             "3855": {
                 "slug": "clothing_r19_teddygown",
                 "name": "Teddy Dressing Gown",
@@ -2550,6 +2616,30 @@
             "1001": null
         },
         "he": {
+            "3879": {
+                "slug": "clothing_nt_habpods",
+                "name": "clothing_nt_habpods name",
+                "description": "clothing_nt_habpods desc",
+                "buyout": 0
+            },
+            "3873": {
+                "slug": "clothing_r19_puppyacc",
+                "name": "Puppy Accessories",
+                "description": "clothing_r19_puppyacc desc",
+                "buyout": 0
+            },
+            "3869": {
+                "slug": "clothing_r19_autumnhairpiece",
+                "name": "Autumnal Headpiece",
+                "description": "clothing_r19_autumnhairpiece desc",
+                "buyout": 0
+            },
+            "3858": {
+                "slug": "clothing_bearmuffs",
+                "name": "clothing_bearmuffs name",
+                "description": "clothing_bearmuffs desc",
+                "buyout": 0
+            },
             "3833": {
                 "slug": "clothing_nt_leafearrings",
                 "name": "Leafy Earrings (NOT tradeable)",
@@ -3007,6 +3097,12 @@
             "1401": null
         },
         "fa": {
+            "3865": {
+                "slug": "clothing_frostedbeard",
+                "name": "clothing_frostedbeard name",
+                "description": "clothing_frostedbeard desc",
+                "buyout": 0
+            },
             "3832": {
                 "slug": "clothing_butterflymask",
                 "name": "Flutterby Mask",
@@ -3165,6 +3261,24 @@
             "1201": null
         },
         "ca": {
+            "3882": {
+                "slug": "clothing_shortscarf",
+                "name": "Neck Scarf",
+                "description": "clothing_shortscarf desc",
+                "buyout": 0
+            },
+            "3876": {
+                "slug": "clothing_nt_microbag",
+                "name": "clothing_nt_microbag name",
+                "description": "clothing_nt_microbag desc",
+                "buyout": 0
+            },
+            "3861": {
+                "slug": "clothing_nt_pompombag",
+                "name": "clothing_nt_pompombag name",
+                "description": "clothing_nt_pompombag desc",
+                "buyout": 0
+            },
             "3856": {
                 "slug": "clothing_bookbag",
                 "name": "Book Bag",
@@ -3350,6 +3464,12 @@
             "1801": null
         },
         "wa": {
+            "3872": {
+                "slug": "clothing_r19_puppyacc",
+                "name": "Puppy Accessories",
+                "description": "clothing_r19_puppyacc desc",
+                "buyout": 0
+            },
             "3798": {
                 "slug": "clothing_waistbag",
                 "name": "Festival Bum Bag",
@@ -3418,6 +3538,42 @@
         "cc": {
             "9865": null,
             "9563": null,
+            "3878": {
+                "slug": "clothing_flaredtrench",
+                "name": "Flared Trench Coat",
+                "description": "clothing_flaredtrench desc",
+                "buyout": 0
+            },
+            "3877": {
+                "slug": "clothing_flaredtrench",
+                "name": "Flared Trench Coat",
+                "description": "clothing_flaredtrench desc",
+                "buyout": 0
+            },
+            "3875": {
+                "slug": "clothing_nt_leatherhoodie",
+                "name": "clothing_nt_leatherhoodie name",
+                "description": "clothing_nt_leatherhoodie desc",
+                "buyout": 0
+            },
+            "3874": {
+                "slug": "clothing_nt_leatherhoodie",
+                "name": "clothing_nt_leatherhoodie name",
+                "description": "clothing_nt_leatherhoodie desc",
+                "buyout": 0
+            },
+            "3867": {
+                "slug": "clothing_nordicscarf",
+                "name": "clothing_nordicscarf name",
+                "description": "clothing_nordicscarf desc",
+                "buyout": 0
+            },
+            "3863": {
+                "slug": "clothing_nt_snowmansuit",
+                "name": "clothing_nt_snowmansuit name",
+                "description": "clothing_nt_snowmansuit desc",
+                "buyout": 0
+            },
             "3851": {
                 "slug": "clothing_r19_raincoat",
                 "name": "Impermeable Raincoat",
