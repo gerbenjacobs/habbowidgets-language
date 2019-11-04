@@ -25,7 +25,7 @@
             },
             "3870": {
                 "slug": "clothing_nt_wavy3",
-                "name": "clothing_nt_wavy3 name",
+                "name": "Long Wavy Curls (non-tradeable)",
                 "description": "clothing_nt_wavy3 desc",
                 "buyout": 0
             },
@@ -648,13 +648,13 @@
         "ch": {
             "3881": {
                 "slug": "clothing_nt_hitchedjumper",
-                "name": "clothing_nt_hitchedjumper name",
+                "name": "Hitched Wooly Jumper (non-tradeable)",
                 "description": "clothing_nt_hitchedjumper desc",
                 "buyout": 0
             },
             "3880": {
                 "slug": "clothing_nt_hitchedjumper",
-                "name": "clothing_nt_hitchedjumper name",
+                "name": "Hitched Wooly Jumper (non-tradeable)",
                 "description": "clothing_nt_hitchedjumper desc",
                 "buyout": 0
             },
@@ -2618,13 +2618,13 @@
         "he": {
             "3879": {
                 "slug": "clothing_nt_habpods",
-                "name": "clothing_nt_habpods name",
+                "name": "Wireless Earphones (non-tradeable)",
                 "description": "clothing_nt_habpods desc",
                 "buyout": 0
             },
             "3873": {
                 "slug": "clothing_r19_puppyacc",
-                "name": "Puppy Accessories",
+                "name": "Puppy Accesories",
                 "description": "clothing_r19_puppyacc desc",
                 "buyout": 0
             },
@@ -3269,7 +3269,7 @@
             },
             "3876": {
                 "slug": "clothing_nt_microbag",
-                "name": "clothing_nt_microbag name",
+                "name": "Micro Bag (non-tradeable)",
                 "description": "clothing_nt_microbag desc",
                 "buyout": 0
             },
@@ -3466,7 +3466,7 @@
         "wa": {
             "3872": {
                 "slug": "clothing_r19_puppyacc",
-                "name": "Puppy Accessories",
+                "name": "Puppy Accesories",
                 "description": "clothing_r19_puppyacc desc",
                 "buyout": 0
             },
@@ -3552,13 +3552,13 @@
             },
             "3875": {
                 "slug": "clothing_nt_leatherhoodie",
-                "name": "clothing_nt_leatherhoodie name",
+                "name": "Leather Hoodie (non-tradeable)",
                 "description": "clothing_nt_leatherhoodie desc",
                 "buyout": 0
             },
             "3874": {
                 "slug": "clothing_nt_leatherhoodie",
-                "name": "clothing_nt_leatherhoodie name",
+                "name": "Leather Hoodie (non-tradeable)",
                 "description": "clothing_nt_leatherhoodie desc",
                 "buyout": 0
             },
