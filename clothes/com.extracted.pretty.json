@@ -21,7 +21,7 @@
                 "slug": "clothing_shortfluffy",
                 "name": "Messy Tufts",
                 "description": "clothing_shortfluffy desc",
-                "buyout": 0
+                "buyout": 1
             },
             "3870": {
                 "slug": "clothing_nt_wavy3",
@@ -3265,7 +3265,7 @@
                 "slug": "clothing_shortscarf",
                 "name": "Neck Scarf",
                 "description": "clothing_shortscarf desc",
-                "buyout": 0
+                "buyout": 1
             },
             "3876": {
                 "slug": "clothing_nt_microbag",
@@ -3542,13 +3542,13 @@
                 "slug": "clothing_flaredtrench",
                 "name": "Flared Trench Coat",
                 "description": "clothing_flaredtrench desc",
-                "buyout": 0
+                "buyout": 1
             },
             "3877": {
                 "slug": "clothing_flaredtrench",
                 "name": "Flared Trench Coat",
                 "description": "clothing_flaredtrench desc",
-                "buyout": 0
+                "buyout": 1
             },
             "3875": {
                 "slug": "clothing_nt_leatherhoodie",
