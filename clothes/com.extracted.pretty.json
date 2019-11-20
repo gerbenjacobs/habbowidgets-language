@@ -31,13 +31,13 @@
             },
             "3866": {
                 "slug": "clothing_r19_elisa",
-                "name": "clothing_r19_elisa name",
+                "name": "Polar Braid",
                 "description": "clothing_r19_elisa desc",
                 "buyout": 0
             },
             "3860": {
                 "slug": "clothing_r19_frosted",
-                "name": "clothing_r19_frosted name",
+                "name": "Forward Facing Spikes",
                 "description": "clothing_r19_frosted desc",
                 "buyout": 0
             },
@@ -1401,7 +1401,7 @@
         "lg": {
             "3864": {
                 "slug": "clothing_nt_snowmansuit",
-                "name": "clothing_nt_snowmansuit name",
+                "name": "Snowman Suit (non-tradeable)",
                 "description": "clothing_nt_snowmansuit desc",
                 "buyout": 0
             },
@@ -1778,19 +1778,19 @@
         "ha": {
             "3862": {
                 "slug": "clothing_nt_snowmansuit",
-                "name": "clothing_nt_snowmansuit name",
+                "name": "Snowman Suit (non-tradeable)",
                 "description": "clothing_nt_snowmansuit desc",
                 "buyout": 0
             },
             "3859": {
                 "slug": "clothing_icecrown",
-                "name": "clothing_icecrown name",
+                "name": "Crown of Frost",
                 "description": "clothing_icecrown desc",
                 "buyout": 0
             },
             "3857": {
                 "slug": "clothing_nt_pompomhat",
-                "name": "clothing_nt_pompomhat name",
+                "name": "Pompom Beanie (non-tradeable)",
                 "description": "clothing_nt_pompomhat desc",
                 "buyout": 0
             },
@@ -2636,7 +2636,7 @@
             },
             "3858": {
                 "slug": "clothing_bearmuffs",
-                "name": "clothing_bearmuffs name",
+                "name": "Bearmuffs",
                 "description": "clothing_bearmuffs desc",
                 "buyout": 0
             },
@@ -3099,7 +3099,7 @@
         "fa": {
             "3865": {
                 "slug": "clothing_frostedbeard",
-                "name": "clothing_frostedbeard name",
+                "name": "Beard of Icicles",
                 "description": "clothing_frostedbeard desc",
                 "buyout": 0
             },
@@ -3275,7 +3275,7 @@
             },
             "3861": {
                 "slug": "clothing_nt_pompombag",
-                "name": "clothing_nt_pompombag name",
+                "name": "Pompom Bag (non-tradeable)",
                 "description": "clothing_nt_pompombag desc",
                 "buyout": 0
             },
@@ -3564,13 +3564,13 @@
             },
             "3867": {
                 "slug": "clothing_nordicscarf",
-                "name": "clothing_nordicscarf name",
+                "name": "Regular Sized Scarf",
                 "description": "clothing_nordicscarf desc",
                 "buyout": 0
             },
             "3863": {
                 "slug": "clothing_nt_snowmansuit",
-                "name": "clothing_nt_snowmansuit name",
+                "name": "Snowman Suit (non-tradeable)",
                 "description": "clothing_nt_snowmansuit desc",
                 "buyout": 0
             },
