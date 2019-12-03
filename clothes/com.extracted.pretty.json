@@ -2638,7 +2638,7 @@
                 "slug": "clothing_bearmuffs",
                 "name": "Bearmuffs",
                 "description": "clothing_bearmuffs desc",
-                "buyout": 0
+                "buyout": 1
             },
             "3833": {
                 "slug": "clothing_nt_leafearrings",
@@ -3101,7 +3101,7 @@
                 "slug": "clothing_frostedbeard",
                 "name": "Beard of Icicles",
                 "description": "clothing_frostedbeard desc",
-                "buyout": 0
+                "buyout": 1
             },
             "3832": {
                 "slug": "clothing_butterflymask",
