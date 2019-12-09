@@ -2616,6 +2616,54 @@
             "1001": null
         },
         "he": {
+            "3912": {
+                "slug": "clothing_goldpack4",
+                "name": "clothing_goldpack4 name",
+                "description": "clothing_goldpack4 desc",
+                "buyout": 0
+            },
+            "3894": {
+                "slug": "clothing_rat",
+                "name": "Rat Accessories",
+                "description": "clothing_rat desc",
+                "buyout": 0
+            },
+            "3893": {
+                "slug": "clothing_goldpack4",
+                "name": "clothing_goldpack4 name",
+                "description": "clothing_goldpack4 desc",
+                "buyout": 0
+            },
+            "3892": {
+                "slug": "clothing_goldpack4",
+                "name": "clothing_goldpack4 name",
+                "description": "clothing_goldpack4 desc",
+                "buyout": 0
+            },
+            "3891": {
+                "slug": "clothing_goldpack4",
+                "name": "clothing_goldpack4 name",
+                "description": "clothing_goldpack4 desc",
+                "buyout": 0
+            },
+            "3890": {
+                "slug": "clothing_goldpack4",
+                "name": "clothing_goldpack4 name",
+                "description": "clothing_goldpack4 desc",
+                "buyout": 0
+            },
+            "3889": {
+                "slug": "clothing_goldpack4",
+                "name": "clothing_goldpack4 name",
+                "description": "clothing_goldpack4 desc",
+                "buyout": 0
+            },
+            "3884": {
+                "slug": "clothing_r20_kittyearphones",
+                "name": "Kitty Headphones",
+                "description": "clothing_r20_kittyearphones desc",
+                "buyout": 0
+            },
             "3879": {
                 "slug": "clothing_nt_habpods",
                 "name": "Wireless Earphones (non-tradeable)",
@@ -2956,6 +3004,18 @@
             "1601": null
         },
         "ea": {
+            "3887": {
+                "slug": "clothing_goldpack4",
+                "name": "clothing_goldpack4 name",
+                "description": "clothing_goldpack4 desc",
+                "buyout": 0
+            },
+            "3886": {
+                "slug": "clothing_goldpack4",
+                "name": "clothing_goldpack4 name",
+                "description": "clothing_goldpack4 desc",
+                "buyout": 0
+            },
             "3822": {
                 "slug": "clothing_leafmask",
                 "name": "Leafy Mask",
@@ -3097,6 +3157,12 @@
             "1401": null
         },
         "fa": {
+            "3888": {
+                "slug": "clothing_goldpack4",
+                "name": "clothing_goldpack4 name",
+                "description": "clothing_goldpack4 desc",
+                "buyout": 0
+            },
             "3865": {
                 "slug": "clothing_frostedbeard",
                 "name": "Beard of Icicles",
@@ -3261,6 +3327,18 @@
             "1201": null
         },
         "ca": {
+            "3885": {
+                "slug": "clothing_heartnecklace",
+                "name": "Diamond Heart Necklace",
+                "description": "clothing_heartnecklace desc",
+                "buyout": 0
+            },
+            "3883": {
+                "slug": "clothing_r20_galaxybackpack",
+                "name": "Starry Night Backpack",
+                "description": "clothing_r20_galaxybackpack desc",
+                "buyout": 0
+            },
             "3882": {
                 "slug": "clothing_shortscarf",
                 "name": "Neck Scarf",
@@ -3464,6 +3542,12 @@
             "1801": null
         },
         "wa": {
+            "3895": {
+                "slug": "clothing_rat",
+                "name": "Rat Accessories",
+                "description": "clothing_rat desc",
+                "buyout": 0
+            },
             "3872": {
                 "slug": "clothing_r19_puppyacc",
                 "name": "Puppy Accesories",
@@ -3538,6 +3622,102 @@
         "cc": {
             "9865": null,
             "9563": null,
+            "3911": {
+                "slug": "clothing_r19_sparklywaist8",
+                "name": "clothing_r19_sparklywaist8 name",
+                "description": "clothing_r19_sparklywaist8 desc",
+                "buyout": 0
+            },
+            "3910": {
+                "slug": "clothing_r19_sparklywaist7",
+                "name": "clothing_r19_sparklywaist7 name",
+                "description": "clothing_r19_sparklywaist7 desc",
+                "buyout": 0
+            },
+            "3909": {
+                "slug": "clothing_r19_sparklywaist6",
+                "name": "clothing_r19_sparklywaist6 name",
+                "description": "clothing_r19_sparklywaist6 desc",
+                "buyout": 0
+            },
+            "3908": {
+                "slug": "clothing_r19_sparklywaist5",
+                "name": "clothing_r19_sparklywaist5 name",
+                "description": "clothing_r19_sparklywaist5 desc",
+                "buyout": 0
+            },
+            "3907": {
+                "slug": "clothing_r19_sparklywaist4",
+                "name": "clothing_r19_sparklywaist4 name",
+                "description": "clothing_r19_sparklywaist4 desc",
+                "buyout": 0
+            },
+            "3906": {
+                "slug": "clothing_r19_sparklywaist3",
+                "name": "clothing_r19_sparklywaist3 name",
+                "description": "clothing_r19_sparklywaist3 desc",
+                "buyout": 0
+            },
+            "3905": {
+                "slug": "clothing_r19_sparklywaist2",
+                "name": "clothing_r19_sparklywaist2 name",
+                "description": "clothing_r19_sparklywaist2 desc",
+                "buyout": 0
+            },
+            "3904": {
+                "slug": "clothing_r19_sparklywaist1",
+                "name": "clothing_r19_sparklywaist1 name",
+                "description": "clothing_r19_sparklywaist1 desc",
+                "buyout": 0
+            },
+            "3903": {
+                "slug": "clothing_r19_sparklywaist8",
+                "name": "clothing_r19_sparklywaist8 name",
+                "description": "clothing_r19_sparklywaist8 desc",
+                "buyout": 0
+            },
+            "3902": {
+                "slug": "clothing_r19_sparklywaist7",
+                "name": "clothing_r19_sparklywaist7 name",
+                "description": "clothing_r19_sparklywaist7 desc",
+                "buyout": 0
+            },
+            "3901": {
+                "slug": "clothing_r19_sparklywaist6",
+                "name": "clothing_r19_sparklywaist6 name",
+                "description": "clothing_r19_sparklywaist6 desc",
+                "buyout": 0
+            },
+            "3900": {
+                "slug": "clothing_r19_sparklywaist5",
+                "name": "clothing_r19_sparklywaist5 name",
+                "description": "clothing_r19_sparklywaist5 desc",
+                "buyout": 0
+            },
+            "3899": {
+                "slug": "clothing_r19_sparklywaist4",
+                "name": "clothing_r19_sparklywaist4 name",
+                "description": "clothing_r19_sparklywaist4 desc",
+                "buyout": 0
+            },
+            "3898": {
+                "slug": "clothing_r19_sparklywaist3",
+                "name": "clothing_r19_sparklywaist3 name",
+                "description": "clothing_r19_sparklywaist3 desc",
+                "buyout": 0
+            },
+            "3897": {
+                "slug": "clothing_r19_sparklywaist2",
+                "name": "clothing_r19_sparklywaist2 name",
+                "description": "clothing_r19_sparklywaist2 desc",
+                "buyout": 0
+            },
+            "3896": {
+                "slug": "clothing_r19_sparklywaist1",
+                "name": "clothing_r19_sparklywaist1 name",
+                "description": "clothing_r19_sparklywaist1 desc",
+                "buyout": 0
+            },
             "3878": {
                 "slug": "clothing_flaredtrench",
                 "name": "Flared Trench Coat",
