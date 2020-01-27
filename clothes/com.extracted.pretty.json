@@ -2626,7 +2626,7 @@
                 "slug": "clothing_rat",
                 "name": "Rat Accessories",
                 "description": "clothing_rat desc",
-                "buyout": 0
+                "buyout": 1
             },
             "3893": {
                 "slug": "clothing_goldpack4",
@@ -3546,7 +3546,7 @@
                 "slug": "clothing_rat",
                 "name": "Rat Accessories",
                 "description": "clothing_rat desc",
-                "buyout": 0
+                "buyout": 1
             },
             "3872": {
                 "slug": "clothing_r19_puppyacc",
