@@ -23,6 +23,18 @@
                 "description": "clothing_r20_quinn desc",
                 "buyout": 0
             },
+            "3926": {
+                "slug": "clothing_sportshair",
+                "name": "clothing_sportshair name",
+                "description": "clothing_sportshair desc",
+                "buyout": 0
+            },
+            "3920": {
+                "slug": "clothing_r20_ponytailcap",
+                "name": "clothing_r20_ponytailcap name",
+                "description": "clothing_r20_ponytailcap desc",
+                "buyout": 0
+            },
             "3871": {
                 "slug": "clothing_shortfluffy",
                 "name": "Messy Tufts",
@@ -674,6 +686,24 @@
                 "slug": "clothing_chocochefoutfit",
                 "name": "Chef Overalls",
                 "description": "clothing_chocochefoutfit desc",
+                "buyout": 0
+            },
+            "3923": {
+                "slug": "clothing_r20_bunnyoutfit",
+                "name": "clothing_r20_bunnyoutfit name",
+                "description": "clothing_r20_bunnyoutfit desc",
+                "buyout": 0
+            },
+            "3914": {
+                "slug": "clothing_yogatop",
+                "name": "clothing_yogatop name",
+                "description": "clothing_yogatop desc",
+                "buyout": 0
+            },
+            "3913": {
+                "slug": "clothing_yogatop",
+                "name": "clothing_yogatop name",
+                "description": "clothing_yogatop desc",
                 "buyout": 0
             },
             "3881": {
@@ -1435,6 +1465,18 @@
                 "description": "clothing_chocochefoutfit desc",
                 "buyout": 0
             },
+            "3924": {
+                "slug": "clothing_r20_bunnyoutfit",
+                "name": "clothing_r20_bunnyoutfit name",
+                "description": "clothing_r20_bunnyoutfit desc",
+                "buyout": 0
+            },
+            "3915": {
+                "slug": "clothing_nt_yogapants",
+                "name": "clothing_nt_yogapants name",
+                "description": "clothing_nt_yogapants desc",
+                "buyout": 0
+            },
             "3864": {
                 "slug": "clothing_nt_snowmansuit",
                 "name": "Snowman Suit (non-tradeable)",
@@ -1816,6 +1858,18 @@
                 "slug": "clothing_chocochefoutfit",
                 "name": "Chef Overalls",
                 "description": "clothing_chocochefoutfit desc",
+                "buyout": 0
+            },
+            "3929": {
+                "slug": "clothing_mysticcrown",
+                "name": "clothing_mysticcrown name",
+                "description": "clothing_mysticcrown desc",
+                "buyout": 0
+            },
+            "3922": {
+                "slug": "clothing_r20_bunnyoutfit",
+                "name": "clothing_r20_bunnyoutfit name",
+                "description": "clothing_r20_bunnyoutfit desc",
                 "buyout": 0
             },
             "3862": {
@@ -2658,6 +2712,12 @@
             "1001": null
         },
         "he": {
+            "3918": {
+                "slug": "clothing_rainbowegg",
+                "name": "clothing_rainbowegg name",
+                "description": "clothing_rainbowegg desc",
+                "buyout": 0
+            },
             "3912": {
                 "slug": "clothing_goldpack4",
                 "name": "Golden Accessory Pack v.5",
@@ -3046,6 +3106,12 @@
             "1601": null
         },
         "ea": {
+            "3925": {
+                "slug": "clothing_sportsshade",
+                "name": "clothing_sportsshade name",
+                "description": "clothing_sportsshade desc",
+                "buyout": 0
+            },
             "3887": {
                 "slug": "clothing_goldpack4",
                 "name": "Golden Accessory Pack v.5",
@@ -3369,6 +3435,36 @@
             "1201": null
         },
         "ca": {
+            "3938": {
+                "slug": "clothing_c20_goldheartbp",
+                "name": "Gold Heart Backpack",
+                "description": "clothing_c20_goldheartbp desc",
+                "buyout": 0
+            },
+            "3937": {
+                "slug": "clothing_c20_heartbackpack",
+                "name": "Heart Backpack",
+                "description": "clothing_c20_heartbackpack desc",
+                "buyout": 0
+            },
+            "3921": {
+                "slug": "clothing_nt_explorersash",
+                "name": "clothing_nt_explorersash name",
+                "description": "clothing_nt_explorersash desc",
+                "buyout": 0
+            },
+            "3919": {
+                "slug": "clothing_nt_binoculars",
+                "name": "clothing_nt_binoculars name",
+                "description": "clothing_nt_binoculars desc",
+                "buyout": 0
+            },
+            "3916": {
+                "slug": "clothing_campingbackpack",
+                "name": "clothing_campingbackpack name",
+                "description": "clothing_campingbackpack desc",
+                "buyout": 0
+            },
             "3885": {
                 "slug": "clothing_heartnecklace",
                 "name": "Diamond Heart Necklace",
@@ -3664,6 +3760,24 @@
         "cc": {
             "9865": null,
             "9563": null,
+            "3928": {
+                "slug": "clothing_mysticrobes",
+                "name": "clothing_mysticrobes name",
+                "description": "clothing_mysticrobes desc",
+                "buyout": 0
+            },
+            "3927": {
+                "slug": "clothing_mysticrobes",
+                "name": "clothing_mysticrobes name",
+                "description": "clothing_mysticrobes desc",
+                "buyout": 0
+            },
+            "3917": {
+                "slug": "clothing_nt_puffyvest",
+                "name": "clothing_nt_puffyvest name",
+                "description": "clothing_nt_puffyvest desc",
+                "buyout": 0
+            },
             "3911": {
                 "slug": "clothing_r19_sparklywaist8",
                 "name": "Gold Waistcoat",
