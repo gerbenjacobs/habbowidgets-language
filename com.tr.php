@@ -25,35 +25,35 @@ return [
     // Landing page
     "What's your Habbo name?" => "Habbo Kullanıcı adın ney?",
     /* -- Try to add the <br> at around 70 characters, so the next part goes on a new line */
-    "landing_page_info" => "Tüm Habbolar hakkında daha fazla bilgi alabilirsin.<br>Mesela Personeller başka Habbolar veya Arkadaşınların Hakkında!",
+    "landing_page_info" => "Tüm Habbolar hakkında daha fazla bilgi alabilirsin.<br>Mesela Personeller diğer Habbolar veya Arkadaşınların Hakkında!",
 
     // General
     "Habbo" => "Habbo",
     "Hotel" => "Hotel",
-    "Habbo name" => "Habbo Kullanıcı Adın",
+    "Habbo name" => "Habbo Kullanıcı Adı",
     "Oops.." => "Oops..",
-    "from" => "burdan", // "Viewing page of :habbo: from :hotel:"
-    "View Habinfo" => " Habbo Bilgisini ziyaret",
-    "This hotel does not exist, redirecting you.." => "Bu otel bulunmakta değil başka yere yönlendiriyorsun..",
+    "from" => "buradan", // "Viewing page of :habbo: from :hotel:"
+    "View Habinfo" => " Habbo Detaylarını görüntüle",
+    "This hotel does not exist, redirecting you.." => "Bu otel henüz bulunmamakta, başka yere yönlendiriliyorsun..",
 
     // [habbo] Birthdays
     /* -- "Birthdays in Habbo.:hotel:" */
-    "Birthdays in Habbo." => "Habboda doğum günüleri.",
-    "Do you know anyone?" => "Bunlardan birini tanıyormusun?",
-    "There are no birthdays in this hotel as far as we know?" => "Bu otelde bugünün doğum günü olanı bilmiyorsa ya sen?",
+    "Birthdays in Habbo." => "Habboların doğum günleri.",
+    "Do you know anyone?" => "Bunlardan birini tanıyor musun?",
+    "There are no birthdays in this hotel as far as we know?" => "Bildiğimiz kadarıyla bu otelde henüz doğum günü bulunmuyor.",
     "Pick another date" => "Başka bir tarih seç",
-    "All years" => "Bütün Yıllar",
-    "You have supplied an invalid date" => "Geçersiz bir tarih girdiniz",
-    "This date lies in the future and can not be used" => "Bu tarih gelecekte yatar ve kullanılamaz",
+    "All years" => "Tüm Yıllar",
+    "You have supplied an invalid date" => "Geçerli olmayan bir tarih girdiniz",
+    "This date lies in the future and can not be used" => "Bu tarih gelecek bir tarih olduğundan kullanılamaz",
 
     // Habinfo Form
     "Find Habinfo on.." => "Habinfoyu buradan bulabilirsin..",
     "Find" => "Bul", // Button on the Habinfo form
     "Tip" => "İpucu",
-    "Did you know you can also use a Direct URL to get to the Habbo you want to find?" => "Bunu biliyormuydun? Bir Habbo bulmak için direk Link kullanarak bulabilirsin!",
-    "Just use the following format" => "Bunu kullan",
-    "This hotel does not exist" => "Bu Hotel bulunmakta değil",
-    "You forgot the Habbo name.." => "Habbo Kullanıcı adını unuttun..",
+    "Did you know you can also use a Direct URL to get to the Habbo you want to find?" => "Bunu biliyor muydun? Bir Habboyu direkt Link kullanarak bulabilirsin!",
+    "Just use the following format" => "Yalnızca aşağıdaki formatı kullanınız",
+    "This hotel does not exist" => "Bu Hotel henüz bulunmamakta",
+    "You forgot the Habbo name.." => "Habbo adını girmeyi unuttun..",
     "Extracting Habinfo of %s from Habbo.%s" => "%s , Habbo.%s yönlendiriliyorsun", // Leave the %s intact
     "Extracting Habinfo of someone from Habbo.%s" => "Herhangi bir Habbonun Habbo.%s Bilgisine yönlendiriliyorsun",
 
@@ -63,17 +63,17 @@ return [
     "on" => "-",
     "on_time" => "on", // could be different in languages other than English i.e. Dutch.
     "One moment.." => "Bir dakika..",
-    "Something went wrong, we couldn't find that Habbo. Or they are banned.." => "Bir şeyler yanlış gitti.. bu Habboyu bulamadık veyada yasaklandı..",
+    "Something went wrong, we couldn't find that Habbo. Or they are banned.." => "Bir şeyler yanlış gitti.. bu Habboyu bulamadık veya kuullanıcı yasaklandı..",
     "Return to the Habinfo widget" => "Habinfo araçına geri dön",
     "Visit Habinfo history" => "Habboinfo Hikayesini ziyaret",
-    "habinfo_user_banned" => "Bu Habbo Kullanıcısı yasaklandı bu yüzden hic bir bilgi bulamıyoruz.",
+    "habinfo_user_banned" => "Bu Habbo Kullanıcısı yasaklandı bu yüzden hiçbir bilgi bulamıyoruz.",
 
     // Habinfo
     "Closed profile, loading might take longer." => "Kapalı Profili olan Habbo Bilgisini öğrenmek biraz zaman alır.",
     "This Habbo is banned. We can not get any new information.." => "Bu Habbo Kullanıcısı yasaklandı yeni bilgi bulunamadık..",
-    "Previous mottos" => "Eski mottoları",
+    "Previous mottos" => "Geçmiş mottoları",
     "Previous looks" => "Eski Tarzı",
-    "Last online" => "Son oturum açma",
+    "Last online" => "Son çevrimiçi",
     "Last change" => "Son değişiklik",
     "Go to profile" => "Habbo Profiline Geç",
     "Closed profile" => "Kapalı Profil",
@@ -87,12 +87,12 @@ return [
     "Rooms" => "Odaları",
     "Photos" => "Resımlerı",
     "new" => "YENİ", // Little label on new badges/friends etc. If your word is long (6+ characters), see if you can shorten it
-    "This Habbo is not in the Habinfo system yet" => "Bu Habbo şuan Habbo sisteminde bulunmakta değil",
+    "This Habbo is not in the Habinfo system yet" => "Bu Habbo şuan Habbo sisteminde bulunmamakta",
     "Show old badges" => "Eski Rozetleri göster",
     "Show old friends" => "Eski Arkadaşları göster",
     "Show old groups" => "Eski Gruplari göster",
     "Show old rooms" => "Eski Odalari göster",
-    "Administrator" => "Admin", // Someone with admin rights in a group
+    "Administrator" => "Yönetici", // Someone with admin rights in a group
     "Group created" => "Kuruluş tarihi",
     "Group joined" => "Gruba katılış tarihi",
     "Group updated" => "Grup Güncellendi",
@@ -100,7 +100,7 @@ return [
     "Room created" => "Odanın Kuruluş Tarihi",
     "Room updated" => "Odanin güncellenme tarihi",
     "Rating" => "Puanlama",
-    "Maximum visitors" => "Odanin toplan ziyaretcisi",
+    "Maximum visitors" => "En çok ziyaretçi",
     "Go to room" => "Odaya git",
     // "Taken in this room on :date: and received :number: likes
     "Taken in" => "Kullanılmış",
@@ -139,7 +139,7 @@ return [
     "Unique badge top x for" => "Unique badge top %d for",
     "All x badges in" => "Tüm Rozetler %s bu Otelde", // Leave the %s intact; "All :number: badges in :hotel:"
     "First discovered" => "keşfedilen gün",
-    "Find out which Habbos own a specific badge!" => "Nadir rozet sahip olanlara bak!",
+    "Find out which Habbos own a specific badge!" => "Nadir rozet sahibi olanlara bak!",
     "Only 1 Habbo in Habbo.%s owns the %s badge" => "Tek bir Habboda bulunuyor bu rozet %s", // Leave the %s intact
     "%d Habbos in Habbo.%s own the %s badge" => "%d Habbolarda Otelinde.%s bu rozete sahipler %s ", // Leave the %s and %d intact -- "15 Habbos in Habbo.com own the ADM badge"
     "Sorry, we don't know anyone who has this badge" => "Kusura bakma ama bu Rozet kimde bulunduğunu bilmiyoruz",
@@ -163,7 +163,7 @@ return [
     "days" => "Gün",
 
     // Habbo Ticker
-    "Latest updates from Habbo Ticker" => "Habbo Ticker'den son güncellemeler",
+    "Latest updates from Habbo Ticker" => "Habbo Ticker'dan son güncellemeler",
     // This habbo added more than 5 new badges, 3 new groups and changed their look
     "changed their motto" => "Mottosunu değiştirdi",
     "changed their look" => "Kıyafetini değiştirdi",
