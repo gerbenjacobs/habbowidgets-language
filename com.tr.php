@@ -14,7 +14,7 @@ return [
     "About" => "Hakkımızda",
 
     // Layout
-    "Copyright" => "Copyright",
+    "Copyright" => "Telif Hakkı",
     /* -- "Made with :love: by :link: using the :link:" */
     // Habbies.nl tarafından yapıldı ❤ HabboAPI kullanarak
     "Made with" => "Yapıldı",
@@ -23,7 +23,7 @@ return [
     "Generated in" => "Burada yapıldı",
     "Current server time" => "Güncel server saati",
     // Landing page
-    "What's your Habbo name?" => "Habbo Kullanıcı adın ney?",
+    "What's your Habbo name?" => "Habbo Kullanıcı adın nedir?",
     /* -- Try to add the <br> at around 70 characters, so the next part goes on a new line */
     "landing_page_info" => "Tüm Habbolar hakkında daha fazla bilgi alabilirsin.<br>Mesela Personeller diğer Habbolar veya Arkadaşınların Hakkında!",
 
@@ -47,7 +47,7 @@ return [
     "This date lies in the future and can not be used" => "Bu tarih gelecek bir tarih olduğundan kullanılamaz",
 
     // Habinfo Form
-    "Find Habinfo on.." => "Habinfoyu buradan bulabilirsin..",
+    "Find Habinfo on.." => "Habbo Bilgisine buradan ulaşabilirsin..",
     "Find" => "Bul", // Button on the Habinfo form
     "Tip" => "İpucu",
     "Did you know you can also use a Direct URL to get to the Habbo you want to find?" => "Bunu biliyor muydun? Bir Habboyu direkt Link kullanarak bulabilirsin!",
@@ -65,15 +65,15 @@ return [
     "One moment.." => "Bir dakika..",
     "Something went wrong, we couldn't find that Habbo. Or they are banned.." => "Bir şeyler yanlış gitti.. bu Habboyu bulamadık veya kuullanıcı yasaklandı..",
     "Return to the Habinfo widget" => "Habinfo araçına geri dön",
-    "Visit Habinfo history" => "Habboinfo Hikayesini ziyaret",
+    "Visit Habinfo history" => "Habinfo Geçmişini ziyaret et",
     "habinfo_user_banned" => "Bu Habbo Kullanıcısı yasaklandı bu yüzden hiçbir bilgi bulamıyoruz.",
 
     // Habinfo
-    "Closed profile, loading might take longer." => "Kapalı Profili olan Habbo Bilgisini öğrenmek biraz zaman alır.",
-    "This Habbo is banned. We can not get any new information.." => "Bu Habbo Kullanıcısı yasaklandı yeni bilgi bulunamadık..",
+    "Closed profile, loading might take longer." => "Bu Habbo'nun profili kapalı. Bu Habbo'ya erişim biraz uzun sürebilir.",
+    "This Habbo is banned. We can not get any new information.." => "Bu Habbo Kullanıcısı yasaklandığından yeni bilgilere ulaşamadık..",
     "Previous mottos" => "Geçmiş mottoları",
     "Previous looks" => "Eski Tarzı",
-    "Last online" => "Son çevrimiçi",
+    "Last online" => "Son Çevrimiçi",
     "Last change" => "Son değişiklik",
     "Go to profile" => "Habbo Profiline Geç",
     "Closed profile" => "Kapalı Profil",
@@ -110,8 +110,8 @@ return [
     "Show on Habbo" => "Habboda göster",
     "Who else has this badge?" => "Bu Rozet başka kimde var?",
     "Removed" => "Geri alindi",
-    "%s has been a Habbo since %s and has %d badges, %d friends, %d groups and %d rooms!" => "%s has been a Habbo since %s and has %d badges, %d friends, %d groups and %d rooms!", // Leave the %s and %d intact
-    "Back to top" => "başa dön",
+    "%s has been a Habbo since %s and has %d badges, %d friends, %d groups and %d rooms!" => "%s, %s'den beri Habbo kullanıcısı ve %d rozet, %d arkadaş, %d grup ve %d odaya sahip!", // Leave the %s and %d intact
+    "Back to top" => "Yukarı Dön",
     "Go to Badges" => "Rozetlere git",
     "Go to Friends" => "Arkadaşlara git",
     "Go to Groups" => "Gruplara git",
@@ -127,7 +127,7 @@ return [
     "Follow us on Twitter for updates" => "Bizi Twitter da takip eti!",
 
     // 404
-    "Oops, page not found" => "Oops, sayfa bulunamadı",
+    "Oops, page not found" => "Uups, sayfa bulunamadı",
     "The page you tried to request doesn't exist.." => "Gitmek istediğin Sayfa bulunamiyor ..",
     "page_not_found_paragraph" => "Üzülme.. Sayfaya geri dön. %sAnasayfa%s veya habbo %sdoğum günülerine%s bak!", // Leave the %s intact, they will become links
     "Return" => "Geri dön",
@@ -158,7 +158,7 @@ return [
     "and" => "ve",
     "ago" => "önce",
     "hours" => "Saat",
-    "years" => "Sene",
+    "years" => "Yıl",
     "months" => "Ay",
     "days" => "Gün",
 
