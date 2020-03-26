@@ -25,13 +25,13 @@
             },
             "3926": {
                 "slug": "clothing_sportshair",
-                "name": "clothing_sportshair name",
+                "name": "Sporty Hair",
                 "description": "clothing_sportshair desc",
                 "buyout": 0
             },
             "3920": {
                 "slug": "clothing_r20_ponytailcap",
-                "name": "clothing_r20_ponytailcap name",
+                "name": "Nature Cap",
                 "description": "clothing_r20_ponytailcap desc",
                 "buyout": 0
             },
@@ -690,19 +690,19 @@
             },
             "3923": {
                 "slug": "clothing_r20_bunnyoutfit",
-                "name": "clothing_r20_bunnyoutfit name",
+                "name": "Hop Costume",
                 "description": "clothing_r20_bunnyoutfit desc",
                 "buyout": 0
             },
             "3914": {
                 "slug": "clothing_yogatop",
-                "name": "clothing_yogatop name",
+                "name": "Yoga Top",
                 "description": "clothing_yogatop desc",
                 "buyout": 0
             },
             "3913": {
                 "slug": "clothing_yogatop",
-                "name": "clothing_yogatop name",
+                "name": "Yoga Top",
                 "description": "clothing_yogatop desc",
                 "buyout": 0
             },
@@ -1467,13 +1467,13 @@
             },
             "3924": {
                 "slug": "clothing_r20_bunnyoutfit",
-                "name": "clothing_r20_bunnyoutfit name",
+                "name": "Hop Costume",
                 "description": "clothing_r20_bunnyoutfit desc",
                 "buyout": 0
             },
             "3915": {
                 "slug": "clothing_nt_yogapants",
-                "name": "clothing_nt_yogapants name",
+                "name": "Yoga Pants (Non-Tradeable)",
                 "description": "clothing_nt_yogapants desc",
                 "buyout": 0
             },
@@ -1868,7 +1868,7 @@
             },
             "3922": {
                 "slug": "clothing_r20_bunnyoutfit",
-                "name": "clothing_r20_bunnyoutfit name",
+                "name": "Hop Costume",
                 "description": "clothing_r20_bunnyoutfit desc",
                 "buyout": 0
             },
@@ -3108,7 +3108,7 @@
         "ea": {
             "3925": {
                 "slug": "clothing_sportsshade",
-                "name": "clothing_sportsshade name",
+                "name": "Sports Shades",
                 "description": "clothing_sportsshade desc",
                 "buyout": 0
             },
@@ -3449,19 +3449,19 @@
             },
             "3921": {
                 "slug": "clothing_nt_explorersash",
-                "name": "clothing_nt_explorersash name",
+                "name": "Explorer Sash (Non-Tradeable)",
                 "description": "clothing_nt_explorersash desc",
                 "buyout": 0
             },
             "3919": {
                 "slug": "clothing_nt_binoculars",
-                "name": "clothing_nt_binoculars name",
+                "name": "Binoculars (Non-Tradeable)",
                 "description": "clothing_nt_binoculars desc",
                 "buyout": 0
             },
             "3916": {
                 "slug": "clothing_campingbackpack",
-                "name": "clothing_campingbackpack name",
+                "name": "Survival Backpack",
                 "description": "clothing_campingbackpack desc",
                 "buyout": 0
             },
@@ -3774,7 +3774,7 @@
             },
             "3917": {
                 "slug": "clothing_nt_puffyvest",
-                "name": "clothing_nt_puffyvest name",
+                "name": "Life Vest (Non-Tradeable)",
                 "description": "clothing_nt_puffyvest desc",
                 "buyout": 0
             },
