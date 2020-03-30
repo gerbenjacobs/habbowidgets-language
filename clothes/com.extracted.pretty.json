@@ -1862,7 +1862,7 @@
             },
             "3929": {
                 "slug": "clothing_mysticcrown",
-                "name": "clothing_mysticcrown name",
+                "name": "Imperial Crown",
                 "description": "clothing_mysticcrown desc",
                 "buyout": 0
             },
@@ -2714,7 +2714,7 @@
         "he": {
             "3918": {
                 "slug": "clothing_rainbowegg",
-                "name": "clothing_rainbowegg name",
+                "name": "Rainbow Egg",
                 "description": "clothing_rainbowegg desc",
                 "buyout": 0
             },
@@ -3762,13 +3762,13 @@
             "9563": null,
             "3928": {
                 "slug": "clothing_mysticrobes",
-                "name": "clothing_mysticrobes name",
+                "name": "Imperial Robes",
                 "description": "clothing_mysticrobes desc",
                 "buyout": 0
             },
             "3927": {
                 "slug": "clothing_mysticrobes",
-                "name": "clothing_mysticrobes name",
+                "name": "Imperial Robes",
                 "description": "clothing_mysticrobes desc",
                 "buyout": 0
             },
