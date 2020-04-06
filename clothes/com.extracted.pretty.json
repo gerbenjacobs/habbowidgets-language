@@ -27,7 +27,7 @@
                 "slug": "clothing_sportshair",
                 "name": "Sporty Hair",
                 "description": "clothing_sportshair desc",
-                "buyout": 0
+                "buyout": 1
             },
             "3920": {
                 "slug": "clothing_r20_ponytailcap",
@@ -698,13 +698,13 @@
                 "slug": "clothing_yogatop",
                 "name": "Yoga Top",
                 "description": "clothing_yogatop desc",
-                "buyout": 0
+                "buyout": 1
             },
             "3913": {
                 "slug": "clothing_yogatop",
                 "name": "Yoga Top",
                 "description": "clothing_yogatop desc",
-                "buyout": 0
+                "buyout": 1
             },
             "3881": {
                 "slug": "clothing_nt_hitchedjumper",
@@ -3110,7 +3110,7 @@
                 "slug": "clothing_sportsshade",
                 "name": "Sports Shades",
                 "description": "clothing_sportsshade desc",
-                "buyout": 0
+                "buyout": 1
             },
             "3887": {
                 "slug": "clothing_goldpack4",
@@ -3463,7 +3463,7 @@
                 "slug": "clothing_campingbackpack",
                 "name": "Survival Backpack",
                 "description": "clothing_campingbackpack desc",
-                "buyout": 0
+                "buyout": 1
             },
             "3885": {
                 "slug": "clothing_heartnecklace",
