@@ -145,6 +145,7 @@ return [
     "Sorry, we don't know anyone who has this badge" => "Sinceras desculpas, mas o Telecourte não conhece ninguém que tenha este emblema.",
     "Only one Habbo has this badge.." => "Apenas um Habbo tem este emblema...",
     "Habbos have this badge.." => "Habbos tem este emblema...", // ":number: Habbos have this badge.."
+    "A lot of Habbos have this badge.." => "Muitos Habbos tem este emblema...",
     "So we can not show them all." => "Oh! Nós não podemos mostrar todos!",
     "Find Habbos who own.." => "Procurar Habbos que tenham..",
     "Badge code" => "Código do emblema",

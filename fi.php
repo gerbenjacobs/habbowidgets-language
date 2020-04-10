@@ -146,6 +146,7 @@ return [
     "Sorry, we don't know anyone who has this badge" => "Valitettavasti emme tiedä ketään, kenellä olisi tämä merkki.",
     "Only one Habbo has this badge.." => "Vain yhdellä habbolla on tämä merkki..",
     "Habbos have this badge.." => "habbolla on tämä merkki..", // ":number: Habbos have this badge.."
+    "A lot of Habbos have this badge.." => "Monilla habbolla on tämä merkki..",
     "So we can not show them all." => "Emme siis voi näyttää heitä kaikkia.",
     "Find Habbos who own.." => "Löydä habbot, joilla on..",
     "Badge code" => "Merkkikoodi",

@@ -145,6 +145,7 @@ return [
     "Sorry, we don't know anyone who has this badge" => "Kusura bakma ama bu Rozet kimde bulunduğunu bilmiyoruz",
     "Only one Habbo has this badge.." => "Tek bir Habboda bulunuyor bu rozet..",
     "Habbos have this badge.." => "Habbolarda bu Rozet bulunuyor..", // ":number: Habbos have this badge.."
+    "A lot of Habbos have this badge.." => "Birçok Habbolarda bu Rozet bulunuyor..",
     "So we can not show them all." => "Bu yüzden hepsini gösteremiyoruz.",
     "Find Habbos who own.." => "Hangi Habbolarda bulunan Rozetleri bul..",
     "Badge code" => "Rozet kodu",

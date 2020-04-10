@@ -145,6 +145,7 @@ return [
     "Sorry, we don't know anyone who has this badge" => "Désolé, nous ne connaissons personne qui possède ce badge",
     "Only one Habbo has this badge.." => "Seulement un Habbo possède ce badge..",
     "Habbos have this badge.." => "Habbos ont ce badge..", // ":number: Habbos have this badge.."
+    "A lot of Habbos have this badge.." => "Beaucoup Habbos ont ce badge..",
     "So we can not show them all." => "Nous ne pouvons pas vous les montrer tous.",
     "Find Habbos who own.." => "Rechercher les Habbos qui possèdent..",
     "Badge code" => "Code du Badge",

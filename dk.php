@@ -145,6 +145,7 @@ return [
     "Sorry, we don't know anyone who has this badge" => "Beklager, men vi kender ikke nogen der har dette skilt",
     "Only one Habbo has this badge.." => "Kun én har dette skilt..",
     "Habbos have this badge.." => "Habboer har dette skilt..", // ":number: Habbos have this badge.."
+    "A lot of Habbos have this badge.." => "En masse Habboer har dette skilt..",
     "So we can not show them all." => "Så vi kan ikke vise dem alle.",
     "Find Habbos who own.." => "Find Habboer som ejer..",
     "Badge code" => "Skilt kode",
