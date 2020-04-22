@@ -17,6 +17,18 @@
     "clothing": {
         "hr": {
             "9534": null,
+            "3957": {
+                "slug": "clothing_r20_jewelbraidhair",
+                "name": "clothing_r20_jewelbraidhair name",
+                "description": "clothing_r20_jewelbraidhair desc",
+                "buyout": 0
+            },
+            "3944": {
+                "slug": "clothing_nt_moviestarhair",
+                "name": "clothing_nt_moviestarhair name",
+                "description": "clothing_nt_moviestarhair desc",
+                "buyout": 0
+            },
             "3936": {
                 "slug": "clothing_r20_quinn",
                 "name": "Bicolour Pigtails",
@@ -560,6 +572,12 @@
             "100": null
         },
         "hd": {
+            "3956": {
+                "slug": "clothing_nt_moviestarmakeup",
+                "name": "clothing_nt_moviestarmakeup name",
+                "description": "clothing_nt_moviestarmakeup desc",
+                "buyout": 0
+            },
             "3845": {
                 "slug": "clothing_possessedeyes",
                 "name": "Possessed Eyes",
@@ -664,6 +682,60 @@
             "180": null
         },
         "ch": {
+            "3970": {
+                "slug": "clothing_towelwrapfull",
+                "name": "Full Towel Wrap",
+                "description": "clothing_towelwrapfull desc",
+                "buyout": 0
+            },
+            "3969": {
+                "slug": "clothing_towelwrapfull",
+                "name": "Full Towel Wrap",
+                "description": "clothing_towelwrapfull desc",
+                "buyout": 0
+            },
+            "3949": {
+                "slug": "clothing_grandsari",
+                "name": "clothing_grandsari name",
+                "description": "clothing_grandsari desc",
+                "buyout": 0
+            },
+            "3948": {
+                "slug": "clothing_sari",
+                "name": "clothing_sari name",
+                "description": "clothing_sari desc",
+                "buyout": 0
+            },
+            "3947": {
+                "slug": "clothing_sari",
+                "name": "clothing_sari name",
+                "description": "clothing_sari desc",
+                "buyout": 0
+            },
+            "3943": {
+                "slug": "clothing_grandsherwani",
+                "name": "clothing_grandsherwani name",
+                "description": "clothing_grandsherwani desc",
+                "buyout": 0
+            },
+            "3942": {
+                "slug": "clothing_grandsherwani",
+                "name": "clothing_grandsherwani name",
+                "description": "clothing_grandsherwani desc",
+                "buyout": 0
+            },
+            "3941": {
+                "slug": "clothing_sherwani",
+                "name": "clothing_sherwani name",
+                "description": "clothing_sherwani desc",
+                "buyout": 0
+            },
+            "3940": {
+                "slug": "clothing_sherwani",
+                "name": "clothing_sherwani name",
+                "description": "clothing_sherwani desc",
+                "buyout": 0
+            },
             "3935": {
                 "slug": "clothing_r20_tattoo",
                 "name": "Macho Tattoo",
@@ -1459,6 +1531,18 @@
             "210": null
         },
         "lg": {
+            "3968": {
+                "slug": "clothing_towelwraphalf",
+                "name": "Lower Towel Wrap",
+                "description": "clothing_towelwraphalf desc",
+                "buyout": 0
+            },
+            "3950": {
+                "slug": "clothing_sari",
+                "name": "clothing_sari name",
+                "description": "clothing_sari desc",
+                "buyout": 0
+            },
             "3933": {
                 "slug": "clothing_chocochefoutfit",
                 "name": "Chef Overalls",
@@ -1854,6 +1938,36 @@
             "290": null
         },
         "ha": {
+            "3967": {
+                "slug": "clothing_towelhair",
+                "name": "Towel Hair",
+                "description": "clothing_towelhair desc",
+                "buyout": 0
+            },
+            "3954": {
+                "slug": "clothing_cobra",
+                "name": "clothing_cobra name",
+                "description": "clothing_cobra desc",
+                "buyout": 0
+            },
+            "3953": {
+                "slug": "clothing_snake",
+                "name": "clothing_snake name",
+                "description": "clothing_snake desc",
+                "buyout": 0
+            },
+            "3952": {
+                "slug": "clothing_r20_monkeyfezhat",
+                "name": "clothing_r20_monkeyfezhat name",
+                "description": "clothing_r20_monkeyfezhat desc",
+                "buyout": 0
+            },
+            "3945": {
+                "slug": "clothing_turban",
+                "name": "clothing_turban name",
+                "description": "clothing_turban desc",
+                "buyout": 0
+            },
             "3930": {
                 "slug": "clothing_chocochefoutfit",
                 "name": "Chef Overalls",
@@ -2712,6 +2826,24 @@
             "1001": null
         },
         "he": {
+            "3958": {
+                "slug": "clothing_eyemask",
+                "name": "Eye Mask",
+                "description": "clothing_eyemask desc",
+                "buyout": 0
+            },
+            "3951": {
+                "slug": "clothing_headjewel",
+                "name": "clothing_headjewel name",
+                "description": "clothing_headjewel desc",
+                "buyout": 0
+            },
+            "3939": {
+                "slug": "clothing_grandheadjewel",
+                "name": "clothing_grandheadjewel name",
+                "description": "clothing_grandheadjewel desc",
+                "buyout": 0
+            },
             "3918": {
                 "slug": "clothing_rainbowegg",
                 "name": "Rainbow Egg",
@@ -3106,6 +3238,30 @@
             "1601": null
         },
         "ea": {
+            "3962": {
+                "slug": "clothing_eyecitrus",
+                "name": "Orange Eyes",
+                "description": "clothing_eyecitrus desc",
+                "buyout": 0
+            },
+            "3961": {
+                "slug": "clothing_eyestrawberry",
+                "name": "Strawberry Eyes",
+                "description": "clothing_eyestrawberry desc",
+                "buyout": 0
+            },
+            "3960": {
+                "slug": "clothing_eyecucumber",
+                "name": "Cucumber Eyes",
+                "description": "clothing_eyecucumber desc",
+                "buyout": 0
+            },
+            "3959": {
+                "slug": "clothing_eyetomato",
+                "name": "Tomato Eyes",
+                "description": "clothing_eyetomato desc",
+                "buyout": 0
+            },
             "3925": {
                 "slug": "clothing_sportsshade",
                 "name": "Sports Shades",
@@ -3265,6 +3421,30 @@
             "1401": null
         },
         "fa": {
+            "3966": {
+                "slug": "clothing_maskmint",
+                "name": "Mint Face Mask",
+                "description": "clothing_maskmint desc",
+                "buyout": 0
+            },
+            "3965": {
+                "slug": "clothing_maskcharcoal",
+                "name": "Charcoal Face Mask",
+                "description": "clothing_maskcharcoal desc",
+                "buyout": 0
+            },
+            "3964": {
+                "slug": "clothing_maskrose",
+                "name": "Rose Face Mask",
+                "description": "clothing_maskrose desc",
+                "buyout": 0
+            },
+            "3963": {
+                "slug": "clothing_maskcitrus",
+                "name": "Citrus Face Mask",
+                "description": "clothing_maskcitrus desc",
+                "buyout": 0
+            },
             "3888": {
                 "slug": "clothing_goldpack4",
                 "name": "Golden Accessory Pack v.5",
@@ -3760,6 +3940,18 @@
         "cc": {
             "9865": null,
             "9563": null,
+            "3955": {
+                "slug": "clothing_exoticcape",
+                "name": "clothing_exoticcape name",
+                "description": "clothing_exoticcape desc",
+                "buyout": 0
+            },
+            "3946": {
+                "slug": "clothing_grandexoticcape",
+                "name": "clothing_grandexoticcape name",
+                "description": "clothing_grandexoticcape desc",
+                "buyout": 0
+            },
             "3928": {
                 "slug": "clothing_mysticrobes",
                 "name": "Imperial Robes",
