@@ -1938,6 +1938,12 @@
             "290": null
         },
         "ha": {
+            "3976": {
+                "slug": "clothing_nt_studentcap",
+                "name": "Graduation Cap (non-tradable)",
+                "description": "clothing_nt_studentcap desc",
+                "buyout": 0
+            },
             "3967": {
                 "slug": "clothing_towelhair",
                 "name": "Towel Hair",
