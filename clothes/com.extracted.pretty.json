@@ -1938,6 +1938,12 @@
             "290": null
         },
         "ha": {
+            "3984": {
+                "slug": "clothing_spottedoctohat",
+                "name": "clothing_spottedoctohat name",
+                "description": "clothing_spottedoctohat desc",
+                "buyout": 0
+            },
             "3976": {
                 "slug": "clothing_nt_studentcap",
                 "name": "Graduation Cap (non-tradable)",
