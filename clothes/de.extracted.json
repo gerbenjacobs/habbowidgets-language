@@ -19,13 +19,13 @@
             "9534": null,
             "3957": {
                 "slug": "clothing_r20_jewelbraidhair",
-                "name": "clothing_r20_jewelbraidhair name",
+                "name": "Verschlungener Juwelenzopf",
                 "description": "clothing_r20_jewelbraidhair desc",
                 "buyout": 0
             },
             "3944": {
                 "slug": "clothing_nt_moviestarhair",
-                "name": "clothing_nt_moviestarhair name",
+                "name": "Bollywood Haartolle (nicht tauschbar)",
                 "description": "clothing_nt_moviestarhair desc",
                 "buyout": 0
             },
@@ -574,7 +574,7 @@
         "hd": {
             "3956": {
                 "slug": "clothing_nt_moviestarmakeup",
-                "name": "clothing_nt_moviestarmakeup name",
+                "name": "Bollywood Makeup (nicht tauschbar)",
                 "description": "clothing_nt_moviestarmakeup desc",
                 "buyout": 0
             },
@@ -696,43 +696,43 @@
             },
             "3949": {
                 "slug": "clothing_grandsari",
-                "name": "clothing_grandsari name",
+                "name": "Kaiserin Sari",
                 "description": "clothing_grandsari desc",
                 "buyout": 0
             },
             "3948": {
                 "slug": "clothing_sari",
-                "name": "clothing_sari name",
+                "name": "Sari",
                 "description": "clothing_sari desc",
                 "buyout": 0
             },
             "3947": {
                 "slug": "clothing_sari",
-                "name": "clothing_sari name",
+                "name": "Sari",
                 "description": "clothing_sari desc",
                 "buyout": 0
             },
             "3943": {
                 "slug": "clothing_grandsherwani",
-                "name": "clothing_grandsherwani name",
+                "name": "Sultan Sherwani",
                 "description": "clothing_grandsherwani desc",
                 "buyout": 0
             },
             "3942": {
                 "slug": "clothing_grandsherwani",
-                "name": "clothing_grandsherwani name",
+                "name": "Sultan Sherwani",
                 "description": "clothing_grandsherwani desc",
                 "buyout": 0
             },
             "3941": {
                 "slug": "clothing_sherwani",
-                "name": "clothing_sherwani name",
+                "name": "Sherwani",
                 "description": "clothing_sherwani desc",
                 "buyout": 0
             },
             "3940": {
                 "slug": "clothing_sherwani",
-                "name": "clothing_sherwani name",
+                "name": "Sherwani",
                 "description": "clothing_sherwani desc",
                 "buyout": 0
             },
@@ -1539,7 +1539,7 @@
             },
             "3950": {
                 "slug": "clothing_sari",
-                "name": "clothing_sari name",
+                "name": "Sari",
                 "description": "clothing_sari desc",
                 "buyout": 0
             },
@@ -1964,19 +1964,19 @@
             },
             "3953": {
                 "slug": "clothing_snake",
-                "name": "clothing_snake name",
+                "name": "Schlangenhut",
                 "description": "clothing_snake desc",
                 "buyout": 0
             },
             "3952": {
                 "slug": "clothing_r20_monkeyfezhat",
-                "name": "clothing_r20_monkeyfezhat name",
+                "name": "Fez Affenhut",
                 "description": "clothing_r20_monkeyfezhat desc",
                 "buyout": 0
             },
             "3945": {
                 "slug": "clothing_turban",
-                "name": "clothing_turban name",
+                "name": "Traditioneller Turban",
                 "description": "clothing_turban desc",
                 "buyout": 0
             },
@@ -2852,7 +2852,7 @@
             },
             "3939": {
                 "slug": "clothing_grandheadjewel",
-                "name": "clothing_grandheadjewel name",
+                "name": "Kaiserin Kopfjuwele",
                 "description": "clothing_grandheadjewel desc",
                 "buyout": 0
             },
@@ -3954,13 +3954,13 @@
             "9563": null,
             "3955": {
                 "slug": "clothing_exoticcape",
-                "name": "clothing_exoticcape name",
+                "name": "Indisches Cape",
                 "description": "clothing_exoticcape desc",
                 "buyout": 0
             },
             "3946": {
                 "slug": "clothing_grandexoticcape",
-                "name": "clothing_grandexoticcape name",
+                "name": "Indisches Schurken-Cape",
                 "description": "clothing_grandexoticcape desc",
                 "buyout": 0
             },
