@@ -1958,7 +1958,7 @@
             },
             "3954": {
                 "slug": "clothing_cobra",
-                "name": "clothing_cobra name",
+                "name": "Cobra Hut",
                 "description": "clothing_cobra desc",
                 "buyout": 0
             },
@@ -2846,7 +2846,7 @@
             },
             "3951": {
                 "slug": "clothing_headjewel",
-                "name": "clothing_headjewel name",
+                "name": "Traditionelles Kopfjuwel",
                 "description": "clothing_headjewel desc",
                 "buyout": 0
             },

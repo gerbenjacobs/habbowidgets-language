@@ -19,13 +19,13 @@
             "9534": null,
             "3957": {
                 "slug": "clothing_r20_jewelbraidhair",
-                "name": "clothing_r20_jewelbraidhair name",
+                "name": "M\u00fccevher \u00d6rg\u00fc",
                 "description": "clothing_r20_jewelbraidhair desc",
                 "buyout": 0
             },
             "3944": {
                 "slug": "clothing_nt_moviestarhair",
-                "name": "clothing_nt_moviestarhair name",
+                "name": "Bollywood Sa\u00e7\u0131 (Takas yap\u0131lamaz)",
                 "description": "clothing_nt_moviestarhair desc",
                 "buyout": 0
             },
@@ -574,7 +574,7 @@
         "hd": {
             "3956": {
                 "slug": "clothing_nt_moviestarmakeup",
-                "name": "clothing_nt_moviestarmakeup name",
+                "name": "Bollywood Makyaj\u0131 (Takas yap\u0131lamaz)",
                 "description": "clothing_nt_moviestarmakeup desc",
                 "buyout": 0
             },
@@ -696,43 +696,43 @@
             },
             "3949": {
                 "slug": "clothing_grandsari",
-                "name": "clothing_grandsari name",
+                "name": "\u0130mparatori\u00e7e Sarisi",
                 "description": "clothing_grandsari desc",
                 "buyout": 0
             },
             "3948": {
                 "slug": "clothing_sari",
-                "name": "clothing_sari name",
+                "name": "Sari",
                 "description": "clothing_sari desc",
                 "buyout": 0
             },
             "3947": {
                 "slug": "clothing_sari",
-                "name": "clothing_sari name",
+                "name": "Sari",
                 "description": "clothing_sari desc",
                 "buyout": 0
             },
             "3943": {
                 "slug": "clothing_grandsherwani",
-                "name": "clothing_grandsherwani name",
+                "name": "Sultan Sherwani Kost\u00fcm\u00fc",
                 "description": "clothing_grandsherwani desc",
                 "buyout": 0
             },
             "3942": {
                 "slug": "clothing_grandsherwani",
-                "name": "clothing_grandsherwani name",
+                "name": "Sultan Sherwani Kost\u00fcm\u00fc",
                 "description": "clothing_grandsherwani desc",
                 "buyout": 0
             },
             "3941": {
                 "slug": "clothing_sherwani",
-                "name": "clothing_sherwani name",
+                "name": "Sherwani Kost\u00fcm",
                 "description": "clothing_sherwani desc",
                 "buyout": 0
             },
             "3940": {
                 "slug": "clothing_sherwani",
-                "name": "clothing_sherwani name",
+                "name": "Sherwani Kost\u00fcm",
                 "description": "clothing_sherwani desc",
                 "buyout": 0
             },
@@ -1539,7 +1539,7 @@
             },
             "3950": {
                 "slug": "clothing_sari",
-                "name": "clothing_sari name",
+                "name": "Sari",
                 "description": "clothing_sari desc",
                 "buyout": 0
             },
@@ -1958,25 +1958,25 @@
             },
             "3954": {
                 "slug": "clothing_cobra",
-                "name": "clothing_cobra name",
+                "name": "Kobra \u015eapkas\u0131",
                 "description": "clothing_cobra desc",
                 "buyout": 0
             },
             "3953": {
                 "slug": "clothing_snake",
-                "name": "clothing_snake name",
+                "name": "Y\u0131lan \u015eapka",
                 "description": "clothing_snake desc",
                 "buyout": 0
             },
             "3952": {
                 "slug": "clothing_r20_monkeyfezhat",
-                "name": "clothing_r20_monkeyfezhat name",
+                "name": "Fesli Maymun \u015eapkas\u0131",
                 "description": "clothing_r20_monkeyfezhat desc",
                 "buyout": 0
             },
             "3945": {
                 "slug": "clothing_turban",
-                "name": "clothing_turban name",
+                "name": "Geleneksel Ba\u015f \u00d6rt\u00fcs\u00fc",
                 "description": "clothing_turban desc",
                 "buyout": 0
             },
@@ -2846,13 +2846,13 @@
             },
             "3951": {
                 "slug": "clothing_headjewel",
-                "name": "clothing_headjewel name",
+                "name": "Geleneksel Ba\u015f Tak\u0131s\u0131",
                 "description": "clothing_headjewel desc",
                 "buyout": 0
             },
             "3939": {
                 "slug": "clothing_grandheadjewel",
-                "name": "clothing_grandheadjewel name",
+                "name": "\u0130mparatori\u00e7e Tak\u0131s\u0131",
                 "description": "clothing_grandheadjewel desc",
                 "buyout": 0
             },
@@ -3954,13 +3954,13 @@
             "9563": null,
             "3955": {
                 "slug": "clothing_exoticcape",
-                "name": "clothing_exoticcape name",
+                "name": "Hint Pelerini",
                 "description": "clothing_exoticcape desc",
                 "buyout": 0
             },
             "3946": {
                 "slug": "clothing_grandexoticcape",
-                "name": "clothing_grandexoticcape name",
+                "name": "Hint K\u00f6t\u00fc Adam Pelerini",
                 "description": "clothing_grandexoticcape desc",
                 "buyout": 0
             },
