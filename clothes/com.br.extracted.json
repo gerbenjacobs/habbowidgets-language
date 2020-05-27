@@ -19,7 +19,7 @@
             "9534": null,
             "3957": {
                 "slug": "clothing_r20_jewelbraidhair",
-                "name": "clothing_r20_jewelbraidhair name",
+                "name": "Tran\u00e7a de J\u00f3ias Indiana",
                 "description": "clothing_r20_jewelbraidhair desc",
                 "buyout": 0
             },
@@ -696,43 +696,43 @@
             },
             "3949": {
                 "slug": "clothing_grandsari",
-                "name": "clothing_grandsari name",
+                "name": "Sari Imperial",
                 "description": "clothing_grandsari desc",
                 "buyout": 0
             },
             "3948": {
                 "slug": "clothing_sari",
-                "name": "clothing_sari name",
+                "name": "Sari",
                 "description": "clothing_sari desc",
                 "buyout": 0
             },
             "3947": {
                 "slug": "clothing_sari",
-                "name": "clothing_sari name",
+                "name": "Sari",
                 "description": "clothing_sari desc",
                 "buyout": 0
             },
             "3943": {
                 "slug": "clothing_grandsherwani",
-                "name": "clothing_grandsherwani name",
+                "name": "Sherwani Imperial",
                 "description": "clothing_grandsherwani desc",
                 "buyout": 0
             },
             "3942": {
                 "slug": "clothing_grandsherwani",
-                "name": "clothing_grandsherwani name",
+                "name": "Sherwani Imperial",
                 "description": "clothing_grandsherwani desc",
                 "buyout": 0
             },
             "3941": {
                 "slug": "clothing_sherwani",
-                "name": "clothing_sherwani name",
+                "name": "Sherwani",
                 "description": "clothing_sherwani desc",
                 "buyout": 0
             },
             "3940": {
                 "slug": "clothing_sherwani",
-                "name": "clothing_sherwani name",
+                "name": "Sherwani",
                 "description": "clothing_sherwani desc",
                 "buyout": 0
             },
@@ -1539,7 +1539,7 @@
             },
             "3950": {
                 "slug": "clothing_sari",
-                "name": "clothing_sari name",
+                "name": "Sari",
                 "description": "clothing_sari desc",
                 "buyout": 0
             },
@@ -1958,25 +1958,25 @@
             },
             "3954": {
                 "slug": "clothing_cobra",
-                "name": "clothing_cobra name",
+                "name": "Chap\u00e9u Naja",
                 "description": "clothing_cobra desc",
                 "buyout": 0
             },
             "3953": {
                 "slug": "clothing_snake",
-                "name": "clothing_snake name",
+                "name": "Chap\u00e9u Serpente",
                 "description": "clothing_snake desc",
                 "buyout": 0
             },
             "3952": {
                 "slug": "clothing_r20_monkeyfezhat",
-                "name": "clothing_r20_monkeyfezhat name",
+                "name": "Macaquinho do Chap\u00e9u Fez",
                 "description": "clothing_r20_monkeyfezhat desc",
                 "buyout": 0
             },
             "3945": {
                 "slug": "clothing_turban",
-                "name": "clothing_turban name",
+                "name": "Turbante Tradicional",
                 "description": "clothing_turban desc",
                 "buyout": 0
             },
@@ -2846,13 +2846,13 @@
             },
             "3951": {
                 "slug": "clothing_headjewel",
-                "name": "clothing_headjewel name",
+                "name": "Adorno Indiano Tradicional",
                 "description": "clothing_headjewel desc",
                 "buyout": 0
             },
             "3939": {
                 "slug": "clothing_grandheadjewel",
-                "name": "clothing_grandheadjewel name",
+                "name": "Adorno Indiano da Imperial",
                 "description": "clothing_grandheadjewel desc",
                 "buyout": 0
             },
@@ -3954,13 +3954,13 @@
             "9563": null,
             "3955": {
                 "slug": "clothing_exoticcape",
-                "name": "clothing_exoticcape name",
+                "name": "Capa Indiana",
                 "description": "clothing_exoticcape desc",
                 "buyout": 0
             },
             "3946": {
                 "slug": "clothing_grandexoticcape",
-                "name": "clothing_grandexoticcape name",
+                "name": "Capa Bollywood",
                 "description": "clothing_grandexoticcape desc",
                 "buyout": 0
             },
