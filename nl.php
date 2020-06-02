@@ -179,4 +179,13 @@ return [
     "new photo(s)" => "nieuwe foto(s)",
     "joined" => "werd lid van", // This habbo joined Habbowidgets
     "added" => "heeft", // you can also replace this with "has"
+
+    // Habbo Closet
+    "Habbo Closet" => "Habbo Kledingkast",
+    "What are Habbos wearing?" => "Wat dragen Habbo's?",
+    "Back to closet" => "Terug naar de kledingkast",
+    "No Habbos are wearing this piece of clothing." => "Geen Habbo draagt dit kledingstuk.",
+    "Try something else" => "Kies iets anders",
+    "Search for .." => "Zoek naar ..",
+    "No clothing items found.." => "Geen kledingstukken gevonden..",
 ];
