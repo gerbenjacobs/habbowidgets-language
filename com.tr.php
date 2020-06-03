@@ -178,11 +178,11 @@ return [
     "added" => "Eklendi", // you can also replace this with "has"
 
     // Habbo Closet
-    "Habbo Closet" => "Habbo Closet",
-    "What are Habbos wearing?" => "What are Habbos wearing?",
-    "Back to closet" => "Back to closet",
-    "No Habbos are wearing this piece of clothing." => "No Habbos are wearing this piece of clothing.",
-    "Try something else" => "Try something else",
-    "Search for .." => "Search for ..",
-    "No clothing items found.." => "No clothing items found..",
+    "Habbo Closet" => "Habbo Gardırop",
+    "What are Habbos wearing?" => "Habbolar ne giyiyor?",
+    "Back to closet" => "Gardıroba geri dön.'",
+    "No Habbos are wearing this piece of clothing." => "Hiçbir Habbo bu kıyafeti giymiyor.",
+    "Try something else" => "Başka bir şey deneyin.",
+    "Search for .." => ".. için ara",
+    "No clothing items found.." => "Giyim eşyası bulunamadı..",
 ];
