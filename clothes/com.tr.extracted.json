@@ -1940,7 +1940,7 @@
         "ha": {
             "3984": {
                 "slug": "clothing_spottedoctohat",
-                "name": "Aktapot \u015eapkas\u0131",
+                "name": "Ahtapot \u015eapkas\u0131",
                 "description": "clothing_spottedoctohat desc",
                 "buyout": 0
             },
@@ -1978,7 +1978,7 @@
                 "slug": "clothing_turban",
                 "name": "Geleneksel Ba\u015f \u00d6rt\u00fcs\u00fc",
                 "description": "clothing_turban desc",
-                "buyout": 0
+                "buyout": 1
             },
             "3930": {
                 "slug": "clothing_chocochefoutfit",

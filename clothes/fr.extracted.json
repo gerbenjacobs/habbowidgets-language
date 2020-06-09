@@ -1978,7 +1978,7 @@
                 "slug": "clothing_turban",
                 "name": "Turban Traditionnel",
                 "description": "clothing_turban desc",
-                "buyout": 0
+                "buyout": 1
             },
             "3930": {
                 "slug": "clothing_chocochefoutfit",
