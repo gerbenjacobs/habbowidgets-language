@@ -17,6 +17,31 @@
     "clothing": {
         "hr": {
             "9534": null,
+            "3998": {
+                "slug": "clothing_modernshortwave",
+                "name": "clothing_modernshortwave name",
+                "description": "clothing_modernshortwave desc",
+                "buyout": 0
+            },
+            "3994": {
+                "slug": "clothing_slickedbackhair",
+                "name": "clothing_slickedbackhair name",
+                "description": "clothing_slickedbackhair desc",
+                "buyout": 0
+            },
+            "3990": {
+                "slug": "clothing_r20_neonpunkset",
+                "name": "Neon Punk",
+                "description": "clothing_r20_neonpunkset desc",
+                "buyout": 0
+            },
+            "3983": {
+                "slug": "clothing_r20_harmonyset",
+                "name": "Solar Utopia Outfit",
+                "description": "clothing_r20_harmonyset desc",
+                "buyout": 0
+            },
+            "3977": null,
             "3957": {
                 "slug": "clothing_r20_jewelbraidhair",
                 "name": "Verschlungener Juwelenzopf",
@@ -572,6 +597,12 @@
             "100": null
         },
         "hd": {
+            "3997": {
+                "slug": "clothing_nt_chiseledface",
+                "name": "clothing_nt_chiseledface name",
+                "description": "clothing_nt_chiseledface desc",
+                "buyout": 0
+            },
             "3956": {
                 "slug": "clothing_nt_moviestarmakeup",
                 "name": "Bollywood Makeup (nicht tauschbar)",
@@ -682,6 +713,79 @@
             "180": null
         },
         "ch": {
+            "4004": {
+                "slug": "clothing_h20th",
+                "name": "20th Birthday T-Shirt",
+                "description": "clothing_h20th desc",
+                "buyout": 0
+            },
+            "4003": {
+                "slug": "clothing_h20th",
+                "name": "20th Birthday T-Shirt",
+                "description": "clothing_h20th desc",
+                "buyout": 0
+            },
+            "4001": {
+                "slug": "clothing_r20_gothicset",
+                "name": "Gothic Fancy Dress",
+                "description": "clothing_r20_gothicset desc",
+                "buyout": 0
+            },
+            "4000": {
+                "slug": "clothing_r20_gothicset",
+                "name": "Gothic Fancy Dress",
+                "description": "clothing_r20_gothicset desc",
+                "buyout": 0
+            },
+            "3996": {
+                "slug": "clothing_flapperdress",
+                "name": "clothing_flapperdress name",
+                "description": "clothing_flapperdress desc",
+                "buyout": 0
+            },
+            "3995": {
+                "slug": "clothing_flapperdress",
+                "name": "clothing_flapperdress name",
+                "description": "clothing_flapperdress desc",
+                "buyout": 0
+            },
+            "3988": {
+                "slug": "clothing_darkelegantset",
+                "name": "clothing_darkelegantset name",
+                "description": "clothing_darkelegantset desc",
+                "buyout": 0
+            },
+            "3987": {
+                "slug": "clothing_darkelegantset",
+                "name": "clothing_darkelegantset name",
+                "description": "clothing_darkelegantset desc",
+                "buyout": 0
+            },
+            "3981": {
+                "slug": "clothing_r20_harmonyset",
+                "name": "Solar Utopia Outfit",
+                "description": "clothing_r20_harmonyset desc",
+                "buyout": 0
+            },
+            "3980": {
+                "slug": "clothing_r20_harmonyset",
+                "name": "Solar Utopia Outfit",
+                "description": "clothing_r20_harmonyset desc",
+                "buyout": 0
+            },
+            "3979": null,
+            "3972": {
+                "slug": "clothing_r20_glitzytux",
+                "name": "clothing_r20_glitzytux name",
+                "description": "clothing_r20_glitzytux desc",
+                "buyout": 0
+            },
+            "3971": {
+                "slug": "clothing_r20_glitzytux",
+                "name": "clothing_r20_glitzytux name",
+                "description": "clothing_r20_glitzytux desc",
+                "buyout": 0
+            },
             "3970": {
                 "slug": "clothing_towelwrapfull",
                 "name": "Grosses Umh\u00e4ngehandtuch",
@@ -1531,6 +1635,12 @@
             "210": null
         },
         "lg": {
+            "4002": {
+                "slug": "clothing_r20_gothicset",
+                "name": "Gothic Fancy Dress",
+                "description": "clothing_r20_gothicset desc",
+                "buyout": 0
+            },
             "3968": {
                 "slug": "clothing_towelwraphalf",
                 "name": "Umh\u00e4ngehandtuch Unterk\u00f6rper",
@@ -1938,6 +2048,12 @@
             "290": null
         },
         "ha": {
+            "3986": {
+                "slug": "clothing_darkelegantset",
+                "name": "clothing_darkelegantset name",
+                "description": "clothing_darkelegantset desc",
+                "buyout": 0
+            },
             "3984": {
                 "slug": "clothing_spottedoctohat",
                 "name": "Hellseherhut",
@@ -2838,6 +2954,18 @@
             "1001": null
         },
         "he": {
+            "3999": {
+                "slug": "clothing_r20_gothicset",
+                "name": "Gothic Fancy Dress",
+                "description": "clothing_r20_gothicset desc",
+                "buyout": 0
+            },
+            "3974": {
+                "slug": "clothing_starearrings",
+                "name": "clothing_starearrings name",
+                "description": "clothing_starearrings desc",
+                "buyout": 0
+            },
             "3958": {
                 "slug": "clothing_eyemask",
                 "name": "Augenmaske",
@@ -3250,6 +3378,7 @@
             "1601": null
         },
         "ea": {
+            "3978": null,
             "3962": {
                 "slug": "clothing_eyecitrus",
                 "name": "Orangenaugen",
@@ -3433,6 +3562,12 @@
             "1401": null
         },
         "fa": {
+            "3993": {
+                "slug": "clothing_nt_pencilmoustache",
+                "name": "clothing_nt_pencilmoustache name",
+                "description": "clothing_nt_pencilmoustache desc",
+                "buyout": 0
+            },
             "3966": {
                 "slug": "clothing_maskmint",
                 "name": "Minz Gesichtsmaske",
@@ -3627,6 +3762,30 @@
             "1201": null
         },
         "ca": {
+            "3989": {
+                "slug": "clothing_r20_neonpunkset",
+                "name": "Neon Punk",
+                "description": "clothing_r20_neonpunkset desc",
+                "buyout": 0
+            },
+            "3985": {
+                "slug": "clothing_darkelegantset",
+                "name": "clothing_darkelegantset name",
+                "description": "clothing_darkelegantset desc",
+                "buyout": 0
+            },
+            "3982": {
+                "slug": "clothing_r20_harmonyset",
+                "name": "Solar Utopia Outfit",
+                "description": "clothing_r20_harmonyset desc",
+                "buyout": 0
+            },
+            "3973": {
+                "slug": "clothing_nt_glitzypurse",
+                "name": "clothing_nt_glitzypurse name",
+                "description": "clothing_nt_glitzypurse desc",
+                "buyout": 0
+            },
             "3938": {
                 "slug": "clothing_c20_goldheartbp",
                 "name": "Goldener Herzrucksack",
@@ -3952,6 +4111,24 @@
         "cc": {
             "9865": null,
             "9563": null,
+            "3992": {
+                "slug": "clothing_r20_neonpunkset",
+                "name": "Neon Punk",
+                "description": "clothing_r20_neonpunkset desc",
+                "buyout": 0
+            },
+            "3991": {
+                "slug": "clothing_r20_neonpunkset",
+                "name": "Neon Punk",
+                "description": "clothing_r20_neonpunkset desc",
+                "buyout": 0
+            },
+            "3975": {
+                "slug": "clothing_silkgloves",
+                "name": "clothing_silkgloves name",
+                "description": "clothing_silkgloves desc",
+                "buyout": 0
+            },
             "3955": {
                 "slug": "clothing_exoticcape",
                 "name": "Indisches Cape",
