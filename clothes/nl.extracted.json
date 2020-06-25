@@ -715,25 +715,25 @@
         "ch": {
             "4004": {
                 "slug": "clothing_h20th",
-                "name": "20th Birthday T-Shirt",
+                "name": "20ste Verjaardag T-Shirt",
                 "description": "clothing_h20th desc",
                 "buyout": 0
             },
             "4003": {
                 "slug": "clothing_h20th",
-                "name": "20th Birthday T-Shirt",
+                "name": "20ste Verjaardag T-Shirt",
                 "description": "clothing_h20th desc",
                 "buyout": 0
             },
             "4001": {
                 "slug": "clothing_r20_gothicset",
-                "name": "Gothic Fancy Dress",
+                "name": "Mooie Gothic Jurk",
                 "description": "clothing_r20_gothicset desc",
                 "buyout": 0
             },
             "4000": {
                 "slug": "clothing_r20_gothicset",
-                "name": "Gothic Fancy Dress",
+                "name": "Mooie Gothic Jurk",
                 "description": "clothing_r20_gothicset desc",
                 "buyout": 0
             },
@@ -776,13 +776,13 @@
             "3979": null,
             "3972": {
                 "slug": "clothing_r20_glitzytux",
-                "name": "clothing_r20_glitzytux name",
+                "name": "Frank's Smoking",
                 "description": "clothing_r20_glitzytux desc",
                 "buyout": 0
             },
             "3971": {
                 "slug": "clothing_r20_glitzytux",
-                "name": "clothing_r20_glitzytux name",
+                "name": "Frank's Smoking",
                 "description": "clothing_r20_glitzytux desc",
                 "buyout": 0
             },
@@ -1637,7 +1637,7 @@
         "lg": {
             "4002": {
                 "slug": "clothing_r20_gothicset",
-                "name": "Gothic Fancy Dress",
+                "name": "Mooie Gothic Jurk",
                 "description": "clothing_r20_gothicset desc",
                 "buyout": 0
             },
@@ -2956,7 +2956,7 @@
         "he": {
             "3999": {
                 "slug": "clothing_r20_gothicset",
-                "name": "Gothic Fancy Dress",
+                "name": "Mooie Gothic Jurk",
                 "description": "clothing_r20_gothicset desc",
                 "buyout": 0
             },

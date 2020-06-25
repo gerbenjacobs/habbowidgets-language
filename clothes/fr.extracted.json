@@ -31,13 +31,13 @@
             },
             "3990": {
                 "slug": "clothing_r20_neonpunkset",
-                "name": "Neon Punk",
+                "name": "N\u00e9on Punk",
                 "description": "clothing_r20_neonpunkset desc",
                 "buyout": 0
             },
             "3983": {
                 "slug": "clothing_r20_harmonyset",
-                "name": "Solar Utopia Outfit",
+                "name": "Tenue Harmonie",
                 "description": "clothing_r20_harmonyset desc",
                 "buyout": 0
             },
@@ -715,25 +715,25 @@
         "ch": {
             "4004": {
                 "slug": "clothing_h20th",
-                "name": "20th Birthday T-Shirt",
+                "name": "T-Shirt 20e anniversaire",
                 "description": "clothing_h20th desc",
                 "buyout": 0
             },
             "4003": {
                 "slug": "clothing_h20th",
-                "name": "20th Birthday T-Shirt",
+                "name": "T-Shirt 20e anniversaire",
                 "description": "clothing_h20th desc",
                 "buyout": 0
             },
             "4001": {
                 "slug": "clothing_r20_gothicset",
-                "name": "Gothic Fancy Dress",
+                "name": "Robe Fantaisie Gothique",
                 "description": "clothing_r20_gothicset desc",
                 "buyout": 0
             },
             "4000": {
                 "slug": "clothing_r20_gothicset",
-                "name": "Gothic Fancy Dress",
+                "name": "Robe Fantaisie Gothique",
                 "description": "clothing_r20_gothicset desc",
                 "buyout": 0
             },
@@ -763,13 +763,13 @@
             },
             "3981": {
                 "slug": "clothing_r20_harmonyset",
-                "name": "Solar Utopia Outfit",
+                "name": "Tenue Harmonie",
                 "description": "clothing_r20_harmonyset desc",
                 "buyout": 0
             },
             "3980": {
                 "slug": "clothing_r20_harmonyset",
-                "name": "Solar Utopia Outfit",
+                "name": "Tenue Harmonie",
                 "description": "clothing_r20_harmonyset desc",
                 "buyout": 0
             },
@@ -1637,7 +1637,7 @@
         "lg": {
             "4002": {
                 "slug": "clothing_r20_gothicset",
-                "name": "Gothic Fancy Dress",
+                "name": "Robe Fantaisie Gothique",
                 "description": "clothing_r20_gothicset desc",
                 "buyout": 0
             },
@@ -2956,7 +2956,7 @@
         "he": {
             "3999": {
                 "slug": "clothing_r20_gothicset",
-                "name": "Gothic Fancy Dress",
+                "name": "Robe Fantaisie Gothique",
                 "description": "clothing_r20_gothicset desc",
                 "buyout": 0
             },
@@ -3764,7 +3764,7 @@
         "ca": {
             "3989": {
                 "slug": "clothing_r20_neonpunkset",
-                "name": "Neon Punk",
+                "name": "N\u00e9on Punk",
                 "description": "clothing_r20_neonpunkset desc",
                 "buyout": 0
             },
@@ -3776,7 +3776,7 @@
             },
             "3982": {
                 "slug": "clothing_r20_harmonyset",
-                "name": "Solar Utopia Outfit",
+                "name": "Tenue Harmonie",
                 "description": "clothing_r20_harmonyset desc",
                 "buyout": 0
             },
@@ -4113,13 +4113,13 @@
             "9563": null,
             "3992": {
                 "slug": "clothing_r20_neonpunkset",
-                "name": "Neon Punk",
+                "name": "N\u00e9on Punk",
                 "description": "clothing_r20_neonpunkset desc",
                 "buyout": 0
             },
             "3991": {
                 "slug": "clothing_r20_neonpunkset",
-                "name": "Neon Punk",
+                "name": "N\u00e9on Punk",
                 "description": "clothing_r20_neonpunkset desc",
                 "buyout": 0
             },
