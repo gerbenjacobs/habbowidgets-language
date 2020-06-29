@@ -715,13 +715,13 @@
         "ch": {
             "4004": {
                 "slug": "clothing_h20th",
-                "name": "20-vuotis syntt\u00e4ri-t-paita",
+                "name": "20-vuotissyntt\u00e4ri-t-paita",
                 "description": "clothing_h20th desc",
                 "buyout": 0
             },
             "4003": {
                 "slug": "clothing_h20th",
-                "name": "20-vuotis syntt\u00e4ri-t-paita",
+                "name": "20-vuotissyntt\u00e4ri-t-paita",
                 "description": "clothing_h20th desc",
                 "buyout": 0
             },
