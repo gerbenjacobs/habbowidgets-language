@@ -178,11 +178,11 @@ return [
     "added" => "adicionou", // you can also replace this with "has"
 
     // Habbo Closet
-    "Habbo Closet" => "Habbo Closet",
-    "What are Habbos wearing?" => "What are Habbos wearing?",
-    "Back to closet" => "Back to closet",
-    "No Habbos are wearing this piece of clothing." => "No Habbos are wearing this piece of clothing.",
-    "Try something else" => "Try something else",
-    "Search for .." => "Search for ..",
-    "No clothing items found.." => "No clothing items found..",
+    "Habbo Closet" => "Habbo Guarda-Roupa",
+    "What are Habbos wearing?" => "O que os Habbos estão vestindo?",
+    "Back to closet" => "Voltar ao guarda-roupa",
+    "No Habbos are wearing this piece of clothing." => "Nenhum Habbo está vestindo esta peça de roupa.",
+    "Try something else" => "Tente outra coisa",
+    "Search for .." => "Procurar por ..",
+    "No clothing items found.." => "Roupa não encontrada..",
 ];
