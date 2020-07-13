@@ -41,7 +41,12 @@
                 "description": "clothing_r20_harmonyset desc",
                 "buyout": 0
             },
-            "3977": null,
+            "3977": {
+                "slug": "clothing_r20_slumberoutfit",
+                "name": "Bedtijd",
+                "description": "clothing_r20_slumberoutfit desc",
+                "buyout": 0
+            },
             "3957": {
                 "slug": "clothing_r20_jewelbraidhair",
                 "name": "Ingewikkelde Juwelenvlecht",
@@ -773,7 +778,12 @@
                 "description": "clothing_r20_harmonyset desc",
                 "buyout": 0
             },
-            "3979": null,
+            "3979": {
+                "slug": "clothing_r20_slumberoutfit",
+                "name": "Bedtijd",
+                "description": "clothing_r20_slumberoutfit desc",
+                "buyout": 0
+            },
             "3972": {
                 "slug": "clothing_r20_glitzytux",
                 "name": "Frank's Smoking",
@@ -3378,7 +3388,12 @@
             "1601": null
         },
         "ea": {
-            "3978": null,
+            "3978": {
+                "slug": "clothing_r20_slumberoutfit",
+                "name": "Bedtijd",
+                "description": "clothing_r20_slumberoutfit desc",
+                "buyout": 0
+            },
             "3962": {
                 "slug": "clothing_eyecitrus",
                 "name": "Sinaasappel Ogen",
