@@ -19,13 +19,13 @@
             "9534": null,
             "3998": {
                 "slug": "clothing_modernshortwave",
-                "name": "clothing_modernshortwave name",
+                "name": "Yumu\u015fak Dalgalar",
                 "description": "clothing_modernshortwave desc",
                 "buyout": 0
             },
             "3994": {
                 "slug": "clothing_slickedbackhair",
-                "name": "clothing_slickedbackhair name",
+                "name": "Balo Salonu B\u00fcy\u00fcc\u00fcs\u00fc",
                 "description": "clothing_slickedbackhair desc",
                 "buyout": 0
             },
@@ -604,7 +604,7 @@
         "hd": {
             "3997": {
                 "slug": "clothing_nt_chiseledface",
-                "name": "clothing_nt_chiseledface name",
+                "name": "Keskin Y\u00fcz (takas yap\u0131lamaz)",
                 "description": "clothing_nt_chiseledface desc",
                 "buyout": 0
             },
@@ -744,13 +744,13 @@
             },
             "3996": {
                 "slug": "clothing_flapperdress",
-                "name": "clothing_flapperdress name",
+                "name": "Balo Salonu Dans\u00e7\u0131 Elbisesi",
                 "description": "clothing_flapperdress desc",
                 "buyout": 0
             },
             "3995": {
                 "slug": "clothing_flapperdress",
-                "name": "clothing_flapperdress name",
+                "name": "Balo Salonu Dans\u00e7\u0131 Elbisesi",
                 "description": "clothing_flapperdress desc",
                 "buyout": 0
             },
@@ -2972,7 +2972,7 @@
             },
             "3974": {
                 "slug": "clothing_starearrings",
-                "name": "clothing_starearrings name",
+                "name": "Y\u0131ld\u0131z K\u00fcpeleri",
                 "description": "clothing_starearrings desc",
                 "buyout": 0
             },
@@ -3579,7 +3579,7 @@
         "fa": {
             "3993": {
                 "slug": "clothing_nt_pencilmoustache",
-                "name": "clothing_nt_pencilmoustache name",
+                "name": "Kur\u015fun Kalem B\u0131y\u0131\u011f\u0131 (takas yap\u0131lamaz)",
                 "description": "clothing_nt_pencilmoustache desc",
                 "buyout": 0
             },
@@ -3797,7 +3797,7 @@
             },
             "3973": {
                 "slug": "clothing_nt_glitzypurse",
-                "name": "clothing_nt_glitzypurse name",
+                "name": "Bonnie'nin Balo Salonu \u00c7antas\u0131 (takas yap\u0131lamaz)",
                 "description": "clothing_nt_glitzypurse desc",
                 "buyout": 0
             },
@@ -4140,7 +4140,7 @@
             },
             "3975": {
                 "slug": "clothing_silkgloves",
-                "name": "clothing_silkgloves name",
+                "name": "\u0130pek Eldivenler",
                 "description": "clothing_silkgloves desc",
                 "buyout": 0
             },
