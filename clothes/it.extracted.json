@@ -21,13 +21,13 @@
                 "slug": "clothing_modernshortwave",
                 "name": "Morbide Onde",
                 "description": "clothing_modernshortwave desc",
-                "buyout": 0
+                "buyout": 1
             },
             "3994": {
                 "slug": "clothing_slickedbackhair",
                 "name": "Rubacuori da Sala da Ballo",
                 "description": "clothing_slickedbackhair desc",
-                "buyout": 0
+                "buyout": 1
             },
             "3990": {
                 "slug": "clothing_r20_neonpunkset",
@@ -720,13 +720,13 @@
         "ch": {
             "4004": {
                 "slug": "clothing_h20th",
-                "name": "Maglietta 20\u00ba Compleanno",
+                "name": "Maglietta 20 Anni di Habbo",
                 "description": "clothing_h20th desc",
                 "buyout": 0
             },
             "4003": {
                 "slug": "clothing_h20th",
-                "name": "Maglietta 20\u00ba Compleanno",
+                "name": "Maglietta 20 Anni di Habbo",
                 "description": "clothing_h20th desc",
                 "buyout": 0
             },
@@ -746,13 +746,13 @@
                 "slug": "clothing_flapperdress",
                 "name": "Vestito da Ballo",
                 "description": "clothing_flapperdress desc",
-                "buyout": 0
+                "buyout": 1
             },
             "3995": {
                 "slug": "clothing_flapperdress",
                 "name": "Vestito da Ballo",
                 "description": "clothing_flapperdress desc",
-                "buyout": 0
+                "buyout": 1
             },
             "3988": {
                 "slug": "clothing_darkelegantset",
@@ -2974,7 +2974,7 @@
                 "slug": "clothing_starearrings",
                 "name": "Orecchini a Stella",
                 "description": "clothing_starearrings desc",
-                "buyout": 0
+                "buyout": 1
             },
             "3958": {
                 "slug": "clothing_eyemask",
@@ -4142,7 +4142,7 @@
                 "slug": "clothing_silkgloves",
                 "name": "Guanti di Seta",
                 "description": "clothing_silkgloves desc",
-                "buyout": 0
+                "buyout": 1
             },
             "3955": {
                 "slug": "clothing_exoticcape",

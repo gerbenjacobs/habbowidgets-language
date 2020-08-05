@@ -21,13 +21,13 @@
                 "slug": "clothing_modernshortwave",
                 "name": "Ondas de pelo suaves",
                 "description": "clothing_modernshortwave desc",
-                "buyout": 0
+                "buyout": 1
             },
             "3994": {
                 "slug": "clothing_slickedbackhair",
                 "name": "Hombre encantador Sal\u00f3n de baile",
                 "description": "clothing_slickedbackhair desc",
-                "buyout": 0
+                "buyout": 1
             },
             "3990": {
                 "slug": "clothing_r20_neonpunkset",
@@ -746,13 +746,13 @@
                 "slug": "clothing_flapperdress",
                 "name": "Vestido de bailarina Sal\u00f3n de baile",
                 "description": "clothing_flapperdress desc",
-                "buyout": 0
+                "buyout": 1
             },
             "3995": {
                 "slug": "clothing_flapperdress",
                 "name": "Vestido de bailarina Sal\u00f3n de baile",
                 "description": "clothing_flapperdress desc",
-                "buyout": 0
+                "buyout": 1
             },
             "3988": {
                 "slug": "clothing_darkelegantset",
@@ -2974,7 +2974,7 @@
                 "slug": "clothing_starearrings",
                 "name": "Pendientes estrellados",
                 "description": "clothing_starearrings desc",
-                "buyout": 0
+                "buyout": 1
             },
             "3958": {
                 "slug": "clothing_eyemask",
@@ -4142,7 +4142,7 @@
                 "slug": "clothing_silkgloves",
                 "name": "Guantes de seda",
                 "description": "clothing_silkgloves desc",
-                "buyout": 0
+                "buyout": 1
             },
             "3955": {
                 "slug": "clothing_exoticcape",

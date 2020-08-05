@@ -21,13 +21,13 @@
                 "slug": "clothing_modernshortwave",
                 "name": "Yumu\u015fak Dalgalar",
                 "description": "clothing_modernshortwave desc",
-                "buyout": 0
+                "buyout": 1
             },
             "3994": {
                 "slug": "clothing_slickedbackhair",
                 "name": "Balo Salonu B\u00fcy\u00fcc\u00fcs\u00fc",
                 "description": "clothing_slickedbackhair desc",
-                "buyout": 0
+                "buyout": 1
             },
             "3990": {
                 "slug": "clothing_r20_neonpunkset",
@@ -746,13 +746,13 @@
                 "slug": "clothing_flapperdress",
                 "name": "Balo Salonu Dans\u00e7\u0131 Elbisesi",
                 "description": "clothing_flapperdress desc",
-                "buyout": 0
+                "buyout": 1
             },
             "3995": {
                 "slug": "clothing_flapperdress",
                 "name": "Balo Salonu Dans\u00e7\u0131 Elbisesi",
                 "description": "clothing_flapperdress desc",
-                "buyout": 0
+                "buyout": 1
             },
             "3988": {
                 "slug": "clothing_darkelegantset",
@@ -2974,7 +2974,7 @@
                 "slug": "clothing_starearrings",
                 "name": "Y\u0131ld\u0131z K\u00fcpeleri",
                 "description": "clothing_starearrings desc",
-                "buyout": 0
+                "buyout": 1
             },
             "3958": {
                 "slug": "clothing_eyemask",
@@ -4142,7 +4142,7 @@
                 "slug": "clothing_silkgloves",
                 "name": "\u0130pek Eldivenler",
                 "description": "clothing_silkgloves desc",
-                "buyout": 0
+                "buyout": 1
             },
             "3955": {
                 "slug": "clothing_exoticcape",

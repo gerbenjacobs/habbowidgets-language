@@ -21,13 +21,13 @@
                 "slug": "clothing_modernshortwave",
                 "name": "Aaltokiharat",
                 "description": "clothing_modernshortwave desc",
-                "buyout": 0
+                "buyout": 1
             },
             "3994": {
                 "slug": "clothing_slickedbackhair",
                 "name": "clothing_slickedbackhair name",
                 "description": "clothing_slickedbackhair desc",
-                "buyout": 0
+                "buyout": 1
             },
             "3990": {
                 "slug": "clothing_r20_neonpunkset",
@@ -746,13 +746,13 @@
                 "slug": "clothing_flapperdress",
                 "name": "Salitanssimekko",
                 "description": "clothing_flapperdress desc",
-                "buyout": 0
+                "buyout": 1
             },
             "3995": {
                 "slug": "clothing_flapperdress",
                 "name": "Salitanssimekko",
                 "description": "clothing_flapperdress desc",
-                "buyout": 0
+                "buyout": 1
             },
             "3988": {
                 "slug": "clothing_darkelegantset",
@@ -2974,7 +2974,7 @@
                 "slug": "clothing_starearrings",
                 "name": "T\u00e4htikorvikset",
                 "description": "clothing_starearrings desc",
-                "buyout": 0
+                "buyout": 1
             },
             "3958": {
                 "slug": "clothing_eyemask",
@@ -4142,7 +4142,7 @@
                 "slug": "clothing_silkgloves",
                 "name": "Silkkihansikkaat",
                 "description": "clothing_silkgloves desc",
-                "buyout": 0
+                "buyout": 1
             },
             "3955": {
                 "slug": "clothing_exoticcape",
