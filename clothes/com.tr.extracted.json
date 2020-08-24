@@ -17,6 +17,12 @@
     "clothing": {
         "hr": {
             "9534": null,
+            "4020": {
+                "slug": "clothing_cybuns",
+                "name": "Loc \u00c7\u00f6rekler",
+                "description": "clothing_cybuns desc",
+                "buyout": 0
+            },
             "3998": {
                 "slug": "clothing_modernshortwave",
                 "name": "Yumu\u015fak Dalgalar",
@@ -602,6 +608,12 @@
             "100": null
         },
         "hd": {
+            "4015": {
+                "slug": "clothing_r20_cyborgface",
+                "name": "Cyberpunk \u00d6n Panel",
+                "description": "clothing_r20_cyborgface desc",
+                "buyout": 0
+            },
             "3997": {
                 "slug": "clothing_nt_chiseledface",
                 "name": "Keskin Y\u00fcz (takas yap\u0131lamaz)",
@@ -718,6 +730,12 @@
             "180": null
         },
         "ch": {
+            "4025": {
+                "slug": "clothing_cychest",
+                "name": "Cyberpunk Sava\u015f Z\u0131rh\u0131",
+                "description": "clothing_cychest desc",
+                "buyout": 0
+            },
             "4004": {
                 "slug": "clothing_h20th",
                 "name": "20. Do\u011fum G\u00fcn\u00fc Ti\u015f\u00f6rt\u00fc ",
@@ -1645,6 +1663,12 @@
             "210": null
         },
         "lg": {
+            "4017": {
+                "slug": "clothing_cylegs",
+                "name": "Cyberpunk Striders",
+                "description": "clothing_cylegs desc",
+                "buyout": 0
+            },
             "4002": {
                 "slug": "clothing_r20_gothicset",
                 "name": "Gotik \u015e\u0131k Elbise",
@@ -1916,6 +1940,12 @@
             "270": null
         },
         "sh": {
+            "4016": {
+                "slug": "clothing_cytrainers",
+                "name": "Cyberpunk  Ayakkab\u0131lar",
+                "description": "clothing_cytrainers desc",
+                "buyout": 0
+            },
             "3783": {
                 "slug": "clothing_r19_scuffedboots",
                 "name": "Rocker Botlar\u0131",
@@ -2058,6 +2088,12 @@
             "290": null
         },
         "ha": {
+            "4018": {
+                "slug": "clothing_cyhelmet",
+                "name": "Cyberpunk Viz\u00f6r",
+                "description": "clothing_cyhelmet desc",
+                "buyout": 0
+            },
             "3986": {
                 "slug": "clothing_darkelegantset",
                 "name": "Sokak Kraliyeti ",
@@ -2964,6 +3000,12 @@
             "1001": null
         },
         "he": {
+            "4019": {
+                "slug": "clothing_cyfins",
+                "name": "Cyberpunk Y\u00fczge\u00e7leri",
+                "description": "clothing_cyfins desc",
+                "buyout": 0
+            },
             "3999": {
                 "slug": "clothing_r20_gothicset",
                 "name": "Gotik \u015e\u0131k Elbise",
@@ -3388,6 +3430,12 @@
             "1601": null
         },
         "ea": {
+            "4021": {
+                "slug": "clothing_cyeyepiece",
+                "name": "Cyberpunk Holo Lens",
+                "description": "clothing_cyeyepiece desc",
+                "buyout": 0
+            },
             "3978": {
                 "slug": "clothing_r20_slumberoutfit",
                 "name": "Uyku Zaman\u0131",
@@ -3577,6 +3625,12 @@
             "1401": null
         },
         "fa": {
+            "4014": {
+                "slug": "clothing_cygasmask",
+                "name": "Cyberpunk Gaz Maskesi ",
+                "description": "clothing_cygasmask desc",
+                "buyout": 0
+            },
             "3993": {
                 "slug": "clothing_nt_pencilmoustache",
                 "name": "Kur\u015fun Kalem B\u0131y\u0131\u011f\u0131 (takas yap\u0131lamaz)",
@@ -4126,6 +4180,12 @@
         "cc": {
             "9865": null,
             "9563": null,
+            "4026": {
+                "slug": "clothing_r20_cyborgwings",
+                "name": "Cyberpunk Robo-Kanatlar",
+                "description": "clothing_r20_cyborgwings desc",
+                "buyout": 0
+            },
             "3992": {
                 "slug": "clothing_r20_neonpunkset",
                 "name": "Neon Punk",

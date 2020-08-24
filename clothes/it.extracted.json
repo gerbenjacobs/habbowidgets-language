@@ -17,6 +17,12 @@
     "clothing": {
         "hr": {
             "9534": null,
+            "4020": {
+                "slug": "clothing_cybuns",
+                "name": "Codini Cyber-Dread",
+                "description": "clothing_cybuns desc",
+                "buyout": 0
+            },
             "3998": {
                 "slug": "clothing_modernshortwave",
                 "name": "Morbide Onde",
@@ -602,6 +608,12 @@
             "100": null
         },
         "hd": {
+            "4015": {
+                "slug": "clothing_r20_cyborgface",
+                "name": "Frontalino Cibernetico",
+                "description": "clothing_r20_cyborgface desc",
+                "buyout": 0
+            },
             "3997": {
                 "slug": "clothing_nt_chiseledface",
                 "name": "Faccia Spigolosa (Non scambiabile)",
@@ -718,6 +730,12 @@
             "180": null
         },
         "ch": {
+            "4025": {
+                "slug": "clothing_cychest",
+                "name": "Armatura Cyberpunk",
+                "description": "clothing_cychest desc",
+                "buyout": 0
+            },
             "4004": {
                 "slug": "clothing_h20th",
                 "name": "Maglietta 20 Anni di Habbo",
@@ -1645,6 +1663,12 @@
             "210": null
         },
         "lg": {
+            "4017": {
+                "slug": "clothing_cylegs",
+                "name": "Gambe Cyberpunk",
+                "description": "clothing_cylegs desc",
+                "buyout": 0
+            },
             "4002": {
                 "slug": "clothing_r20_gothicset",
                 "name": "Abito a Fantasia Gotica",
@@ -1916,6 +1940,12 @@
             "270": null
         },
         "sh": {
+            "4016": {
+                "slug": "clothing_cytrainers",
+                "name": "Sneakers Cyberpunk",
+                "description": "clothing_cytrainers desc",
+                "buyout": 0
+            },
             "3783": {
                 "slug": "clothing_r19_scuffedboots",
                 "name": "Anfibi da Festival",
@@ -2058,6 +2088,12 @@
             "290": null
         },
         "ha": {
+            "4018": {
+                "slug": "clothing_cyhelmet",
+                "name": "Visore Cyberpunk",
+                "description": "clothing_cyhelmet desc",
+                "buyout": 0
+            },
             "3986": {
                 "slug": "clothing_darkelegantset",
                 "name": "Sovrani della Strada",
@@ -2964,6 +3000,12 @@
             "1001": null
         },
         "he": {
+            "4019": {
+                "slug": "clothing_cyfins",
+                "name": "Orecchie Cyberpunk",
+                "description": "clothing_cyfins desc",
+                "buyout": 0
+            },
             "3999": {
                 "slug": "clothing_r20_gothicset",
                 "name": "Abito a Fantasia Gotica",
@@ -3388,6 +3430,12 @@
             "1601": null
         },
         "ea": {
+            "4021": {
+                "slug": "clothing_cyeyepiece",
+                "name": "Lente Oleografica Cyberpunk",
+                "description": "clothing_cyeyepiece desc",
+                "buyout": 0
+            },
             "3978": {
                 "slug": "clothing_r20_slumberoutfit",
                 "name": "Ora della Nanna",
@@ -3577,6 +3625,12 @@
             "1401": null
         },
         "fa": {
+            "4014": {
+                "slug": "clothing_cygasmask",
+                "name": "Maschera a Gas Cyberpunk",
+                "description": "clothing_cygasmask desc",
+                "buyout": 0
+            },
             "3993": {
                 "slug": "clothing_nt_pencilmoustache",
                 "name": "Baffi Disegnati (Non scambiabili)",
@@ -4126,6 +4180,12 @@
         "cc": {
             "9865": null,
             "9563": null,
+            "4026": {
+                "slug": "clothing_r20_cyborgwings",
+                "name": "Robo-Ali Cyberpunk",
+                "description": "clothing_r20_cyborgwings desc",
+                "buyout": 0
+            },
             "3992": {
                 "slug": "clothing_r20_neonpunkset",
                 "name": "Neon Punk",

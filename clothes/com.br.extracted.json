@@ -17,6 +17,12 @@
     "clothing": {
         "hr": {
             "9534": null,
+            "4020": {
+                "slug": "clothing_cybuns",
+                "name": "Coque Duplo Cyberpunk",
+                "description": "clothing_cybuns desc",
+                "buyout": 0
+            },
             "3998": {
                 "slug": "clothing_modernshortwave",
                 "name": "Penteado Ondulado Vintage",
@@ -602,6 +608,12 @@
             "100": null
         },
         "hd": {
+            "4015": {
+                "slug": "clothing_r20_cyborgface",
+                "name": "Emo\u00e7\u00f5es Cibern\u00e9ticas",
+                "description": "clothing_r20_cyborgface desc",
+                "buyout": 0
+            },
             "3997": {
                 "slug": "clothing_nt_chiseledface",
                 "name": "Rosto Marcado (n\u00e3o negoci\u00e1vel)",
@@ -718,6 +730,12 @@
             "180": null
         },
         "ch": {
+            "4025": {
+                "slug": "clothing_cychest",
+                "name": "Armadura Cibern\u00e9tica Cyberpunk",
+                "description": "clothing_cychest desc",
+                "buyout": 0
+            },
             "4004": {
                 "slug": "clothing_h20th",
                 "name": "Camiseta 20 Anos Habbo",
@@ -1645,6 +1663,12 @@
             "210": null
         },
         "lg": {
+            "4017": {
+                "slug": "clothing_cylegs",
+                "name": "Cal\u00e7a Cyberpunk",
+                "description": "clothing_cylegs desc",
+                "buyout": 0
+            },
             "4002": {
                 "slug": "clothing_r20_gothicset",
                 "name": "Visual Eleg\u00e2ncia G\u00f3tica",
@@ -1916,6 +1940,12 @@
             "270": null
         },
         "sh": {
+            "4016": {
+                "slug": "clothing_cytrainers",
+                "name": "T\u00eanis Cyberpunk",
+                "description": "clothing_cytrainers desc",
+                "buyout": 0
+            },
             "3783": {
                 "slug": "clothing_r19_scuffedboots",
                 "name": "Botas Roqueiras",
@@ -2058,6 +2088,12 @@
             "290": null
         },
         "ha": {
+            "4018": {
+                "slug": "clothing_cyhelmet",
+                "name": "Capacete Cyberpunk",
+                "description": "clothing_cyhelmet desc",
+                "buyout": 0
+            },
             "3986": {
                 "slug": "clothing_darkelegantset",
                 "name": "Visual Realeza Urbana",
@@ -2964,6 +3000,12 @@
             "1001": null
         },
         "he": {
+            "4019": {
+                "slug": "clothing_cyfins",
+                "name": "Conex\u00e3o Cyberpunk",
+                "description": "clothing_cyfins desc",
+                "buyout": 0
+            },
             "3999": {
                 "slug": "clothing_r20_gothicset",
                 "name": "Visual Eleg\u00e2ncia G\u00f3tica",
@@ -3388,6 +3430,12 @@
             "1601": null
         },
         "ea": {
+            "4021": {
+                "slug": "clothing_cyeyepiece",
+                "name": "Holo-visor Cyberpunk",
+                "description": "clothing_cyeyepiece desc",
+                "buyout": 0
+            },
             "3978": {
                 "slug": "clothing_r20_slumberoutfit",
                 "name": "Visual Hora de Dormir",
@@ -3577,6 +3625,12 @@
             "1401": null
         },
         "fa": {
+            "4014": {
+                "slug": "clothing_cygasmask",
+                "name": "M\u00e1scara Cyberpunk",
+                "description": "clothing_cygasmask desc",
+                "buyout": 0
+            },
             "3993": {
                 "slug": "clothing_nt_pencilmoustache",
                 "name": "Bigodinho L\u00e1pis (n\u00e3o negoci\u00e1vel)",
@@ -4126,6 +4180,12 @@
         "cc": {
             "9865": null,
             "9563": null,
+            "4026": {
+                "slug": "clothing_r20_cyborgwings",
+                "name": "Asas Cyberpunk",
+                "description": "clothing_r20_cyborgwings desc",
+                "buyout": 0
+            },
             "3992": {
                 "slug": "clothing_r20_neonpunkset",
                 "name": "Visual Neon Kawaii",
