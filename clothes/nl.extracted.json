@@ -19,7 +19,7 @@
             "9534": null,
             "4020": {
                 "slug": "clothing_cybuns",
-                "name": "Loc Buns",
+                "name": "Dreadlock Knotjes",
                 "description": "clothing_cybuns desc",
                 "buyout": 0
             },
@@ -610,7 +610,7 @@
         "hd": {
             "4015": {
                 "slug": "clothing_r20_cyborgface",
-                "name": "Cybernetic Faceplate",
+                "name": "Cybernetisch Gezichtsmasker",
                 "description": "clothing_r20_cyborgface desc",
                 "buyout": 0
             },
@@ -732,7 +732,7 @@
         "ch": {
             "4025": {
                 "slug": "clothing_cychest",
-                "name": "Cyberpunk Battle Armour",
+                "name": "Cyberpunk Battle Pantser",
                 "description": "clothing_cychest desc",
                 "buyout": 0
             },
@@ -1665,7 +1665,7 @@
         "lg": {
             "4017": {
                 "slug": "clothing_cylegs",
-                "name": "Cyberpunk Striders",
+                "name": "Cyberpunk Pantserbroek",
                 "description": "clothing_cylegs desc",
                 "buyout": 0
             },
@@ -2090,7 +2090,7 @@
         "ha": {
             "4018": {
                 "slug": "clothing_cyhelmet",
-                "name": "Cyberpunk Visor",
+                "name": "Cyberpunk Vizier",
                 "description": "clothing_cyhelmet desc",
                 "buyout": 0
             },
@@ -3002,7 +3002,7 @@
         "he": {
             "4019": {
                 "slug": "clothing_cyfins",
-                "name": "Cyberpunk Fins",
+                "name": "Cyberpunk Oortjes",
                 "description": "clothing_cyfins desc",
                 "buyout": 0
             },
@@ -3627,7 +3627,7 @@
         "fa": {
             "4014": {
                 "slug": "clothing_cygasmask",
-                "name": "Cyberpunk Gas Mask",
+                "name": "Cyberpunk Gasmasker",
                 "description": "clothing_cygasmask desc",
                 "buyout": 0
             },
@@ -4182,7 +4182,7 @@
             "9563": null,
             "4026": {
                 "slug": "clothing_r20_cyborgwings",
-                "name": "Cyberpunk Robo-Wings",
+                "name": "Cyberpunk Robo-Vleugels",
                 "description": "clothing_r20_cyborgwings desc",
                 "buyout": 0
             },

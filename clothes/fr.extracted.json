@@ -19,7 +19,7 @@
             "9534": null,
             "4020": {
                 "slug": "clothing_cybuns",
-                "name": "Double chignon",
+                "name": "Double Chignon",
                 "description": "clothing_cybuns desc",
                 "buyout": 0
             },
@@ -732,7 +732,7 @@
         "ch": {
             "4025": {
                 "slug": "clothing_cychest",
-                "name": "Armure de bataille Cyberpunk",
+                "name": "Armure de Bataille Cyberpunk",
                 "description": "clothing_cychest desc",
                 "buyout": 0
             },
@@ -3627,7 +3627,7 @@
         "fa": {
             "4014": {
                 "slug": "clothing_cygasmask",
-                "name": "Masque \u00e0 gaz Cyberpunk",
+                "name": "Masque \u00e0 Gaz Cyberpunk",
                 "description": "clothing_cygasmask desc",
                 "buyout": 0
             },
