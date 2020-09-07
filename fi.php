@@ -165,25 +165,25 @@ return [
     "days" => "päivää",
 
     // Habbo Ticker
-    "Latest updates from Habbo Ticker" => "Latest updates from Habbo Ticker",
+    "Latest updates from Habbo Ticker" => "Viimeisimmät päivitykset Habbo Tickeriltä",
     // This habbo added more than 5 new badges, 3 new groups and changed their look
-    "changed their motto" => "changed their motto",
-    "changed their look" => "changed their look",
-    "more than x" => "more than %d",
-    "new badge(s)" => "new badge(s)",
-    "new group(s)" => "new group(s)",
-    "new room(s)" => "new room(s)",
-    "new friend(s)" => "new friend(s)",
-    "new photo(s)" => "new photo(s)",
-    "joined" => "joined", // This habbo joined Habbowidgets
-    "added" => "added", // you can also replace this with "has"
+    "changed their motto" => "muuttivat mottoaan",
+    "changed their look" => "muuttivat ulkonäköään",
+    "more than x" => "enemmän kuin %d",
+    "new badge(s)" => "uusi merkki(s)",
+    "new group(s)" => "uusi ryhmä(s)",
+    "new room(s)" => "uusi huone(s)",
+    "new friend(s)" => "uusi ystävä(s)",
+    "new photo(s)" => "uusi valokuva(s)",
+    "joined" => "liittyi", // This habbo joined Habbowidgets
+    "added" => "lisätty", // you can also replace this with "has"
 
     // Habbo Closet
-    "Habbo Closet" => "Habbo Closet",
-    "What are Habbos wearing?" => "What are Habbos wearing?",
-    "Back to closet" => "Back to closet",
-    "No Habbos are wearing this piece of clothing." => "No Habbos are wearing this piece of clothing.",
-    "Try something else" => "Try something else",
-    "Search for .." => "Search for ..",
-    "No clothing items found.." => "No clothing items found..",
+    "Habbo Closet" => "Habbo Vaatekaappi",
+    "What are Habbos wearing?" => "Mitä Habbot käyttävät?",
+    "Back to closet" => "Takaisin kaappiin",
+    "No Habbos are wearing this piece of clothing." => "Yksikään Habbo ei käytä tätä vaatetta.",
+    "Try something else" => "Kokeile jotain muuta",
+    "Search for .." => "Etsiä ..",
+    "No clothing items found.." => "Vaatetuotteita ei löytynyt ..",
 ];
