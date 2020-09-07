@@ -164,25 +164,25 @@ return [
     "days" => "días",
 
     // Habbo Ticker
-    "Latest updates from Habbo Ticker" => "Latest updates from Habbo Ticker",
+    "Latest updates from Habbo Ticker" => "Últimas actualizaciones de Habbo Ticker",
     // This habbo added more than 5 new badges, 3 new groups and changed their look
-    "changed their motto" => "changed their motto",
-    "changed their look" => "changed their look",
-    "more than x" => "more than %d",
-    "new badge(s)" => "new badge(s)",
-    "new group(s)" => "new group(s)",
-    "new room(s)" => "new room(s)",
-    "new friend(s)" => "new friend(s)",
-    "new photo(s)" => "new photo(s)",
-    "joined" => "joined", // This habbo joined Habbowidgets
-    "added" => "added", // you can also replace this with "has"
+    "changed their motto" => "cambió su lema",
+    "changed their look" => "cambió su apariencia",
+    "more than x" => "mas que %d",
+    "new badge(s)" => "nueva placa(s)",
+    "new group(s)" => "nuevo grupo(s)",
+    "new room(s)" => "nueva sala(s)",
+    "new friend(s)" => "nuevo amigo(s)",
+    "new photo(s)" => "nueva foto(s)",
+    "joined" => "unido", // This habbo joined Habbowidgets
+    "added" => "adicional", // you can also replace this with "has"
 
     // Habbo Closet
-    "Habbo Closet" => "Habbo Closet",
-    "What are Habbos wearing?" => "What are Habbos wearing?",
-    "Back to closet" => "Back to closet",
-    "No Habbos are wearing this piece of clothing." => "No Habbos are wearing this piece of clothing.",
-    "Try something else" => "Try something else",
-    "Search for .." => "Search for ..",
-    "No clothing items found.." => "No clothing items found..",
+    "Habbo Closet" => "Armario Habbo",
+    "What are Habbos wearing?" => "¿Qué llevan Habbos?",
+    "Back to closet" => "Volver al armario",
+    "No Habbos are wearing this piece of clothing." => "Ningún habbos está usando esta pieza de ropa.",
+    "Try something else" => "Prueba algo mas",
+    "Search for .." => "Buscar ..",
+    "No clothing items found.." => "No se encontraron prendas de vestir..",
 ];
