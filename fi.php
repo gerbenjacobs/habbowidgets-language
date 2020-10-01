@@ -14,7 +14,7 @@ return [
     "About" => "Tietoa",
 
     // Layout
-    "Copyright" => "Copyright",
+    "Copyright" => "Tekijänoikeus",
     /* -- "Made with :love: by :link: using the :link:" */
     "Made with" => "Tämän sivuston on tehnyt",
     "by" => ":lla",
@@ -42,10 +42,10 @@ return [
     "Birthdays in Habbo." => "Syntymäpäivät hotellissa Habbo.",
     "Do you know anyone?" => "Tunnetko ketään?",
     "There are no birthdays in this hotel as far as we know?" => "Tässä hotellissa ei ole syntymäpäiviä? Ei ainakaan meidän tietojemme mukaan.",
-    "Pick another date" => "Pick another date",
-    "All years" => "All years",
-    "You have supplied an invalid date" => "You have supplied an invalid date",
-    "This date lies in the future and can not be used" => "This date lies in the future and can not be used",
+    "Pick another date" => "Valitse toinen päivämäärä",
+    "All years" => "Kaikki vuodet",
+    "You have supplied an invalid date" => "Olet antanut virheellisen päivämäärän",
+    "This date lies in the future and can not be used" => "Tämä päivämäärä on tulevaisuudessa, eikä sitä voida käyttää",
 
     // Habinfo Form
     "Find Habinfo on.." => "Hae Habinfo..",
@@ -118,8 +118,8 @@ return [
     "Go to Groups" => "Mene ryhmiin",
     "Go to Rooms" => "Mene huoneisiin",
     "Go to Photos" => "Mene valokuviin",
-    "Toggle achievements" => "Toggle achievements",
-    "Toggle unique badges" => "Toggle unique badges",
+    "Toggle achievements" => "Vaihda saavutuksia",
+    "Toggle unique badges" => "Vaihda ainutlaatuiset merkit",
 
     // Maintenance
     "Maintenance.." => "Huoltokatko..",
