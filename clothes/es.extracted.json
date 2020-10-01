@@ -608,6 +608,12 @@
             "100": null
         },
         "hd": {
+            "4023": {
+                "slug": "clothing_multieyesface",
+                "name": "Mirada m\u00faltiple",
+                "description": "clothing_multieyesface desc",
+                "buyout": 0
+            },
             "4015": {
                 "slug": "clothing_r20_cyborgface",
                 "name": "M\u00e1scara cibern\u00e9tica",
@@ -1669,6 +1675,18 @@
                 "description": "clothing_cylegs desc",
                 "buyout": 0
             },
+            "4012": {
+                "slug": "clothing_nt_webskirt",
+                "name": "Falda red (no tradeable)",
+                "description": "clothing_nt_webskirt desc",
+                "buyout": 0
+            },
+            "4011": {
+                "slug": "clothing_r20_pumpkinoutfit",
+                "name": "Disfraz de calabaza",
+                "description": "clothing_r20_pumpkinoutfit desc",
+                "buyout": 0
+            },
             "4002": {
                 "slug": "clothing_r20_gothicset",
                 "name": "Disfraz g\u00f3tico",
@@ -2092,6 +2110,30 @@
                 "slug": "clothing_cyhelmet",
                 "name": "Visor Ciberpunk",
                 "description": "clothing_cyhelmet desc",
+                "buyout": 0
+            },
+            "4009": {
+                "slug": "clothing_tentaclehead",
+                "name": "Tent\u00e1culos craneales",
+                "description": "clothing_tentaclehead desc",
+                "buyout": 0
+            },
+            "4008": {
+                "slug": "clothing_r20_pumpkinoutfit",
+                "name": "Disfraz de calabaza",
+                "description": "clothing_r20_pumpkinoutfit desc",
+                "buyout": 0
+            },
+            "4007": {
+                "slug": "clothing_crookedhat",
+                "name": "Sombrero de bruja en zigzag",
+                "description": "clothing_crookedhat desc",
+                "buyout": 0
+            },
+            "4006": {
+                "slug": "clothing_ghost",
+                "name": "Fantasma acechador",
+                "description": "clothing_ghost desc",
                 "buyout": 0
             },
             "3986": {
@@ -3000,6 +3042,12 @@
             "1001": null
         },
         "he": {
+            "4022": {
+                "slug": "clothing_wingstiara",
+                "name": "Tiara Patuna Deluxe",
+                "description": "clothing_wingstiara desc",
+                "buyout": 0
+            },
             "4019": {
                 "slug": "clothing_cyfins",
                 "name": "Aletas Ciberpunk",
@@ -3631,6 +3679,12 @@
                 "description": "clothing_cygasmask desc",
                 "buyout": 0
             },
+            "4013": {
+                "slug": "clothing_clownmask",
+                "name": "M\u00e1scara de payaso",
+                "description": "clothing_clownmask desc",
+                "buyout": 0
+            },
             "3993": {
                 "slug": "clothing_nt_pencilmoustache",
                 "name": "Bigote a lapiz (No tradeable)",
@@ -3831,6 +3885,12 @@
             "1201": null
         },
         "ca": {
+            "4005": {
+                "slug": "clothing_pumpkinbag",
+                "name": "Mochila calabaza",
+                "description": "clothing_pumpkinbag desc",
+                "buyout": 0
+            },
             "3989": {
                 "slug": "clothing_r20_neonpunkset",
                 "name": "Ne\u00f3n Punk",
@@ -4184,6 +4244,12 @@
                 "slug": "clothing_r20_cyborgwings",
                 "name": "Alas robotizadas Ciberpunk",
                 "description": "clothing_r20_cyborgwings desc",
+                "buyout": 0
+            },
+            "4010": {
+                "slug": "clothing_r20_pumpkinoutfit",
+                "name": "Disfraz de calabaza",
+                "description": "clothing_r20_pumpkinoutfit desc",
                 "buyout": 0
             },
             "3992": {

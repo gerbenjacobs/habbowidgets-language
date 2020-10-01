@@ -608,6 +608,12 @@
             "100": null
         },
         "hd": {
+            "4023": {
+                "slug": "clothing_multieyesface",
+                "name": "Yeux Multiples",
+                "description": "clothing_multieyesface desc",
+                "buyout": 0
+            },
             "4015": {
                 "slug": "clothing_r20_cyborgface",
                 "name": "Masque Cybern\u00e9tique",
@@ -1669,6 +1675,18 @@
                 "description": "clothing_cylegs desc",
                 "buyout": 0
             },
+            "4012": {
+                "slug": "clothing_nt_webskirt",
+                "name": "Jupe Toile d'araign\u00e9e (non \u00e9changeable)",
+                "description": "clothing_nt_webskirt desc",
+                "buyout": 0
+            },
+            "4011": {
+                "slug": "clothing_r20_pumpkinoutfit",
+                "name": "Costume de citrouille",
+                "description": "clothing_r20_pumpkinoutfit desc",
+                "buyout": 0
+            },
             "4002": {
                 "slug": "clothing_r20_gothicset",
                 "name": "Robe Fantaisie Gothique",
@@ -2092,6 +2110,30 @@
                 "slug": "clothing_cyhelmet",
                 "name": "Casque Cyberpunk",
                 "description": "clothing_cyhelmet desc",
+                "buyout": 0
+            },
+            "4009": {
+                "slug": "clothing_tentaclehead",
+                "name": "Cheveux Tentacules",
+                "description": "clothing_tentaclehead desc",
+                "buyout": 0
+            },
+            "4008": {
+                "slug": "clothing_r20_pumpkinoutfit",
+                "name": "Costume de citrouille",
+                "description": "clothing_r20_pumpkinoutfit desc",
+                "buyout": 0
+            },
+            "4007": {
+                "slug": "clothing_crookedhat",
+                "name": "Chapeau de Sorci\u00e8re crochu",
+                "description": "clothing_crookedhat desc",
+                "buyout": 0
+            },
+            "4006": {
+                "slug": "clothing_ghost",
+                "name": "Fant\u00f4me traqueur",
+                "description": "clothing_ghost desc",
                 "buyout": 0
             },
             "3986": {
@@ -3000,6 +3042,12 @@
             "1001": null
         },
         "he": {
+            "4022": {
+                "slug": "clothing_wingstiara",
+                "name": "Tiare de Canard Divin",
+                "description": "clothing_wingstiara desc",
+                "buyout": 0
+            },
             "4019": {
                 "slug": "clothing_cyfins",
                 "name": "Ailettes Cyberpunk",
@@ -3631,6 +3679,12 @@
                 "description": "clothing_cygasmask desc",
                 "buyout": 0
             },
+            "4013": {
+                "slug": "clothing_clownmask",
+                "name": "Masque de clown",
+                "description": "clothing_clownmask desc",
+                "buyout": 0
+            },
             "3993": {
                 "slug": "clothing_nt_pencilmoustache",
                 "name": "Fine Moustache (non \u00e9changeable)",
@@ -3831,6 +3885,12 @@
             "1201": null
         },
         "ca": {
+            "4005": {
+                "slug": "clothing_pumpkinbag",
+                "name": "Sac-\u00e0-dos Citrouille",
+                "description": "clothing_pumpkinbag desc",
+                "buyout": 0
+            },
             "3989": {
                 "slug": "clothing_r20_neonpunkset",
                 "name": "N\u00e9on Punk",
@@ -4184,6 +4244,12 @@
                 "slug": "clothing_r20_cyborgwings",
                 "name": "Ailes Robotiques Cyberpunk",
                 "description": "clothing_r20_cyborgwings desc",
+                "buyout": 0
+            },
+            "4010": {
+                "slug": "clothing_r20_pumpkinoutfit",
+                "name": "Costume de citrouille",
+                "description": "clothing_r20_pumpkinoutfit desc",
                 "buyout": 0
             },
             "3992": {
