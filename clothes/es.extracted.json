@@ -17,6 +17,12 @@
     "clothing": {
         "hr": {
             "9534": null,
+            "4024": {
+                "slug": "clothing_r20_possessedhair",
+                "name": "Pelo viviente",
+                "description": "clothing_r20_possessedhair desc",
+                "buyout": 0
+            },
             "4020": {
                 "slug": "clothing_cybuns",
                 "name": "Mo\u00f1os fijos",
@@ -2134,7 +2140,7 @@
                 "slug": "clothing_ghost",
                 "name": "Fantasma acechador",
                 "description": "clothing_ghost desc",
-                "buyout": 0
+                "buyout": 1
             },
             "3986": {
                 "slug": "clothing_darkelegantset",
@@ -3683,7 +3689,7 @@
                 "slug": "clothing_clownmask",
                 "name": "M\u00e1scara de payaso",
                 "description": "clothing_clownmask desc",
-                "buyout": 0
+                "buyout": 1
             },
             "3993": {
                 "slug": "clothing_nt_pencilmoustache",
@@ -3889,7 +3895,7 @@
                 "slug": "clothing_pumpkinbag",
                 "name": "Mochila calabaza",
                 "description": "clothing_pumpkinbag desc",
-                "buyout": 0
+                "buyout": 1
             },
             "3989": {
                 "slug": "clothing_r20_neonpunkset",

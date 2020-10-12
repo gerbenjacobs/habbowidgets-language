@@ -17,6 +17,12 @@
     "clothing": {
         "hr": {
             "9534": null,
+            "4024": {
+                "slug": "clothing_r20_possessedhair",
+                "name": "Cheveux vivants",
+                "description": "clothing_r20_possessedhair desc",
+                "buyout": 0
+            },
             "4020": {
                 "slug": "clothing_cybuns",
                 "name": "Double Chignon",
@@ -2134,7 +2140,7 @@
                 "slug": "clothing_ghost",
                 "name": "Fant\u00f4me traqueur",
                 "description": "clothing_ghost desc",
-                "buyout": 0
+                "buyout": 1
             },
             "3986": {
                 "slug": "clothing_darkelegantset",
@@ -3683,7 +3689,7 @@
                 "slug": "clothing_clownmask",
                 "name": "Masque de clown",
                 "description": "clothing_clownmask desc",
-                "buyout": 0
+                "buyout": 1
             },
             "3993": {
                 "slug": "clothing_nt_pencilmoustache",
@@ -3889,7 +3895,7 @@
                 "slug": "clothing_pumpkinbag",
                 "name": "Sac-\u00e0-dos Citrouille",
                 "description": "clothing_pumpkinbag desc",
-                "buyout": 0
+                "buyout": 1
             },
             "3989": {
                 "slug": "clothing_r20_neonpunkset",
