@@ -618,7 +618,7 @@
                 "slug": "clothing_multieyesface",
                 "name": "Overal Ogen",
                 "description": "clothing_multieyesface desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4015": {
                 "slug": "clothing_r20_cyborgface",
@@ -2122,7 +2122,7 @@
                 "slug": "clothing_tentaclehead",
                 "name": "Schedel Tentakels",
                 "description": "clothing_tentaclehead desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4008": {
                 "slug": "clothing_r20_pumpkinoutfit",
@@ -2134,7 +2134,7 @@
                 "slug": "clothing_crookedhat",
                 "name": "Scheve Heksenhoed",
                 "description": "clothing_crookedhat desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4006": {
                 "slug": "clothing_ghost",
@@ -3052,7 +3052,7 @@
                 "slug": "clothing_wingstiara",
                 "name": "Hemelse Eendenkroon",
                 "description": "clothing_wingstiara desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4019": {
                 "slug": "clothing_cyfins",
