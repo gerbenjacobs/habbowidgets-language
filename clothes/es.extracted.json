@@ -17,6 +17,12 @@
     "clothing": {
         "hr": {
             "9534": null,
+            "4031": {
+                "slug": "clothing_braidedwavyhair",
+                "name": "clothing_braidedwavyhair name",
+                "description": "clothing_braidedwavyhair desc",
+                "buyout": 0
+            },
             "4024": {
                 "slug": "clothing_r20_possessedhair",
                 "name": "Pelo viviente",
@@ -1675,6 +1681,12 @@
             "210": null
         },
         "lg": {
+            "4034": {
+                "slug": "clothing_kilt",
+                "name": "clothing_kilt name",
+                "description": "clothing_kilt desc",
+                "buyout": 0
+            },
             "4017": {
                 "slug": "clothing_cylegs",
                 "name": "Zancos Ciberpunk",
@@ -1964,6 +1976,12 @@
             "270": null
         },
         "sh": {
+            "4030": {
+                "slug": "clothing_r20_inuit",
+                "name": "clothing_r20_inuit name",
+                "description": "clothing_r20_inuit desc",
+                "buyout": 0
+            },
             "4016": {
                 "slug": "clothing_cytrainers",
                 "name": "Deportivas Ciberpunk",
@@ -2112,6 +2130,24 @@
             "290": null
         },
         "ha": {
+            "4039": {
+                "slug": "clothing_r20_bearset",
+                "name": "Accesorios de Invierno Oso",
+                "description": "clothing_r20_bearset desc",
+                "buyout": 0
+            },
+            "4038": {
+                "slug": "clothing_unicornrainbow",
+                "name": "Sombrero Unicornio 2.0",
+                "description": "clothing_unicornrainbow desc",
+                "buyout": 0
+            },
+            "4027": {
+                "slug": "clothing_r20_inuit",
+                "name": "clothing_r20_inuit name",
+                "description": "clothing_r20_inuit desc",
+                "buyout": 0
+            },
             "4018": {
                 "slug": "clothing_cyhelmet",
                 "name": "Visor Ciberpunk",
@@ -3891,6 +3927,18 @@
             "1201": null
         },
         "ca": {
+            "4037": {
+                "slug": "clothing_r20_teddybpack",
+                "name": "Mochila Oso",
+                "description": "clothing_r20_teddybpack desc",
+                "buyout": 0
+            },
+            "4036": {
+                "slug": "clothing_nt_lanternstaff",
+                "name": "clothing_nt_lanternstaff name",
+                "description": "clothing_nt_lanternstaff desc",
+                "buyout": 0
+            },
             "4005": {
                 "slug": "clothing_pumpkinbag",
                 "name": "Mochila calabaza",
@@ -4166,6 +4214,12 @@
             "1801": null
         },
         "wa": {
+            "4040": {
+                "slug": "clothing_r20_bearset",
+                "name": "Accesorios de Invierno Oso",
+                "description": "clothing_r20_bearset desc",
+                "buyout": 0
+            },
             "3895": {
                 "slug": "clothing_rat",
                 "name": "Accesorios Ratiles",
@@ -4246,6 +4300,36 @@
         "cc": {
             "9865": null,
             "9563": null,
+            "4041": {
+                "slug": "clothing_r20_bearset",
+                "name": "Accesorios de Invierno Oso",
+                "description": "clothing_r20_bearset desc",
+                "buyout": 0
+            },
+            "4033": {
+                "slug": "clothing_nt_kilttop",
+                "name": "clothing_nt_kilttop name",
+                "description": "clothing_nt_kilttop desc",
+                "buyout": 0
+            },
+            "4032": {
+                "slug": "clothing_r20_dragonflywings",
+                "name": "clothing_r20_dragonflywings name",
+                "description": "clothing_r20_dragonflywings desc",
+                "buyout": 0
+            },
+            "4029": {
+                "slug": "clothing_r20_inuit",
+                "name": "clothing_r20_inuit name",
+                "description": "clothing_r20_inuit desc",
+                "buyout": 0
+            },
+            "4028": {
+                "slug": "clothing_r20_inuit",
+                "name": "clothing_r20_inuit name",
+                "description": "clothing_r20_inuit desc",
+                "buyout": 0
+            },
             "4026": {
                 "slug": "clothing_r20_cyborgwings",
                 "name": "Alas robotizadas Ciberpunk",
