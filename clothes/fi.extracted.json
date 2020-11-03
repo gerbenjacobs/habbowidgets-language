@@ -18,9 +18,9 @@
         "hr": {
             "9534": null,
             "4031": {
-                "slug": "clothing_braidedwavyhair",
-                "name": "clothing_braidedwavyhair name",
-                "description": "clothing_braidedwavyhair desc",
+                "slug": "clothing_nt_braidedwavyhair",
+                "name": "Nordic Braids (non-tradable)",
+                "description": "clothing_nt_braidedwavyhair desc",
                 "buyout": 0
             },
             "4024": {
