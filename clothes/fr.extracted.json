@@ -2132,13 +2132,13 @@
         "ha": {
             "4039": {
                 "slug": "clothing_r20_bearset",
-                "name": "Winter Bear Accessories",
+                "name": "Accessoires Ours d'hiver",
                 "description": "clothing_r20_bearset desc",
                 "buyout": 0
             },
             "4038": {
                 "slug": "clothing_unicornrainbow",
-                "name": "Unicorn Hat 2.0",
+                "name": "Chapeau Licorne 2.0",
                 "description": "clothing_unicornrainbow desc",
                 "buyout": 0
             },
@@ -3929,7 +3929,7 @@
         "ca": {
             "4037": {
                 "slug": "clothing_r20_teddybpack",
-                "name": "Bear Backpack",
+                "name": "Sac-\u00e0-dos Ours",
                 "description": "clothing_r20_teddybpack desc",
                 "buyout": 0
             },
@@ -4216,7 +4216,7 @@
         "wa": {
             "4040": {
                 "slug": "clothing_r20_bearset",
-                "name": "Winter Bear Accessories",
+                "name": "Accessoires Ours d'hiver",
                 "description": "clothing_r20_bearset desc",
                 "buyout": 0
             },
@@ -4302,7 +4302,7 @@
             "9563": null,
             "4041": {
                 "slug": "clothing_r20_bearset",
-                "name": "Winter Bear Accessories",
+                "name": "Accessoires Ours d'hiver",
                 "description": "clothing_r20_bearset desc",
                 "buyout": 0
             },
