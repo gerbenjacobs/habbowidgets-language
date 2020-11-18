@@ -19,7 +19,7 @@
             "9534": null,
             "4031": {
                 "slug": "clothing_nt_braidedwavyhair",
-                "name": "Nordic Braids (non-tradable)",
+                "name": "Nordic \u00d6rg\u00fcler (takas yap\u0131lamaz)",
                 "description": "clothing_nt_braidedwavyhair desc",
                 "buyout": 0
             },
@@ -1683,7 +1683,7 @@
         "lg": {
             "4034": {
                 "slug": "clothing_kilt",
-                "name": "clothing_kilt name",
+                "name": "\u0130sko\u00e7 Ete\u011fi",
                 "description": "clothing_kilt desc",
                 "buyout": 0
             },
@@ -1978,7 +1978,7 @@
         "sh": {
             "4030": {
                 "slug": "clothing_r20_inuit",
-                "name": "clothing_r20_inuit name",
+                "name": "Inuit K\u0131yafeti",
                 "description": "clothing_r20_inuit desc",
                 "buyout": 0
             },
@@ -2144,7 +2144,7 @@
             },
             "4027": {
                 "slug": "clothing_r20_inuit",
-                "name": "clothing_r20_inuit name",
+                "name": "Inuit K\u0131yafeti",
                 "description": "clothing_r20_inuit desc",
                 "buyout": 0
             },
@@ -3935,7 +3935,7 @@
             },
             "4036": {
                 "slug": "clothing_nt_lanternstaff",
-                "name": "clothing_nt_lanternstaff name",
+                "name": "Arka Fener (takas yap\u0131lamaz)",
                 "description": "clothing_nt_lanternstaff desc",
                 "buyout": 0
             },
@@ -4308,25 +4308,25 @@
             },
             "4033": {
                 "slug": "clothing_nt_kilttop",
-                "name": "clothing_nt_kilttop name",
+                "name": "\u0130sko\u00e7 Ku\u015fa\u011f\u0131 (takas yap\u0131lamaz)",
                 "description": "clothing_nt_kilttop desc",
                 "buyout": 0
             },
             "4032": {
                 "slug": "clothing_r20_dragonflywings",
-                "name": "clothing_r20_dragonflywings name",
+                "name": "Yusuf\u00e7uk Kanatlar\u0131",
                 "description": "clothing_r20_dragonflywings desc",
                 "buyout": 0
             },
             "4029": {
                 "slug": "clothing_r20_inuit",
-                "name": "clothing_r20_inuit name",
+                "name": "Inuit K\u0131yafeti",
                 "description": "clothing_r20_inuit desc",
                 "buyout": 0
             },
             "4028": {
                 "slug": "clothing_r20_inuit",
-                "name": "clothing_r20_inuit name",
+                "name": "Inuit K\u0131yafeti",
                 "description": "clothing_r20_inuit desc",
                 "buyout": 0
             },
