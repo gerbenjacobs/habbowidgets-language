@@ -19,7 +19,7 @@
             "9534": null,
             "4031": {
                 "slug": "clothing_nt_braidedwavyhair",
-                "name": "Nordic Braids (non-tradable)",
+                "name": "Tran\u00e7as N\u00f3rdicas (n\u00e3o negoci\u00e1vel)",
                 "description": "clothing_nt_braidedwavyhair desc",
                 "buyout": 0
             },
@@ -1683,7 +1683,7 @@
         "lg": {
             "4034": {
                 "slug": "clothing_kilt",
-                "name": "clothing_kilt name",
+                "name": "Kilt Tartan",
                 "description": "clothing_kilt desc",
                 "buyout": 0
             },
@@ -1978,7 +1978,7 @@
         "sh": {
             "4030": {
                 "slug": "clothing_r20_inuit",
-                "name": "clothing_r20_inuit name",
+                "name": "Visual Inuit",
                 "description": "clothing_r20_inuit desc",
                 "buyout": 0
             },
@@ -2144,7 +2144,7 @@
             },
             "4027": {
                 "slug": "clothing_r20_inuit",
-                "name": "clothing_r20_inuit name",
+                "name": "Visual Inuit",
                 "description": "clothing_r20_inuit desc",
                 "buyout": 0
             },
@@ -3935,7 +3935,7 @@
             },
             "4036": {
                 "slug": "clothing_nt_lanternstaff",
-                "name": "clothing_nt_lanternstaff name",
+                "name": "Cajado Luminoso (n\u00e3o negoci\u00e1vel)",
                 "description": "clothing_nt_lanternstaff desc",
                 "buyout": 0
             },
@@ -4308,25 +4308,25 @@
             },
             "4033": {
                 "slug": "clothing_nt_kilttop",
-                "name": "clothing_nt_kilttop name",
+                "name": "Faixa Tartan (n\u00e3o negoci\u00e1vel)",
                 "description": "clothing_nt_kilttop desc",
                 "buyout": 0
             },
             "4032": {
                 "slug": "clothing_r20_dragonflywings",
-                "name": "clothing_r20_dragonflywings name",
+                "name": "Asas Lib\u00e9lula",
                 "description": "clothing_r20_dragonflywings desc",
                 "buyout": 0
             },
             "4029": {
                 "slug": "clothing_r20_inuit",
-                "name": "clothing_r20_inuit name",
+                "name": "Visual Inuit",
                 "description": "clothing_r20_inuit desc",
                 "buyout": 0
             },
             "4028": {
                 "slug": "clothing_r20_inuit",
-                "name": "clothing_r20_inuit name",
+                "name": "Visual Inuit",
                 "description": "clothing_r20_inuit desc",
                 "buyout": 0
             },

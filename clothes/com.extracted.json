@@ -1683,7 +1683,7 @@
         "lg": {
             "4034": {
                 "slug": "clothing_kilt",
-                "name": "clothing_kilt name",
+                "name": "Tartan Kilt",
                 "description": "clothing_kilt desc",
                 "buyout": 0
             },
@@ -1978,7 +1978,7 @@
         "sh": {
             "4030": {
                 "slug": "clothing_r20_inuit",
-                "name": "clothing_r20_inuit name",
+                "name": "Inuit Outfit",
                 "description": "clothing_r20_inuit desc",
                 "buyout": 0
             },
@@ -2144,7 +2144,7 @@
             },
             "4027": {
                 "slug": "clothing_r20_inuit",
-                "name": "clothing_r20_inuit name",
+                "name": "Inuit Outfit",
                 "description": "clothing_r20_inuit desc",
                 "buyout": 0
             },
@@ -3935,7 +3935,7 @@
             },
             "4036": {
                 "slug": "clothing_nt_lanternstaff",
-                "name": "clothing_nt_lanternstaff name",
+                "name": "Back Lantern (non-tradable)",
                 "description": "clothing_nt_lanternstaff desc",
                 "buyout": 0
             },
@@ -4308,25 +4308,25 @@
             },
             "4033": {
                 "slug": "clothing_nt_kilttop",
-                "name": "clothing_nt_kilttop name",
+                "name": "Tartan Sash (non-tradable)",
                 "description": "clothing_nt_kilttop desc",
                 "buyout": 0
             },
             "4032": {
                 "slug": "clothing_r20_dragonflywings",
-                "name": "clothing_r20_dragonflywings name",
+                "name": "Dragonfly Wings",
                 "description": "clothing_r20_dragonflywings desc",
                 "buyout": 0
             },
             "4029": {
                 "slug": "clothing_r20_inuit",
-                "name": "clothing_r20_inuit name",
+                "name": "Inuit Outfit",
                 "description": "clothing_r20_inuit desc",
                 "buyout": 0
             },
             "4028": {
                 "slug": "clothing_r20_inuit",
-                "name": "clothing_r20_inuit name",
+                "name": "Inuit Outfit",
                 "description": "clothing_r20_inuit desc",
                 "buyout": 0
             },
