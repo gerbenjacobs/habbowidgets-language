@@ -1685,7 +1685,7 @@
                 "slug": "clothing_kilt",
                 "name": "Tartan Kilt",
                 "description": "clothing_kilt desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4017": {
                 "slug": "clothing_cylegs",
@@ -2130,6 +2130,60 @@
             "290": null
         },
         "ha": {
+            "4061": {
+                "slug": "clothing_r21_sunnycloudhat",
+                "name": "clothing_r21_sunnycloudhat name",
+                "description": "clothing_r21_sunnycloudhat desc",
+                "buyout": 0
+            },
+            "4057": {
+                "slug": "clothing_goldhatpack1",
+                "name": "clothing_goldhatpack1 name",
+                "description": "clothing_goldhatpack1 desc",
+                "buyout": 0
+            },
+            "4056": {
+                "slug": "clothing_goldhatpack1",
+                "name": "clothing_goldhatpack1 name",
+                "description": "clothing_goldhatpack1 desc",
+                "buyout": 0
+            },
+            "4055": {
+                "slug": "clothing_goldhatpack1",
+                "name": "clothing_goldhatpack1 name",
+                "description": "clothing_goldhatpack1 desc",
+                "buyout": 0
+            },
+            "4054": {
+                "slug": "clothing_goldhatpack1",
+                "name": "clothing_goldhatpack1 name",
+                "description": "clothing_goldhatpack1 desc",
+                "buyout": 0
+            },
+            "4053": {
+                "slug": "clothing_goldhatpack1",
+                "name": "clothing_goldhatpack1 name",
+                "description": "clothing_goldhatpack1 desc",
+                "buyout": 0
+            },
+            "4052": {
+                "slug": "clothing_goldhatpack1",
+                "name": "clothing_goldhatpack1 name",
+                "description": "clothing_goldhatpack1 desc",
+                "buyout": 0
+            },
+            "4051": {
+                "slug": "clothing_goldhatpack1",
+                "name": "clothing_goldhatpack1 name",
+                "description": "clothing_goldhatpack1 desc",
+                "buyout": 0
+            },
+            "4050": {
+                "slug": "clothing_goldhatpack1",
+                "name": "clothing_goldhatpack1 name",
+                "description": "clothing_goldhatpack1 desc",
+                "buyout": 0
+            },
             "4039": {
                 "slug": "clothing_r20_bearset",
                 "name": "Winter Bear Accessories",
@@ -3084,6 +3138,12 @@
             "1001": null
         },
         "he": {
+            "4059": {
+                "slug": "clothing_oxset",
+                "name": "clothing_oxset name",
+                "description": "clothing_oxset desc",
+                "buyout": 0
+            },
             "4022": {
                 "slug": "clothing_wingstiara",
                 "name": "Divine Duck Tiara",
@@ -3715,6 +3775,60 @@
             "1401": null
         },
         "fa": {
+            "4058": {
+                "slug": "clothing_oxset",
+                "name": "clothing_oxset name",
+                "description": "clothing_oxset desc",
+                "buyout": 0
+            },
+            "4049": {
+                "slug": "clothing_r20_mask8",
+                "name": "Blue Striped Facemask",
+                "description": "clothing_r20_mask8 desc",
+                "buyout": 0
+            },
+            "4048": {
+                "slug": "clothing_r20_mask7",
+                "name": "Grinning Facemask",
+                "description": "clothing_r20_mask7 desc",
+                "buyout": 0
+            },
+            "4047": {
+                "slug": "clothing_r20_mask6",
+                "name": "My Love Facemask",
+                "description": "clothing_r20_mask6 desc",
+                "buyout": 0
+            },
+            "4046": {
+                "slug": "clothing_r20_mask5",
+                "name": "Kitty Facemask",
+                "description": "clothing_r20_mask5 desc",
+                "buyout": 0
+            },
+            "4045": {
+                "slug": "clothing_r20_mask4",
+                "name": "Green Facemask",
+                "description": "clothing_r20_mask4 desc",
+                "buyout": 0
+            },
+            "4044": {
+                "slug": "clothing_r20_mask3",
+                "name": "Gold Facemask",
+                "description": "clothing_r20_mask3 desc",
+                "buyout": 0
+            },
+            "4043": {
+                "slug": "clothing_r20_mask2",
+                "name": "Floral Facemask",
+                "description": "clothing_r20_mask2 desc",
+                "buyout": 0
+            },
+            "4042": {
+                "slug": "clothing_r20_mask1",
+                "name": "Spotty Facemask",
+                "description": "clothing_r20_mask1 desc",
+                "buyout": 0
+            },
             "4014": {
                 "slug": "clothing_cygasmask",
                 "name": "Cyberpunk Gas Mask",
@@ -4214,6 +4328,12 @@
             "1801": null
         },
         "wa": {
+            "4060": {
+                "slug": "clothing_oxset",
+                "name": "clothing_oxset name",
+                "description": "clothing_oxset desc",
+                "buyout": 0
+            },
             "4040": {
                 "slug": "clothing_r20_bearset",
                 "name": "Winter Bear Accessories",
