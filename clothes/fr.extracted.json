@@ -2132,7 +2132,7 @@
         "ha": {
             "4061": {
                 "slug": "clothing_r21_sunnycloudhat",
-                "name": "clothing_r21_sunnycloudhat name",
+                "name": "Chapeau aube nuageuse",
                 "description": "clothing_r21_sunnycloudhat desc",
                 "buyout": 0
             },
@@ -2140,49 +2140,49 @@
                 "slug": "clothing_goldhatpack1",
                 "name": "Pack Chapeau dor\u00e9 v.1",
                 "description": "clothing_goldhatpack1 desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4056": {
                 "slug": "clothing_goldhatpack1",
                 "name": "Pack Chapeau dor\u00e9 v.1",
                 "description": "clothing_goldhatpack1 desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4055": {
                 "slug": "clothing_goldhatpack1",
                 "name": "Pack Chapeau dor\u00e9 v.1",
                 "description": "clothing_goldhatpack1 desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4054": {
                 "slug": "clothing_goldhatpack1",
                 "name": "Pack Chapeau dor\u00e9 v.1",
                 "description": "clothing_goldhatpack1 desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4053": {
                 "slug": "clothing_goldhatpack1",
                 "name": "Pack Chapeau dor\u00e9 v.1",
                 "description": "clothing_goldhatpack1 desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4052": {
                 "slug": "clothing_goldhatpack1",
                 "name": "Pack Chapeau dor\u00e9 v.1",
                 "description": "clothing_goldhatpack1 desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4051": {
                 "slug": "clothing_goldhatpack1",
                 "name": "Pack Chapeau dor\u00e9 v.1",
                 "description": "clothing_goldhatpack1 desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4050": {
                 "slug": "clothing_goldhatpack1",
                 "name": "Pack Chapeau dor\u00e9 v.1",
                 "description": "clothing_goldhatpack1 desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4039": {
                 "slug": "clothing_r20_bearset",
@@ -3785,49 +3785,49 @@
                 "slug": "clothing_r20_mask8",
                 "name": "Masque \u00e0 rayures bleues",
                 "description": "clothing_r20_mask8 desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4048": {
                 "slug": "clothing_r20_mask7",
                 "name": "Masque sourire",
                 "description": "clothing_r20_mask7 desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4047": {
                 "slug": "clothing_r20_mask6",
                 "name": "Masque romantique",
                 "description": "clothing_r20_mask6 desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4046": {
                 "slug": "clothing_r20_mask5",
                 "name": "Masque f\u00e9lin",
                 "description": "clothing_r20_mask5 desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4045": {
                 "slug": "clothing_r20_mask4",
                 "name": "Masque vert",
                 "description": "clothing_r20_mask4 desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4044": {
                 "slug": "clothing_r20_mask3",
                 "name": "Masque dor\u00e9",
                 "description": "clothing_r20_mask3 desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4043": {
                 "slug": "clothing_r20_mask2",
                 "name": "Masque floral",
                 "description": "clothing_r20_mask2 desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4042": {
                 "slug": "clothing_r20_mask1",
                 "name": "Masque \u00e0 pois",
                 "description": "clothing_r20_mask1 desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4014": {
                 "slug": "clothing_cygasmask",
