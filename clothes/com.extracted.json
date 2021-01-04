@@ -2132,7 +2132,7 @@
         "ha": {
             "4061": {
                 "slug": "clothing_r21_sunnycloudhat",
-                "name": "clothing_r21_sunnycloudhat name",
+                "name": "Sunrise Cloud Hat",
                 "description": "clothing_r21_sunnycloudhat desc",
                 "buyout": 0
             },
@@ -2140,49 +2140,49 @@
                 "slug": "clothing_goldhatpack1",
                 "name": "Golden Hat Pack v.1",
                 "description": "clothing_goldhatpack1 desc",
-                "buyout": 1
+                "buyout": 0
             },
             "4056": {
                 "slug": "clothing_goldhatpack1",
                 "name": "Golden Hat Pack v.1",
                 "description": "clothing_goldhatpack1 desc",
-                "buyout": 1
+                "buyout": 0
             },
             "4055": {
                 "slug": "clothing_goldhatpack1",
                 "name": "Golden Hat Pack v.1",
                 "description": "clothing_goldhatpack1 desc",
-                "buyout": 1
+                "buyout": 0
             },
             "4054": {
                 "slug": "clothing_goldhatpack1",
                 "name": "Golden Hat Pack v.1",
                 "description": "clothing_goldhatpack1 desc",
-                "buyout": 1
+                "buyout": 0
             },
             "4053": {
                 "slug": "clothing_goldhatpack1",
                 "name": "Golden Hat Pack v.1",
                 "description": "clothing_goldhatpack1 desc",
-                "buyout": 1
+                "buyout": 0
             },
             "4052": {
                 "slug": "clothing_goldhatpack1",
                 "name": "Golden Hat Pack v.1",
                 "description": "clothing_goldhatpack1 desc",
-                "buyout": 1
+                "buyout": 0
             },
             "4051": {
                 "slug": "clothing_goldhatpack1",
                 "name": "Golden Hat Pack v.1",
                 "description": "clothing_goldhatpack1 desc",
-                "buyout": 1
+                "buyout": 0
             },
             "4050": {
                 "slug": "clothing_goldhatpack1",
                 "name": "Golden Hat Pack v.1",
                 "description": "clothing_goldhatpack1 desc",
-                "buyout": 1
+                "buyout": 0
             },
             "4039": {
                 "slug": "clothing_r20_bearset",
