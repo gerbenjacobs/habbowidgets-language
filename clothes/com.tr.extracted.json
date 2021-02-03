@@ -17,6 +17,12 @@
     "clothing": {
         "hr": {
             "9534": null,
+            "4126": {
+                "slug": "clothing_r21_flowerhair",
+                "name": "Bahar Ate\u015fi Dalgalar\u0131",
+                "description": "clothing_r21_flowerhair desc",
+                "buyout": 0
+            },
             "4031": {
                 "slug": "clothing_nt_braidedwavyhair",
                 "name": "Nordic \u00d6rg\u00fcler (takas yap\u0131lamaz)",
@@ -748,6 +754,18 @@
             "180": null
         },
         "ch": {
+            "4128": {
+                "slug": "clothing_r21_valcorset",
+                "name": "clothing_r21_valcorset name",
+                "description": "clothing_r21_valcorset desc",
+                "buyout": 0
+            },
+            "4127": {
+                "slug": "clothing_r21_valcorset",
+                "name": "clothing_r21_valcorset name",
+                "description": "clothing_r21_valcorset desc",
+                "buyout": 0
+            },
             "4025": {
                 "slug": "clothing_cychest",
                 "name": "Cyberpunk Sava\u015f Z\u0131rh\u0131",

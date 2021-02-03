@@ -17,6 +17,12 @@
     "clothing": {
         "hr": {
             "9534": null,
+            "4126": {
+                "slug": "clothing_r21_flowerhair",
+                "name": "Fr\u00fchlingshafte Wellen",
+                "description": "clothing_r21_flowerhair desc",
+                "buyout": 0
+            },
             "4031": {
                 "slug": "clothing_nt_braidedwavyhair",
                 "name": "Nordische Z\u00f6pfe (nicht tauschbar)",
@@ -748,6 +754,18 @@
             "180": null
         },
         "ch": {
+            "4128": {
+                "slug": "clothing_r21_valcorset",
+                "name": "clothing_r21_valcorset name",
+                "description": "clothing_r21_valcorset desc",
+                "buyout": 0
+            },
+            "4127": {
+                "slug": "clothing_r21_valcorset",
+                "name": "clothing_r21_valcorset name",
+                "description": "clothing_r21_valcorset desc",
+                "buyout": 0
+            },
             "4025": {
                 "slug": "clothing_cychest",
                 "name": "Cyberpunk R\u00fcstung",
@@ -3140,7 +3158,7 @@
         "he": {
             "4059": {
                 "slug": "clothing_oxset",
-                "name": "Ochen-Accessoires",
+                "name": "Ochsen-Accessoires",
                 "description": "clothing_oxset desc",
                 "buyout": 0
             },
@@ -3777,7 +3795,7 @@
         "fa": {
             "4058": {
                 "slug": "clothing_oxset",
-                "name": "Ochen-Accessoires",
+                "name": "Ochsen-Accessoires",
                 "description": "clothing_oxset desc",
                 "buyout": 0
             },
@@ -4330,7 +4348,7 @@
         "wa": {
             "4060": {
                 "slug": "clothing_oxset",
-                "name": "Ochen-Accessoires",
+                "name": "Ochsen-Accessoires",
                 "description": "clothing_oxset desc",
                 "buyout": 0
             },
