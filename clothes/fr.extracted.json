@@ -3160,7 +3160,7 @@
                 "slug": "clothing_oxset",
                 "name": "Accessoires Boeuf",
                 "description": "clothing_oxset desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4022": {
                 "slug": "clothing_wingstiara",
@@ -3797,7 +3797,7 @@
                 "slug": "clothing_oxset",
                 "name": "Accessoires Boeuf",
                 "description": "clothing_oxset desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4049": {
                 "slug": "clothing_r20_mask8",
@@ -4350,7 +4350,7 @@
                 "slug": "clothing_oxset",
                 "name": "Accessoires Boeuf",
                 "description": "clothing_oxset desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4040": {
                 "slug": "clothing_r20_bearset",
