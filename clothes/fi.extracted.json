@@ -19,7 +19,7 @@
             "9534": null,
             "4131": {
                 "slug": "clothing_r21_dyedbangs",
-                "name": "Face Framing Hair",
+                "name": "Kasvoja kehyst\u00e4v\u00e4 polkkatukka",
                 "description": "clothing_r21_dyedbangs desc",
                 "buyout": 0
             },
@@ -4337,13 +4337,13 @@
         "ca": {
             "4130": {
                 "slug": "clothing_r21_catbackpack2",
-                "name": "Meow Backpack",
+                "name": "Miau-reppu",
                 "description": "clothing_r21_catbackpack2 desc",
                 "buyout": 0
             },
             "4129": {
                 "slug": "clothing_fruitbag",
-                "name": "Lemon Slice Bag",
+                "name": "Sitruunanviipalelaukku",
                 "description": "clothing_fruitbag desc",
                 "buyout": 0
             },
