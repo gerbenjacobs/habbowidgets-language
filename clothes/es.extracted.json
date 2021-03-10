@@ -792,13 +792,13 @@
             },
             "4122": {
                 "slug": "clothing_blockcroptop",
-                "name": "clothing_blockcroptop name",
+                "name": "Crop Multicolor",
                 "description": "clothing_blockcroptop desc",
                 "buyout": 0
             },
             "4121": {
                 "slug": "clothing_blockcroptop",
-                "name": "clothing_blockcroptop name",
+                "name": "Crop Multicolor",
                 "description": "clothing_blockcroptop desc",
                 "buyout": 0
             },
@@ -822,7 +822,7 @@
             },
             "4100": {
                 "slug": "clothing_patterncroptop",
-                "name": "clothing_patterncroptop name",
+                "name": "Crop Geom\u00e9trico",
                 "description": "clothing_patterncroptop desc",
                 "buyout": 0
             },
@@ -834,55 +834,55 @@
             },
             "4098": {
                 "slug": "clothing_patterncroptop",
-                "name": "clothing_patterncroptop name",
+                "name": "Crop Geom\u00e9trico",
                 "description": "clothing_patterncroptop desc",
                 "buyout": 0
             },
             "4088": {
                 "slug": "clothing_croptop",
-                "name": "clothing_croptop name",
+                "name": "Crop B\u00e1sico",
                 "description": "clothing_croptop desc",
                 "buyout": 0
             },
             "4087": {
                 "slug": "clothing_croptop",
-                "name": "clothing_croptop name",
+                "name": "Crop B\u00e1sico",
                 "description": "clothing_croptop desc",
                 "buyout": 0
             },
             "4074": {
                 "slug": "clothing_tiedyecroptop",
-                "name": "clothing_tiedyecroptop name",
+                "name": "Crop con efecto Tie-Dye Arco\u00edris",
                 "description": "clothing_tiedyecroptop desc",
                 "buyout": 0
             },
             "4073": {
                 "slug": "clothing_darkcroptop",
-                "name": "clothing_darkcroptop name",
+                "name": "Crop con efecto Tie-Dye Oscuro",
                 "description": "clothing_darkcroptop desc",
                 "buyout": 0
             },
             "4072": {
                 "slug": "clothing_camocroptop",
-                "name": "clothing_camocroptop name",
+                "name": "Crop de Combate",
                 "description": "clothing_camocroptop desc",
                 "buyout": 0
             },
             "4071": {
                 "slug": "clothing_tiedyecroptop",
-                "name": "clothing_tiedyecroptop name",
+                "name": "Crop con efecto Tie-Dye Arco\u00edris",
                 "description": "clothing_tiedyecroptop desc",
                 "buyout": 0
             },
             "4070": {
                 "slug": "clothing_darkcroptop",
-                "name": "clothing_darkcroptop name",
+                "name": "Crop con efecto Tie-Dye Oscuro",
                 "description": "clothing_darkcroptop desc",
                 "buyout": 0
             },
             "4069": {
                 "slug": "clothing_camocroptop",
-                "name": "clothing_camocroptop name",
+                "name": "Crop de Combate",
                 "description": "clothing_camocroptop desc",
                 "buyout": 0
             },
@@ -1845,7 +1845,7 @@
         "lg": {
             "4125": {
                 "slug": "clothing_blockjoggers",
-                "name": "clothing_blockjoggers name",
+                "name": "Pantal\u00f3n de Chandal Multicolor",
                 "description": "clothing_blockjoggers desc",
                 "buyout": 0
             },
@@ -1857,7 +1857,7 @@
             },
             "4114": {
                 "slug": "clothing_basicjoggers",
-                "name": "clothing_basicjoggers name",
+                "name": "Pantal\u00f3n de Chandal B\u00e1sico",
                 "description": "clothing_basicjoggers desc",
                 "buyout": 0
             },
@@ -1869,7 +1869,7 @@
             },
             "4102": {
                 "slug": "clothing_patternjoggers",
-                "name": "clothing_patternjoggers name",
+                "name": "Pantalones de Chandal Geom\u00e9tricos",
                 "description": "clothing_patternjoggers desc",
                 "buyout": 0
             },
@@ -1881,19 +1881,19 @@
             },
             "4083": {
                 "slug": "clothing_tiedyejoggers",
-                "name": "clothing_tiedyejoggers name",
+                "name": "Pantalones de Chandal con efecto Tie-Dye Crop Arco\u00edris",
                 "description": "clothing_tiedyejoggers desc",
                 "buyout": 0
             },
             "4082": {
                 "slug": "clothing_darkjoggers",
-                "name": "clothing_darkjoggers name",
+                "name": "Chandal con efecto Tie-Dye Oscuro",
                 "description": "clothing_darkjoggers desc",
                 "buyout": 0
             },
             "4081": {
                 "slug": "clothing_camojoggers",
-                "name": "clothing_camojoggers name",
+                "name": "Pantalones de Chandal de Combate",
                 "description": "clothing_camojoggers desc",
                 "buyout": 0
             },
@@ -2372,7 +2372,7 @@
         "ha": {
             "4120": {
                 "slug": "clothing_blockhat",
-                "name": "clothing_blockhat name",
+                "name": "Gorra Multicolor",
                 "description": "clothing_blockhat desc",
                 "buyout": 0
             },
@@ -2384,13 +2384,13 @@
             },
             "4095": {
                 "slug": "clothing_patternhat",
-                "name": "clothing_patternhat name",
+                "name": "Gorra Geom\u00e9trica",
                 "description": "clothing_patternhat desc",
                 "buyout": 0
             },
             "4094": {
                 "slug": "clothing_basichat",
-                "name": "clothing_basichat name",
+                "name": "Gorra B\u00e1sica",
                 "description": "clothing_basichat desc",
                 "buyout": 0
             },
@@ -2402,19 +2402,19 @@
             },
             "4086": {
                 "slug": "clothing_tiedyehat",
-                "name": "clothing_tiedyehat name",
+                "name": "Gorra con efecto Tie-Dye Crop Arco\u00edris",
                 "description": "clothing_tiedyehat desc",
                 "buyout": 0
             },
             "4085": {
                 "slug": "clothing_darkhat",
-                "name": "clothing_darkhat name",
+                "name": "Gorra con efecto Tie-Dye Oscuro",
                 "description": "clothing_darkhat desc",
                 "buyout": 0
             },
             "4084": {
                 "slug": "clothing_camohat",
-                "name": "clothing_camohat name",
+                "name": "Gorra de Combate",
                 "description": "clothing_camohat desc",
                 "buyout": 0
             },
@@ -4740,25 +4740,25 @@
             "9563": null,
             "4124": {
                 "slug": "clothing_blockhoodie",
-                "name": "clothing_blockhoodie name",
+                "name": "Sudadera Multicolor",
                 "description": "clothing_blockhoodie desc",
                 "buyout": 0
             },
             "4123": {
                 "slug": "clothing_blockhoodie",
-                "name": "clothing_blockhoodie name",
+                "name": "Sudadera Multicolor",
                 "description": "clothing_blockhoodie desc",
                 "buyout": 0
             },
             "4109": {
                 "slug": "clothing_basichoodie",
-                "name": "clothing_basichoodie name",
+                "name": "Sudadera B\u00e1sica",
                 "description": "clothing_basichoodie desc",
                 "buyout": 0
             },
             "4108": {
                 "slug": "clothing_basichoodie",
-                "name": "clothing_basichoodie name",
+                "name": "Sudadera B\u00e1sica",
                 "description": "clothing_basichoodie desc",
                 "buyout": 0
             },
@@ -4788,13 +4788,13 @@
             },
             "4097": {
                 "slug": "clothing_patternhoodie",
-                "name": "clothing_patternhoodie name",
+                "name": "Sudadera Geom\u00e9trica",
                 "description": "clothing_patternhoodie desc",
                 "buyout": 0
             },
             "4096": {
                 "slug": "clothing_patternhoodie",
-                "name": "clothing_patternhoodie name",
+                "name": "Sudadera Geom\u00e9trica",
                 "description": "clothing_patternhoodie desc",
                 "buyout": 0
             },
@@ -4806,37 +4806,37 @@
             },
             "4080": {
                 "slug": "clothing_tiedyehoodie",
-                "name": "clothing_tiedyehoodie name",
+                "name": "Sudadera con efecto Tie-Dye Crop Arco\u00edris",
                 "description": "clothing_tiedyehoodie desc",
                 "buyout": 0
             },
             "4079": {
                 "slug": "clothing_darkhoodie",
-                "name": "clothing_darkhoodie name",
+                "name": "Sudadera con efecto Tie-Dye Oscuro",
                 "description": "clothing_darkhoodie desc",
                 "buyout": 0
             },
             "4078": {
                 "slug": "clothing_camohoodie",
-                "name": "clothing_camohoodie name",
+                "name": "Sudadera de Combate",
                 "description": "clothing_camohoodie desc",
                 "buyout": 0
             },
             "4077": {
                 "slug": "clothing_tiedyehoodie",
-                "name": "clothing_tiedyehoodie name",
+                "name": "Sudadera con efecto Tie-Dye Crop Arco\u00edris",
                 "description": "clothing_tiedyehoodie desc",
                 "buyout": 0
             },
             "4076": {
                 "slug": "clothing_darkhoodie",
-                "name": "clothing_darkhoodie name",
+                "name": "Sudadera con efecto Tie-Dye Oscuro",
                 "description": "clothing_darkhoodie desc",
                 "buyout": 0
             },
             "4075": {
                 "slug": "clothing_camohoodie",
-                "name": "clothing_camohoodie name",
+                "name": "Sudadera de Combate",
                 "description": "clothing_camohoodie desc",
                 "buyout": 0
             },
