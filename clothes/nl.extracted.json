@@ -31,19 +31,19 @@
             },
             "4118": {
                 "slug": "clothing_halfcurlyhair",
-                "name": "clothing_halfcurlyhair name",
+                "name": "Super Gekruld Kapsel",
                 "description": "clothing_halfcurlyhair desc",
                 "buyout": 0
             },
             "4117": {
                 "slug": "clothing_grownoutroots",
-                "name": "clothing_grownoutroots name",
+                "name": "Geverfde Uitgroei",
                 "description": "clothing_grownoutroots desc",
                 "buyout": 0
             },
             "4090": {
                 "slug": "clothing_middlepart",
-                "name": "clothing_middlepart name",
+                "name": "Kapsel met Scheiding",
                 "description": "clothing_middlepart desc",
                 "buyout": 0
             },
@@ -804,19 +804,19 @@
             },
             "4111": {
                 "slug": "clothing_openshirt",
-                "name": "clothing_openshirt name",
+                "name": "Wijde en Open Overhemd",
                 "description": "clothing_openshirt desc",
                 "buyout": 0
             },
             "4110": {
                 "slug": "clothing_openshirt",
-                "name": "clothing_openshirt name",
+                "name": "Wijde en Open Overhemd",
                 "description": "clothing_openshirt desc",
                 "buyout": 0
             },
             "4101": {
                 "slug": "clothing_sunsetdress",
-                "name": "clothing_sunsetdress name",
+                "name": "Zonsondergang Jurk",
                 "description": "clothing_sunsetdress desc",
                 "buyout": 0
             },
@@ -828,7 +828,7 @@
             },
             "4099": {
                 "slug": "clothing_sunsetdress",
-                "name": "clothing_sunsetdress name",
+                "name": "Zonsondergang Jurk",
                 "description": "clothing_sunsetdress desc",
                 "buyout": 0
             },
@@ -888,25 +888,25 @@
             },
             "4068": {
                 "slug": "clothing_nt_offshoulderjumpsuit",
-                "name": "clothing_nt_offshoulderjumpsuit name",
+                "name": "Jumpsuit met Bloemetjes Motief (Niet ruilbaar)",
                 "description": "clothing_nt_offshoulderjumpsuit desc",
                 "buyout": 0
             },
             "4067": {
                 "slug": "clothing_nt_offshoulderjumpsuit",
-                "name": "clothing_nt_offshoulderjumpsuit name",
+                "name": "Jumpsuit met Bloemetjes Motief (Niet ruilbaar)",
                 "description": "clothing_nt_offshoulderjumpsuit desc",
                 "buyout": 0
             },
             "4063": {
                 "slug": "clothing_r21_galaxydress",
-                "name": "clothing_r21_galaxydress name",
+                "name": "Kosmische Jurk",
                 "description": "clothing_r21_galaxydress desc",
                 "buyout": 0
             },
             "4062": {
                 "slug": "clothing_r21_galaxydress",
-                "name": "clothing_r21_galaxydress name",
+                "name": "Kosmische Jurk",
                 "description": "clothing_r21_galaxydress desc",
                 "buyout": 0
             },
@@ -1851,7 +1851,7 @@
             },
             "4119": {
                 "slug": "clothing_holographicskirt",
-                "name": "clothing_holographicskirt name",
+                "name": "Holografisch Rokje",
                 "description": "clothing_holographicskirt desc",
                 "buyout": 0
             },
@@ -1863,7 +1863,7 @@
             },
             "4113": {
                 "slug": "clothing_hiphopsweats",
-                "name": "clothing_hiphopsweats name",
+                "name": "Hip-Hop Jogginsbroek",
                 "description": "clothing_hiphopsweats desc",
                 "buyout": 0
             },
@@ -1875,7 +1875,7 @@
             },
             "4092": {
                 "slug": "clothing_leathertrousers",
-                "name": "clothing_leathertrousers name",
+                "name": "Nep Leren Broek",
                 "description": "clothing_leathertrousers desc",
                 "buyout": 0
             },
@@ -1899,7 +1899,7 @@
             },
             "4066": {
                 "slug": "clothing_highwaisttrousers",
-                "name": "clothing_highwaisttrousers name",
+                "name": "High Waist Broek",
                 "description": "clothing_highwaisttrousers desc",
                 "buyout": 0
             },
@@ -2200,19 +2200,19 @@
         "sh": {
             "4112": {
                 "slug": "clothing_nutrainers",
-                "name": "clothing_nutrainers name",
+                "name": "Gekleurde Hardloopschoenen",
                 "description": "clothing_nutrainers desc",
                 "buyout": 0
             },
             "4065": {
                 "slug": "clothing_oxfordshoes",
-                "name": "clothing_oxfordshoes name",
+                "name": "Elegante Oxford Schoenen",
                 "description": "clothing_oxfordshoes desc",
                 "buyout": 0
             },
             "4064": {
                 "slug": "clothing_gothboots",
-                "name": "clothing_gothboots name",
+                "name": "Gothic Laarzen",
                 "description": "clothing_gothboots desc",
                 "buyout": 0
             },
@@ -2378,7 +2378,7 @@
             },
             "4103": {
                 "slug": "clothing_r21_froghat",
-                "name": "clothing_r21_froghat name",
+                "name": "Kikker Muts",
                 "description": "clothing_r21_froghat desc",
                 "buyout": 0
             },
@@ -2396,7 +2396,7 @@
             },
             "4089": {
                 "slug": "clothing_hijab",
-                "name": "clothing_hijab name",
+                "name": "Hoofdbedekking",
                 "description": "clothing_hijab desc",
                 "buyout": 0
             },
@@ -3428,7 +3428,7 @@
         "he": {
             "4093": {
                 "slug": "clothing_eggearrings",
-                "name": "clothing_eggearrings name",
+                "name": "Eitjes Oorbellen",
                 "description": "clothing_eggearrings desc",
                 "buyout": 0
             },
@@ -4349,13 +4349,13 @@
             },
             "4116": {
                 "slug": "clothing_multibadges",
-                "name": "clothing_multibadges name",
+                "name": "Multi-Badges",
                 "description": "clothing_multibadges desc",
                 "buyout": 0
             },
             "4115": {
                 "slug": "clothing_chestbag",
-                "name": "clothing_chestbag name",
+                "name": "Schuin Heuptasje",
                 "description": "clothing_chestbag desc",
                 "buyout": 0
             },
@@ -4764,25 +4764,25 @@
             },
             "4107": {
                 "slug": "clothing_capecoat",
-                "name": "clothing_capecoat name",
+                "name": "Wollen Cape Jas",
                 "description": "clothing_capecoat desc",
                 "buyout": 0
             },
             "4106": {
                 "slug": "clothing_capecoat",
-                "name": "clothing_capecoat name",
+                "name": "Wollen Cape Jas",
                 "description": "clothing_capecoat desc",
                 "buyout": 0
             },
             "4105": {
                 "slug": "clothing_aviatorjacket",
-                "name": "clothing_aviatorjacket name",
+                "name": "Hippe Pilotenjas",
                 "description": "clothing_aviatorjacket desc",
                 "buyout": 0
             },
             "4104": {
                 "slug": "clothing_aviatorjacket",
-                "name": "clothing_aviatorjacket name",
+                "name": "Hippe Pilotenjas",
                 "description": "clothing_aviatorjacket desc",
                 "buyout": 0
             },
@@ -4800,7 +4800,7 @@
             },
             "4091": {
                 "slug": "clothing_leathergloves",
-                "name": "clothing_leathergloves name",
+                "name": "Nep Leren Handschoenen",
                 "description": "clothing_leathergloves desc",
                 "buyout": 0
             },

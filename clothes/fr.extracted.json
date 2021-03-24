@@ -31,19 +31,19 @@
             },
             "4118": {
                 "slug": "clothing_halfcurlyhair",
-                "name": "clothing_halfcurlyhair name",
+                "name": "Cheveux ultra fris\u00e9s",
                 "description": "clothing_halfcurlyhair desc",
                 "buyout": 0
             },
             "4117": {
                 "slug": "clothing_grownoutroots",
-                "name": "clothing_grownoutroots name",
+                "name": "Racines teintes",
                 "description": "clothing_grownoutroots desc",
                 "buyout": 0
             },
             "4090": {
                 "slug": "clothing_middlepart",
-                "name": "clothing_middlepart name",
+                "name": "Coupe au bol",
                 "description": "clothing_middlepart desc",
                 "buyout": 0
             },
@@ -804,19 +804,19 @@
             },
             "4111": {
                 "slug": "clothing_openshirt",
-                "name": "clothing_openshirt name",
+                "name": "Chemise de bg",
                 "description": "clothing_openshirt desc",
                 "buyout": 0
             },
             "4110": {
                 "slug": "clothing_openshirt",
-                "name": "clothing_openshirt name",
+                "name": "Chemise de bg",
                 "description": "clothing_openshirt desc",
                 "buyout": 0
             },
             "4101": {
                 "slug": "clothing_sunsetdress",
-                "name": "clothing_sunsetdress name",
+                "name": "Robe coucher de soleil",
                 "description": "clothing_sunsetdress desc",
                 "buyout": 0
             },
@@ -828,7 +828,7 @@
             },
             "4099": {
                 "slug": "clothing_sunsetdress",
-                "name": "clothing_sunsetdress name",
+                "name": "Robe coucher de soleil",
                 "description": "clothing_sunsetdress desc",
                 "buyout": 0
             },
@@ -888,25 +888,25 @@
             },
             "4068": {
                 "slug": "clothing_nt_offshoulderjumpsuit",
-                "name": "clothing_nt_offshoulderjumpsuit name",
+                "name": "Combinaison \u00e0 motifs (non \u00e9changeable)",
                 "description": "clothing_nt_offshoulderjumpsuit desc",
                 "buyout": 0
             },
             "4067": {
                 "slug": "clothing_nt_offshoulderjumpsuit",
-                "name": "clothing_nt_offshoulderjumpsuit name",
+                "name": "Combinaison \u00e0 motifs (non \u00e9changeable)",
                 "description": "clothing_nt_offshoulderjumpsuit desc",
                 "buyout": 0
             },
             "4063": {
                 "slug": "clothing_r21_galaxydress",
-                "name": "clothing_r21_galaxydress name",
+                "name": "Robe cosmique",
                 "description": "clothing_r21_galaxydress desc",
                 "buyout": 0
             },
             "4062": {
                 "slug": "clothing_r21_galaxydress",
-                "name": "clothing_r21_galaxydress name",
+                "name": "Robe cosmique",
                 "description": "clothing_r21_galaxydress desc",
                 "buyout": 0
             },
@@ -1851,7 +1851,7 @@
             },
             "4119": {
                 "slug": "clothing_holographicskirt",
-                "name": "clothing_holographicskirt name",
+                "name": "Jupe holographique",
                 "description": "clothing_holographicskirt desc",
                 "buyout": 0
             },
@@ -1863,7 +1863,7 @@
             },
             "4113": {
                 "slug": "clothing_hiphopsweats",
-                "name": "clothing_hiphopsweats name",
+                "name": "Surv\u00eatement de hip-hop",
                 "description": "clothing_hiphopsweats desc",
                 "buyout": 0
             },
@@ -1875,7 +1875,7 @@
             },
             "4092": {
                 "slug": "clothing_leathertrousers",
-                "name": "clothing_leathertrousers name",
+                "name": "Pantalon en cuir",
                 "description": "clothing_leathertrousers desc",
                 "buyout": 0
             },
@@ -1899,7 +1899,7 @@
             },
             "4066": {
                 "slug": "clothing_highwaisttrousers",
-                "name": "clothing_highwaisttrousers name",
+                "name": "Pantalon taille haute",
                 "description": "clothing_highwaisttrousers desc",
                 "buyout": 0
             },
@@ -2200,19 +2200,19 @@
         "sh": {
             "4112": {
                 "slug": "clothing_nutrainers",
-                "name": "clothing_nutrainers name",
+                "name": "Baskets color\u00e9es",
                 "description": "clothing_nutrainers desc",
                 "buyout": 0
             },
             "4065": {
                 "slug": "clothing_oxfordshoes",
-                "name": "clothing_oxfordshoes name",
+                "name": "Chaussures Oxford",
                 "description": "clothing_oxfordshoes desc",
                 "buyout": 0
             },
             "4064": {
                 "slug": "clothing_gothboots",
-                "name": "clothing_gothboots name",
+                "name": "Bottes gothiques",
                 "description": "clothing_gothboots desc",
                 "buyout": 0
             },
@@ -2378,7 +2378,7 @@
             },
             "4103": {
                 "slug": "clothing_r21_froghat",
-                "name": "clothing_r21_froghat name",
+                "name": "Chapeau Grenouille",
                 "description": "clothing_r21_froghat desc",
                 "buyout": 0
             },
@@ -2396,7 +2396,7 @@
             },
             "4089": {
                 "slug": "clothing_hijab",
-                "name": "clothing_hijab name",
+                "name": "Voile",
                 "description": "clothing_hijab desc",
                 "buyout": 0
             },
@@ -3428,7 +3428,7 @@
         "he": {
             "4093": {
                 "slug": "clothing_eggearrings",
-                "name": "clothing_eggearrings name",
+                "name": "Boucles d'oeilles oeufs",
                 "description": "clothing_eggearrings desc",
                 "buyout": 0
             },
@@ -4349,13 +4349,13 @@
             },
             "4116": {
                 "slug": "clothing_multibadges",
-                "name": "clothing_multibadges name",
+                "name": "Multi-Badges",
                 "description": "clothing_multibadges desc",
                 "buyout": 0
             },
             "4115": {
                 "slug": "clothing_chestbag",
-                "name": "clothing_chestbag name",
+                "name": "Sac en bandouli\u00e8re",
                 "description": "clothing_chestbag desc",
                 "buyout": 0
             },
@@ -4764,25 +4764,25 @@
             },
             "4107": {
                 "slug": "clothing_capecoat",
-                "name": "clothing_capecoat name",
+                "name": "Cape en laine",
                 "description": "clothing_capecoat desc",
                 "buyout": 0
             },
             "4106": {
                 "slug": "clothing_capecoat",
-                "name": "clothing_capecoat name",
+                "name": "Cape en laine",
                 "description": "clothing_capecoat desc",
                 "buyout": 0
             },
             "4105": {
                 "slug": "clothing_aviatorjacket",
-                "name": "clothing_aviatorjacket name",
+                "name": "Veste d'aviateur",
                 "description": "clothing_aviatorjacket desc",
                 "buyout": 0
             },
             "4104": {
                 "slug": "clothing_aviatorjacket",
-                "name": "clothing_aviatorjacket name",
+                "name": "Veste d'aviateur",
                 "description": "clothing_aviatorjacket desc",
                 "buyout": 0
             },
@@ -4800,7 +4800,7 @@
             },
             "4091": {
                 "slug": "clothing_leathergloves",
-                "name": "clothing_leathergloves name",
+                "name": "Gants en cuir",
                 "description": "clothing_leathergloves desc",
                 "buyout": 0
             },
