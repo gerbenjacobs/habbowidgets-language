@@ -842,13 +842,13 @@
                 "slug": "clothing_croptop",
                 "name": "Crop Top Basico",
                 "description": "clothing_croptop desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4087": {
                 "slug": "clothing_croptop",
                 "name": "Crop Top Basico",
                 "description": "clothing_croptop desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4074": {
                 "slug": "clothing_tiedyecroptop",
@@ -1859,7 +1859,7 @@
                 "slug": "clothing_basicjoggers",
                 "name": "Pantaloni da tuta Basici",
                 "description": "clothing_basicjoggers desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4113": {
                 "slug": "clothing_hiphopsweats",
@@ -2392,7 +2392,7 @@
                 "slug": "clothing_basichat",
                 "name": "Berretto Basico",
                 "description": "clothing_basichat desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4089": {
                 "slug": "clothing_hijab",
@@ -4754,13 +4754,13 @@
                 "slug": "clothing_basichoodie",
                 "name": "Felpa con cappuccio Basica",
                 "description": "clothing_basichoodie desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4108": {
                 "slug": "clothing_basichoodie",
                 "name": "Felpa con cappuccio Basica",
                 "description": "clothing_basichoodie desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4107": {
                 "slug": "clothing_capecoat",
