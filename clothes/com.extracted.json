@@ -33,19 +33,19 @@
                 "slug": "clothing_halfcurlyhair",
                 "name": "Ultra Curly Hair",
                 "description": "clothing_halfcurlyhair desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4117": {
                 "slug": "clothing_grownoutroots",
                 "name": "Dyed Roots",
                 "description": "clothing_grownoutroots desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4090": {
                 "slug": "clothing_middlepart",
                 "name": "Middle Part Hair",
                 "description": "clothing_middlepart desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4031": {
                 "slug": "clothing_nt_braidedwavyhair",
@@ -2398,7 +2398,7 @@
                 "slug": "clothing_hijab",
                 "name": "Head Covering",
                 "description": "clothing_hijab desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4086": {
                 "slug": "clothing_tiedyehat",

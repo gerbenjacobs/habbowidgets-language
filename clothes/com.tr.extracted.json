@@ -33,19 +33,19 @@
                 "slug": "clothing_halfcurlyhair",
                 "name": "Ultra K\u0131v\u0131rc\u0131k Sa\u00e7lar",
                 "description": "clothing_halfcurlyhair desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4117": {
                 "slug": "clothing_grownoutroots",
                 "name": "Boyal\u0131 Dipler",
                 "description": "clothing_grownoutroots desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4090": {
                 "slug": "clothing_middlepart",
                 "name": "Ortadan Ayr\u0131k Sa\u00e7",
                 "description": "clothing_middlepart desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4031": {
                 "slug": "clothing_nt_braidedwavyhair",
@@ -2398,7 +2398,7 @@
                 "slug": "clothing_hijab",
                 "name": "Ba\u015f \u00d6rt\u00fcs\u00fc",
                 "description": "clothing_hijab desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4086": {
                 "slug": "clothing_tiedyehat",

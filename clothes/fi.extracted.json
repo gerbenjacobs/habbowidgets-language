@@ -33,19 +33,19 @@
                 "slug": "clothing_halfcurlyhair",
                 "name": "\u00c4\u00e4rimm\u00e4isen kikkarat hiukset",
                 "description": "clothing_halfcurlyhair desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4117": {
                 "slug": "clothing_grownoutroots",
                 "name": "V\u00e4rj\u00e4tty juurikasvu",
                 "description": "clothing_grownoutroots desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4090": {
                 "slug": "clothing_middlepart",
                 "name": "Keskijakaus",
                 "description": "clothing_middlepart desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4031": {
                 "slug": "clothing_nt_braidedwavyhair",
@@ -2398,7 +2398,7 @@
                 "slug": "clothing_hijab",
                 "name": "P\u00e4\u00e4n peitt\u00e4v\u00e4 huivi",
                 "description": "clothing_hijab desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4086": {
                 "slug": "clothing_tiedyehat",

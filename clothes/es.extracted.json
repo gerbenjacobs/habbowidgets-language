@@ -33,19 +33,19 @@
                 "slug": "clothing_halfcurlyhair",
                 "name": "Cabello Ultrarizado",
                 "description": "clothing_halfcurlyhair desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4117": {
                 "slug": "clothing_grownoutroots",
                 "name": "Ra\u00edces Te\u00f1idas",
                 "description": "clothing_grownoutroots desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4090": {
                 "slug": "clothing_middlepart",
                 "name": "Corte Taz\u00f3n",
                 "description": "clothing_middlepart desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4031": {
                 "slug": "clothing_nt_braidedwavyhair",
@@ -2398,7 +2398,7 @@
                 "slug": "clothing_hijab",
                 "name": "Hijab",
                 "description": "clothing_hijab desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4086": {
                 "slug": "clothing_tiedyehat",

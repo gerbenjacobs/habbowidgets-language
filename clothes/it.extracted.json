@@ -33,19 +33,19 @@
                 "slug": "clothing_halfcurlyhair",
                 "name": "Capelli Ultra Ricci",
                 "description": "clothing_halfcurlyhair desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4117": {
                 "slug": "clothing_grownoutroots",
                 "name": "Radici Tinte",
                 "description": "clothing_grownoutroots desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4090": {
                 "slug": "clothing_middlepart",
                 "name": "Acconciatura Riga al centro",
                 "description": "clothing_middlepart desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4031": {
                 "slug": "clothing_nt_braidedwavyhair",
@@ -2398,7 +2398,7 @@
                 "slug": "clothing_hijab",
                 "name": "Velo",
                 "description": "clothing_hijab desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4086": {
                 "slug": "clothing_tiedyehat",
@@ -4806,7 +4806,7 @@
             },
             "4080": {
                 "slug": "clothing_tiedyehoodie",
-                "name": "Felpa con cappuccio Tie-Dye Arcolabelo",
+                "name": "Felpa con cappuccio Tie-Dye Arcobaleno",
                 "description": "clothing_tiedyehoodie desc",
                 "buyout": 0
             },
@@ -4824,7 +4824,7 @@
             },
             "4077": {
                 "slug": "clothing_tiedyehoodie",
-                "name": "Felpa con cappuccio Tie-Dye Arcolabelo",
+                "name": "Felpa con cappuccio Tie-Dye Arcobaleno",
                 "description": "clothing_tiedyehoodie desc",
                 "buyout": 0
             },
