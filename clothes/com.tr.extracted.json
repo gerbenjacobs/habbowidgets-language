@@ -17,6 +17,12 @@
     "clothing": {
         "hr": {
             "9534": null,
+            "4143": {
+                "slug": "clothing_r21_tousledwaves",
+                "name": "clothing_r21_tousledwaves name",
+                "description": "clothing_r21_tousledwaves desc",
+                "buyout": 0
+            },
             "4131": {
                 "slug": "clothing_r21_dyedbangs",
                 "name": "\u00c7er\u00e7eve Sa\u00e7",
@@ -778,6 +784,30 @@
             "180": null
         },
         "ch": {
+            "4158": {
+                "slug": "clothing_edwardianblouse",
+                "name": "clothing_edwardianblouse name",
+                "description": "clothing_edwardianblouse desc",
+                "buyout": 0
+            },
+            "4157": {
+                "slug": "clothing_edwardianblouse",
+                "name": "clothing_edwardianblouse name",
+                "description": "clothing_edwardianblouse desc",
+                "buyout": 0
+            },
+            "4156": {
+                "slug": "clothing_r21_detectiveoutfit",
+                "name": "clothing_r21_detectiveoutfit name",
+                "description": "clothing_r21_detectiveoutfit desc",
+                "buyout": 0
+            },
+            "4155": {
+                "slug": "clothing_r21_detectiveoutfit",
+                "name": "clothing_r21_detectiveoutfit name",
+                "description": "clothing_r21_detectiveoutfit desc",
+                "buyout": 0
+            },
             "4128": {
                 "slug": "clothing_r21_valcorset",
                 "name": "Romantik Korse",
@@ -806,19 +836,19 @@
                 "slug": "clothing_openshirt",
                 "name": "Yakas\u0131 A\u00e7\u0131k G\u00f6mlek",
                 "description": "clothing_openshirt desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4110": {
                 "slug": "clothing_openshirt",
                 "name": "Yakas\u0131 A\u00e7\u0131k G\u00f6mlek",
                 "description": "clothing_openshirt desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4101": {
                 "slug": "clothing_sunsetdress",
                 "name": "G\u00fcn Bat\u0131m\u0131 Elbise",
                 "description": "clothing_sunsetdress desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4100": {
                 "slug": "clothing_patterncroptop",
@@ -830,7 +860,7 @@
                 "slug": "clothing_sunsetdress",
                 "name": "G\u00fcn Bat\u0131m\u0131 Elbise",
                 "description": "clothing_sunsetdress desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4098": {
                 "slug": "clothing_patterncroptop",
@@ -1853,7 +1883,7 @@
                 "slug": "clothing_holographicskirt",
                 "name": "Holografik Etek",
                 "description": "clothing_holographicskirt desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4114": {
                 "slug": "clothing_basicjoggers",
@@ -1865,7 +1895,7 @@
                 "slug": "clothing_hiphopsweats",
                 "name": "Hip-Hop E\u015fofman Alt\u0131",
                 "description": "clothing_hiphopsweats desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4102": {
                 "slug": "clothing_patternjoggers",
@@ -1877,7 +1907,7 @@
                 "slug": "clothing_leathertrousers",
                 "name": "Deri Pantolon",
                 "description": "clothing_leathertrousers desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4083": {
                 "slug": "clothing_tiedyejoggers",
@@ -1901,7 +1931,7 @@
                 "slug": "clothing_highwaisttrousers",
                 "name": "Y\u00fcksek Belli Pantolon",
                 "description": "clothing_highwaisttrousers desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4034": {
                 "slug": "clothing_kilt",
@@ -2370,6 +2400,12 @@
             "290": null
         },
         "ha": {
+            "4154": {
+                "slug": "clothing_r21_detectiveoutfit",
+                "name": "clothing_r21_detectiveoutfit name",
+                "description": "clothing_r21_detectiveoutfit desc",
+                "buyout": 0
+            },
             "4120": {
                 "slug": "clothing_blockhat",
                 "name": "Renk Blo\u011fu \u015eapka",
@@ -4766,25 +4802,25 @@
                 "slug": "clothing_capecoat",
                 "name": "Y\u00fcn Pelerin Kaban",
                 "description": "clothing_capecoat desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4106": {
                 "slug": "clothing_capecoat",
                 "name": "Y\u00fcn Pelerin Kaban",
                 "description": "clothing_capecoat desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4105": {
                 "slug": "clothing_aviatorjacket",
                 "name": "F\u0131rf\u0131rl\u0131 Havac\u0131 Ceketi",
                 "description": "clothing_aviatorjacket desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4104": {
                 "slug": "clothing_aviatorjacket",
                 "name": "F\u0131rf\u0131rl\u0131 Havac\u0131 Ceketi",
                 "description": "clothing_aviatorjacket desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4097": {
                 "slug": "clothing_patternhoodie",

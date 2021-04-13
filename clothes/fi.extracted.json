@@ -17,6 +17,12 @@
     "clothing": {
         "hr": {
             "9534": null,
+            "4143": {
+                "slug": "clothing_r21_tousledwaves",
+                "name": "clothing_r21_tousledwaves name",
+                "description": "clothing_r21_tousledwaves desc",
+                "buyout": 0
+            },
             "4131": {
                 "slug": "clothing_r21_dyedbangs",
                 "name": "Kasvoja kehyst\u00e4v\u00e4 polkkatukka",
@@ -778,6 +784,30 @@
             "180": null
         },
         "ch": {
+            "4158": {
+                "slug": "clothing_edwardianblouse",
+                "name": "clothing_edwardianblouse name",
+                "description": "clothing_edwardianblouse desc",
+                "buyout": 0
+            },
+            "4157": {
+                "slug": "clothing_edwardianblouse",
+                "name": "clothing_edwardianblouse name",
+                "description": "clothing_edwardianblouse desc",
+                "buyout": 0
+            },
+            "4156": {
+                "slug": "clothing_r21_detectiveoutfit",
+                "name": "clothing_r21_detectiveoutfit name",
+                "description": "clothing_r21_detectiveoutfit desc",
+                "buyout": 0
+            },
+            "4155": {
+                "slug": "clothing_r21_detectiveoutfit",
+                "name": "clothing_r21_detectiveoutfit name",
+                "description": "clothing_r21_detectiveoutfit desc",
+                "buyout": 0
+            },
             "4128": {
                 "slug": "clothing_r21_valcorset",
                 "name": "Romanttinen korsetti",
@@ -806,19 +836,19 @@
                 "slug": "clothing_openshirt",
                 "name": "Hurmurin kauluspaita",
                 "description": "clothing_openshirt desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4110": {
                 "slug": "clothing_openshirt",
                 "name": "Hurmurin kauluspaita",
                 "description": "clothing_openshirt desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4101": {
                 "slug": "clothing_sunsetdress",
                 "name": "Iltaruskomekko",
                 "description": "clothing_sunsetdress desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4100": {
                 "slug": "clothing_patterncroptop",
@@ -830,7 +860,7 @@
                 "slug": "clothing_sunsetdress",
                 "name": "Iltaruskomekko",
                 "description": "clothing_sunsetdress desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4098": {
                 "slug": "clothing_patterncroptop",
@@ -1853,7 +1883,7 @@
                 "slug": "clothing_holographicskirt",
                 "name": "Hologrammihame",
                 "description": "clothing_holographicskirt desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4114": {
                 "slug": "clothing_basicjoggers",
@@ -1865,7 +1895,7 @@
                 "slug": "clothing_hiphopsweats",
                 "name": "Hip-hop verkkarit",
                 "description": "clothing_hiphopsweats desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4102": {
                 "slug": "clothing_patternjoggers",
@@ -1877,7 +1907,7 @@
                 "slug": "clothing_leathertrousers",
                 "name": "Tekonahkahousut",
                 "description": "clothing_leathertrousers desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4083": {
                 "slug": "clothing_tiedyejoggers",
@@ -1901,7 +1931,7 @@
                 "slug": "clothing_highwaisttrousers",
                 "name": "Korkeavy\u00f6t\u00e4r\u00f6iset housut",
                 "description": "clothing_highwaisttrousers desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4034": {
                 "slug": "clothing_kilt",
@@ -2370,6 +2400,12 @@
             "290": null
         },
         "ha": {
+            "4154": {
+                "slug": "clothing_r21_detectiveoutfit",
+                "name": "clothing_r21_detectiveoutfit name",
+                "description": "clothing_r21_detectiveoutfit desc",
+                "buyout": 0
+            },
             "4120": {
                 "slug": "clothing_blockhat",
                 "name": "Moniv\u00e4rinen lippis",
@@ -4766,25 +4802,25 @@
                 "slug": "clothing_capecoat",
                 "name": "Villakangas viittatakki",
                 "description": "clothing_capecoat desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4106": {
                 "slug": "clothing_capecoat",
                 "name": "Villakangas viittatakki",
                 "description": "clothing_capecoat desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4105": {
                 "slug": "clothing_aviatorjacket",
                 "name": "Trendik\u00e4s lent\u00e4j\u00e4n takki",
                 "description": "clothing_aviatorjacket desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4104": {
                 "slug": "clothing_aviatorjacket",
                 "name": "Trendik\u00e4s lent\u00e4j\u00e4n takki",
                 "description": "clothing_aviatorjacket desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4097": {
                 "slug": "clothing_patternhoodie",
