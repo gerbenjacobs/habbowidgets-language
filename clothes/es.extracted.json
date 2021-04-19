@@ -19,7 +19,7 @@
             "9534": null,
             "4143": {
                 "slug": "clothing_r21_tousledwaves",
-                "name": "clothing_r21_tousledwaves name",
+                "name": "Melena Ar\u00e1cnica",
                 "description": "clothing_r21_tousledwaves desc",
                 "buyout": 0
             },
@@ -786,25 +786,25 @@
         "ch": {
             "4158": {
                 "slug": "clothing_edwardianblouse",
-                "name": "clothing_edwardianblouse name",
+                "name": "Blusa Eduardiana",
                 "description": "clothing_edwardianblouse desc",
                 "buyout": 0
             },
             "4157": {
                 "slug": "clothing_edwardianblouse",
-                "name": "clothing_edwardianblouse name",
+                "name": "Blusa Eduardiana",
                 "description": "clothing_edwardianblouse desc",
                 "buyout": 0
             },
             "4156": {
                 "slug": "clothing_r21_detectiveoutfit",
-                "name": "clothing_r21_detectiveoutfit name",
+                "name": "Traje Detectivesco",
                 "description": "clothing_r21_detectiveoutfit desc",
                 "buyout": 0
             },
             "4155": {
                 "slug": "clothing_r21_detectiveoutfit",
-                "name": "clothing_r21_detectiveoutfit name",
+                "name": "Traje Detectivesco",
                 "description": "clothing_r21_detectiveoutfit desc",
                 "buyout": 0
             },
@@ -2402,7 +2402,7 @@
         "ha": {
             "4154": {
                 "slug": "clothing_r21_detectiveoutfit",
-                "name": "clothing_r21_detectiveoutfit name",
+                "name": "Traje Detectivesco",
                 "description": "clothing_r21_detectiveoutfit desc",
                 "buyout": 0
             },
