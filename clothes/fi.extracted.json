@@ -19,7 +19,7 @@
             "9534": null,
             "4143": {
                 "slug": "clothing_r21_tousledwaves",
-                "name": "clothing_r21_tousledwaves name",
+                "name": "Lesken laineet",
                 "description": "clothing_r21_tousledwaves desc",
                 "buyout": 0
             },
@@ -786,25 +786,25 @@
         "ch": {
             "4158": {
                 "slug": "clothing_edwardianblouse",
-                "name": "clothing_edwardianblouse name",
+                "name": "Edvardiaaninen pusero",
                 "description": "clothing_edwardianblouse desc",
                 "buyout": 0
             },
             "4157": {
                 "slug": "clothing_edwardianblouse",
-                "name": "clothing_edwardianblouse name",
+                "name": "Edvardiaaninen pusero",
                 "description": "clothing_edwardianblouse desc",
                 "buyout": 0
             },
             "4156": {
                 "slug": "clothing_r21_detectiveoutfit",
-                "name": "clothing_r21_detectiveoutfit name",
+                "name": "Etsiv\u00e4n asu",
                 "description": "clothing_r21_detectiveoutfit desc",
                 "buyout": 0
             },
             "4155": {
                 "slug": "clothing_r21_detectiveoutfit",
-                "name": "clothing_r21_detectiveoutfit name",
+                "name": "Etsiv\u00e4n asu",
                 "description": "clothing_r21_detectiveoutfit desc",
                 "buyout": 0
             },
@@ -2232,19 +2232,19 @@
                 "slug": "clothing_nutrainers",
                 "name": "Moniv\u00e4riset lenkkarit",
                 "description": "clothing_nutrainers desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4065": {
                 "slug": "clothing_oxfordshoes",
                 "name": "Herrain keng\u00e4t",
                 "description": "clothing_oxfordshoes desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4064": {
                 "slug": "clothing_gothboots",
                 "name": "Goottityyliset saappaat",
                 "description": "clothing_gothboots desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4030": {
                 "slug": "clothing_r20_inuit",
@@ -2402,7 +2402,7 @@
         "ha": {
             "4154": {
                 "slug": "clothing_r21_detectiveoutfit",
-                "name": "clothing_r21_detectiveoutfit name",
+                "name": "Etsiv\u00e4n asu",
                 "description": "clothing_r21_detectiveoutfit desc",
                 "buyout": 0
             },
@@ -3466,7 +3466,7 @@
                 "slug": "clothing_eggearrings",
                 "name": "P\u00e4\u00e4si\u00e4ismunakorvikset",
                 "description": "clothing_eggearrings desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4059": {
                 "slug": "clothing_oxset",
@@ -4387,13 +4387,13 @@
                 "slug": "clothing_multibadges",
                 "name": "Rintamerkit",
                 "description": "clothing_multibadges desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4115": {
                 "slug": "clothing_chestbag",
                 "name": "Rintalaukku",
                 "description": "clothing_chestbag desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4037": {
                 "slug": "clothing_r20_teddybpack",
@@ -4838,7 +4838,7 @@
                 "slug": "clothing_leathergloves",
                 "name": "Tekonahkahanskat",
                 "description": "clothing_leathergloves desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4080": {
                 "slug": "clothing_tiedyehoodie",

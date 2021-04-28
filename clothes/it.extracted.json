@@ -19,7 +19,7 @@
             "9534": null,
             "4143": {
                 "slug": "clothing_r21_tousledwaves",
-                "name": "clothing_r21_tousledwaves name",
+                "name": "Onde a Ragnatela",
                 "description": "clothing_r21_tousledwaves desc",
                 "buyout": 0
             },
@@ -786,25 +786,25 @@
         "ch": {
             "4158": {
                 "slug": "clothing_edwardianblouse",
-                "name": "clothing_edwardianblouse name",
+                "name": "Blusa Edoardiana",
                 "description": "clothing_edwardianblouse desc",
                 "buyout": 0
             },
             "4157": {
                 "slug": "clothing_edwardianblouse",
-                "name": "clothing_edwardianblouse name",
+                "name": "Blusa Edoardiana",
                 "description": "clothing_edwardianblouse desc",
                 "buyout": 0
             },
             "4156": {
                 "slug": "clothing_r21_detectiveoutfit",
-                "name": "clothing_r21_detectiveoutfit name",
+                "name": "Detective all'opera",
                 "description": "clothing_r21_detectiveoutfit desc",
                 "buyout": 0
             },
             "4155": {
                 "slug": "clothing_r21_detectiveoutfit",
-                "name": "clothing_r21_detectiveoutfit name",
+                "name": "Detective all'opera",
                 "description": "clothing_r21_detectiveoutfit desc",
                 "buyout": 0
             },
@@ -2232,19 +2232,19 @@
                 "slug": "clothing_nutrainers",
                 "name": "Scarpe da ginnastica Color Block",
                 "description": "clothing_nutrainers desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4065": {
                 "slug": "clothing_oxfordshoes",
                 "name": "Scarpe Oxford Eleganti",
                 "description": "clothing_oxfordshoes desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4064": {
                 "slug": "clothing_gothboots",
                 "name": "Stivaletti Gotici",
                 "description": "clothing_gothboots desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4030": {
                 "slug": "clothing_r20_inuit",
@@ -2402,7 +2402,7 @@
         "ha": {
             "4154": {
                 "slug": "clothing_r21_detectiveoutfit",
-                "name": "clothing_r21_detectiveoutfit name",
+                "name": "Detective all'opera",
                 "description": "clothing_r21_detectiveoutfit desc",
                 "buyout": 0
             },
@@ -3466,7 +3466,7 @@
                 "slug": "clothing_eggearrings",
                 "name": "Orecchini Uovo",
                 "description": "clothing_eggearrings desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4059": {
                 "slug": "clothing_oxset",
@@ -4387,13 +4387,13 @@
                 "slug": "clothing_multibadges",
                 "name": "Multi-Spille",
                 "description": "clothing_multibadges desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4115": {
                 "slug": "clothing_chestbag",
                 "name": "Marsupio",
                 "description": "clothing_chestbag desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4037": {
                 "slug": "clothing_r20_teddybpack",
@@ -4838,7 +4838,7 @@
                 "slug": "clothing_leathergloves",
                 "name": "Guanti di pelle",
                 "description": "clothing_leathergloves desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4080": {
                 "slug": "clothing_tiedyehoodie",

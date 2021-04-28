@@ -6,7 +6,7 @@
         "cp": "Prints",
         "ea": "Brillen",
         "fa": "Masken",
-        "ha": "H\u00fcte",
+        "ha": "Kopfbedeckungen",
         "hd": "Gesicht & K\u00f6rper",
         "he": "Accessories",
         "hr": "Haare",
@@ -2232,19 +2232,19 @@
                 "slug": "clothing_nutrainers",
                 "name": "Farbblock-Turnschuhe",
                 "description": "clothing_nutrainers desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4065": {
                 "slug": "clothing_oxfordshoes",
                 "name": "Elegante Oxfordschuhe",
                 "description": "clothing_oxfordshoes desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4064": {
                 "slug": "clothing_gothboots",
                 "name": "Gothic Stiefel",
                 "description": "clothing_gothboots desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4030": {
                 "slug": "clothing_r20_inuit",
@@ -3466,7 +3466,7 @@
                 "slug": "clothing_eggearrings",
                 "name": "Ei-Ohrringe",
                 "description": "clothing_eggearrings desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4059": {
                 "slug": "clothing_oxset",
@@ -4387,13 +4387,13 @@
                 "slug": "clothing_multibadges",
                 "name": "Multi Badges",
                 "description": "clothing_multibadges desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4115": {
                 "slug": "clothing_chestbag",
                 "name": "Umh\u00e4ngetasche",
                 "description": "clothing_chestbag desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4037": {
                 "slug": "clothing_r20_teddybpack",
@@ -4838,7 +4838,7 @@
                 "slug": "clothing_leathergloves",
                 "name": "Kunstlederhandschuhe",
                 "description": "clothing_leathergloves desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4080": {
                 "slug": "clothing_tiedyehoodie",

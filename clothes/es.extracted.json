@@ -2232,19 +2232,19 @@
                 "slug": "clothing_nutrainers",
                 "name": "Zapatillas con parches de color",
                 "description": "clothing_nutrainers desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4065": {
                 "slug": "clothing_oxfordshoes",
                 "name": "Zapatos Oxford",
                 "description": "clothing_oxfordshoes desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4064": {
                 "slug": "clothing_gothboots",
                 "name": "Botas G\u00f3ticas",
                 "description": "clothing_gothboots desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4030": {
                 "slug": "clothing_r20_inuit",
@@ -3466,7 +3466,7 @@
                 "slug": "clothing_eggearrings",
                 "name": "Pendientes Huevos",
                 "description": "clothing_eggearrings desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4059": {
                 "slug": "clothing_oxset",
@@ -4387,13 +4387,13 @@
                 "slug": "clothing_multibadges",
                 "name": "Multiplacas",
                 "description": "clothing_multibadges desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4115": {
                 "slug": "clothing_chestbag",
                 "name": "Bandolera",
                 "description": "clothing_chestbag desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4037": {
                 "slug": "clothing_r20_teddybpack",
@@ -4838,7 +4838,7 @@
                 "slug": "clothing_leathergloves",
                 "name": "Guantes de Piel Sint\u00e9tica",
                 "description": "clothing_leathergloves desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4080": {
                 "slug": "clothing_tiedyehoodie",
