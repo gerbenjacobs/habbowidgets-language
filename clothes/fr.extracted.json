@@ -788,13 +788,13 @@
                 "slug": "clothing_edwardianblouse",
                 "name": "Blouse \u00e9douardienne",
                 "description": "clothing_edwardianblouse desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4157": {
                 "slug": "clothing_edwardianblouse",
                 "name": "Blouse \u00e9douardienne",
                 "description": "clothing_edwardianblouse desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4156": {
                 "slug": "clothing_r21_detectiveoutfit",
@@ -872,13 +872,13 @@
                 "slug": "clothing_croptop",
                 "name": "Crop top simple",
                 "description": "clothing_croptop desc",
-                "buyout": 1
+                "buyout": 0
             },
             "4087": {
                 "slug": "clothing_croptop",
                 "name": "Crop top simple",
                 "description": "clothing_croptop desc",
-                "buyout": 1
+                "buyout": 0
             },
             "4074": {
                 "slug": "clothing_tiedyecroptop",
@@ -1889,7 +1889,7 @@
                 "slug": "clothing_basicjoggers",
                 "name": "Pantalon de jogging simple",
                 "description": "clothing_basicjoggers desc",
-                "buyout": 1
+                "buyout": 0
             },
             "4113": {
                 "slug": "clothing_hiphopsweats",
@@ -2428,7 +2428,7 @@
                 "slug": "clothing_basichat",
                 "name": "Casquette simple",
                 "description": "clothing_basichat desc",
-                "buyout": 1
+                "buyout": 0
             },
             "4089": {
                 "slug": "clothing_hijab",
@@ -4790,13 +4790,13 @@
                 "slug": "clothing_basichoodie",
                 "name": "Sweat \u00e0 capuche simple",
                 "description": "clothing_basichoodie desc",
-                "buyout": 1
+                "buyout": 0
             },
             "4108": {
                 "slug": "clothing_basichoodie",
                 "name": "Sweat \u00e0 capuche simple",
                 "description": "clothing_basichoodie desc",
-                "buyout": 1
+                "buyout": 0
             },
             "4107": {
                 "slug": "clothing_capecoat",
