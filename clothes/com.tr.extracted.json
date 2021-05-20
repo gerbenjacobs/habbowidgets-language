@@ -23,6 +23,12 @@
                 "description": "clothing_r21_tousledwaves desc",
                 "buyout": 0
             },
+            "4141": {
+                "slug": "clothing_thaibunhair",
+                "name": "Royal Thai Bun",
+                "description": "clothing_thaibunhair desc",
+                "buyout": 0
+            },
             "4131": {
                 "slug": "clothing_r21_dyedbangs",
                 "name": "\u00c7er\u00e7eve Sa\u00e7",
@@ -806,6 +812,24 @@
                 "slug": "clothing_r21_detectiveoutfit",
                 "name": "Dan\u0131\u015fman Dedektif",
                 "description": "clothing_r21_detectiveoutfit desc",
+                "buyout": 0
+            },
+            "4142": {
+                "slug": "clothing_thaidress",
+                "name": "Royal Robe",
+                "description": "clothing_thaidress desc",
+                "buyout": 0
+            },
+            "4140": {
+                "slug": "clothing_thaisuit",
+                "name": "Traditional Thai Suit",
+                "description": "clothing_thaisuit desc",
+                "buyout": 0
+            },
+            "4139": {
+                "slug": "clothing_thaisuit",
+                "name": "Traditional Thai Suit",
+                "description": "clothing_thaisuit desc",
                 "buyout": 0
             },
             "4128": {
@@ -1873,6 +1897,12 @@
             "210": null
         },
         "lg": {
+            "4138": {
+                "slug": "clothing_r21_muaythaioutfit",
+                "name": "Muay Thai K\u0131yafeti",
+                "description": "clothing_r21_muaythaioutfit desc",
+                "buyout": 0
+            },
             "4125": {
                 "slug": "clothing_blockjoggers",
                 "name": "Renk Blo\u011fu E\u015fofman Alt\u0131",
@@ -2400,10 +2430,40 @@
             "290": null
         },
         "ha": {
+            "4170": {
+                "slug": "clothing_squid2",
+                "name": "clothing_squid2 name",
+                "description": "clothing_squid2 desc",
+                "buyout": 0
+            },
             "4154": {
                 "slug": "clothing_r21_detectiveoutfit",
                 "name": "Dan\u0131\u015fman Dedektif",
                 "description": "clothing_r21_detectiveoutfit desc",
+                "buyout": 0
+            },
+            "4136": {
+                "slug": "clothing_r21_muaythaioutfit",
+                "name": "Muay Thai K\u0131yafeti",
+                "description": "clothing_r21_muaythaioutfit desc",
+                "buyout": 0
+            },
+            "4134": {
+                "slug": "clothing_thaihat",
+                "name": "Thai Scarf Hat",
+                "description": "clothing_thaihat desc",
+                "buyout": 0
+            },
+            "4133": {
+                "slug": "clothing_bamboohat",
+                "name": "Bambu \u015eapka",
+                "description": "clothing_bamboohat desc",
+                "buyout": 0
+            },
+            "4132": {
+                "slug": "clothing_r21_pangolin",
+                "name": "Nesli t\u00fckenmekte olan Pangolin",
+                "description": "clothing_r21_pangolin desc",
                 "buyout": 0
             },
             "4120": {
@@ -4371,6 +4431,12 @@
             "1201": null
         },
         "ca": {
+            "4135": {
+                "slug": "clothing_thailei",
+                "name": "Geleneksel Tay Lei",
+                "description": "clothing_thailei desc",
+                "buyout": 0
+            },
             "4130": {
                 "slug": "clothing_r21_catbackpack2",
                 "name": "Miyav S\u0131rt \u00c7antas\u0131 ",
@@ -4774,6 +4840,12 @@
         "cc": {
             "9865": null,
             "9563": null,
+            "4137": {
+                "slug": "clothing_r21_muaythaioutfit",
+                "name": "Muay Thai K\u0131yafeti",
+                "description": "clothing_r21_muaythaioutfit desc",
+                "buyout": 0
+            },
             "4124": {
                 "slug": "clothing_blockhoodie",
                 "name": "Renk Blo\u011fu Hoodie",

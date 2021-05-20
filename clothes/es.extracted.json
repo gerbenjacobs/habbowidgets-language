@@ -23,6 +23,12 @@
                 "description": "clothing_r21_tousledwaves desc",
                 "buyout": 0
             },
+            "4141": {
+                "slug": "clothing_thaibunhair",
+                "name": "Mo\u00f1o Real Thai",
+                "description": "clothing_thaibunhair desc",
+                "buyout": 0
+            },
             "4131": {
                 "slug": "clothing_r21_dyedbangs",
                 "name": "Peinado Mechones Te\u00f1idos",
@@ -806,6 +812,24 @@
                 "slug": "clothing_r21_detectiveoutfit",
                 "name": "Traje Detectivesco",
                 "description": "clothing_r21_detectiveoutfit desc",
+                "buyout": 0
+            },
+            "4142": {
+                "slug": "clothing_thaidress",
+                "name": "T\u00fanica Real",
+                "description": "clothing_thaidress desc",
+                "buyout": 0
+            },
+            "4140": {
+                "slug": "clothing_thaisuit",
+                "name": "Traje Tradicional Thai",
+                "description": "clothing_thaisuit desc",
+                "buyout": 0
+            },
+            "4139": {
+                "slug": "clothing_thaisuit",
+                "name": "Traje Tradicional Thai",
+                "description": "clothing_thaisuit desc",
                 "buyout": 0
             },
             "4128": {
@@ -1873,6 +1897,12 @@
             "210": null
         },
         "lg": {
+            "4138": {
+                "slug": "clothing_r21_muaythaioutfit",
+                "name": "Conjunto Muay Thai",
+                "description": "clothing_r21_muaythaioutfit desc",
+                "buyout": 0
+            },
             "4125": {
                 "slug": "clothing_blockjoggers",
                 "name": "Pantal\u00f3n de Chandal Multicolor",
@@ -2400,10 +2430,40 @@
             "290": null
         },
         "ha": {
+            "4170": {
+                "slug": "clothing_squid2",
+                "name": "Orange Squid Hat",
+                "description": "clothing_squid2 desc",
+                "buyout": 0
+            },
             "4154": {
                 "slug": "clothing_r21_detectiveoutfit",
                 "name": "Traje Detectivesco",
                 "description": "clothing_r21_detectiveoutfit desc",
+                "buyout": 0
+            },
+            "4136": {
+                "slug": "clothing_r21_muaythaioutfit",
+                "name": "Conjunto Muay Thai",
+                "description": "clothing_r21_muaythaioutfit desc",
+                "buyout": 0
+            },
+            "4134": {
+                "slug": "clothing_thaihat",
+                "name": "Sombrero Thai",
+                "description": "clothing_thaihat desc",
+                "buyout": 0
+            },
+            "4133": {
+                "slug": "clothing_bamboohat",
+                "name": "Sombrero Bamb\u00fa",
+                "description": "clothing_bamboohat desc",
+                "buyout": 0
+            },
+            "4132": {
+                "slug": "clothing_r21_pangolin",
+                "name": "Pangol\u00edn en peligro de extinci\u00f3n",
+                "description": "clothing_r21_pangolin desc",
                 "buyout": 0
             },
             "4120": {
@@ -4371,6 +4431,12 @@
             "1201": null
         },
         "ca": {
+            "4135": {
+                "slug": "clothing_thailei",
+                "name": "Thai Lei Tradicional",
+                "description": "clothing_thailei desc",
+                "buyout": 0
+            },
             "4130": {
                 "slug": "clothing_r21_catbackpack2",
                 "name": "Mochila Miau",
@@ -4774,6 +4840,12 @@
         "cc": {
             "9865": null,
             "9563": null,
+            "4137": {
+                "slug": "clothing_r21_muaythaioutfit",
+                "name": "Conjunto Muay Thai",
+                "description": "clothing_r21_muaythaioutfit desc",
+                "buyout": 0
+            },
             "4124": {
                 "slug": "clothing_blockhoodie",
                 "name": "Sudadera Multicolor",
