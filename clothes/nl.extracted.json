@@ -2455,9 +2455,9 @@
                 "buyout": 0
             },
             "4133": {
-                "slug": "clothing_bamboohat",
-                "name": "Bamboe Hoed",
-                "description": "clothing_bamboohat desc",
+                "slug": "clothing_nt_bamboohat",
+                "name": "Bamboe Hoed (Niet Ruilbaar)",
+                "description": "clothing_nt_bamboohat desc",
                 "buyout": 0
             },
             "4132": {
@@ -4432,9 +4432,9 @@
         },
         "ca": {
             "4135": {
-                "slug": "clothing_thailei",
-                "name": "Traditionele Thaise Bloemenkrans",
-                "description": "clothing_thailei desc",
+                "slug": "clothing_nt_thailei",
+                "name": "Traditionele Thai Lei (Niet Ruilbaar)",
+                "description": "clothing_nt_thailei desc",
                 "buyout": 0
             },
             "4130": {

@@ -822,13 +822,13 @@
             },
             "4140": {
                 "slug": "clothing_thaisuit",
-                "name": "Traditional Thai Suit",
+                "name": "Costume Tha\u00ef traditonnel",
                 "description": "clothing_thaisuit desc",
                 "buyout": 0
             },
             "4139": {
                 "slug": "clothing_thaisuit",
-                "name": "Traditional Thai Suit",
+                "name": "Costume Tha\u00ef traditonnel",
                 "description": "clothing_thaisuit desc",
                 "buyout": 0
             },
@@ -2450,14 +2450,14 @@
             },
             "4134": {
                 "slug": "clothing_thaihat",
-                "name": "Thai Scarf Hat",
+                "name": "Chapeau Tha\u00ef",
                 "description": "clothing_thaihat desc",
                 "buyout": 0
             },
             "4133": {
-                "slug": "clothing_bamboohat",
-                "name": "Chapeau en bambou",
-                "description": "clothing_bamboohat desc",
+                "slug": "clothing_nt_bamboohat",
+                "name": "Chapeau en bambou (non \u00e9changeable)",
+                "description": "clothing_nt_bamboohat desc",
                 "buyout": 0
             },
             "4132": {
@@ -4432,9 +4432,9 @@
         },
         "ca": {
             "4135": {
-                "slug": "clothing_thailei",
-                "name": "Thai Lei traditionnel",
-                "description": "clothing_thailei desc",
+                "slug": "clothing_nt_thailei",
+                "name": "Thai Lei traditionnel (non \u00e9changeable)",
+                "description": "clothing_nt_thailei desc",
                 "buyout": 0
             },
             "4130": {

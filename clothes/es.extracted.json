@@ -2455,9 +2455,9 @@
                 "buyout": 0
             },
             "4133": {
-                "slug": "clothing_bamboohat",
-                "name": "Sombrero Bamb\u00fa",
-                "description": "clothing_bamboohat desc",
+                "slug": "clothing_nt_bamboohat",
+                "name": "Sombrero Bamb\u00fa (no tradeable)",
+                "description": "clothing_nt_bamboohat desc",
                 "buyout": 0
             },
             "4132": {
@@ -4432,9 +4432,9 @@
         },
         "ca": {
             "4135": {
-                "slug": "clothing_thailei",
-                "name": "Thai Lei Tradicional",
-                "description": "clothing_thailei desc",
+                "slug": "clothing_nt_thailei",
+                "name": "Thai Lei Tradicional (no tradeable)",
+                "description": "clothing_nt_thailei desc",
                 "buyout": 0
             },
             "4130": {

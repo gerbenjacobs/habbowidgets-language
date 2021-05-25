@@ -25,7 +25,7 @@
             },
             "4141": {
                 "slug": "clothing_thaibunhair",
-                "name": "Royal Thai Bun",
+                "name": "K\u00f6niglicher Thai-Dutt",
                 "description": "clothing_thaibunhair desc",
                 "buyout": 0
             },
@@ -816,19 +816,19 @@
             },
             "4142": {
                 "slug": "clothing_thaidress",
-                "name": "Royal Robe",
+                "name": "K\u00f6nigliches Gewand",
                 "description": "clothing_thaidress desc",
                 "buyout": 0
             },
             "4140": {
                 "slug": "clothing_thaisuit",
-                "name": "Traditional Thai Suit",
+                "name": "Traditioneller Thai-Anzug",
                 "description": "clothing_thaisuit desc",
                 "buyout": 0
             },
             "4139": {
                 "slug": "clothing_thaisuit",
-                "name": "Traditional Thai Suit",
+                "name": "Traditioneller Thai-Anzug",
                 "description": "clothing_thaisuit desc",
                 "buyout": 0
             },
@@ -2432,7 +2432,7 @@
         "ha": {
             "4170": {
                 "slug": "clothing_squid2",
-                "name": "Orange Squid Hat",
+                "name": "Oranger Tintenfisch-Hut",
                 "description": "clothing_squid2 desc",
                 "buyout": 0
             },
@@ -2450,14 +2450,14 @@
             },
             "4134": {
                 "slug": "clothing_thaihat",
-                "name": "Thai Scarf Hat",
+                "name": "Thai Schal-Hut",
                 "description": "clothing_thaihat desc",
                 "buyout": 0
             },
             "4133": {
-                "slug": "clothing_bamboohat",
-                "name": "Bambu-Hut",
-                "description": "clothing_bamboohat desc",
+                "slug": "clothing_nt_bamboohat",
+                "name": "Bambu-Hut (nicht tauschbar)",
+                "description": "clothing_nt_bamboohat desc",
                 "buyout": 0
             },
             "4132": {
@@ -4432,9 +4432,9 @@
         },
         "ca": {
             "4135": {
-                "slug": "clothing_thailei",
-                "name": "Traditionelles thail\u00e4ndisches Lei",
-                "description": "clothing_thailei desc",
+                "slug": "clothing_nt_thailei",
+                "name": "Traditionelles thail\u00e4ndisches Lei (nicht tauschbar)",
+                "description": "clothing_nt_thailei desc",
                 "buyout": 0
             },
             "4130": {

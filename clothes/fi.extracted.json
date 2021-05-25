@@ -2432,7 +2432,7 @@
         "ha": {
             "4170": {
                 "slug": "clothing_squid2",
-                "name": "Orange Squid Hat",
+                "name": "Oranssi mustekalahattu",
                 "description": "clothing_squid2 desc",
                 "buyout": 0
             },
@@ -2455,9 +2455,9 @@
                 "buyout": 0
             },
             "4133": {
-                "slug": "clothing_bamboohat",
-                "name": "Bambuhattu",
-                "description": "clothing_bamboohat desc",
+                "slug": "clothing_nt_bamboohat",
+                "name": "Bambuhattu (vaihtokelvoton)",
+                "description": "clothing_nt_bamboohat desc",
                 "buyout": 0
             },
             "4132": {
@@ -4432,9 +4432,9 @@
         },
         "ca": {
             "4135": {
-                "slug": "clothing_thailei",
-                "name": "Perinteinen Thai Lei",
-                "description": "clothing_thailei desc",
+                "slug": "clothing_nt_thailei",
+                "name": "Perinteinen Thai Lei (vaihtokelvoton)",
+                "description": "clothing_nt_thailei desc",
                 "buyout": 0
             },
             "4130": {

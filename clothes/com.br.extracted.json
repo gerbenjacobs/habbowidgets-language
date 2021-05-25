@@ -2455,9 +2455,9 @@
                 "buyout": 0
             },
             "4133": {
-                "slug": "clothing_bamboohat",
-                "name": "Chap\u00e9u de Bambu",
-                "description": "clothing_bamboohat desc",
+                "slug": "clothing_nt_bamboohat",
+                "name": "Chap\u00e9u de Bambu (n\u00e3o negoci\u00e1vel)",
+                "description": "clothing_nt_bamboohat desc",
                 "buyout": 0
             },
             "4132": {
@@ -4432,9 +4432,9 @@
         },
         "ca": {
             "4135": {
-                "slug": "clothing_thailei",
-                "name": "Thai Lei Tradicional",
-                "description": "clothing_thailei desc",
+                "slug": "clothing_nt_thailei",
+                "name": "Thai Lei Tradicional (n\u00e3o negoci\u00e1vel)",
+                "description": "clothing_nt_thailei desc",
                 "buyout": 0
             },
             "4130": {
