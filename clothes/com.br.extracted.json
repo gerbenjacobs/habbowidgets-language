@@ -17,6 +17,18 @@
     "clothing": {
         "hr": {
             "9534": null,
+            "4182": {
+                "slug": "clothing_r21_beachywaves",
+                "name": "Teased Hair",
+                "description": "clothing_r21_beachywaves desc",
+                "buyout": 0
+            },
+            "4181": {
+                "slug": "clothing_rainbowundercut",
+                "name": "Rainbow Undercut",
+                "description": "clothing_rainbowundercut desc",
+                "buyout": 0
+            },
             "4143": {
                 "slug": "clothing_r21_tousledwaves",
                 "name": "Penteado Vi\u00fava Negra",
@@ -4431,6 +4443,12 @@
             "1201": null
         },
         "ca": {
+            "4183": {
+                "slug": "clothing_rainbowwings",
+                "name": "Winged Harness",
+                "description": "clothing_rainbowwings desc",
+                "buyout": 0
+            },
             "4135": {
                 "slug": "clothing_nt_thailei",
                 "name": "Thai Lei Tradicional (n\u00e3o negoci\u00e1vel)",
@@ -4840,6 +4858,42 @@
         "cc": {
             "9865": null,
             "9563": null,
+            "4180": {
+                "slug": "clothing_r21_kimono3",
+                "name": "Kimono by -Push,",
+                "description": "clothing_r21_kimono3 desc",
+                "buyout": 0
+            },
+            "4179": {
+                "slug": "clothing_pridecape",
+                "name": "Cape of Pride",
+                "description": "clothing_pridecape desc",
+                "buyout": 0
+            },
+            "4178": {
+                "slug": "clothing_r21_holojacket",
+                "name": "Holographic Suit Jacket",
+                "description": "clothing_r21_holojacket desc",
+                "buyout": 0
+            },
+            "4177": {
+                "slug": "clothing_r21_holojacket",
+                "name": "Holographic Suit Jacket",
+                "description": "clothing_r21_holojacket desc",
+                "buyout": 0
+            },
+            "4176": {
+                "slug": "clothing_pridehoodie",
+                "name": "Pride Stripe Hoodie",
+                "description": "clothing_pridehoodie desc",
+                "buyout": 0
+            },
+            "4175": {
+                "slug": "clothing_pridehoodie",
+                "name": "Pride Stripe Hoodie",
+                "description": "clothing_pridehoodie desc",
+                "buyout": 0
+            },
             "4137": {
                 "slug": "clothing_r21_muaythaioutfit",
                 "name": "Traje Muay Thai",
