@@ -19,13 +19,13 @@
             "9534": null,
             "4182": {
                 "slug": "clothing_r21_beachywaves",
-                "name": "Teased Hair",
+                "name": "Getoupeerd Haar",
                 "description": "clothing_r21_beachywaves desc",
                 "buyout": 0
             },
             "4181": {
                 "slug": "clothing_rainbowundercut",
-                "name": "Rainbow Undercut",
+                "name": "Regenboog Zijkanten",
                 "description": "clothing_rainbowundercut desc",
                 "buyout": 0
             },
@@ -4445,7 +4445,7 @@
         "ca": {
             "4183": {
                 "slug": "clothing_rainbowwings",
-                "name": "Winged Harness",
+                "name": "Gevleugeld Harnas",
                 "description": "clothing_rainbowwings desc",
                 "buyout": 0
             },
@@ -4866,31 +4866,31 @@
             },
             "4179": {
                 "slug": "clothing_pridecape",
-                "name": "Cape of Pride",
+                "name": "Pride Cape",
                 "description": "clothing_pridecape desc",
                 "buyout": 0
             },
             "4178": {
                 "slug": "clothing_r21_holojacket",
-                "name": "Holographic Suit Jacket",
+                "name": "Holografisch Colbert",
                 "description": "clothing_r21_holojacket desc",
                 "buyout": 0
             },
             "4177": {
                 "slug": "clothing_r21_holojacket",
-                "name": "Holographic Suit Jacket",
+                "name": "Holografisch Colbert",
                 "description": "clothing_r21_holojacket desc",
                 "buyout": 0
             },
             "4176": {
                 "slug": "clothing_pridehoodie",
-                "name": "Pride Stripe Hoodie",
+                "name": "Pride Strepen Hoodie",
                 "description": "clothing_pridehoodie desc",
                 "buyout": 0
             },
             "4175": {
                 "slug": "clothing_pridehoodie",
-                "name": "Pride Stripe Hoodie",
+                "name": "Pride Strepen Hoodie",
                 "description": "clothing_pridehoodie desc",
                 "buyout": 0
             },
