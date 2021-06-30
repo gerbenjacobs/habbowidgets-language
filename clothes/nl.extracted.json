@@ -2872,19 +2872,19 @@
                 "slug": "clothing_dianoblecrown",
                 "name": "Diamanten Koningskroon",
                 "description": "clothing_dianoblecrown desc",
-                "buyout": 0
+                "buyout": 1
             },
             "3709": {
                 "slug": "clothing_dialeafcrown",
                 "name": "Diamanten Julias Caesar-kroon",
                 "description": "clothing_dialeafcrown desc",
-                "buyout": 0
+                "buyout": 1
             },
             "3708": {
                 "slug": "clothing_diafish",
                 "name": "Diamanten Vishoed",
                 "description": "clothing_diafish desc",
-                "buyout": 0
+                "buyout": 1
             },
             "3701": {
                 "slug": "clothing_dragonplushhat",
@@ -4860,7 +4860,7 @@
             "9563": null,
             "4180": {
                 "slug": "clothing_r21_kimono3",
-                "name": "Kimono by -Push,",
+                "name": "Kimono door -Push,",
                 "description": "clothing_r21_kimono3 desc",
                 "buyout": 0
             },
