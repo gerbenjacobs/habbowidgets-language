@@ -20,7 +20,7 @@
             "4182": {
                 "slug": "clothing_r21_beachywaves",
                 "name": "Coupe aguicheuse",
-                "description": "clothing_r21_beachywaves desc",
+                "description": "Cette coupe a demand\u00e9 de nombreuses heures devant le miroir pour arriver \u00e0 ce r\u00e9sultat. Et \u00e7a en valait la peine !",
                 "buyout": 0
             },
             "4181": {
@@ -2872,19 +2872,19 @@
                 "slug": "clothing_dianoblecrown",
                 "name": "Couronne de Noble Diamant",
                 "description": "clothing_dianoblecrown desc",
-                "buyout": 1
+                "buyout": 0
             },
             "3709": {
                 "slug": "clothing_dialeafcrown",
                 "name": "Couronne de Laurier Diamant",
                 "description": "clothing_dialeafcrown desc",
-                "buyout": 1
+                "buyout": 0
             },
             "3708": {
                 "slug": "clothing_diafish",
                 "name": "Chapeau Poiscaille Diamant",
                 "description": "clothing_diafish desc",
-                "buyout": 1
+                "buyout": 0
             },
             "3701": {
                 "slug": "clothing_dragonplushhat",
@@ -4858,12 +4858,7 @@
         "cc": {
             "9865": null,
             "9563": null,
-            "4180": {
-                "slug": "clothing_r21_kimono3",
-                "name": "Kimono de -Push,",
-                "description": "clothing_r21_kimono3 desc",
-                "buyout": 0
-            },
+            "4180": null,
             "4179": {
                 "slug": "clothing_pridecape",
                 "name": "Cape des Fiert\u00e9s",

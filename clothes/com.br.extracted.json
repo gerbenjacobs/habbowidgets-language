@@ -4858,12 +4858,7 @@
         "cc": {
             "9865": null,
             "9563": null,
-            "4180": {
-                "slug": "clothing_r21_kimono3",
-                "name": "Kimono by -Push,",
-                "description": "clothing_r21_kimono3 desc",
-                "buyout": 0
-            },
+            "4180": null,
             "4179": {
                 "slug": "clothing_pridecape",
                 "name": "Capa do Orgulho",
