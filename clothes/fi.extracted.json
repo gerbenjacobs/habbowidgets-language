@@ -29,6 +29,18 @@
                 "description": "clothing_rainbowundercut desc",
                 "buyout": 0
             },
+            "4162": {
+                "slug": "clothing_modernmullet",
+                "name": "clothing_modernmullet name",
+                "description": "clothing_modernmullet desc",
+                "buyout": 0
+            },
+            "4160": {
+                "slug": "clothing_volumehair",
+                "name": "clothing_volumehair name",
+                "description": "clothing_volumehair desc",
+                "buyout": 0
+            },
             "4143": {
                 "slug": "clothing_r21_tousledwaves",
                 "name": "Lesken laineet",
@@ -674,6 +686,18 @@
             "100": null
         },
         "hd": {
+            "4174": {
+                "slug": "clothing_toughface",
+                "name": "clothing_toughface name",
+                "description": "clothing_toughface desc",
+                "buyout": 0
+            },
+            "4163": {
+                "slug": "clothing_retromakeup",
+                "name": "clothing_retromakeup name",
+                "description": "clothing_retromakeup desc",
+                "buyout": 0
+            },
             "4023": {
                 "slug": "clothing_multieyesface",
                 "name": "Silmi\u00e4 kaikkialla",
@@ -802,6 +826,36 @@
             "180": null
         },
         "ch": {
+            "4172": {
+                "slug": "clothing_retroshirt",
+                "name": "clothing_retroshirt name",
+                "description": "clothing_retroshirt desc",
+                "buyout": 0
+            },
+            "4171": {
+                "slug": "clothing_retroshirt",
+                "name": "clothing_retroshirt name",
+                "description": "clothing_retroshirt desc",
+                "buyout": 0
+            },
+            "4169": {
+                "slug": "clothing_holographicdress",
+                "name": "clothing_holographicdress name",
+                "description": "clothing_holographicdress desc",
+                "buyout": 0
+            },
+            "4166": {
+                "slug": "clothing_retrosuit",
+                "name": "clothing_retrosuit name",
+                "description": "clothing_retrosuit desc",
+                "buyout": 0
+            },
+            "4165": {
+                "slug": "clothing_retrosuit",
+                "name": "clothing_retrosuit name",
+                "description": "clothing_retrosuit desc",
+                "buyout": 0
+            },
             "4158": {
                 "slug": "clothing_edwardianblouse",
                 "name": "Edvardiaaninen pusero",
@@ -1909,6 +1963,12 @@
             "210": null
         },
         "lg": {
+            "4167": {
+                "slug": "clothing_retrosuit",
+                "name": "clothing_retrosuit name",
+                "description": "clothing_retrosuit desc",
+                "buyout": 0
+            },
             "4138": {
                 "slug": "clothing_r21_muaythaioutfit",
                 "name": "Muay Thai-asu",
@@ -2270,6 +2330,12 @@
             "270": null
         },
         "sh": {
+            "4159": {
+                "slug": "clothing_r21_rollerskates",
+                "name": "clothing_r21_rollerskates name",
+                "description": "clothing_r21_rollerskates desc",
+                "buyout": 0
+            },
             "4112": {
                 "slug": "clothing_nutrainers",
                 "name": "Moniv\u00e4riset lenkkarit",
@@ -2446,6 +2512,12 @@
                 "slug": "clothing_squid2",
                 "name": "Oranssi mustekalahattu",
                 "description": "clothing_squid2 desc",
+                "buyout": 0
+            },
+            "4164": {
+                "slug": "clothing_daffyfunkhelmet",
+                "name": "clothing_daffyfunkhelmet name",
+                "description": "clothing_daffyfunkhelmet desc",
                 "buyout": 0
             },
             "4154": {
@@ -3982,6 +4054,12 @@
             "1601": null
         },
         "ea": {
+            "4161": {
+                "slug": "clothing_gemglasses",
+                "name": "clothing_gemglasses name",
+                "description": "clothing_gemglasses desc",
+                "buyout": 0
+            },
             "4021": {
                 "slug": "clothing_cyeyepiece",
                 "name": "Cyberpunk-hologrammilinssi",
@@ -4177,6 +4255,12 @@
             "1401": null
         },
         "fa": {
+            "4168": {
+                "slug": "clothing_bubblegum",
+                "name": "clothing_bubblegum name",
+                "description": "clothing_bubblegum desc",
+                "buyout": 0
+            },
             "4058": {
                 "slug": "clothing_oxset",
                 "name": "H\u00e4rk\u00e4-asusteet",
@@ -4447,6 +4531,12 @@
                 "slug": "clothing_rainbowwings",
                 "name": "Siivelliset valjaat",
                 "description": "clothing_rainbowwings desc",
+                "buyout": 0
+            },
+            "4173": {
+                "slug": "clothing_r21_polaroid",
+                "name": "clothing_r21_polaroid name",
+                "description": "clothing_r21_polaroid desc",
                 "buyout": 0
             },
             "4135": {
@@ -4858,6 +4948,12 @@
         "cc": {
             "9865": null,
             "9563": null,
+            "4184": {
+                "slug": "clothing_r21_kimono3",
+                "name": "Kimono. Suunnittelija: -Push,",
+                "description": "clothing_r21_kimono3 desc",
+                "buyout": 0
+            },
             "4180": null,
             "4179": {
                 "slug": "clothing_pridecape",
