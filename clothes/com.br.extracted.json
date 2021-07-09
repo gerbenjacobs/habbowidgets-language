@@ -31,13 +31,13 @@
             },
             "4162": {
                 "slug": "clothing_modernmullet",
-                "name": "clothing_modernmullet name",
+                "name": "Mullet Moderno",
                 "description": "clothing_modernmullet desc",
                 "buyout": 0
             },
             "4160": {
                 "slug": "clothing_volumehair",
-                "name": "clothing_volumehair name",
+                "name": "Penteado 80's",
                 "description": "clothing_volumehair desc",
                 "buyout": 0
             },
@@ -688,13 +688,13 @@
         "hd": {
             "4174": {
                 "slug": "clothing_toughface",
-                "name": "clothing_toughface name",
+                "name": "Maquiagem G\u00e2ngster",
                 "description": "clothing_toughface desc",
                 "buyout": 0
             },
             "4163": {
                 "slug": "clothing_retromakeup",
-                "name": "clothing_retromakeup name",
+                "name": "Maquiagem 80's",
                 "description": "clothing_retromakeup desc",
                 "buyout": 0
             },
@@ -828,31 +828,31 @@
         "ch": {
             "4172": {
                 "slug": "clothing_retroshirt",
-                "name": "clothing_retroshirt name",
+                "name": "Camisa Miami Beach",
                 "description": "clothing_retroshirt desc",
                 "buyout": 0
             },
             "4171": {
                 "slug": "clothing_retroshirt",
-                "name": "clothing_retroshirt name",
+                "name": "Camisa Miami Beach",
                 "description": "clothing_retroshirt desc",
                 "buyout": 0
             },
             "4169": {
                 "slug": "clothing_holographicdress",
-                "name": "clothing_holographicdress name",
+                "name": "Vestido Hologr\u00e1fico",
                 "description": "clothing_holographicdress desc",
                 "buyout": 0
             },
             "4166": {
                 "slug": "clothing_retrosuit",
-                "name": "clothing_retrosuit name",
+                "name": "Traje Disco",
                 "description": "clothing_retrosuit desc",
                 "buyout": 0
             },
             "4165": {
                 "slug": "clothing_retrosuit",
-                "name": "clothing_retrosuit name",
+                "name": "Traje Disco",
                 "description": "clothing_retrosuit desc",
                 "buyout": 0
             },
@@ -1965,7 +1965,7 @@
         "lg": {
             "4167": {
                 "slug": "clothing_retrosuit",
-                "name": "clothing_retrosuit name",
+                "name": "Traje Disco",
                 "description": "clothing_retrosuit desc",
                 "buyout": 0
             },
@@ -2332,7 +2332,7 @@
         "sh": {
             "4159": {
                 "slug": "clothing_r21_rollerskates",
-                "name": "clothing_r21_rollerskates name",
+                "name": "Patins 80's",
                 "description": "clothing_r21_rollerskates desc",
                 "buyout": 0
             },
@@ -2516,7 +2516,7 @@
             },
             "4164": {
                 "slug": "clothing_daffyfunkhelmet",
-                "name": "clothing_daffyfunkhelmet name",
+                "name": "Capacete Daffy Funk",
                 "description": "clothing_daffyfunkhelmet desc",
                 "buyout": 0
             },
@@ -4056,7 +4056,7 @@
         "ea": {
             "4161": {
                 "slug": "clothing_gemglasses",
-                "name": "clothing_gemglasses name",
+                "name": "\u00d3culos Diamante",
                 "description": "clothing_gemglasses desc",
                 "buyout": 0
             },
@@ -4257,7 +4257,7 @@
         "fa": {
             "4168": {
                 "slug": "clothing_bubblegum",
-                "name": "clothing_bubblegum name",
+                "name": "Bola de Chiclete",
                 "description": "clothing_bubblegum desc",
                 "buyout": 0
             },
@@ -4535,7 +4535,7 @@
             },
             "4173": {
                 "slug": "clothing_r21_polaroid",
-                "name": "clothing_r21_polaroid name",
+                "name": "C\u00e2mera Polaroid Vintage",
                 "description": "clothing_r21_polaroid desc",
                 "buyout": 0
             },
