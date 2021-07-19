@@ -31,13 +31,13 @@
             },
             "4162": {
                 "slug": "clothing_modernmullet",
-                "name": "clothing_modernmullet name",
+                "name": "Modern Matje",
                 "description": "clothing_modernmullet desc",
                 "buyout": 0
             },
             "4160": {
                 "slug": "clothing_volumehair",
-                "name": "clothing_volumehair name",
+                "name": "80's Kapsel",
                 "description": "clothing_volumehair desc",
                 "buyout": 0
             },
@@ -688,13 +688,13 @@
         "hd": {
             "4174": {
                 "slug": "clothing_toughface",
-                "name": "clothing_toughface name",
+                "name": "Gangster Gezicht",
                 "description": "clothing_toughface desc",
                 "buyout": 0
             },
             "4163": {
                 "slug": "clothing_retromakeup",
-                "name": "clothing_retromakeup name",
+                "name": "Retro Make-up",
                 "description": "clothing_retromakeup desc",
                 "buyout": 0
             },
@@ -846,13 +846,13 @@
             },
             "4166": {
                 "slug": "clothing_retrosuit",
-                "name": "clothing_retrosuit name",
+                "name": "Disco Outfit",
                 "description": "clothing_retrosuit desc",
                 "buyout": 0
             },
             "4165": {
                 "slug": "clothing_retrosuit",
-                "name": "clothing_retrosuit name",
+                "name": "Disco Outfit",
                 "description": "clothing_retrosuit desc",
                 "buyout": 0
             },
@@ -1965,7 +1965,7 @@
         "lg": {
             "4167": {
                 "slug": "clothing_retrosuit",
-                "name": "clothing_retrosuit name",
+                "name": "Disco Outfit",
                 "description": "clothing_retrosuit desc",
                 "buyout": 0
             },
@@ -2332,7 +2332,7 @@
         "sh": {
             "4159": {
                 "slug": "clothing_r21_rollerskates",
-                "name": "clothing_r21_rollerskates name",
+                "name": "Retro Rolschaatsen",
                 "description": "clothing_r21_rollerskates desc",
                 "buyout": 0
             },
@@ -4257,7 +4257,7 @@
         "fa": {
             "4168": {
                 "slug": "clothing_bubblegum",
-                "name": "clothing_bubblegum name",
+                "name": "Kauwgombel",
                 "description": "clothing_bubblegum desc",
                 "buyout": 0
             },
@@ -4535,7 +4535,7 @@
             },
             "4173": {
                 "slug": "clothing_r21_polaroid",
-                "name": "clothing_r21_polaroid name",
+                "name": "Vintage Polaroid Camera",
                 "description": "clothing_r21_polaroid desc",
                 "buyout": 0
             },
