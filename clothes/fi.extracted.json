@@ -828,19 +828,19 @@
         "ch": {
             "4172": {
                 "slug": "clothing_retroshirt",
-                "name": "clothing_retroshirt name",
+                "name": "Miami rantapaita",
                 "description": "clothing_retroshirt desc",
                 "buyout": 0
             },
             "4171": {
                 "slug": "clothing_retroshirt",
-                "name": "clothing_retroshirt name",
+                "name": "Miami rantapaita",
                 "description": "clothing_retroshirt desc",
                 "buyout": 0
             },
             "4169": {
                 "slug": "clothing_holographicdress",
-                "name": "clothing_holographicdress name",
+                "name": "Hohtava bilemekko",
                 "description": "clothing_holographicdress desc",
                 "buyout": 0
             },
@@ -2516,7 +2516,7 @@
             },
             "4164": {
                 "slug": "clothing_daffyfunkhelmet",
-                "name": "clothing_daffyfunkhelmet name",
+                "name": "Funk kyp\u00e4r\u00e4",
                 "description": "clothing_daffyfunkhelmet desc",
                 "buyout": 0
             },
@@ -4056,7 +4056,7 @@
         "ea": {
             "4161": {
                 "slug": "clothing_gemglasses",
-                "name": "clothing_gemglasses name",
+                "name": "Jalokivilasit",
                 "description": "clothing_gemglasses desc",
                 "buyout": 0
             },
