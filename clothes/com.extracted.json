@@ -33,13 +33,13 @@
                 "slug": "clothing_modernmullet",
                 "name": "Modern Mullet",
                 "description": "clothing_modernmullet desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4160": {
                 "slug": "clothing_volumehair",
                 "name": "80s Locks",
                 "description": "clothing_volumehair desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4143": {
                 "slug": "clothing_r21_tousledwaves",
@@ -690,13 +690,13 @@
                 "slug": "clothing_toughface",
                 "name": "Gangster Face",
                 "description": "clothing_toughface desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4163": {
                 "slug": "clothing_retromakeup",
                 "name": "Retro Makeup",
                 "description": "clothing_retromakeup desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4023": {
                 "slug": "clothing_multieyesface",
@@ -848,13 +848,13 @@
                 "slug": "clothing_retrosuit",
                 "name": "Disco Suit",
                 "description": "clothing_retrosuit desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4165": {
                 "slug": "clothing_retrosuit",
                 "name": "Disco Suit",
                 "description": "clothing_retrosuit desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4158": {
                 "slug": "clothing_edwardianblouse",
@@ -1967,7 +1967,7 @@
                 "slug": "clothing_retrosuit",
                 "name": "Disco Suit",
                 "description": "clothing_retrosuit desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4138": {
                 "slug": "clothing_r21_muaythaioutfit",
@@ -4259,7 +4259,7 @@
                 "slug": "clothing_bubblegum",
                 "name": "Bubblegum Bubble",
                 "description": "clothing_bubblegum desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4058": {
                 "slug": "clothing_oxset",
