@@ -17,6 +17,24 @@
     "clothing": {
         "hr": {
             "9534": null,
+            "4216": {
+                "slug": "clothing_r21_fairyhair",
+                "name": "Fairy Locks",
+                "description": "clothing_r21_fairyhair desc",
+                "buyout": 0
+            },
+            "4193": {
+                "slug": "clothing_nt_ghosthair",
+                "name": "clothing_nt_ghosthair name",
+                "description": "clothing_nt_ghosthair desc",
+                "buyout": 0
+            },
+            "4186": {
+                "slug": "clothing_r21_himehair",
+                "name": "clothing_r21_himehair name",
+                "description": "clothing_r21_himehair desc",
+                "buyout": 0
+            },
             "4182": {
                 "slug": "clothing_r21_beachywaves",
                 "name": "Teased Hair",
@@ -826,6 +844,30 @@
             "180": null
         },
         "ch": {
+            "4200": {
+                "slug": "clothing_flowerdress",
+                "name": "Fantastic Fairy Dress",
+                "description": "clothing_flowerdress desc",
+                "buyout": 0
+            },
+            "4199": {
+                "slug": "clothing_flowerdress",
+                "name": "Fantastic Fairy Dress",
+                "description": "clothing_flowerdress desc",
+                "buyout": 0
+            },
+            "4190": {
+                "slug": "clothing_r21_ninjaoutfit",
+                "name": "clothing_r21_ninjaoutfit name",
+                "description": "clothing_r21_ninjaoutfit desc",
+                "buyout": 0
+            },
+            "4189": {
+                "slug": "clothing_r21_ninjaoutfit",
+                "name": "clothing_r21_ninjaoutfit name",
+                "description": "clothing_r21_ninjaoutfit desc",
+                "buyout": 0
+            },
             "4172": {
                 "slug": "clothing_retroshirt",
                 "name": "Miami Beach Shirt",
@@ -1963,6 +2005,12 @@
             "210": null
         },
         "lg": {
+            "4191": {
+                "slug": "clothing_r21_ninjaoutfit",
+                "name": "clothing_r21_ninjaoutfit name",
+                "description": "clothing_r21_ninjaoutfit desc",
+                "buyout": 0
+            },
             "4167": {
                 "slug": "clothing_retrosuit",
                 "name": "Disco Suit",
@@ -2508,6 +2556,60 @@
             "290": null
         },
         "ha": {
+            "4201": {
+                "slug": "clothing_darkcrown",
+                "name": "A Free Crown",
+                "description": "clothing_darkcrown desc",
+                "buyout": 0
+            },
+            "4198": {
+                "slug": "clothing_petalhat",
+                "name": "The Petal Hat You Want",
+                "description": "clothing_petalhat desc",
+                "buyout": 0
+            },
+            "4197": {
+                "slug": "clothing_mushroom2",
+                "name": "Fly Agaric Cap",
+                "description": "clothing_mushroom2 desc",
+                "buyout": 0
+            },
+            "4196": {
+                "slug": "clothing_diaicetiara",
+                "name": "clothing_diaicetiara name",
+                "description": "clothing_diaicetiara desc",
+                "buyout": 0
+            },
+            "4195": {
+                "slug": "clothing_diahermeshat",
+                "name": "clothing_diahermeshat name",
+                "description": "clothing_diahermeshat desc",
+                "buyout": 0
+            },
+            "4194": {
+                "slug": "clothing_diaelegantcrown",
+                "name": "clothing_diaelegantcrown name",
+                "description": "clothing_diaelegantcrown desc",
+                "buyout": 0
+            },
+            "4192": {
+                "slug": "clothing_nt_spiritfire",
+                "name": "clothing_nt_spiritfire name",
+                "description": "clothing_nt_spiritfire desc",
+                "buyout": 0
+            },
+            "4188": {
+                "slug": "clothing_r21_ninjaoutfit",
+                "name": "clothing_r21_ninjaoutfit name",
+                "description": "clothing_r21_ninjaoutfit desc",
+                "buyout": 0
+            },
+            "4187": {
+                "slug": "clothing_ghostheadband",
+                "name": "clothing_ghostheadband name",
+                "description": "clothing_ghostheadband desc",
+                "buyout": 0
+            },
             "4170": {
                 "slug": "clothing_squid2",
                 "name": "clothing_squid2 name",
@@ -4255,6 +4357,12 @@
             "1401": null
         },
         "fa": {
+            "4185": {
+                "slug": "clothing_ghostheadband",
+                "name": "clothing_ghostheadband name",
+                "description": "clothing_ghostheadband desc",
+                "buyout": 0
+            },
             "4168": {
                 "slug": "clothing_bubblegum",
                 "name": "Bubblegum Bubble",
@@ -4948,6 +5056,12 @@
         "cc": {
             "9865": null,
             "9563": null,
+            "4217": {
+                "slug": "clothing_r21_fairywings",
+                "name": "Glittering Fairy Wings",
+                "description": "clothing_r21_fairywings desc",
+                "buyout": 0
+            },
             "4184": {
                 "slug": "clothing_r21_kimono3",
                 "name": "Kimono by -Push,",
