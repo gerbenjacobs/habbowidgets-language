@@ -25,13 +25,13 @@
             },
             "4193": {
                 "slug": "clothing_nt_ghosthair",
-                "name": "clothing_nt_ghosthair name",
+                "name": "Penteado Onryo (n\u00e3o negoci\u00e1vel)",
                 "description": "clothing_nt_ghosthair desc",
                 "buyout": 0
             },
             "4186": {
                 "slug": "clothing_r21_himehair",
-                "name": "clothing_r21_himehair name",
+                "name": "Penteado Hime",
                 "description": "clothing_r21_himehair desc",
                 "buyout": 0
             },
@@ -858,13 +858,13 @@
             },
             "4190": {
                 "slug": "clothing_r21_ninjaoutfit",
-                "name": "clothing_r21_ninjaoutfit name",
+                "name": "Traje Shinobi",
                 "description": "clothing_r21_ninjaoutfit desc",
                 "buyout": 0
             },
             "4189": {
                 "slug": "clothing_r21_ninjaoutfit",
-                "name": "clothing_r21_ninjaoutfit name",
+                "name": "Traje Shinobi",
                 "description": "clothing_r21_ninjaoutfit desc",
                 "buyout": 0
             },
@@ -2007,7 +2007,7 @@
         "lg": {
             "4191": {
                 "slug": "clothing_r21_ninjaoutfit",
-                "name": "clothing_r21_ninjaoutfit name",
+                "name": "Traje Shinobi",
                 "description": "clothing_r21_ninjaoutfit desc",
                 "buyout": 0
             },
@@ -2576,37 +2576,37 @@
             },
             "4196": {
                 "slug": "clothing_diaicetiara",
-                "name": "clothing_diaicetiara name",
+                "name": "Tiara Diamante",
                 "description": "clothing_diaicetiara desc",
                 "buyout": 0
             },
             "4195": {
                 "slug": "clothing_diahermeshat",
-                "name": "clothing_diahermeshat name",
+                "name": "Chap\u00e9u Hermes Diamante",
                 "description": "clothing_diahermeshat desc",
                 "buyout": 0
             },
             "4194": {
                 "slug": "clothing_diaelegantcrown",
-                "name": "clothing_diaelegantcrown name",
+                "name": "Coroa Elegante Diamante",
                 "description": "clothing_diaelegantcrown desc",
                 "buyout": 0
             },
             "4192": {
                 "slug": "clothing_nt_spiritfire",
-                "name": "clothing_nt_spiritfire name",
+                "name": "Chamas Espirituais (n\u00e3o negoci\u00e1vel)",
                 "description": "clothing_nt_spiritfire desc",
                 "buyout": 0
             },
             "4188": {
                 "slug": "clothing_r21_ninjaoutfit",
-                "name": "clothing_r21_ninjaoutfit name",
+                "name": "Traje Shinobi",
                 "description": "clothing_r21_ninjaoutfit desc",
                 "buyout": 0
             },
             "4187": {
                 "slug": "clothing_ghostheadband",
-                "name": "clothing_ghostheadband name",
+                "name": "Bandana Macabra",
                 "description": "clothing_ghostheadband desc",
                 "buyout": 0
             },
@@ -4359,7 +4359,7 @@
         "fa": {
             "4185": {
                 "slug": "clothing_ghostheadband",
-                "name": "clothing_ghostheadband name",
+                "name": "Bandana Macabra",
                 "description": "clothing_ghostheadband desc",
                 "buyout": 0
             },

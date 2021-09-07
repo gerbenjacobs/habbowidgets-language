@@ -25,13 +25,13 @@
             },
             "4193": {
                 "slug": "clothing_nt_ghosthair",
-                "name": "clothing_nt_ghosthair name",
+                "name": "Cheveux d'Onryo (non \u00e9changeable)",
                 "description": "clothing_nt_ghosthair desc",
                 "buyout": 0
             },
             "4186": {
                 "slug": "clothing_r21_himehair",
-                "name": "clothing_r21_himehair name",
+                "name": "Coiffure Hime",
                 "description": "clothing_r21_himehair desc",
                 "buyout": 0
             },
@@ -858,13 +858,13 @@
             },
             "4190": {
                 "slug": "clothing_r21_ninjaoutfit",
-                "name": "clothing_r21_ninjaoutfit name",
+                "name": "Tenue de Shinobi",
                 "description": "clothing_r21_ninjaoutfit desc",
                 "buyout": 0
             },
             "4189": {
                 "slug": "clothing_r21_ninjaoutfit",
-                "name": "clothing_r21_ninjaoutfit name",
+                "name": "Tenue de Shinobi",
                 "description": "clothing_r21_ninjaoutfit desc",
                 "buyout": 0
             },
@@ -2007,7 +2007,7 @@
         "lg": {
             "4191": {
                 "slug": "clothing_r21_ninjaoutfit",
-                "name": "clothing_r21_ninjaoutfit name",
+                "name": "Tenue de Shinobi",
                 "description": "clothing_r21_ninjaoutfit desc",
                 "buyout": 0
             },
@@ -2594,19 +2594,19 @@
             },
             "4192": {
                 "slug": "clothing_nt_spiritfire",
-                "name": "clothing_nt_spiritfire name",
+                "name": "Esprit des flammes (non \u00e9changeable)",
                 "description": "clothing_nt_spiritfire desc",
                 "buyout": 0
             },
             "4188": {
                 "slug": "clothing_r21_ninjaoutfit",
-                "name": "clothing_r21_ninjaoutfit name",
+                "name": "Tenue de Shinobi",
                 "description": "clothing_r21_ninjaoutfit desc",
                 "buyout": 0
             },
             "4187": {
                 "slug": "clothing_ghostheadband",
-                "name": "clothing_ghostheadband name",
+                "name": "Bandeau fantomatique",
                 "description": "clothing_ghostheadband desc",
                 "buyout": 0
             },
@@ -4359,7 +4359,7 @@
         "fa": {
             "4185": {
                 "slug": "clothing_ghostheadband",
-                "name": "clothing_ghostheadband name",
+                "name": "Bandeau fantomatique",
                 "description": "clothing_ghostheadband desc",
                 "buyout": 0
             },
