@@ -25,13 +25,13 @@
             },
             "4193": {
                 "slug": "clothing_nt_ghosthair",
-                "name": "clothing_nt_ghosthair name",
+                "name": "Onryo-hiukset (vaihtokelvoton)",
                 "description": "clothing_nt_ghosthair desc",
                 "buyout": 0
             },
             "4186": {
                 "slug": "clothing_r21_himehair",
-                "name": "clothing_r21_himehair name",
+                "name": "Hime-kampaus",
                 "description": "clothing_r21_himehair desc",
                 "buyout": 0
             },
@@ -858,13 +858,13 @@
             },
             "4190": {
                 "slug": "clothing_r21_ninjaoutfit",
-                "name": "clothing_r21_ninjaoutfit name",
+                "name": "Shinobi-asu",
                 "description": "clothing_r21_ninjaoutfit desc",
                 "buyout": 0
             },
             "4189": {
                 "slug": "clothing_r21_ninjaoutfit",
-                "name": "clothing_r21_ninjaoutfit name",
+                "name": "Shinobi-asu",
                 "description": "clothing_r21_ninjaoutfit desc",
                 "buyout": 0
             },
@@ -2007,7 +2007,7 @@
         "lg": {
             "4191": {
                 "slug": "clothing_r21_ninjaoutfit",
-                "name": "clothing_r21_ninjaoutfit name",
+                "name": "Shinobi-asu",
                 "description": "clothing_r21_ninjaoutfit desc",
                 "buyout": 0
             },
@@ -2594,19 +2594,19 @@
             },
             "4192": {
                 "slug": "clothing_nt_spiritfire",
-                "name": "clothing_nt_spiritfire name",
+                "name": "Sielujen liekit (vaihtokelvoton)",
                 "description": "clothing_nt_spiritfire desc",
                 "buyout": 0
             },
             "4188": {
                 "slug": "clothing_r21_ninjaoutfit",
-                "name": "clothing_r21_ninjaoutfit name",
+                "name": "Shinobi-asu",
                 "description": "clothing_r21_ninjaoutfit desc",
                 "buyout": 0
             },
             "4187": {
                 "slug": "clothing_ghostheadband",
-                "name": "clothing_ghostheadband name",
+                "name": "Kummituksen p\u00e4\u00e4hine",
                 "description": "clothing_ghostheadband desc",
                 "buyout": 0
             },
@@ -4359,7 +4359,7 @@
         "fa": {
             "4185": {
                 "slug": "clothing_ghostheadband",
-                "name": "clothing_ghostheadband name",
+                "name": "Kummituksen p\u00e4\u00e4hine",
                 "description": "clothing_ghostheadband desc",
                 "buyout": 0
             },
