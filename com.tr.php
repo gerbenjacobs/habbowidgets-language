@@ -21,11 +21,11 @@ return [
     "by" => "tarafından",
     "using the" => "kullanarak",
     "Generated in" => "Burada yapıldı",
-    "Current server time" => "Güncel server saati",
+    "Current server time" => "Güncel sunucu saati",
     // Landing page
     "What's your Habbo name?" => "Habbo Kullanıcı adın nedir?",
     /* -- Try to add the <br> at around 70 characters, so the next part goes on a new line */
-    "landing_page_info" => "Tüm Habbolar hakkında daha fazla bilgi alabilirsin.<br>Mesela Personeller diğer Habbolar veya Arkadaşınların Hakkında!",
+    "landing_page_info" => "Tüm Habbolar hakkında daha fazla bilgi alabilirsin.<br>Mesela Personeller diğer Habbolar veya arkadaşınların hakkında!",
 
     // General
     "Habbo" => "Habbo",
@@ -181,8 +181,8 @@ return [
     "Habbo Closet" => "Habbo Gardırop",
     "What are Habbos wearing?" => "Habbolar ne giyiyor?",
     "Back to closet" => "Gardıroba geri dön.'",
-    "No Habbos are wearing this piece of clothing." => "Hiçbir Habbo bu kıyafeti giymiyor.",
+    "No Habbos are wearing this piece of clothing." => "Herhangi bir Habbo bu kıyafeti giymiyor.",
     "Try something else" => "Başka bir şey deneyin.",
-    "Search for .." => ".. için ara",
-    "No clothing items found.." => "Giyim eşyası bulunamadı..",
+    "Search for .." => "ara..",
+    "No clothing items found.." => "Kıyafet bulunamadı..",
 ];
