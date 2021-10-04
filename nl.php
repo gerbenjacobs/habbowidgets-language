@@ -9,6 +9,7 @@ return [
     "Badge top x" => "Badge top %d", // %d will be replaced by the number
     "Achievements top x" => "Achievement top %d",
     "Unique badge top x" => "Unieke badge top %d", // 'Unique' is chosen as they're not technically 'rares'.
+    "Star Gems top x" => "Star Gems top %d",
     "Badge owners" => "Badge eigenaren",
     "News" => "Nieuws",
     "About" => "Over ons",
@@ -188,4 +189,7 @@ return [
     "Try something else" => "Kies iets anders",
     "Search for .." => "Zoek naar ..",
     "No clothing items found.." => "Geen kledingstukken gevonden..",
+
+    // Habbo Star Gems
+    "Star Gems top x for" => "Star Gems top %d voor"
 ];

@@ -9,6 +9,7 @@ return [
     "Badge top x" => "Rozet Top %d", // %d will be replaced by the number
     "Achievements top x" => "Toplam Başarılar Top %d",
     "Unique badge top x" => "Nadir Rozetler Top %d", // 'Unique' is chosen as they're not technically 'rares'.
+    "Star Gems top x" => "Star Gems Top %d",
     "Badge owners" => "Rozet Sahipleri",
     "News" => "Haberler",
     "About" => "Hakkımızda",
@@ -185,4 +186,7 @@ return [
     "Try something else" => "Başka bir şey deneyin.",
     "Search for .." => "ara..",
     "No clothing items found.." => "Kıyafet bulunamadı..",
+
+    // Habbo Star Gems
+    "Star Gems top x for" => "Toplam Star Gems top %d"
 ];
