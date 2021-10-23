@@ -6,10 +6,10 @@ return [
     "Birthdays" => "Doğum Günleri",
     "Badges" => "Rozetler",
     "All badges" => "Bütün Rozetler",
-    "Badge top x" => "Rozet Top %d", // %d will be replaced by the number
-    "Achievements top x" => "Toplam Başarılar Top %d",
-    "Unique badge top x" => "Nadir Rozetler Top %d", // 'Unique' is chosen as they're not technically 'rares'.
-    "Star Gems top x" => "Star Gems Top %d",
+    "Badge top x" => "Rozet sıralaması %d", // %d will be replaced by the number
+    "Achievements top x" => "Toplam Başarılar sıralaması %d",
+    "Unique badge top x" => "Nadir Rozetler sıralaması %d", // 'Unique' is chosen as they're not technically 'rares'.
+    "Star Gems top x" => "Star Gems sıralaması %d",
     "Badge owners" => "Rozet Sahipleri",
     "News" => "Haberler",
     "About" => "Hakkımızda",
@@ -24,14 +24,14 @@ return [
     "Generated in" => "Burada yapıldı",
     "Current server time" => "Güncel sunucu saati",
     // Landing page
-    "What's your Habbo name?" => "Habbo Kullanıcı adın nedir?",
+    "What's your Habbo name?" => "Habbo kullanıcı adın nedir?",
     /* -- Try to add the <br> at around 70 characters, so the next part goes on a new line */
     "landing_page_info" => "Tüm Habbolar hakkında daha fazla bilgi alabilirsin.<br>Mesela Personeller diğer Habbolar veya arkadaşınların hakkında!",
 
     // General
     "Habbo" => "Habbo",
     "Hotel" => "Hotel",
-    "Habbo name" => "Habbo Kullanıcı Adı",
+    "Habbo name" => "Habbo kullanıcı adı",
     "Oops.." => "Oops..",
     "from" => "buradan", // "Viewing page of :habbo: from :hotel:"
     "View Habinfo" => " Habbo Detaylarını görüntüle",
@@ -73,43 +73,43 @@ return [
     "Closed profile, loading might take longer." => "Bu Habbo'nun profili kapalı. Bu Habbo'ya erişim biraz uzun sürebilir.",
     "This Habbo is banned. We can not get any new information.." => "Bu Habbo Kullanıcısı yasaklandığından yeni bilgilere ulaşamadık..",
     "Previous mottos" => "Geçmiş mottoları",
-    "Previous looks" => "Eski Tarzı",
-    "Last online" => "Son Çevrimiçi",
+    "Previous looks" => "Eski tarzı",
+    "Last online" => "Son çevrimiçi",
     "Last change" => "Son değişiklik",
-    "Go to profile" => "Habbo Profiline Geç",
-    "Closed profile" => "Kapalı Profil",
-    "Banned" => "Bu Habbo Banlandı",
-    "About me" => "Benim Hakkımda",
+    "Go to profile" => "Habbo profiline geç",
+    "Closed profile" => "Kapalı profil",
+    "Banned" => "Engellendi",
+    "About me" => "Hakkımda",
     /* -- "Created on :date: and last updated :some time ago:" */
-    "Created on" => "Tarihinde Açıldı",
+    "Created on" => "Tarihinde açıldı",
     "and last updated" => "ve en son güncellendi",
     "Friends" => "Arkadaşları",
     "Groups" => "Grupları",
     "Rooms" => "Odaları",
-    "Photos" => "Resımlerı",
+    "Photos" => "Resimleri",
     "new" => "YENİ", // Little label on new badges/friends etc. If your word is long (6+ characters), see if you can shorten it
     "This Habbo is not in the Habinfo system yet" => "Bu Habbo şuan Habbo sisteminde bulunmamakta",
-    "Show old badges" => "Eski Rozetleri göster",
-    "Show old friends" => "Eski Arkadaşları göster",
-    "Show old groups" => "Eski Gruplari göster",
-    "Show old rooms" => "Eski Odalari göster",
+    "Show old badges" => "Eski rozetleri göster",
+    "Show old friends" => "Eski arkadaşları göster",
+    "Show old groups" => "Eski gruplari göster",
+    "Show old rooms" => "Eski odalari göster",
     "Administrator" => "Yönetici", // Someone with admin rights in a group
     "Group created" => "Kuruluş tarihi",
     "Group joined" => "Gruba katılış tarihi",
-    "Group updated" => "Grup Güncellendi",
-    "Go to grouproom" => "Grup Odasina git",
-    "Room created" => "Odanın Kuruluş Tarihi",
-    "Room updated" => "Odanin güncellenme tarihi",
+    "Group updated" => "Grup güncellendi",
+    "Go to grouproom" => "Grup odasına git",
+    "Room created" => "Odanın kuruluş tarihi",
+    "Room updated" => "Odanın güncellenme tarihi",
     "Rating" => "Puanlama",
     "Maximum visitors" => "En çok ziyaretçi",
     "Go to room" => "Odaya git",
     // "Taken in this room on :date: and received :number: likes
     "Taken in" => "Kullanılmış",
     "this room" => "bu oda",
-    "and received" => "ve bukadar aldi",
+    "and received" => "ve bu kadar aldı",
     "likes" => "beğeni",
     "Show on Habbo" => "Habboda göster",
-    "Who else has this badge?" => "Bu Rozet başka kimde var?",
+    "Who else has this badge?" => "Bu rozet başka kimlerde var?",
     "Removed" => "Geri alindi",
     "%s has been a Habbo since %s and has %d badges, %d friends, %d groups and %d rooms!" => "%s, %s'den beri Habbo kullanıcısı ve %d rozet, %d arkadaş, %d grup ve %d odaya sahip!", // Leave the %s and %d intact
     "Back to top" => "Yukarı Dön",
@@ -119,17 +119,17 @@ return [
     "Go to Rooms" => "Odalara git",
     "Go to Photos" => "Fotoğraflara git",
     "Toggle achievements" => "Başarımları Göster / Gösterme",
-    "Toggle unique badges" => "Nadir Rozetleri Görüntüle",
+    "Toggle unique badges" => "Nadir rozetleri görüntüle",
 
     // Maintenance
     "Maintenance.." => "Bakım Arası..",
     "maintenance_paragraph_one" => "Selam Habbo! Sayfaya bir kaç yenilik katıyoruz.",
-    "maintenance_paragraph_two" => "Bizimle kal! Yakınde geri dönecez!",
-    "Follow us on Twitter for updates" => "Bizi Twitter da takip eti!",
+    "maintenance_paragraph_two" => "Bizimle kal! Yakınde geri döneceğiz!",
+    "Follow us on Twitter for updates" => "Bizi Twitter da takip et!",
 
     // 404
     "Oops, page not found" => "Uups, sayfa bulunamadı",
-    "The page you tried to request doesn't exist.." => "Gitmek istediğin Sayfa bulunamiyor ..",
+    "The page you tried to request doesn't exist.." => "Gitmek istediğin Sayfa bulunamıyor..",
     "page_not_found_paragraph" => "Üzülme.. Sayfaya geri dön. %sAnasayfa%s veya habbo %sdoğum günülerine%s bak!", // Leave the %s intact, they will become links
     "Return" => "Geri dön",
 
@@ -151,18 +151,18 @@ return [
     "Find Habbos who own.." => "Hangi Habbolarda bulunan Rozetleri bul..",
     "Badge code" => "Rozet kodu",
     "Why don't you check out.." => "Buraya neden bakmıyorsun..",
-    "unique badges in" => "Nadir Rozet", // ":number: unique badges in :hotel:"
-    "owners" => "Sahıplerı",
+    "unique badges in" => "nadir rozet", // ":number: unique badges in :hotel:"
+    "owners" => "sahipleri",
     "There are no unique badges in this hotel.." => "Bu Otelde nadir rozet bulunmuyor..",
 
     // Time
     "today" => "bugün",
     "and" => "ve",
     "ago" => "önce",
-    "hours" => "Saat",
-    "years" => "Yıl",
-    "months" => "Ay",
-    "days" => "Gün",
+    "hours" => "saat",
+    "years" => "yıl",
+    "months" => "ay",
+    "days" => "gün",
 
     // Habbo Ticker
     "Latest updates from Habbo Ticker" => "Habbo Ticker'dan son güncellemeler",
@@ -170,11 +170,11 @@ return [
     "changed their motto" => "Mottosunu değiştirdi",
     "changed their look" => "Kıyafetini değiştirdi",
     "more than x" => "Daha fazla %d",
-    "new badge(s)" => "Yeni Rozet",
-    "new group(s)" => "Yeni Katıldığı Gruplar",
-    "new room(s)" => "Yeni Odalar",
-    "new friend(s)" => "Yeni Arkadaşlar",
-    "new photo(s)" => "Yeni Resimler",
+    "new badge(s)" => "Yeni rozet",
+    "new group(s)" => "Yeni katıldığı gruplar",
+    "new room(s)" => "Yeni odalar",
+    "new friend(s)" => "Yeni arkadaşlar",
+    "new photo(s)" => "Yeni resimler",
     "joined" => "Katıldı", // This habbo joined Habbowidgets
     "added" => "Eklendi", // you can also replace this with "has"
 
@@ -188,5 +188,5 @@ return [
     "No clothing items found.." => "Kıyafet bulunamadı..",
 
     // Habbo Star Gems
-    "Star Gems top x for" => "Toplam Star Gems top %d"
+    "Star Gems top x for" => "Toplam Star Gems sıralaması %d"
 ];
