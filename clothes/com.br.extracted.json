@@ -17,6 +17,12 @@
     "clothing": {
         "hr": {
             "9534": null,
+            "4298": {
+                "slug": "clothing_r21_milkmaidbraid",
+                "name": "Tran\u00e7a Camponesa",
+                "description": "clothing_r21_milkmaidbraid desc",
+                "buyout": 0
+            },
             "4216": {
                 "slug": "clothing_r21_fairyhair",
                 "name": "Penteado de Fada",
@@ -844,6 +850,12 @@
             "180": null
         },
         "ch": {
+            "4299": {
+                "slug": "clothing_r21_cosydungarees",
+                "name": "Macac\u00e3o Veludo Cotel\u00ea",
+                "description": "clothing_r21_cosydungarees desc",
+                "buyout": 0
+            },
             "4200": {
                 "slug": "clothing_flowerdress",
                 "name": "Vestido Flor\u00edstico",
@@ -2556,6 +2568,30 @@
             "290": null
         },
         "ha": {
+            "4297": {
+                "slug": "clothing_limehead",
+                "name": "Cabe\u00e7a-Lim\u00e3o",
+                "description": "clothing_limehead desc",
+                "buyout": 0
+            },
+            "4296": {
+                "slug": "clothing_conehat",
+                "name": "Chap\u00e9u de Cone",
+                "description": "clothing_conehat desc",
+                "buyout": 0
+            },
+            "4295": {
+                "slug": "clothing_catbeanie",
+                "name": "Gorro Gatinho",
+                "description": "clothing_catbeanie desc",
+                "buyout": 0
+            },
+            "4294": {
+                "slug": "clothing_drinkhat",
+                "name": "Bon\u00e9 Mata Sede",
+                "description": "clothing_drinkhat desc",
+                "buyout": 0
+            },
             "4201": {
                 "slug": "clothing_darkcrown",
                 "name": "Coroa Gratuita",
@@ -2608,7 +2644,7 @@
                 "slug": "clothing_ghostheadband",
                 "name": "Bandana Macabra",
                 "description": "clothing_ghostheadband desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4170": {
                 "slug": "clothing_squid2",
@@ -4361,7 +4397,7 @@
                 "slug": "clothing_ghostheadband",
                 "name": "Bandana Macabra",
                 "description": "clothing_ghostheadband desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4168": {
                 "slug": "clothing_bubblegum",

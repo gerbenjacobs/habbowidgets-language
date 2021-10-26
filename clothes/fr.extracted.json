@@ -17,6 +17,12 @@
     "clothing": {
         "hr": {
             "9534": null,
+            "4298": {
+                "slug": "clothing_r21_milkmaidbraid",
+                "name": "Tresses des vendanges",
+                "description": "clothing_r21_milkmaidbraid desc",
+                "buyout": 0
+            },
             "4216": {
                 "slug": "clothing_r21_fairyhair",
                 "name": "Chevelure de F\u00e9e",
@@ -844,6 +850,12 @@
             "180": null
         },
         "ch": {
+            "4299": {
+                "slug": "clothing_r21_cosydungarees",
+                "name": "Salopette en velours",
+                "description": "clothing_r21_cosydungarees desc",
+                "buyout": 0
+            },
             "4200": {
                 "slug": "clothing_flowerdress",
                 "name": "Robe de F\u00e9e fantastique",
@@ -2556,6 +2568,30 @@
             "290": null
         },
         "ha": {
+            "4297": {
+                "slug": "clothing_limehead",
+                "name": "Chapeau citron vert",
+                "description": "clothing_limehead desc",
+                "buyout": 0
+            },
+            "4296": {
+                "slug": "clothing_conehat",
+                "name": "Chapeau c\u00f4ne de signalisation",
+                "description": "clothing_conehat desc",
+                "buyout": 0
+            },
+            "4295": {
+                "slug": "clothing_catbeanie",
+                "name": "Bonnet oreilles de chat",
+                "description": "clothing_catbeanie desc",
+                "buyout": 0
+            },
+            "4294": {
+                "slug": "clothing_drinkhat",
+                "name": "Casquette de ravitaillement",
+                "description": "clothing_drinkhat desc",
+                "buyout": 0
+            },
             "4201": {
                 "slug": "clothing_darkcrown",
                 "name": "Couronne gratuite",
@@ -2608,7 +2644,7 @@
                 "slug": "clothing_ghostheadband",
                 "name": "Bandeau fantomatique",
                 "description": "clothing_ghostheadband desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4170": {
                 "slug": "clothing_squid2",
@@ -4361,7 +4397,7 @@
                 "slug": "clothing_ghostheadband",
                 "name": "Bandeau fantomatique",
                 "description": "clothing_ghostheadband desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4168": {
                 "slug": "clothing_bubblegum",

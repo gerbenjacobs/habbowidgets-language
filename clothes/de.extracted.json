@@ -17,6 +17,12 @@
     "clothing": {
         "hr": {
             "9534": null,
+            "4298": {
+                "slug": "clothing_r21_milkmaidbraid",
+                "name": "Erntezopf",
+                "description": "clothing_r21_milkmaidbraid desc",
+                "buyout": 0
+            },
             "4216": {
                 "slug": "clothing_r21_fairyhair",
                 "name": "Feenlocken",
@@ -844,6 +850,12 @@
             "180": null
         },
         "ch": {
+            "4299": {
+                "slug": "clothing_r21_cosydungarees",
+                "name": "Cord-Latzhose",
+                "description": "clothing_r21_cosydungarees desc",
+                "buyout": 0
+            },
             "4200": {
                 "slug": "clothing_flowerdress",
                 "name": "Fantastisches Feenkleid",
@@ -2556,6 +2568,30 @@
             "290": null
         },
         "ha": {
+            "4297": {
+                "slug": "clothing_limehead",
+                "name": "Limettenkopf",
+                "description": "clothing_limehead desc",
+                "buyout": 0
+            },
+            "4296": {
+                "slug": "clothing_conehat",
+                "name": "Kegelhut",
+                "description": "clothing_conehat desc",
+                "buyout": 0
+            },
+            "4295": {
+                "slug": "clothing_catbeanie",
+                "name": "Katzenohrm\u00fctze",
+                "description": "clothing_catbeanie desc",
+                "buyout": 0
+            },
+            "4294": {
+                "slug": "clothing_drinkhat",
+                "name": "Getr\u00e4nkek\u00e4ppi",
+                "description": "clothing_drinkhat desc",
+                "buyout": 0
+            },
             "4201": {
                 "slug": "clothing_darkcrown",
                 "name": "Eine Krone gratis",
@@ -2608,7 +2644,7 @@
                 "slug": "clothing_ghostheadband",
                 "name": "Geisterstirnband",
                 "description": "clothing_ghostheadband desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4170": {
                 "slug": "clothing_squid2",
@@ -4361,7 +4397,7 @@
                 "slug": "clothing_ghostheadband",
                 "name": "Geisterstirnband",
                 "description": "clothing_ghostheadband desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4168": {
                 "slug": "clothing_bubblegum",
