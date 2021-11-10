@@ -4781,7 +4781,7 @@
             },
             "3916": {
                 "slug": "clothing_campingbackpack",
-                "name": "Mochila de Sobrevi\u00eancia",
+                "name": "Mochila de Sobreviv\u00eancia",
                 "description": "clothing_campingbackpack desc",
                 "buyout": 1
             },
@@ -5125,13 +5125,13 @@
             },
             "4176": {
                 "slug": "clothing_pridehoodie",
-                "name": "Molet\u00f3m do Orgulho",
+                "name": "Moletom do Orgulho",
                 "description": "clothing_pridehoodie desc",
                 "buyout": 0
             },
             "4175": {
                 "slug": "clothing_pridehoodie",
-                "name": "Molet\u00f3m do Orgulho",
+                "name": "Moletom do Orgulho",
                 "description": "clothing_pridehoodie desc",
                 "buyout": 0
             },
