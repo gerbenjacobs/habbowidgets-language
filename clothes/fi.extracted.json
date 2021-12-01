@@ -23,6 +23,18 @@
                 "description": "clothing_r21_milkmaidbraid desc",
                 "buyout": 0
             },
+            "4274": {
+                "slug": "clothing_nobleoutfit",
+                "name": "Aristokraatin asu",
+                "description": "clothing_nobleoutfit desc",
+                "buyout": 0
+            },
+            "4273": {
+                "slug": "clothing_governessoutfit",
+                "name": "Kotiopettajattaren asu",
+                "description": "clothing_governessoutfit desc",
+                "buyout": 0
+            },
             "4216": {
                 "slug": "clothing_r21_fairyhair",
                 "name": "Mets\u00e4nhenkitukka",
@@ -854,6 +866,36 @@
                 "slug": "clothing_r21_cosydungarees",
                 "name": "Vakosamettihaalarit",
                 "description": "clothing_r21_cosydungarees desc",
+                "buyout": 0
+            },
+            "4289": {
+                "slug": "clothing_governessoutfit",
+                "name": "Kotiopettajattaren asu",
+                "description": "clothing_governessoutfit desc",
+                "buyout": 0
+            },
+            "4286": {
+                "slug": "clothing_conductoroutfit",
+                "name": "Kondukt\u00f6\u00f6rin asu",
+                "description": "clothing_conductoroutfit desc",
+                "buyout": 0
+            },
+            "4285": {
+                "slug": "clothing_conductoroutfit",
+                "name": "Kondukt\u00f6\u00f6rin asu",
+                "description": "clothing_conductoroutfit desc",
+                "buyout": 0
+            },
+            "4276": {
+                "slug": "clothing_nobleoutfit",
+                "name": "Aristokraatin asu",
+                "description": "clothing_nobleoutfit desc",
+                "buyout": 0
+            },
+            "4275": {
+                "slug": "clothing_nobleoutfit",
+                "name": "Aristokraatin asu",
+                "description": "clothing_nobleoutfit desc",
                 "buyout": 0
             },
             "4200": {
@@ -2568,6 +2610,12 @@
             "290": null
         },
         "ha": {
+            "4301": {
+                "slug": "clothing_doctorsoutfit",
+                "name": "L\u00e4\u00e4k\u00e4rin asu",
+                "description": "clothing_doctorsoutfit desc",
+                "buyout": 0
+            },
             "4297": {
                 "slug": "clothing_limehead",
                 "name": "Limettip\u00e4\u00e4hine",
@@ -2590,6 +2638,12 @@
                 "slug": "clothing_drinkhat",
                 "name": "T\u00f6lkkilippis",
                 "description": "clothing_drinkhat desc",
+                "buyout": 0
+            },
+            "4284": {
+                "slug": "clothing_conductoroutfit",
+                "name": "Kondukt\u00f6\u00f6rin asu",
+                "description": "clothing_conductoroutfit desc",
                 "buyout": 0
             },
             "4201": {
@@ -3744,6 +3798,24 @@
             "1001": null
         },
         "he": {
+            "4303": {
+                "slug": "clothing_doctorsoutfit",
+                "name": "L\u00e4\u00e4k\u00e4rin asu",
+                "description": "clothing_doctorsoutfit desc",
+                "buyout": 0
+            },
+            "4293": {
+                "slug": "clothing_hollyhairpin",
+                "name": "clothing_hollyhairpin name",
+                "description": "clothing_hollyhairpin desc",
+                "buyout": 0
+            },
+            "4288": {
+                "slug": "clothing_earringbauble",
+                "name": "clothing_earringbauble name",
+                "description": "clothing_earringbauble desc",
+                "buyout": 0
+            },
             "4093": {
                 "slug": "clothing_eggearrings",
                 "name": "P\u00e4\u00e4si\u00e4ismunakorvikset",
@@ -4192,6 +4264,12 @@
             "1601": null
         },
         "ea": {
+            "4302": {
+                "slug": "clothing_doctorsoutfit",
+                "name": "L\u00e4\u00e4k\u00e4rin asu",
+                "description": "clothing_doctorsoutfit desc",
+                "buyout": 0
+            },
             "4161": {
                 "slug": "clothing_gemglasses",
                 "name": "Jalokivilasit",
@@ -4393,6 +4471,12 @@
             "1401": null
         },
         "fa": {
+            "4283": {
+                "slug": "clothing_conductoroutfit",
+                "name": "Kondukt\u00f6\u00f6rin asu",
+                "description": "clothing_conductoroutfit desc",
+                "buyout": 0
+            },
             "4185": {
                 "slug": "clothing_ghostheadband",
                 "name": "Kummituksen p\u00e4\u00e4hine",
@@ -4671,6 +4755,18 @@
             "1201": null
         },
         "ca": {
+            "4292": {
+                "slug": "clothing_salesoutfit",
+                "name": "Myyj\u00e4n asu",
+                "description": "clothing_salesoutfit desc",
+                "buyout": 0
+            },
+            "4281": {
+                "slug": "clothing_nt_pearlnecklace",
+                "name": "clothing_nt_pearlnecklace name",
+                "description": "clothing_nt_pearlnecklace desc",
+                "buyout": 0
+            },
             "4183": {
                 "slug": "clothing_rainbowwings",
                 "name": "Siivelliset valjaat",
@@ -5092,6 +5188,30 @@
         "cc": {
             "9865": null,
             "9563": null,
+            "4300": {
+                "slug": "clothing_r21_warmoversizedcoat",
+                "name": "V\u00e4lj\u00e4hk\u00f6 turkistakki",
+                "description": "clothing_r21_warmoversizedcoat desc",
+                "buyout": 0
+            },
+            "4291": {
+                "slug": "clothing_salesoutfit",
+                "name": "Myyj\u00e4n asu",
+                "description": "clothing_salesoutfit desc",
+                "buyout": 0
+            },
+            "4290": {
+                "slug": "clothing_salesoutfit",
+                "name": "Myyj\u00e4n asu",
+                "description": "clothing_salesoutfit desc",
+                "buyout": 0
+            },
+            "4282": {
+                "slug": "clothing_r21_trainoutfit",
+                "name": "Veturi-asu",
+                "description": "clothing_r21_trainoutfit desc",
+                "buyout": 0
+            },
             "4217": {
                 "slug": "clothing_r21_fairywings",
                 "name": "Glitteri keijusiivet",
