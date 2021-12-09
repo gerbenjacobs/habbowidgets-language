@@ -3806,15 +3806,15 @@
             },
             "4293": {
                 "slug": "clothing_hollyhairpin",
-                "name": "clothing_hollyhairpin name",
-                "description": "clothing_hollyhairpin desc",
-                "buyout": 0
+                "name": "Forcina ad Agrifoglio",
+                "description": "Per i tuoi capelli natalizi",
+                "buyout": 1
             },
             "4288": {
                 "slug": "clothing_earringbauble",
-                "name": "clothing_earringbauble name",
-                "description": "clothing_earringbauble desc",
-                "buyout": 0
+                "name": "Orecchini a Pallina",
+                "description": "Direttamente dall'albero di Natale",
+                "buyout": 1
             },
             "4093": {
                 "slug": "clothing_eggearrings",
@@ -4763,8 +4763,8 @@
             },
             "4281": {
                 "slug": "clothing_nt_pearlnecklace",
-                "name": "clothing_nt_pearlnecklace name",
-                "description": "clothing_nt_pearlnecklace desc",
+                "name": "Collana di Perle a Strati",
+                "description": "Un mare di perle!",
                 "buyout": 0
             },
             "4183": {

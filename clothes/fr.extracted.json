@@ -3806,15 +3806,15 @@
             },
             "4293": {
                 "slug": "clothing_hollyhairpin",
-                "name": "clothing_hollyhairpin name",
+                "name": "\u00c9pingle houx",
                 "description": "clothing_hollyhairpin desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4288": {
                 "slug": "clothing_earringbauble",
                 "name": "clothing_earringbauble name",
                 "description": "clothing_earringbauble desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4093": {
                 "slug": "clothing_eggearrings",
@@ -4763,7 +4763,7 @@
             },
             "4281": {
                 "slug": "clothing_nt_pearlnecklace",
-                "name": "clothing_nt_pearlnecklace name",
+                "name": "Collier \u00e0 perles",
                 "description": "clothing_nt_pearlnecklace desc",
                 "buyout": 0
             },
