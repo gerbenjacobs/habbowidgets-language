@@ -2059,6 +2059,30 @@
             "210": null
         },
         "lg": {
+            "4315": {
+                "slug": "clothing_po",
+                "name": "Po Outfit",
+                "description": "clothing_po desc",
+                "buyout": 0
+            },
+            "4312": {
+                "slug": "clothing_laalaa",
+                "name": "Laalaa Outfit",
+                "description": "clothing_laalaa desc",
+                "buyout": 0
+            },
+            "4309": {
+                "slug": "clothing_dipsy",
+                "name": "Dipsy Outfit",
+                "description": "clothing_dipsy desc",
+                "buyout": 0
+            },
+            "4306": {
+                "slug": "clothing_tinkywinky",
+                "name": "Tinky Winky Outfit",
+                "description": "clothing_tinkywinky desc",
+                "buyout": 0
+            },
             "4191": {
                 "slug": "clothing_r21_ninjaoutfit",
                 "name": "Shinobi Outfit",
@@ -2610,6 +2634,30 @@
             "290": null
         },
         "ha": {
+            "4313": {
+                "slug": "clothing_po",
+                "name": "Po Outfit",
+                "description": "clothing_po desc",
+                "buyout": 0
+            },
+            "4310": {
+                "slug": "clothing_laalaa",
+                "name": "Laalaa Outfit",
+                "description": "clothing_laalaa desc",
+                "buyout": 0
+            },
+            "4307": {
+                "slug": "clothing_dipsy",
+                "name": "Dipsy Outfit",
+                "description": "clothing_dipsy desc",
+                "buyout": 0
+            },
+            "4304": {
+                "slug": "clothing_tinkywinky",
+                "name": "Tinky Winky Outfit",
+                "description": "clothing_tinkywinky desc",
+                "buyout": 0
+            },
             "4301": {
                 "slug": "clothing_doctorsoutfit",
                 "name": "Dokter Outfit",
@@ -5188,6 +5236,30 @@
         "cc": {
             "9865": null,
             "9563": null,
+            "4314": {
+                "slug": "clothing_po",
+                "name": "Po Outfit",
+                "description": "clothing_po desc",
+                "buyout": 0
+            },
+            "4311": {
+                "slug": "clothing_laalaa",
+                "name": "Laalaa Outfit",
+                "description": "clothing_laalaa desc",
+                "buyout": 0
+            },
+            "4308": {
+                "slug": "clothing_dipsy",
+                "name": "Dipsy Outfit",
+                "description": "clothing_dipsy desc",
+                "buyout": 0
+            },
+            "4305": {
+                "slug": "clothing_tinkywinky",
+                "name": "Tinky Winky Outfit",
+                "description": "clothing_tinkywinky desc",
+                "buyout": 0
+            },
             "4300": {
                 "slug": "clothing_r21_warmoversizedcoat",
                 "name": "Wijde Bontjas",

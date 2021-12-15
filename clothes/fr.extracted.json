@@ -2059,6 +2059,30 @@
             "210": null
         },
         "lg": {
+            "4315": {
+                "slug": "clothing_po",
+                "name": "Tenue de Po",
+                "description": "clothing_po desc",
+                "buyout": 0
+            },
+            "4312": {
+                "slug": "clothing_laalaa",
+                "name": "Tenue de Laalaa",
+                "description": "clothing_laalaa desc",
+                "buyout": 0
+            },
+            "4309": {
+                "slug": "clothing_dipsy",
+                "name": "Tenue de Dipsy",
+                "description": "clothing_dipsy desc",
+                "buyout": 0
+            },
+            "4306": {
+                "slug": "clothing_tinkywinky",
+                "name": "Tenue de Tinky Winky",
+                "description": "clothing_tinkywinky desc",
+                "buyout": 0
+            },
             "4191": {
                 "slug": "clothing_r21_ninjaoutfit",
                 "name": "Tenue de Shinobi",
@@ -2610,6 +2634,30 @@
             "290": null
         },
         "ha": {
+            "4313": {
+                "slug": "clothing_po",
+                "name": "Tenue de Po",
+                "description": "clothing_po desc",
+                "buyout": 0
+            },
+            "4310": {
+                "slug": "clothing_laalaa",
+                "name": "Tenue de Laalaa",
+                "description": "clothing_laalaa desc",
+                "buyout": 0
+            },
+            "4307": {
+                "slug": "clothing_dipsy",
+                "name": "Tenue de Dipsy",
+                "description": "clothing_dipsy desc",
+                "buyout": 0
+            },
+            "4304": {
+                "slug": "clothing_tinkywinky",
+                "name": "Tenue de Tinky Winky",
+                "description": "clothing_tinkywinky desc",
+                "buyout": 0
+            },
             "4301": {
                 "slug": "clothing_doctorsoutfit",
                 "name": "Tenue de m\u00e9decin",
@@ -5188,6 +5236,30 @@
         "cc": {
             "9865": null,
             "9563": null,
+            "4314": {
+                "slug": "clothing_po",
+                "name": "Tenue de Po",
+                "description": "clothing_po desc",
+                "buyout": 0
+            },
+            "4311": {
+                "slug": "clothing_laalaa",
+                "name": "Tenue de Laalaa",
+                "description": "clothing_laalaa desc",
+                "buyout": 0
+            },
+            "4308": {
+                "slug": "clothing_dipsy",
+                "name": "Tenue de Dipsy",
+                "description": "clothing_dipsy desc",
+                "buyout": 0
+            },
+            "4305": {
+                "slug": "clothing_tinkywinky",
+                "name": "Tenue de Tinky Winky",
+                "description": "clothing_tinkywinky desc",
+                "buyout": 0
+            },
             "4300": {
                 "slug": "clothing_r21_warmoversizedcoat",
                 "name": "Grand manteau de fausse fourrure",
