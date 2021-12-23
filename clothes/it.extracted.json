@@ -35,6 +35,8 @@
                 "description": "clothing_governessoutfit desc",
                 "buyout": 0
             },
+            "4270": null,
+            "4269": null,
             "4216": {
                 "slug": "clothing_r21_fairyhair",
                 "name": "Codini da Fata",
@@ -722,6 +724,17 @@
             "100": null
         },
         "hd": {
+            "4287": null,
+            "4280": null,
+            "4279": null,
+            "4268": null,
+            "4267": null,
+            "4266": null,
+            "4206": null,
+            "4205": null,
+            "4204": null,
+            "4203": null,
+            "4202": null,
             "4174": {
                 "slug": "clothing_toughface",
                 "name": "Faccia da Gangster",
@@ -898,6 +911,46 @@
                 "description": "clothing_nobleoutfit desc",
                 "buyout": 0
             },
+            "4257": null,
+            "4256": null,
+            "4255": null,
+            "4254": null,
+            "4253": null,
+            "4252": null,
+            "4251": null,
+            "4250": null,
+            "4249": null,
+            "4248": null,
+            "4247": null,
+            "4246": null,
+            "4245": null,
+            "4244": null,
+            "4243": null,
+            "4242": null,
+            "4241": null,
+            "4240": null,
+            "4239": null,
+            "4238": null,
+            "4237": null,
+            "4236": null,
+            "4235": null,
+            "4234": null,
+            "4233": null,
+            "4232": null,
+            "4231": null,
+            "4230": null,
+            "4229": null,
+            "4228": null,
+            "4227": null,
+            "4226": null,
+            "4225": null,
+            "4224": null,
+            "4223": null,
+            "4222": null,
+            "4221": null,
+            "4220": null,
+            "4219": null,
+            "4218": null,
             "4200": {
                 "slug": "clothing_flowerdress",
                 "name": "Fantastico Vestito da Fata",
@@ -2634,6 +2687,108 @@
             "290": null
         },
         "ha": {
+            "4334": {
+                "slug": "clothing_hellokittyhat",
+                "name": "Hello Kitty Hat",
+                "description": "clothing_hellokittyhat desc",
+                "buyout": 0
+            },
+            "4333": {
+                "slug": "clothing_r21_nystarhat8",
+                "name": "Cappello Stellare Grigio Perla",
+                "description": "clothing_r21_nystarhat8 desc",
+                "buyout": 0
+            },
+            "4332": {
+                "slug": "clothing_r21_nystarhat7",
+                "name": "Cappello Stellare Rosso Vino",
+                "description": "clothing_r21_nystarhat7 desc",
+                "buyout": 0
+            },
+            "4331": {
+                "slug": "clothing_r21_nystarhat6",
+                "name": "Cappello Stellare Viola Ametista",
+                "description": "clothing_r21_nystarhat6 desc",
+                "buyout": 0
+            },
+            "4330": {
+                "slug": "clothing_r21_nystarhat5",
+                "name": "Cappello Stellare Blu Zaffiro",
+                "description": "clothing_r21_nystarhat5 desc",
+                "buyout": 0
+            },
+            "4329": {
+                "slug": "clothing_r21_nystarhat4",
+                "name": "Cappello Stellare Blu Oceano",
+                "description": "clothing_r21_nystarhat4 desc",
+                "buyout": 0
+            },
+            "4328": {
+                "slug": "clothing_r21_nystarhat3",
+                "name": "Cappello Stellare Verde Foglia",
+                "description": "clothing_r21_nystarhat3 desc",
+                "buyout": 0
+            },
+            "4327": {
+                "slug": "clothing_r21_nystarhat2",
+                "name": "Cappello Stellare Ossidiana Scura",
+                "description": "clothing_r21_nystarhat2 desc",
+                "buyout": 0
+            },
+            "4326": {
+                "slug": "clothing_goldhatpack2",
+                "name": "clothing_goldhatpack2 name",
+                "description": "clothing_goldhatpack2 desc",
+                "buyout": 0
+            },
+            "4325": {
+                "slug": "clothing_goldhatpack2",
+                "name": "clothing_goldhatpack2 name",
+                "description": "clothing_goldhatpack2 desc",
+                "buyout": 0
+            },
+            "4324": {
+                "slug": "clothing_goldhatpack2",
+                "name": "clothing_goldhatpack2 name",
+                "description": "clothing_goldhatpack2 desc",
+                "buyout": 0
+            },
+            "4323": {
+                "slug": "clothing_goldhatpack2",
+                "name": "clothing_goldhatpack2 name",
+                "description": "clothing_goldhatpack2 desc",
+                "buyout": 0
+            },
+            "4322": {
+                "slug": "clothing_goldhatpack2",
+                "name": "clothing_goldhatpack2 name",
+                "description": "clothing_goldhatpack2 desc",
+                "buyout": 0
+            },
+            "4321": {
+                "slug": "clothing_goldhatpack2",
+                "name": "clothing_goldhatpack2 name",
+                "description": "clothing_goldhatpack2 desc",
+                "buyout": 0
+            },
+            "4320": {
+                "slug": "clothing_goldhatpack2",
+                "name": "clothing_goldhatpack2 name",
+                "description": "clothing_goldhatpack2 desc",
+                "buyout": 0
+            },
+            "4319": {
+                "slug": "clothing_goldhatpack2",
+                "name": "clothing_goldhatpack2 name",
+                "description": "clothing_goldhatpack2 desc",
+                "buyout": 0
+            },
+            "4316": {
+                "slug": "clothing_r21_nystarhat1",
+                "name": "Cappello Stellare Rosso Rubino",
+                "description": "clothing_r21_nystarhat1 desc",
+                "buyout": 0
+            },
             "4313": {
                 "slug": "clothing_po",
                 "name": "Look da Po",
@@ -2694,6 +2849,10 @@
                 "description": "clothing_conductoroutfit desc",
                 "buyout": 0
             },
+            "4215": null,
+            "4214": null,
+            "4208": null,
+            "4207": null,
             "4201": {
                 "slug": "clothing_darkcrown",
                 "name": "Una Corona Gratis",
@@ -3864,6 +4023,19 @@
                 "description": "Direttamente dall'albero di Natale",
                 "buyout": 1
             },
+            "4272": null,
+            "4271": null,
+            "4265": null,
+            "4264": null,
+            "4263": null,
+            "4262": null,
+            "4261": null,
+            "4260": null,
+            "4259": null,
+            "4258": null,
+            "4213": null,
+            "4210": null,
+            "4209": null,
             "4093": {
                 "slug": "clothing_eggearrings",
                 "name": "Orecchini Uovo",
@@ -4318,6 +4490,7 @@
                 "description": "clothing_doctorsoutfit desc",
                 "buyout": 0
             },
+            "4212": null,
             "4161": {
                 "slug": "clothing_gemglasses",
                 "name": "Occhiali Ingemmati",
@@ -4525,6 +4698,7 @@
                 "description": "clothing_conductoroutfit desc",
                 "buyout": 0
             },
+            "4211": null,
             "4185": {
                 "slug": "clothing_ghostheadband",
                 "name": "Fascia Fantasma",
@@ -4803,6 +4977,12 @@
             "1201": null
         },
         "ca": {
+            "4335": {
+                "slug": "clothing_hellokittybpack",
+                "name": "Hello Kitty Backpack",
+                "description": "clothing_hellokittybpack desc",
+                "buyout": 0
+            },
             "4292": {
                 "slug": "clothing_salesoutfit",
                 "name": "Look da Commesso Viaggiatore",
@@ -5284,6 +5464,8 @@
                 "description": "clothing_r21_trainoutfit desc",
                 "buyout": 0
             },
+            "4278": null,
+            "4277": null,
             "4217": {
                 "slug": "clothing_r21_fairywings",
                 "name": "Ali di Fata Luccicanti",
