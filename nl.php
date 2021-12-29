@@ -26,7 +26,7 @@ return [
     // Landing page
     "What's your Habbo name?" => "Wat is jouw Habbo naam?",
     /* -- Try to add the <br> at around 70 characters, so the next part goes on a new line */
-    "landing_page_info" => "Vind, onderzoek, vat samen en tel alle stukjes Habbo informatie<br>over de staff, je vrienden en je eigen Habbo.",
+    "landing_page_info" => "Vind, onderzoek, vat samen en tel alle stukjes Habbo informatie<br>over de staff, je vrienden en je eigen Habbo!",
 
     // General
     "Habbo" => "Habbo",
@@ -45,7 +45,7 @@ return [
     "Pick another date" => "Kies een andere datum",
     "All years" => "Alle jaren",
     "You have supplied an invalid date" => "Je hebt een verkeerde datum ingevuld",
-    "This date lies in the future and can not be used" => "De gekozen datum ligt in de toekomst en kan niet gebruikt worden",
+    "This date lies in the future and can not be used" => "De gekozen datum ligt te ver in de toekomst en kan niet gebruikt worden",
 
     // Habinfo Form
     "Find Habinfo on.." => "Vind Habinfo over..",
@@ -67,7 +67,7 @@ return [
     "Something went wrong, we couldn't find that Habbo. Or they are banned.." => "Iets ging fout, we konden deze Habbo niet vinden of ze zijn verbannen..",
     "Return to the Habinfo widget" => "Ga terug naar de Habinfo widget",
     "Visit Habinfo history" => "Bekijk Habinfo geschiedenis",
-    "habinfo_user_banned" => "Deze Habbo is verbannen dus kunnen we hun informatie niet ophalen.",
+    "habinfo_user_banned" => "Deze Habbo is verbannen dus kunnen we de informatie niet ophalen.",
 
     // Habinfo
     "Closed profile, loading might take longer." => "Gesloten profiel, laden kan langer duren.",
@@ -128,7 +128,7 @@ return [
     "Follow us on Twitter for updates" => "Volg ons op Twitter voor updates",
 
     // 404
-    "Oops, page not found" => "Oeps, pagina niet gevonden",
+    "Oops, page not found" => "Oeps, deze pagina is niet gevonden",
     "The page you tried to request doesn't exist.." => "De pagina die je probeert op te vragen bestaat niet..",
     "page_not_found_paragraph" => "Maar geen zorgen, je kan gewoon terug naar de %shomepagina%s of kijk bijvoorbeeld of er %siemand jarig%s is die je kent!", // Leave the %s intact, they will become links
     "Return" => "Ga terug",
@@ -171,14 +171,14 @@ return [
     "Latest updates from Habbo Ticker" => "Nieuwste updates van Habbo Ticker",
     // This habbo added more than 5 new badges, 3 new groups and changed their look
     "changed their motto" => "veranderde hun missie",
-    "changed their look" => "veranderde hun look",
+    "changed their look" => "veranderde hun uiterlijk",
     "more than x" => "meer dan %d",
     "new badge(s)" => "nieuwe badge(s)",
     "new group(s)" => "nieuwe groep(en)",
     "new room(s)" => "nieuwe kamer(s)",
     "new friend(s)" => "nieuwe vriend(en)",
     "new photo(s)" => "nieuwe foto(s)",
-    "joined" => "werd lid van", // This habbo joined Habbowidgets
+    "joined" => "is lid geworden van", // This habbo joined Habbowidgets
     "added" => "heeft", // you can also replace this with "has"
 
     // Habbo Closet
