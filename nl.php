@@ -19,7 +19,7 @@ return [
     /* -- "Made with :love: by :link: using the :link:" */
     "Made with" => "Gemaakt met",
     "by" => "door",
-    "using the" => "gebruik makend van de",
+    "using the" => "gebruikmakend van de",
     "Generated in" => "Gegenereerd in",
     "Current server time" => "Huidige server tijd",
 
