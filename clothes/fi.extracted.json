@@ -4013,14 +4013,14 @@
             },
             "4293": {
                 "slug": "clothing_hollyhairpin",
-                "name": "clothing_hollyhairpin name",
+                "name": "Mistelihiuskoriste",
                 "description": "clothing_hollyhairpin desc",
                 "buyout": 1
             },
             "4288": {
                 "slug": "clothing_earringbauble",
-                "name": "clothing_earringbauble name",
-                "description": "clothing_earringbauble desc",
+                "name": "Joulupallokorvikset",
+                "description": "Joulupallokorvikset",
                 "buyout": 1
             },
             "4272": null,
@@ -4991,7 +4991,7 @@
             },
             "4281": {
                 "slug": "clothing_nt_pearlnecklace",
-                "name": "clothing_nt_pearlnecklace name",
+                "name": "Monikerroksiset helmet (vaihtokelvoton)",
                 "description": "clothing_nt_pearlnecklace desc",
                 "buyout": 0
             },

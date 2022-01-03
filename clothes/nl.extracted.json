@@ -2697,43 +2697,43 @@
                 "slug": "clothing_r21_nystarhat8",
                 "name": "Parelgrijze Sterren Hoed",
                 "description": "clothing_r21_nystarhat8 desc",
-                "buyout": 1
+                "buyout": 0
             },
             "4332": {
                 "slug": "clothing_r21_nystarhat7",
                 "name": "Wijnrode Sterren Hoed",
                 "description": "clothing_r21_nystarhat7 desc",
-                "buyout": 1
+                "buyout": 0
             },
             "4331": {
                 "slug": "clothing_r21_nystarhat6",
                 "name": "Paarse Amethist Sterren Hoed",
                 "description": "clothing_r21_nystarhat6 desc",
-                "buyout": 1
+                "buyout": 0
             },
             "4330": {
                 "slug": "clothing_r21_nystarhat5",
                 "name": "Blauwe Saffier Sterren Hoed",
                 "description": "clothing_r21_nystarhat5 desc",
-                "buyout": 1
+                "buyout": 0
             },
             "4329": {
                 "slug": "clothing_r21_nystarhat4",
                 "name": "Oceanblauwe Sterren Hoed",
                 "description": "clothing_r21_nystarhat4 desc",
-                "buyout": 1
+                "buyout": 0
             },
             "4328": {
                 "slug": "clothing_r21_nystarhat3",
                 "name": "Bladgroene Sterren Hoed",
                 "description": "clothing_r21_nystarhat3 desc",
-                "buyout": 1
+                "buyout": 0
             },
             "4327": {
                 "slug": "clothing_r21_nystarhat2",
                 "name": "Donkere Obsidiaan Sterren Hoed",
                 "description": "clothing_r21_nystarhat2 desc",
-                "buyout": 1
+                "buyout": 0
             },
             "4326": {
                 "slug": "clothing_goldhatpack2",
@@ -2787,7 +2787,7 @@
                 "slug": "clothing_r21_nystarhat1",
                 "name": "Robijnrode Sterren Hoed",
                 "description": "clothing_r21_nystarhat1 desc",
-                "buyout": 1
+                "buyout": 0
             },
             "4313": {
                 "slug": "clothing_po",
@@ -4013,13 +4013,13 @@
             },
             "4293": {
                 "slug": "clothing_hollyhairpin",
-                "name": "clothing_hollyhairpin name",
+                "name": "Kerst Haarspeld",
                 "description": "clothing_hollyhairpin desc",
                 "buyout": 1
             },
             "4288": {
                 "slug": "clothing_earringbauble",
-                "name": "clothing_earringbauble name",
+                "name": "Kerstbal Oorbellen",
                 "description": "clothing_earringbauble desc",
                 "buyout": 1
             },
@@ -4991,7 +4991,7 @@
             },
             "4281": {
                 "slug": "clothing_nt_pearlnecklace",
-                "name": "clothing_nt_pearlnecklace name",
+                "name": "Dubbele Parelketting (niet ruilbaar)",
                 "description": "clothing_nt_pearlnecklace desc",
                 "buyout": 0
             },

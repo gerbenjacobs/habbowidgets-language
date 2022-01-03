@@ -1812,13 +1812,13 @@
             },
             "3490": {
                 "slug": "clothing_pjtop2",
-                "name": "clothing_pjtop2 name",
+                "name": "Sheep Pyjamas",
                 "description": "Professional sheep counter.",
                 "buyout": 1
             },
             "3489": {
                 "slug": "clothing_pjtop2",
-                "name": "clothing_pjtop2 name",
+                "name": "Sheep Pyjamas",
                 "description": "Professional sheep counter.",
                 "buyout": 1
             },
@@ -2577,7 +2577,7 @@
             },
             "3621": {
                 "slug": "clothing_flipflopsocks",
-                "name": "clothing_flipflopsocks name",
+                "name": "Flip Flops and Socks",
                 "description": "clothing_flipflopsocks desc",
                 "buyout": 0
             },
@@ -2873,19 +2873,19 @@
             },
             "4196": {
                 "slug": "clothing_diaicetiara",
-                "name": "clothing_diaicetiara name",
+                "name": "Diamond Tiara",
                 "description": "clothing_diaicetiara desc",
                 "buyout": 0
             },
             "4195": {
                 "slug": "clothing_diahermeshat",
-                "name": "clothing_diahermeshat name",
+                "name": "Diamond Hermes Hat",
                 "description": "clothing_diahermeshat desc",
                 "buyout": 0
             },
             "4194": {
                 "slug": "clothing_diaelegantcrown",
-                "name": "clothing_diaelegantcrown name",
+                "name": "Diamond Elegant Crown",
                 "description": "clothing_diaelegantcrown desc",
                 "buyout": 0
             },
@@ -4013,13 +4013,13 @@
             },
             "4293": {
                 "slug": "clothing_hollyhairpin",
-                "name": "clothing_hollyhairpin name",
+                "name": "Holly Hairpin",
                 "description": "clothing_hollyhairpin desc",
                 "buyout": 1
             },
             "4288": {
                 "slug": "clothing_earringbauble",
-                "name": "clothing_earringbauble name",
+                "name": "Bauble Earrings",
                 "description": "clothing_earringbauble desc",
                 "buyout": 1
             },
@@ -4991,7 +4991,7 @@
             },
             "4281": {
                 "slug": "clothing_nt_pearlnecklace",
-                "name": "clothing_nt_pearlnecklace name",
+                "name": "Layered Pearl Necklace (not tradeable)",
                 "description": "clothing_nt_pearlnecklace desc",
                 "buyout": 0
             },

@@ -4013,13 +4013,13 @@
             },
             "4293": {
                 "slug": "clothing_hollyhairpin",
-                "name": "clothing_hollyhairpin name",
+                "name": "Kutsal Sa\u00e7 Tokas\u0131",
                 "description": "clothing_hollyhairpin desc",
                 "buyout": 1
             },
             "4288": {
                 "slug": "clothing_earringbauble",
-                "name": "clothing_earringbauble name",
+                "name": "Biblo K\u00fcpeler",
                 "description": "clothing_earringbauble desc",
                 "buyout": 1
             },
@@ -4991,7 +4991,7 @@
             },
             "4281": {
                 "slug": "clothing_nt_pearlnecklace",
-                "name": "clothing_nt_pearlnecklace name",
+                "name": "Katmanl\u0131 \u0130nci Kolye (takas edilemez)",
                 "description": "clothing_nt_pearlnecklace desc",
                 "buyout": 0
             },

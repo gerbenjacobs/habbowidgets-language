@@ -4013,13 +4013,13 @@
             },
             "4293": {
                 "slug": "clothing_hollyhairpin",
-                "name": "clothing_hollyhairpin name",
+                "name": "Horqueilla Acebo",
                 "description": "clothing_hollyhairpin desc",
                 "buyout": 1
             },
             "4288": {
                 "slug": "clothing_earringbauble",
-                "name": "clothing_earringbauble name",
+                "name": "Pendientes Bauble",
                 "description": "clothing_earringbauble desc",
                 "buyout": 1
             },
@@ -4991,7 +4991,7 @@
             },
             "4281": {
                 "slug": "clothing_nt_pearlnecklace",
-                "name": "clothing_nt_pearlnecklace name",
+                "name": "Collar de Perlas Doble (no tradeable)",
                 "description": "clothing_nt_pearlnecklace desc",
                 "buyout": 0
             },
