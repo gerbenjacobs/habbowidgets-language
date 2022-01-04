@@ -2739,49 +2739,49 @@
                 "slug": "clothing_goldhatpack2",
                 "name": "clothing_goldhatpack2 name",
                 "description": "clothing_goldhatpack2 desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4325": {
                 "slug": "clothing_goldhatpack2",
                 "name": "clothing_goldhatpack2 name",
                 "description": "clothing_goldhatpack2 desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4324": {
                 "slug": "clothing_goldhatpack2",
                 "name": "clothing_goldhatpack2 name",
                 "description": "clothing_goldhatpack2 desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4323": {
                 "slug": "clothing_goldhatpack2",
                 "name": "clothing_goldhatpack2 name",
                 "description": "clothing_goldhatpack2 desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4322": {
                 "slug": "clothing_goldhatpack2",
                 "name": "clothing_goldhatpack2 name",
                 "description": "clothing_goldhatpack2 desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4321": {
                 "slug": "clothing_goldhatpack2",
                 "name": "clothing_goldhatpack2 name",
                 "description": "clothing_goldhatpack2 desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4320": {
                 "slug": "clothing_goldhatpack2",
                 "name": "clothing_goldhatpack2 name",
                 "description": "clothing_goldhatpack2 desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4319": {
                 "slug": "clothing_goldhatpack2",
                 "name": "clothing_goldhatpack2 name",
                 "description": "clothing_goldhatpack2 desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4316": {
                 "slug": "clothing_r21_nystarhat1",
@@ -4019,7 +4019,7 @@
             },
             "4288": {
                 "slug": "clothing_earringbauble",
-                "name": "clothing_earringbauble name",
+                "name": "Boucles de No\u00ebl",
                 "description": "clothing_earringbauble desc",
                 "buyout": 1
             },
@@ -4991,7 +4991,7 @@
             },
             "4281": {
                 "slug": "clothing_nt_pearlnecklace",
-                "name": "Collier \u00e0 perles",
+                "name": "Collier \u00e0 perles (non \u00e9changeable)",
                 "description": "clothing_nt_pearlnecklace desc",
                 "buyout": 0
             },
