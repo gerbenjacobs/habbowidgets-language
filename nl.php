@@ -76,6 +76,7 @@ return [
     "Previous looks" => "Vorige looks",
     "Last online" => "Laatst online",
     "Last change" => "Laatste wijziging",
+    "Last access time" => "Laatste toegangstijd",
     "Go to profile" => "Ga naar profiel",
     "Closed profile" => "Gesloten profiel",
     "Banned" => "Verbannen",
