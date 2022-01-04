@@ -7,7 +7,7 @@
         "ea": "Lasit",
         "fa": "Naamarit",
         "ha": "Hatut",
-        "hd": "Kasvot & kehot",
+        "hd": "Kasvot & kroppa",
         "he": "Asusteet",
         "hr": "Hiukset",
         "lg": "Housut",
@@ -2737,51 +2737,51 @@
             },
             "4326": {
                 "slug": "clothing_goldhatpack2",
-                "name": "clothing_goldhatpack2 name",
+                "name": "Kultahattujen paketti 2.0",
                 "description": "clothing_goldhatpack2 desc",
-                "buyout": 1
+                "buyout": 0
             },
             "4325": {
                 "slug": "clothing_goldhatpack2",
-                "name": "clothing_goldhatpack2 name",
+                "name": "Kultahattujen paketti 2.0",
                 "description": "clothing_goldhatpack2 desc",
-                "buyout": 1
+                "buyout": 0
             },
             "4324": {
                 "slug": "clothing_goldhatpack2",
-                "name": "clothing_goldhatpack2 name",
+                "name": "Kultahattujen paketti 2.0",
                 "description": "clothing_goldhatpack2 desc",
-                "buyout": 1
+                "buyout": 0
             },
             "4323": {
                 "slug": "clothing_goldhatpack2",
-                "name": "clothing_goldhatpack2 name",
+                "name": "Kultahattujen paketti 2.0",
                 "description": "clothing_goldhatpack2 desc",
-                "buyout": 1
+                "buyout": 0
             },
             "4322": {
                 "slug": "clothing_goldhatpack2",
-                "name": "clothing_goldhatpack2 name",
+                "name": "Kultahattujen paketti 2.0",
                 "description": "clothing_goldhatpack2 desc",
-                "buyout": 1
+                "buyout": 0
             },
             "4321": {
                 "slug": "clothing_goldhatpack2",
-                "name": "clothing_goldhatpack2 name",
+                "name": "Kultahattujen paketti 2.0",
                 "description": "clothing_goldhatpack2 desc",
-                "buyout": 1
+                "buyout": 0
             },
             "4320": {
                 "slug": "clothing_goldhatpack2",
-                "name": "clothing_goldhatpack2 name",
+                "name": "Kultahattujen paketti 2.0",
                 "description": "clothing_goldhatpack2 desc",
-                "buyout": 1
+                "buyout": 0
             },
             "4319": {
                 "slug": "clothing_goldhatpack2",
-                "name": "clothing_goldhatpack2 name",
+                "name": "Kultahattujen paketti 2.0",
                 "description": "clothing_goldhatpack2 desc",
-                "buyout": 1
+                "buyout": 0
             },
             "4316": {
                 "slug": "clothing_r21_nystarhat1",
