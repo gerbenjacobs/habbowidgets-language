@@ -17,6 +17,12 @@
     "clothing": {
         "hr": {
             "9534": null,
+            "4352": {
+                "slug": "clothing_r22_messierbun",
+                "name": "Chignon Maldestro",
+                "description": "clothing_r22_messierbun desc",
+                "buyout": 0
+            },
             "4298": {
                 "slug": "clothing_r21_milkmaidbraid",
                 "name": "Treccia per la Raccolta",
@@ -875,6 +881,18 @@
             "180": null
         },
         "ch": {
+            "4351": {
+                "slug": "clothing_r22_bohoshirt",
+                "name": "Maglietta Boho",
+                "description": "clothing_r22_bohoshirt desc",
+                "buyout": 0
+            },
+            "4350": {
+                "slug": "clothing_r22_bohoshirt",
+                "name": "Maglietta Boho",
+                "description": "clothing_r22_bohoshirt desc",
+                "buyout": 0
+            },
             "4299": {
                 "slug": "clothing_r21_cosydungarees",
                 "name": "Salopette di Panno",
@@ -2687,6 +2705,12 @@
             "290": null
         },
         "ha": {
+            "4355": {
+                "slug": "clothing_sunhat",
+                "name": "Cappellino da Sole Adorabile",
+                "description": "clothing_sunhat desc",
+                "buyout": 0
+            },
             "4334": {
                 "slug": "clothing_hellokittyhat",
                 "name": "Hello Kitty Hat",
@@ -4005,6 +4029,12 @@
             "1001": null
         },
         "he": {
+            "4318": {
+                "slug": "clothing_cnytiger",
+                "name": "Accessori Tigre",
+                "description": "clothing_cnytiger desc",
+                "buyout": 0
+            },
             "4303": {
                 "slug": "clothing_doctorsoutfit",
                 "name": "Look da Dottore",
@@ -5324,6 +5354,12 @@
             "1801": null
         },
         "wa": {
+            "4317": {
+                "slug": "clothing_cnytiger",
+                "name": "Accessori Tigre",
+                "description": "clothing_cnytiger desc",
+                "buyout": 0
+            },
             "4060": {
                 "slug": "clothing_oxset",
                 "name": "Accessori Bue",
