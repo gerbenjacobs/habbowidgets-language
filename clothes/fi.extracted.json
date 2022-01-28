@@ -2130,6 +2130,12 @@
             "210": null
         },
         "lg": {
+            "4358": {
+                "slug": "clothing_mymelodyskirt",
+                "name": "My Melody Skirt",
+                "description": "clothing_mymelodyskirt desc",
+                "buyout": 0
+            },
             "4315": {
                 "slug": "clothing_po",
                 "name": "Pai-asu",
@@ -4029,6 +4035,12 @@
             "1001": null
         },
         "he": {
+            "4357": {
+                "slug": "clothing_mymelodyheadband",
+                "name": "My Melody Headband",
+                "description": "clothing_mymelodyheadband desc",
+                "buyout": 0
+            },
             "4318": {
                 "slug": "clothing_cnytiger",
                 "name": "Tiikeriasusteet",
@@ -5452,6 +5464,12 @@
         "cc": {
             "9865": null,
             "9563": null,
+            "4356": {
+                "slug": "clothing_bohonecklace",
+                "name": "clothing_bohonecklace name",
+                "description": "clothing_bohonecklace desc",
+                "buyout": 0
+            },
             "4314": {
                 "slug": "clothing_po",
                 "name": "Pai-asu",
