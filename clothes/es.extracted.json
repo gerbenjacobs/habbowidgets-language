@@ -2715,7 +2715,7 @@
                 "slug": "clothing_sunhat",
                 "name": "Sombrero de Sol Adorable",
                 "description": "clothing_sunhat desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4334": {
                 "slug": "clothing_hellokittyhat",
@@ -4045,7 +4045,7 @@
                 "slug": "clothing_cnytiger",
                 "name": "Accesorios Tigre",
                 "description": "clothing_cnytiger desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4303": {
                 "slug": "clothing_doctorsoutfit",
@@ -5370,7 +5370,7 @@
                 "slug": "clothing_cnytiger",
                 "name": "Accesorios Tigre",
                 "description": "clothing_cnytiger desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4060": {
                 "slug": "clothing_oxset",
@@ -5466,9 +5466,9 @@
             "9563": null,
             "4356": {
                 "slug": "clothing_bohonecklace",
-                "name": "clothing_bohonecklace name",
+                "name": "Joyer\u00eda N\u00f3mada",
                 "description": "clothing_bohonecklace desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4314": {
                 "slug": "clothing_po",
