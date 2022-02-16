@@ -881,15 +881,21 @@
             "180": null
         },
         "ch": {
+            "4353": {
+                "slug": "clothing_r22_bouquetdress",
+                "name": "Bouquet Dress",
+                "description": "clothing_r22_bouquetdress desc",
+                "buyout": 0
+            },
             "4351": {
                 "slug": "clothing_r22_bohoshirt",
-                "name": "Chemise de bobo imprim\u00e9e",
+                "name": "Chemise boho imprim\u00e9e",
                 "description": "clothing_r22_bohoshirt desc",
                 "buyout": 0
             },
             "4350": {
                 "slug": "clothing_r22_bohoshirt",
-                "name": "Chemise de bobo imprim\u00e9e",
+                "name": "Chemise boho imprim\u00e9e",
                 "description": "clothing_r22_bohoshirt desc",
                 "buyout": 0
             },
@@ -2716,6 +2722,12 @@
                 "name": "Adorable chapeau",
                 "description": "clothing_sunhat desc",
                 "buyout": 1
+            },
+            "4354": {
+                "slug": "clothing_r22_bigflowercrown",
+                "name": "May Queen Crown",
+                "description": "clothing_r22_bigflowercrown desc",
+                "buyout": 0
             },
             "4334": {
                 "slug": "clothing_hellokittyhat",

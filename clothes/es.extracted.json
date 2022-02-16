@@ -881,6 +881,12 @@
             "180": null
         },
         "ch": {
+            "4353": {
+                "slug": "clothing_r22_bouquetdress",
+                "name": "Vestido Ramo de Flores",
+                "description": "clothing_r22_bouquetdress desc",
+                "buyout": 0
+            },
             "4351": {
                 "slug": "clothing_r22_bohoshirt",
                 "name": "Camisa Estampado Boho",
@@ -2246,7 +2252,7 @@
             },
             "4017": {
                 "slug": "clothing_cylegs",
-                "name": "Zancos Ciberpunk",
+                "name": "Tobilleras Ciberpunk",
                 "description": "clothing_cylegs desc",
                 "buyout": 0
             },
@@ -2716,6 +2722,12 @@
                 "name": "Sombrero de Sol Adorable",
                 "description": "clothing_sunhat desc",
                 "buyout": 1
+            },
+            "4354": {
+                "slug": "clothing_r22_bigflowercrown",
+                "name": "Corona Reina de Mayo",
+                "description": "clothing_r22_bigflowercrown desc",
+                "buyout": 0
             },
             "4334": {
                 "slug": "clothing_hellokittyhat",

@@ -881,6 +881,12 @@
             "180": null
         },
         "ch": {
+            "4353": {
+                "slug": "clothing_r22_bouquetdress",
+                "name": "Blumenbouquet-Kleid",
+                "description": "clothing_r22_bouquetdress desc",
+                "buyout": 0
+            },
             "4351": {
                 "slug": "clothing_r22_bohoshirt",
                 "name": "Boho-Aufdruck Hemd",
@@ -2716,6 +2722,12 @@
                 "name": "Niedlicher Sonnenhut",
                 "description": "clothing_sunhat desc",
                 "buyout": 1
+            },
+            "4354": {
+                "slug": "clothing_r22_bigflowercrown",
+                "name": "Maik\u00f6niginnenkrone",
+                "description": "clothing_r22_bigflowercrown desc",
+                "buyout": 0
             },
             "4334": {
                 "slug": "clothing_hellokittyhat",

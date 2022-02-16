@@ -881,6 +881,12 @@
             "180": null
         },
         "ch": {
+            "4353": {
+                "slug": "clothing_r22_bouquetdress",
+                "name": "Vestido Buqu\u00ea",
+                "description": "clothing_r22_bouquetdress desc",
+                "buyout": 0
+            },
             "4351": {
                 "slug": "clothing_r22_bohoshirt",
                 "name": "Camisa Estampada Boho",
@@ -2716,6 +2722,12 @@
                 "name": "Chapeuzinho Ador\u00e1vel",
                 "description": "clothing_sunhat desc",
                 "buyout": 1
+            },
+            "4354": {
+                "slug": "clothing_r22_bigflowercrown",
+                "name": "Coroa Floral",
+                "description": "clothing_r22_bigflowercrown desc",
+                "buyout": 0
             },
             "4334": {
                 "slug": "clothing_hellokittyhat",
