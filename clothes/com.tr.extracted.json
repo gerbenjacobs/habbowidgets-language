@@ -883,7 +883,7 @@
         "ch": {
             "4353": {
                 "slug": "clothing_r22_bouquetdress",
-                "name": "Bouquet Dress",
+                "name": "Buket Elbise",
                 "description": "clothing_r22_bouquetdress desc",
                 "buyout": 0
             },
@@ -2725,7 +2725,7 @@
             },
             "4354": {
                 "slug": "clothing_r22_bigflowercrown",
-                "name": "May Queen Crown",
+                "name": "May\u0131s Krali\u00e7e Tac\u0131",
                 "description": "clothing_r22_bigflowercrown desc",
                 "buyout": 0
             },
