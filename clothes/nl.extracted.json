@@ -883,7 +883,7 @@
         "ch": {
             "4353": {
                 "slug": "clothing_r22_bouquetdress",
-                "name": "Bouquet Dress",
+                "name": "Jurk Vol Bloemen",
                 "description": "clothing_r22_bouquetdress desc",
                 "buyout": 0
             },
@@ -2725,7 +2725,7 @@
             },
             "4354": {
                 "slug": "clothing_r22_bigflowercrown",
-                "name": "May Queen Crown",
+                "name": "Kroon van de Mei Koningin",
                 "description": "clothing_r22_bigflowercrown desc",
                 "buyout": 0
             },
