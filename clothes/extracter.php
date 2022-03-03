@@ -60,7 +60,7 @@ function getClothingNames($country)
 
     foreach ($xml->roomitemtypes[0] as $furni) {
         $slug = (string)$furni->attributes()['classname'];
-        if (!strstr($slug, "clothing_")) {
+        if (!strstr($slug, "clothing_") && $slug != "test_nft_clothing" && $slug != "test_nft_clothing2") {
             continue;
         }
 

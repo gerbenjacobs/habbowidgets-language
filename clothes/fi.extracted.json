@@ -41,8 +41,18 @@
                 "description": "clothing_governessoutfit desc",
                 "buyout": 0
             },
-            "4270": null,
-            "4269": null,
+            "4270": {
+                "slug": "test_nft_clothing2",
+                "name": "test_nft_clothing2 name",
+                "description": "test_nft_clothing2 desc",
+                "buyout": 0
+            },
+            "4269": {
+                "slug": "test_nft_clothing2",
+                "name": "test_nft_clothing2 name",
+                "description": "test_nft_clothing2 desc",
+                "buyout": 0
+            },
             "4216": {
                 "slug": "clothing_r21_fairyhair",
                 "name": "Mets\u00e4nhenkitukka",
@@ -730,17 +740,72 @@
             "100": null
         },
         "hd": {
-            "4287": null,
-            "4280": null,
-            "4279": null,
-            "4268": null,
-            "4267": null,
-            "4266": null,
-            "4206": null,
-            "4205": null,
-            "4204": null,
-            "4203": null,
-            "4202": null,
+            "4287": {
+                "slug": "test_nft_clothing2",
+                "name": "test_nft_clothing2 name",
+                "description": "test_nft_clothing2 desc",
+                "buyout": 0
+            },
+            "4280": {
+                "slug": "test_nft_clothing2",
+                "name": "test_nft_clothing2 name",
+                "description": "test_nft_clothing2 desc",
+                "buyout": 0
+            },
+            "4279": {
+                "slug": "test_nft_clothing2",
+                "name": "test_nft_clothing2 name",
+                "description": "test_nft_clothing2 desc",
+                "buyout": 0
+            },
+            "4268": {
+                "slug": "test_nft_clothing2",
+                "name": "test_nft_clothing2 name",
+                "description": "test_nft_clothing2 desc",
+                "buyout": 0
+            },
+            "4267": {
+                "slug": "test_nft_clothing2",
+                "name": "test_nft_clothing2 name",
+                "description": "test_nft_clothing2 desc",
+                "buyout": 0
+            },
+            "4266": {
+                "slug": "test_nft_clothing2",
+                "name": "test_nft_clothing2 name",
+                "description": "test_nft_clothing2 desc",
+                "buyout": 0
+            },
+            "4206": {
+                "slug": "test_nft_clothing",
+                "name": "test_nft_clothing name",
+                "description": "test_nft_clothing desc",
+                "buyout": 0
+            },
+            "4205": {
+                "slug": "test_nft_clothing",
+                "name": "test_nft_clothing name",
+                "description": "test_nft_clothing desc",
+                "buyout": 0
+            },
+            "4204": {
+                "slug": "test_nft_clothing",
+                "name": "test_nft_clothing name",
+                "description": "test_nft_clothing desc",
+                "buyout": 0
+            },
+            "4203": {
+                "slug": "test_nft_clothing",
+                "name": "test_nft_clothing name",
+                "description": "test_nft_clothing desc",
+                "buyout": 0
+            },
+            "4202": {
+                "slug": "test_nft_clothing",
+                "name": "test_nft_clothing name",
+                "description": "test_nft_clothing desc",
+                "buyout": 0
+            },
             "4174": {
                 "slug": "clothing_toughface",
                 "name": "Gangsterin kasvot",
@@ -935,46 +1000,246 @@
                 "description": "clothing_nobleoutfit desc",
                 "buyout": 0
             },
-            "4257": null,
-            "4256": null,
-            "4255": null,
-            "4254": null,
-            "4253": null,
-            "4252": null,
-            "4251": null,
-            "4250": null,
-            "4249": null,
-            "4248": null,
-            "4247": null,
-            "4246": null,
-            "4245": null,
-            "4244": null,
-            "4243": null,
-            "4242": null,
-            "4241": null,
-            "4240": null,
-            "4239": null,
-            "4238": null,
-            "4237": null,
-            "4236": null,
-            "4235": null,
-            "4234": null,
-            "4233": null,
-            "4232": null,
-            "4231": null,
-            "4230": null,
-            "4229": null,
-            "4228": null,
-            "4227": null,
-            "4226": null,
-            "4225": null,
-            "4224": null,
-            "4223": null,
-            "4222": null,
-            "4221": null,
-            "4220": null,
-            "4219": null,
-            "4218": null,
+            "4257": {
+                "slug": "test_nft_clothing2",
+                "name": "test_nft_clothing2 name",
+                "description": "test_nft_clothing2 desc",
+                "buyout": 0
+            },
+            "4256": {
+                "slug": "test_nft_clothing2",
+                "name": "test_nft_clothing2 name",
+                "description": "test_nft_clothing2 desc",
+                "buyout": 0
+            },
+            "4255": {
+                "slug": "test_nft_clothing2",
+                "name": "test_nft_clothing2 name",
+                "description": "test_nft_clothing2 desc",
+                "buyout": 0
+            },
+            "4254": {
+                "slug": "test_nft_clothing2",
+                "name": "test_nft_clothing2 name",
+                "description": "test_nft_clothing2 desc",
+                "buyout": 0
+            },
+            "4253": {
+                "slug": "test_nft_clothing2",
+                "name": "test_nft_clothing2 name",
+                "description": "test_nft_clothing2 desc",
+                "buyout": 0
+            },
+            "4252": {
+                "slug": "test_nft_clothing2",
+                "name": "test_nft_clothing2 name",
+                "description": "test_nft_clothing2 desc",
+                "buyout": 0
+            },
+            "4251": {
+                "slug": "test_nft_clothing2",
+                "name": "test_nft_clothing2 name",
+                "description": "test_nft_clothing2 desc",
+                "buyout": 0
+            },
+            "4250": {
+                "slug": "test_nft_clothing2",
+                "name": "test_nft_clothing2 name",
+                "description": "test_nft_clothing2 desc",
+                "buyout": 0
+            },
+            "4249": {
+                "slug": "test_nft_clothing2",
+                "name": "test_nft_clothing2 name",
+                "description": "test_nft_clothing2 desc",
+                "buyout": 0
+            },
+            "4248": {
+                "slug": "test_nft_clothing2",
+                "name": "test_nft_clothing2 name",
+                "description": "test_nft_clothing2 desc",
+                "buyout": 0
+            },
+            "4247": {
+                "slug": "test_nft_clothing2",
+                "name": "test_nft_clothing2 name",
+                "description": "test_nft_clothing2 desc",
+                "buyout": 0
+            },
+            "4246": {
+                "slug": "test_nft_clothing2",
+                "name": "test_nft_clothing2 name",
+                "description": "test_nft_clothing2 desc",
+                "buyout": 0
+            },
+            "4245": {
+                "slug": "test_nft_clothing2",
+                "name": "test_nft_clothing2 name",
+                "description": "test_nft_clothing2 desc",
+                "buyout": 0
+            },
+            "4244": {
+                "slug": "test_nft_clothing2",
+                "name": "test_nft_clothing2 name",
+                "description": "test_nft_clothing2 desc",
+                "buyout": 0
+            },
+            "4243": {
+                "slug": "test_nft_clothing2",
+                "name": "test_nft_clothing2 name",
+                "description": "test_nft_clothing2 desc",
+                "buyout": 0
+            },
+            "4242": {
+                "slug": "test_nft_clothing",
+                "name": "test_nft_clothing name",
+                "description": "test_nft_clothing desc",
+                "buyout": 0
+            },
+            "4241": {
+                "slug": "test_nft_clothing",
+                "name": "test_nft_clothing name",
+                "description": "test_nft_clothing desc",
+                "buyout": 0
+            },
+            "4240": {
+                "slug": "test_nft_clothing",
+                "name": "test_nft_clothing name",
+                "description": "test_nft_clothing desc",
+                "buyout": 0
+            },
+            "4239": {
+                "slug": "test_nft_clothing",
+                "name": "test_nft_clothing name",
+                "description": "test_nft_clothing desc",
+                "buyout": 0
+            },
+            "4238": {
+                "slug": "test_nft_clothing",
+                "name": "test_nft_clothing name",
+                "description": "test_nft_clothing desc",
+                "buyout": 0
+            },
+            "4237": {
+                "slug": "test_nft_clothing",
+                "name": "test_nft_clothing name",
+                "description": "test_nft_clothing desc",
+                "buyout": 0
+            },
+            "4236": {
+                "slug": "test_nft_clothing",
+                "name": "test_nft_clothing name",
+                "description": "test_nft_clothing desc",
+                "buyout": 0
+            },
+            "4235": {
+                "slug": "test_nft_clothing",
+                "name": "test_nft_clothing name",
+                "description": "test_nft_clothing desc",
+                "buyout": 0
+            },
+            "4234": {
+                "slug": "test_nft_clothing",
+                "name": "test_nft_clothing name",
+                "description": "test_nft_clothing desc",
+                "buyout": 0
+            },
+            "4233": {
+                "slug": "test_nft_clothing",
+                "name": "test_nft_clothing name",
+                "description": "test_nft_clothing desc",
+                "buyout": 0
+            },
+            "4232": {
+                "slug": "test_nft_clothing",
+                "name": "test_nft_clothing name",
+                "description": "test_nft_clothing desc",
+                "buyout": 0
+            },
+            "4231": {
+                "slug": "test_nft_clothing",
+                "name": "test_nft_clothing name",
+                "description": "test_nft_clothing desc",
+                "buyout": 0
+            },
+            "4230": {
+                "slug": "test_nft_clothing",
+                "name": "test_nft_clothing name",
+                "description": "test_nft_clothing desc",
+                "buyout": 0
+            },
+            "4229": {
+                "slug": "test_nft_clothing",
+                "name": "test_nft_clothing name",
+                "description": "test_nft_clothing desc",
+                "buyout": 0
+            },
+            "4228": {
+                "slug": "test_nft_clothing",
+                "name": "test_nft_clothing name",
+                "description": "test_nft_clothing desc",
+                "buyout": 0
+            },
+            "4227": {
+                "slug": "test_nft_clothing",
+                "name": "test_nft_clothing name",
+                "description": "test_nft_clothing desc",
+                "buyout": 0
+            },
+            "4226": {
+                "slug": "test_nft_clothing",
+                "name": "test_nft_clothing name",
+                "description": "test_nft_clothing desc",
+                "buyout": 0
+            },
+            "4225": {
+                "slug": "test_nft_clothing",
+                "name": "test_nft_clothing name",
+                "description": "test_nft_clothing desc",
+                "buyout": 0
+            },
+            "4224": {
+                "slug": "test_nft_clothing",
+                "name": "test_nft_clothing name",
+                "description": "test_nft_clothing desc",
+                "buyout": 0
+            },
+            "4223": {
+                "slug": "test_nft_clothing",
+                "name": "test_nft_clothing name",
+                "description": "test_nft_clothing desc",
+                "buyout": 0
+            },
+            "4222": {
+                "slug": "test_nft_clothing",
+                "name": "test_nft_clothing name",
+                "description": "test_nft_clothing desc",
+                "buyout": 0
+            },
+            "4221": {
+                "slug": "test_nft_clothing",
+                "name": "test_nft_clothing name",
+                "description": "test_nft_clothing desc",
+                "buyout": 0
+            },
+            "4220": {
+                "slug": "test_nft_clothing",
+                "name": "test_nft_clothing name",
+                "description": "test_nft_clothing desc",
+                "buyout": 0
+            },
+            "4219": {
+                "slug": "test_nft_clothing",
+                "name": "test_nft_clothing name",
+                "description": "test_nft_clothing desc",
+                "buyout": 0
+            },
+            "4218": {
+                "slug": "test_nft_clothing",
+                "name": "test_nft_clothing name",
+                "description": "test_nft_clothing desc",
+                "buyout": 0
+            },
             "4200": {
                 "slug": "clothing_flowerdress",
                 "name": "Ihastuttava keijumekko",
@@ -2891,10 +3156,30 @@
                 "description": "clothing_conductoroutfit desc",
                 "buyout": 0
             },
-            "4215": null,
-            "4214": null,
-            "4208": null,
-            "4207": null,
+            "4215": {
+                "slug": "test_nft_clothing",
+                "name": "test_nft_clothing name",
+                "description": "test_nft_clothing desc",
+                "buyout": 0
+            },
+            "4214": {
+                "slug": "test_nft_clothing",
+                "name": "test_nft_clothing name",
+                "description": "test_nft_clothing desc",
+                "buyout": 0
+            },
+            "4208": {
+                "slug": "test_nft_clothing",
+                "name": "test_nft_clothing name",
+                "description": "test_nft_clothing desc",
+                "buyout": 0
+            },
+            "4207": {
+                "slug": "test_nft_clothing",
+                "name": "test_nft_clothing name",
+                "description": "test_nft_clothing desc",
+                "buyout": 0
+            },
             "4201": {
                 "slug": "clothing_darkcrown",
                 "name": "Ilmainen kruunu",
@@ -4077,19 +4362,84 @@
                 "description": "Joulupallokorvikset",
                 "buyout": 1
             },
-            "4272": null,
-            "4271": null,
-            "4265": null,
-            "4264": null,
-            "4263": null,
-            "4262": null,
-            "4261": null,
-            "4260": null,
-            "4259": null,
-            "4258": null,
-            "4213": null,
-            "4210": null,
-            "4209": null,
+            "4272": {
+                "slug": "test_nft_clothing2",
+                "name": "test_nft_clothing2 name",
+                "description": "test_nft_clothing2 desc",
+                "buyout": 0
+            },
+            "4271": {
+                "slug": "test_nft_clothing2",
+                "name": "test_nft_clothing2 name",
+                "description": "test_nft_clothing2 desc",
+                "buyout": 0
+            },
+            "4265": {
+                "slug": "test_nft_clothing2",
+                "name": "test_nft_clothing2 name",
+                "description": "test_nft_clothing2 desc",
+                "buyout": 0
+            },
+            "4264": {
+                "slug": "test_nft_clothing2",
+                "name": "test_nft_clothing2 name",
+                "description": "test_nft_clothing2 desc",
+                "buyout": 0
+            },
+            "4263": {
+                "slug": "test_nft_clothing2",
+                "name": "test_nft_clothing2 name",
+                "description": "test_nft_clothing2 desc",
+                "buyout": 0
+            },
+            "4262": {
+                "slug": "test_nft_clothing2",
+                "name": "test_nft_clothing2 name",
+                "description": "test_nft_clothing2 desc",
+                "buyout": 0
+            },
+            "4261": {
+                "slug": "test_nft_clothing2",
+                "name": "test_nft_clothing2 name",
+                "description": "test_nft_clothing2 desc",
+                "buyout": 0
+            },
+            "4260": {
+                "slug": "test_nft_clothing2",
+                "name": "test_nft_clothing2 name",
+                "description": "test_nft_clothing2 desc",
+                "buyout": 0
+            },
+            "4259": {
+                "slug": "test_nft_clothing2",
+                "name": "test_nft_clothing2 name",
+                "description": "test_nft_clothing2 desc",
+                "buyout": 0
+            },
+            "4258": {
+                "slug": "test_nft_clothing2",
+                "name": "test_nft_clothing2 name",
+                "description": "test_nft_clothing2 desc",
+                "buyout": 0
+            },
+            "4213": {
+                "slug": "test_nft_clothing",
+                "name": "test_nft_clothing name",
+                "description": "test_nft_clothing desc",
+                "buyout": 0
+            },
+            "4210": {
+                "slug": "test_nft_clothing",
+                "name": "test_nft_clothing name",
+                "description": "test_nft_clothing desc",
+                "buyout": 0
+            },
+            "4209": {
+                "slug": "test_nft_clothing",
+                "name": "test_nft_clothing name",
+                "description": "test_nft_clothing desc",
+                "buyout": 0
+            },
             "4093": {
                 "slug": "clothing_eggearrings",
                 "name": "P\u00e4\u00e4si\u00e4ismunakorvikset",
@@ -4544,7 +4894,12 @@
                 "description": "clothing_doctorsoutfit desc",
                 "buyout": 0
             },
-            "4212": null,
+            "4212": {
+                "slug": "test_nft_clothing",
+                "name": "test_nft_clothing name",
+                "description": "test_nft_clothing desc",
+                "buyout": 0
+            },
             "4161": {
                 "slug": "clothing_gemglasses",
                 "name": "Jalokivilasit",
@@ -4752,7 +5107,12 @@
                 "description": "clothing_conductoroutfit desc",
                 "buyout": 0
             },
-            "4211": null,
+            "4211": {
+                "slug": "test_nft_clothing",
+                "name": "test_nft_clothing name",
+                "description": "test_nft_clothing desc",
+                "buyout": 0
+            },
             "4185": {
                 "slug": "clothing_ghostheadband",
                 "name": "Kummituksen p\u00e4\u00e4hine",
@@ -5530,8 +5890,18 @@
                 "description": "clothing_r21_trainoutfit desc",
                 "buyout": 0
             },
-            "4278": null,
-            "4277": null,
+            "4278": {
+                "slug": "test_nft_clothing2",
+                "name": "test_nft_clothing2 name",
+                "description": "test_nft_clothing2 desc",
+                "buyout": 0
+            },
+            "4277": {
+                "slug": "test_nft_clothing2",
+                "name": "test_nft_clothing2 name",
+                "description": "test_nft_clothing2 desc",
+                "buyout": 0
+            },
             "4217": {
                 "slug": "clothing_r21_fairywings",
                 "name": "Glitteri keijusiivet",
