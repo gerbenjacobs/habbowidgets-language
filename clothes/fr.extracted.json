@@ -23,6 +23,12 @@
                 "description": "clothing_r22_messierbun desc",
                 "buyout": 0
             },
+            "4343": {
+                "slug": "clothing_butterflyhair",
+                "name": "clothing_butterflyhair name",
+                "description": "clothing_butterflyhair desc",
+                "buyout": 0
+            },
             "4298": {
                 "slug": "clothing_r21_milkmaidbraid",
                 "name": "Tresses des vendanges",
@@ -962,6 +968,30 @@
                 "slug": "clothing_r22_bohoshirt",
                 "name": "Chemise boho imprim\u00e9e",
                 "description": "clothing_r22_bohoshirt desc",
+                "buyout": 0
+            },
+            "4340": {
+                "slug": "clothing_explorersoutfit",
+                "name": "clothing_explorersoutfit name",
+                "description": "clothing_explorersoutfit desc",
+                "buyout": 0
+            },
+            "4339": {
+                "slug": "clothing_explorersoutfit",
+                "name": "clothing_explorersoutfit name",
+                "description": "clothing_explorersoutfit desc",
+                "buyout": 0
+            },
+            "4338": {
+                "slug": "clothing_beetshirt",
+                "name": "clothing_beetshirt name",
+                "description": "clothing_beetshirt desc",
+                "buyout": 0
+            },
+            "4337": {
+                "slug": "clothing_beetshirt",
+                "name": "clothing_beetshirt name",
+                "description": "clothing_beetshirt desc",
                 "buyout": 0
             },
             "4299": {
@@ -2407,6 +2437,12 @@
                 "description": "clothing_mymelodyskirt desc",
                 "buyout": 0
             },
+            "4341": {
+                "slug": "clothing_explorersoutfit",
+                "name": "clothing_explorersoutfit name",
+                "description": "clothing_explorersoutfit desc",
+                "buyout": 0
+            },
             "4315": {
                 "slug": "clothing_po",
                 "name": "Tenue de Po",
@@ -2994,6 +3030,18 @@
                 "description": "clothing_r22_bigflowercrown desc",
                 "buyout": 0
             },
+            "4349": {
+                "slug": "clothing_snailfriend2",
+                "name": "clothing_snailfriend2 name",
+                "description": "clothing_snailfriend2 desc",
+                "buyout": 0
+            },
+            "4348": {
+                "slug": "clothing_snailfriend",
+                "name": "clothing_snailfriend name",
+                "description": "clothing_snailfriend desc",
+                "buyout": 0
+            },
             "4334": {
                 "slug": "clothing_hellokittyhat",
                 "name": "Hello Kitty Hat",
@@ -3202,19 +3250,19 @@
                 "slug": "clothing_diaicetiara",
                 "name": "Tiare Diamant",
                 "description": "clothing_diaicetiara desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4195": {
                 "slug": "clothing_diahermeshat",
                 "name": "Casque d'Herm\u00e8s Diamant",
                 "description": "clothing_diahermeshat desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4194": {
                 "slug": "clothing_diaelegantcrown",
                 "name": "Couronne \u00c9l\u00e9gante Diamant",
                 "description": "clothing_diaelegantcrown desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4192": {
                 "slug": "clothing_nt_spiritfire",
@@ -4338,6 +4386,12 @@
                 "description": "clothing_mymelodyheadband desc",
                 "buyout": 0
             },
+            "4345": {
+                "slug": "clothing_r22_mothoutfit",
+                "name": "Tenue de papillon de nuit",
+                "description": "clothing_r22_mothoutfit desc",
+                "buyout": 0
+            },
             "4318": {
                 "slug": "clothing_cnytiger",
                 "name": "Accessoires du tigre",
@@ -4888,6 +4942,12 @@
             "1601": null
         },
         "ea": {
+            "4346": {
+                "slug": "clothing_r22_mothoutfit",
+                "name": "Tenue de papillon de nuit",
+                "description": "clothing_r22_mothoutfit desc",
+                "buyout": 0
+            },
             "4302": {
                 "slug": "clothing_doctorsoutfit",
                 "name": "Tenue de m\u00e9decin",
@@ -5391,6 +5451,30 @@
             "1201": null
         },
         "ca": {
+            "4542": {
+                "slug": "clothing_r22_beetle",
+                "name": "Sac-\u00e0-dos Scarab\u00e9e",
+                "description": "clothing_r22_beetle desc",
+                "buyout": 0
+            },
+            "4347": {
+                "slug": "clothing_net",
+                "name": "clothing_net name",
+                "description": "clothing_net desc",
+                "buyout": 0
+            },
+            "4344": {
+                "slug": "clothing_r22_mothoutfit",
+                "name": "Tenue de papillon de nuit",
+                "description": "clothing_r22_mothoutfit desc",
+                "buyout": 0
+            },
+            "4336": {
+                "slug": "clothing_ladybirdbag",
+                "name": "clothing_ladybirdbag name",
+                "description": "clothing_ladybirdbag desc",
+                "buyout": 0
+            },
             "4335": {
                 "slug": "clothing_hellokittybpack",
                 "name": "Hello Kitty Backpack",

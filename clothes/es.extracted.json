@@ -23,6 +23,12 @@
                 "description": "clothing_r22_messierbun desc",
                 "buyout": 0
             },
+            "4343": {
+                "slug": "clothing_butterflyhair",
+                "name": "Coleta Mariposa",
+                "description": "clothing_butterflyhair desc",
+                "buyout": 0
+            },
             "4298": {
                 "slug": "clothing_r21_milkmaidbraid",
                 "name": "Trenza Tirolesa",
@@ -962,6 +968,30 @@
                 "slug": "clothing_r22_bohoshirt",
                 "name": "Camisa Estampado Boho",
                 "description": "clothing_r22_bohoshirt desc",
+                "buyout": 0
+            },
+            "4340": {
+                "slug": "clothing_explorersoutfit",
+                "name": "clothing_explorersoutfit name",
+                "description": "clothing_explorersoutfit desc",
+                "buyout": 0
+            },
+            "4339": {
+                "slug": "clothing_explorersoutfit",
+                "name": "clothing_explorersoutfit name",
+                "description": "clothing_explorersoutfit desc",
+                "buyout": 0
+            },
+            "4338": {
+                "slug": "clothing_beetshirt",
+                "name": "clothing_beetshirt name",
+                "description": "clothing_beetshirt desc",
+                "buyout": 0
+            },
+            "4337": {
+                "slug": "clothing_beetshirt",
+                "name": "clothing_beetshirt name",
+                "description": "clothing_beetshirt desc",
                 "buyout": 0
             },
             "4299": {
@@ -2407,6 +2437,12 @@
                 "description": "clothing_mymelodyskirt desc",
                 "buyout": 0
             },
+            "4341": {
+                "slug": "clothing_explorersoutfit",
+                "name": "clothing_explorersoutfit name",
+                "description": "clothing_explorersoutfit desc",
+                "buyout": 0
+            },
             "4315": {
                 "slug": "clothing_po",
                 "name": "Peto Po",
@@ -2992,6 +3028,18 @@
                 "slug": "clothing_r22_bigflowercrown",
                 "name": "Corona Reina de Mayo",
                 "description": "clothing_r22_bigflowercrown desc",
+                "buyout": 0
+            },
+            "4349": {
+                "slug": "clothing_snailfriend2",
+                "name": "Caracol Amigo Azul",
+                "description": "clothing_snailfriend2 desc",
+                "buyout": 0
+            },
+            "4348": {
+                "slug": "clothing_snailfriend",
+                "name": "Caracol Amigo",
+                "description": "clothing_snailfriend desc",
                 "buyout": 0
             },
             "4334": {
@@ -4338,6 +4386,12 @@
                 "description": "clothing_mymelodyheadband desc",
                 "buyout": 0
             },
+            "4345": {
+                "slug": "clothing_r22_mothoutfit",
+                "name": "Traje Polilla Humana",
+                "description": "clothing_r22_mothoutfit desc",
+                "buyout": 0
+            },
             "4318": {
                 "slug": "clothing_cnytiger",
                 "name": "Accesorios Tigre",
@@ -4888,6 +4942,12 @@
             "1601": null
         },
         "ea": {
+            "4346": {
+                "slug": "clothing_r22_mothoutfit",
+                "name": "Traje Polilla Humana",
+                "description": "clothing_r22_mothoutfit desc",
+                "buyout": 0
+            },
             "4302": {
                 "slug": "clothing_doctorsoutfit",
                 "name": "Traje Doctor\/a",
@@ -5391,6 +5451,30 @@
             "1201": null
         },
         "ca": {
+            "4542": {
+                "slug": "clothing_r22_beetle",
+                "name": "Mochila Escarabajo",
+                "description": "clothing_r22_beetle desc",
+                "buyout": 0
+            },
+            "4347": {
+                "slug": "clothing_net",
+                "name": "clothing_net name",
+                "description": "clothing_net desc",
+                "buyout": 0
+            },
+            "4344": {
+                "slug": "clothing_r22_mothoutfit",
+                "name": "Traje Polilla Humana",
+                "description": "clothing_r22_mothoutfit desc",
+                "buyout": 0
+            },
+            "4336": {
+                "slug": "clothing_ladybirdbag",
+                "name": "Mochila Mariquita",
+                "description": "clothing_ladybirdbag desc",
+                "buyout": 0
+            },
             "4335": {
                 "slug": "clothing_hellokittybpack",
                 "name": "Mochila Hello Kitty",
