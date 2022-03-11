@@ -25,7 +25,7 @@
             },
             "4343": {
                 "slug": "clothing_butterflyhair",
-                "name": "clothing_butterflyhair name",
+                "name": "Schmetterlingspferdeschwanz",
                 "description": "clothing_butterflyhair desc",
                 "buyout": 0
             },
@@ -3032,13 +3032,13 @@
             },
             "4349": {
                 "slug": "clothing_snailfriend2",
-                "name": "clothing_snailfriend2 name",
+                "name": "Blauer Schneckenfreund",
                 "description": "clothing_snailfriend2 desc",
                 "buyout": 0
             },
             "4348": {
                 "slug": "clothing_snailfriend",
-                "name": "clothing_snailfriend name",
+                "name": "Schneckenfreund",
                 "description": "clothing_snailfriend desc",
                 "buyout": 0
             },
@@ -5471,7 +5471,7 @@
             },
             "4336": {
                 "slug": "clothing_ladybirdbag",
-                "name": "clothing_ladybirdbag name",
+                "name": "Marienk\u00e4fer-Rucksack",
                 "description": "clothing_ladybirdbag desc",
                 "buyout": 0
             },
