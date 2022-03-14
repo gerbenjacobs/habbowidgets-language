@@ -952,6 +952,18 @@
             "180": null
         },
         "ch": {
+            "4366": {
+                "slug": "clothing_badtzshirt",
+                "name": "Badtz-Maru T-Shirt",
+                "description": "clothing_badtzshirt desc",
+                "buyout": 0
+            },
+            "4365": {
+                "slug": "clothing_badtzshirt",
+                "name": "Badtz-Maru T-Shirt",
+                "description": "clothing_badtzshirt desc",
+                "buyout": 0
+            },
             "4353": {
                 "slug": "clothing_r22_bouquetdress",
                 "name": "Kukkamekko",
@@ -4388,7 +4400,7 @@
             },
             "4345": {
                 "slug": "clothing_r22_mothoutfit",
-                "name": "clothing_r22_mothoutfit name",
+                "name": "Y\u00f6perhosasu",
                 "description": "clothing_r22_mothoutfit desc",
                 "buyout": 0
             },
@@ -4944,7 +4956,7 @@
         "ea": {
             "4346": {
                 "slug": "clothing_r22_mothoutfit",
-                "name": "clothing_r22_mothoutfit name",
+                "name": "Y\u00f6perhosasu",
                 "description": "clothing_r22_mothoutfit desc",
                 "buyout": 0
             },
@@ -5453,8 +5465,14 @@
         "ca": {
             "4542": {
                 "slug": "clothing_r22_beetle",
-                "name": "clothing_r22_beetle name",
+                "name": "Koppakuoriaisreppu",
                 "description": "clothing_r22_beetle desc",
+                "buyout": 0
+            },
+            "4364": {
+                "slug": "clothing_badtzbackpack",
+                "name": "Badtz-Maru Backpack",
+                "description": "clothing_badtzbackpack desc",
                 "buyout": 0
             },
             "4347": {
@@ -5465,7 +5483,7 @@
             },
             "4344": {
                 "slug": "clothing_r22_mothoutfit",
-                "name": "clothing_r22_mothoutfit name",
+                "name": "Y\u00f6perhosasu",
                 "description": "clothing_r22_mothoutfit desc",
                 "buyout": 0
             },

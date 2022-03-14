@@ -952,6 +952,18 @@
             "180": null
         },
         "ch": {
+            "4366": {
+                "slug": "clothing_badtzshirt",
+                "name": "Badtz-Maru T-Shirt",
+                "description": "clothing_badtzshirt desc",
+                "buyout": 0
+            },
+            "4365": {
+                "slug": "clothing_badtzshirt",
+                "name": "Badtz-Maru T-Shirt",
+                "description": "clothing_badtzshirt desc",
+                "buyout": 0
+            },
             "4353": {
                 "slug": "clothing_r22_bouquetdress",
                 "name": "Robe bouquet",
@@ -5455,6 +5467,12 @@
                 "slug": "clothing_r22_beetle",
                 "name": "Sac-\u00e0-dos Scarab\u00e9e",
                 "description": "clothing_r22_beetle desc",
+                "buyout": 0
+            },
+            "4364": {
+                "slug": "clothing_badtzbackpack",
+                "name": "Badtz-Maru Backpack",
+                "description": "clothing_badtzbackpack desc",
                 "buyout": 0
             },
             "4347": {
