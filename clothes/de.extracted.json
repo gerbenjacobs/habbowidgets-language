@@ -952,6 +952,18 @@
             "180": null
         },
         "ch": {
+            "4385": {
+                "slug": "clothing_ukrainesupport",
+                "name": "Stand With Ukraine-T-Shirt",
+                "description": "clothing_ukrainesupport desc",
+                "buyout": 0
+            },
+            "4384": {
+                "slug": "clothing_ukrainesupport",
+                "name": "Stand With Ukraine-T-Shirt",
+                "description": "clothing_ukrainesupport desc",
+                "buyout": 0
+            },
             "4366": {
                 "slug": "clothing_badtzshirt",
                 "name": "Badtz-Maru T-Shirt",
@@ -3030,6 +3042,12 @@
             "290": null
         },
         "ha": {
+            "4374": {
+                "slug": "clothing_dipsyhat",
+                "name": "clothing_dipsyhat name",
+                "description": "clothing_dipsyhat desc",
+                "buyout": 0
+            },
             "4355": {
                 "slug": "clothing_sunhat",
                 "name": "Niedlicher Sonnenhut",
@@ -4392,6 +4410,30 @@
             "1001": null
         },
         "he": {
+            "4382": {
+                "slug": "clothing_headband_tinkywinky",
+                "name": "clothing_headband_tinkywinky name",
+                "description": "clothing_headband_tinkywinky desc",
+                "buyout": 0
+            },
+            "4381": {
+                "slug": "clothing_headband_dipsy",
+                "name": "clothing_headband_dipsy name",
+                "description": "clothing_headband_dipsy desc",
+                "buyout": 0
+            },
+            "4380": {
+                "slug": "clothing_headband_laalaa",
+                "name": "clothing_headband_laalaa name",
+                "description": "clothing_headband_laalaa desc",
+                "buyout": 0
+            },
+            "4379": {
+                "slug": "clothing_headband_po",
+                "name": "clothing_headband_po name",
+                "description": "clothing_headband_po desc",
+                "buyout": 0
+            },
             "4357": {
                 "slug": "clothing_mymelodyheadband",
                 "name": "My Melody Headband",
