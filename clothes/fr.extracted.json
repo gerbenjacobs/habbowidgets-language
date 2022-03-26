@@ -25,7 +25,7 @@
             },
             "4343": {
                 "slug": "clothing_butterflyhair",
-                "name": "clothing_butterflyhair name",
+                "name": "Queue de cheval Papillon",
                 "description": "clothing_butterflyhair desc",
                 "buyout": 0
             },
@@ -3044,7 +3044,7 @@
         "ha": {
             "4374": {
                 "slug": "clothing_dipsyhat",
-                "name": "clothing_dipsyhat name",
+                "name": "Chapeau Dipsy",
                 "description": "clothing_dipsyhat desc",
                 "buyout": 0
             },
@@ -3068,7 +3068,7 @@
             },
             "4348": {
                 "slug": "clothing_snailfriend",
-                "name": "clothing_snailfriend name",
+                "name": "Ami Escargot",
                 "description": "clothing_snailfriend desc",
                 "buyout": 0
             },
@@ -4412,25 +4412,25 @@
         "he": {
             "4382": {
                 "slug": "clothing_headband_tinkywinky",
-                "name": "clothing_headband_tinkywinky name",
+                "name": "Serre-t\u00eate Tinky Winky",
                 "description": "clothing_headband_tinkywinky desc",
                 "buyout": 0
             },
             "4381": {
                 "slug": "clothing_headband_dipsy",
-                "name": "clothing_headband_dipsy name",
+                "name": "Serre-t\u00eate Dipsy",
                 "description": "clothing_headband_dipsy desc",
                 "buyout": 0
             },
             "4380": {
                 "slug": "clothing_headband_laalaa",
-                "name": "clothing_headband_laalaa name",
+                "name": "Serre-t\u00eate Laa-Laa",
                 "description": "clothing_headband_laalaa desc",
                 "buyout": 0
             },
             "4379": {
                 "slug": "clothing_headband_po",
-                "name": "clothing_headband_po name",
+                "name": "Serre-t\u00eate Po",
                 "description": "clothing_headband_po desc",
                 "buyout": 0
             },
@@ -5531,7 +5531,7 @@
             },
             "4336": {
                 "slug": "clothing_ladybirdbag",
-                "name": "clothing_ladybirdbag name",
+                "name": "Sac-\u00e0-dos Coccinelle",
                 "description": "clothing_ladybirdbag desc",
                 "buyout": 0
             },

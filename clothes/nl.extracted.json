@@ -3044,7 +3044,7 @@
         "ha": {
             "4374": {
                 "slug": "clothing_dipsyhat",
-                "name": "clothing_dipsyhat name",
+                "name": "Dipsy Hoed",
                 "description": "clothing_dipsyhat desc",
                 "buyout": 0
             },
@@ -4412,25 +4412,25 @@
         "he": {
             "4382": {
                 "slug": "clothing_headband_tinkywinky",
-                "name": "clothing_headband_tinkywinky name",
+                "name": "Tinky Winky Haarband",
                 "description": "clothing_headband_tinkywinky desc",
                 "buyout": 0
             },
             "4381": {
                 "slug": "clothing_headband_dipsy",
-                "name": "clothing_headband_dipsy name",
+                "name": "Dipsy Haarband",
                 "description": "clothing_headband_dipsy desc",
                 "buyout": 0
             },
             "4380": {
                 "slug": "clothing_headband_laalaa",
-                "name": "clothing_headband_laalaa name",
+                "name": "Laa-Laa Haarband",
                 "description": "clothing_headband_laalaa desc",
                 "buyout": 0
             },
             "4379": {
                 "slug": "clothing_headband_po",
-                "name": "clothing_headband_po name",
+                "name": "Po Haarband",
                 "description": "clothing_headband_po desc",
                 "buyout": 0
             },

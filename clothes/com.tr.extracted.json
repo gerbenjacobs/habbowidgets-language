@@ -25,7 +25,7 @@
             },
             "4343": {
                 "slug": "clothing_butterflyhair",
-                "name": "clothing_butterflyhair name",
+                "name": "Kelebek At Kuyru\u011fu",
                 "description": "clothing_butterflyhair desc",
                 "buyout": 0
             },
@@ -3044,7 +3044,7 @@
         "ha": {
             "4374": {
                 "slug": "clothing_dipsyhat",
-                "name": "clothing_dipsyhat name",
+                "name": "Dipsy \u015eapkas\u0131",
                 "description": "clothing_dipsyhat desc",
                 "buyout": 0
             },
@@ -3062,13 +3062,13 @@
             },
             "4349": {
                 "slug": "clothing_snailfriend2",
-                "name": "clothing_snailfriend2 name",
+                "name": "Mavi S\u00fcm\u00fckl\u00fc B\u00f6cek Kafas\u0131",
                 "description": "clothing_snailfriend2 desc",
                 "buyout": 0
             },
             "4348": {
                 "slug": "clothing_snailfriend",
-                "name": "clothing_snailfriend name",
+                "name": "S\u00fcm\u00fckl\u00fc B\u00f6cek Kafas\u0131",
                 "description": "clothing_snailfriend desc",
                 "buyout": 0
             },
@@ -4412,25 +4412,25 @@
         "he": {
             "4382": {
                 "slug": "clothing_headband_tinkywinky",
-                "name": "clothing_headband_tinkywinky name",
+                "name": "Tinky Winky Kafa Band\u0131",
                 "description": "clothing_headband_tinkywinky desc",
                 "buyout": 0
             },
             "4381": {
                 "slug": "clothing_headband_dipsy",
-                "name": "clothing_headband_dipsy name",
+                "name": "Dipsy Kafa Band\u0131",
                 "description": "clothing_headband_dipsy desc",
                 "buyout": 0
             },
             "4380": {
                 "slug": "clothing_headband_laalaa",
-                "name": "clothing_headband_laalaa name",
+                "name": "Laa-Laa Kafa Band\u0131",
                 "description": "clothing_headband_laalaa desc",
                 "buyout": 0
             },
             "4379": {
                 "slug": "clothing_headband_po",
-                "name": "clothing_headband_po name",
+                "name": "Po Kafa Band\u0131",
                 "description": "clothing_headband_po desc",
                 "buyout": 0
             },
@@ -5531,7 +5531,7 @@
             },
             "4336": {
                 "slug": "clothing_ladybirdbag",
-                "name": "clothing_ladybirdbag name",
+                "name": "U\u011fur B\u00f6ce\u011fi S\u0131rt \u00c7antas\u0131",
                 "description": "clothing_ladybirdbag desc",
                 "buyout": 0
             },

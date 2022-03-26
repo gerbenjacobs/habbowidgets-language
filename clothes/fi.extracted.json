@@ -25,7 +25,7 @@
             },
             "4343": {
                 "slug": "clothing_butterflyhair",
-                "name": "clothing_butterflyhair name",
+                "name": "Perhosponnari",
                 "description": "clothing_butterflyhair desc",
                 "buyout": 0
             },
@@ -3044,7 +3044,7 @@
         "ha": {
             "4374": {
                 "slug": "clothing_dipsyhat",
-                "name": "clothing_dipsyhat name",
+                "name": "Hipsun hattu",
                 "description": "clothing_dipsyhat desc",
                 "buyout": 0
             },
@@ -3062,13 +3062,13 @@
             },
             "4349": {
                 "slug": "clothing_snailfriend2",
-                "name": "clothing_snailfriend2 name",
+                "name": "Yst\u00e4v\u00e4ni sininen etana",
                 "description": "clothing_snailfriend2 desc",
                 "buyout": 0
             },
             "4348": {
                 "slug": "clothing_snailfriend",
-                "name": "clothing_snailfriend name",
+                "name": "Yst\u00e4v\u00e4ni etana",
                 "description": "clothing_snailfriend desc",
                 "buyout": 0
             },
@@ -4412,25 +4412,25 @@
         "he": {
             "4382": {
                 "slug": "clothing_headband_tinkywinky",
-                "name": "clothing_headband_tinkywinky name",
+                "name": "Tiivi-Taavi-panta",
                 "description": "clothing_headband_tinkywinky desc",
                 "buyout": 0
             },
             "4381": {
                 "slug": "clothing_headband_dipsy",
-                "name": "clothing_headband_dipsy name",
+                "name": "Hipsu-panta",
                 "description": "clothing_headband_dipsy desc",
                 "buyout": 0
             },
             "4380": {
                 "slug": "clothing_headband_laalaa",
-                "name": "clothing_headband_laalaa name",
+                "name": "Laa-Laa-panta",
                 "description": "clothing_headband_laalaa desc",
                 "buyout": 0
             },
             "4379": {
                 "slug": "clothing_headband_po",
-                "name": "clothing_headband_po name",
+                "name": "Pai-panta",
                 "description": "clothing_headband_po desc",
                 "buyout": 0
             },
@@ -5531,7 +5531,7 @@
             },
             "4336": {
                 "slug": "clothing_ladybirdbag",
-                "name": "clothing_ladybirdbag name",
+                "name": "Leppisreppu",
                 "description": "clothing_ladybirdbag desc",
                 "buyout": 0
             },
