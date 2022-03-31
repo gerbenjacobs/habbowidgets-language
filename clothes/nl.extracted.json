@@ -25,7 +25,7 @@
             },
             "4343": {
                 "slug": "clothing_butterflyhair",
-                "name": "clothing_butterflyhair name",
+                "name": "Vlinder Haarstrikje",
                 "description": "clothing_butterflyhair desc",
                 "buyout": 0
             },
@@ -3062,13 +3062,13 @@
             },
             "4349": {
                 "slug": "clothing_snailfriend2",
-                "name": "clothing_snailfriend2 name",
+                "name": "Blauwe Slakkevriend",
                 "description": "clothing_snailfriend2 desc",
                 "buyout": 0
             },
             "4348": {
                 "slug": "clothing_snailfriend",
-                "name": "clothing_snailfriend name",
+                "name": "Slakkevriend",
                 "description": "clothing_snailfriend desc",
                 "buyout": 0
             },
@@ -5531,7 +5531,7 @@
             },
             "4336": {
                 "slug": "clothing_ladybirdbag",
-                "name": "clothing_ladybirdbag name",
+                "name": "Lieveheersbeestje Rugtas",
                 "description": "clothing_ladybirdbag desc",
                 "buyout": 0
             },
