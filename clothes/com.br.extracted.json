@@ -998,25 +998,25 @@
                 "slug": "clothing_explorersoutfit",
                 "name": "clothing_explorersoutfit name",
                 "description": "clothing_explorersoutfit desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4339": {
                 "slug": "clothing_explorersoutfit",
                 "name": "clothing_explorersoutfit name",
                 "description": "clothing_explorersoutfit desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4338": {
                 "slug": "clothing_beetshirt",
                 "name": "clothing_beetshirt name",
                 "description": "clothing_beetshirt desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4337": {
                 "slug": "clothing_beetshirt",
                 "name": "clothing_beetshirt name",
                 "description": "clothing_beetshirt desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4299": {
                 "slug": "clothing_r21_cosydungarees",
@@ -2465,7 +2465,7 @@
                 "slug": "clothing_explorersoutfit",
                 "name": "clothing_explorersoutfit name",
                 "description": "clothing_explorersoutfit desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4315": {
                 "slug": "clothing_po",
@@ -5521,7 +5521,7 @@
                 "slug": "clothing_net",
                 "name": "clothing_net name",
                 "description": "clothing_net desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4344": {
                 "slug": "clothing_r22_mothoutfit",
