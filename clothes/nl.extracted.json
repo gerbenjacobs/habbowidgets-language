@@ -27,7 +27,7 @@
                 "slug": "clothing_butterflyhair",
                 "name": "Vlinder Haarstrikje",
                 "description": "clothing_butterflyhair desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4298": {
                 "slug": "clothing_r21_milkmaidbraid",
@@ -3070,7 +3070,7 @@
                 "slug": "clothing_snailfriend",
                 "name": "Slakkevriend",
                 "description": "clothing_snailfriend desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4334": {
                 "slug": "clothing_hellokittyhat",
@@ -5533,7 +5533,7 @@
                 "slug": "clothing_ladybirdbag",
                 "name": "Lieveheersbeestje Rugtas",
                 "description": "clothing_ladybirdbag desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4335": {
                 "slug": "clothing_hellokittybpack",
