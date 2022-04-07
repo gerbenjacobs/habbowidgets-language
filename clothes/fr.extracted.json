@@ -27,7 +27,7 @@
                 "slug": "clothing_butterflyhair",
                 "name": "Queue de cheval Papillon",
                 "description": "clothing_butterflyhair desc",
-                "buyout": 1
+                "buyout": 0
             },
             "4298": {
                 "slug": "clothing_r21_milkmaidbraid",
@@ -996,25 +996,25 @@
             },
             "4340": {
                 "slug": "clothing_explorersoutfit",
-                "name": "clothing_explorersoutfit name",
+                "name": "Wilderness Explorer Outfit",
                 "description": "clothing_explorersoutfit desc",
                 "buyout": 1
             },
             "4339": {
                 "slug": "clothing_explorersoutfit",
-                "name": "clothing_explorersoutfit name",
+                "name": "Wilderness Explorer Outfit",
                 "description": "clothing_explorersoutfit desc",
                 "buyout": 1
             },
             "4338": {
                 "slug": "clothing_beetshirt",
-                "name": "clothing_beetshirt name",
+                "name": "Bee T-Shirt",
                 "description": "clothing_beetshirt desc",
                 "buyout": 1
             },
             "4337": {
                 "slug": "clothing_beetshirt",
-                "name": "clothing_beetshirt name",
+                "name": "Bee T-Shirt",
                 "description": "clothing_beetshirt desc",
                 "buyout": 1
             },
@@ -2463,7 +2463,7 @@
             },
             "4341": {
                 "slug": "clothing_explorersoutfit",
-                "name": "clothing_explorersoutfit name",
+                "name": "Wilderness Explorer Outfit",
                 "description": "clothing_explorersoutfit desc",
                 "buyout": 1
             },
@@ -3070,7 +3070,7 @@
                 "slug": "clothing_snailfriend",
                 "name": "Ami Escargot",
                 "description": "clothing_snailfriend desc",
-                "buyout": 1
+                "buyout": 0
             },
             "4334": {
                 "slug": "clothing_hellokittyhat",
@@ -5519,7 +5519,7 @@
             },
             "4347": {
                 "slug": "clothing_net",
-                "name": "clothing_net name",
+                "name": "Bug Net",
                 "description": "clothing_net desc",
                 "buyout": 1
             },
@@ -5533,7 +5533,7 @@
                 "slug": "clothing_ladybirdbag",
                 "name": "Sac-\u00e0-dos Coccinelle",
                 "description": "clothing_ladybirdbag desc",
-                "buyout": 1
+                "buyout": 0
             },
             "4335": {
                 "slug": "clothing_hellokittybpack",
