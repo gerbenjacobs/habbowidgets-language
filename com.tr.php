@@ -9,7 +9,7 @@ return [
     "Badge top x" => "Rozet sıralaması %d", // %d will be replaced by the number
     "Achievements top x" => "Toplam Başarılar sıralaması %d",
     "Unique badge top x" => "Nadir Rozetler sıralaması %d", // 'Unique' is chosen as they're not technically 'rares'.
-    "Star Gems top x" => "Star Gems sıralaması %d",
+    "Star Gems top x" => "Yıldız Taşları sıralaması %d",
     "Badge owners" => "Rozet Sahipleri",
     "News" => "Haberler",
     "About" => "Hakkımızda",
@@ -24,17 +24,17 @@ return [
     "Generated in" => "Burada yapıldı",
     "Current server time" => "Güncel sunucu saati",
     // Landing page
-    "What's your Habbo name?" => "Habbo kullanıcı adın nedir?",
+    "What's your Habbo name?" => "Habbo adın nedir?",
     /* -- Try to add the <br> at around 70 characters, so the next part goes on a new line */
     "landing_page_info" => "Tüm Habbolar hakkında daha fazla bilgi alabilirsin.<br>Mesela Personeller diğer Habbolar veya arkadaşınların hakkında!",
 
     // General
     "Habbo" => "Habbo",
     "Hotel" => "Hotel",
-    "Habbo name" => "Habbo kullanıcı adı",
+    "Habbo name" => "Habbo adı",
     "Oops.." => "Oops..",
     "from" => "buradan", // "Viewing page of :habbo: from :hotel:"
-    "View Habinfo" => " Habbo Detaylarını görüntüle",
+    "View Habinfo" => " Habbo detaylarını görüntüle",
     "This hotel does not exist, redirecting you.." => "Bu otel henüz bulunmamakta, başka yere yönlendiriliyorsun..",
 
     // [habbo] Birthdays
@@ -59,7 +59,7 @@ return [
     "Extracting Habinfo of someone from Habbo.%s" => "Herhangi bir Habbonun Habbo.%s Bilgisine yönlendiriliyorsun",
 
     /* -- "Looking for :name: on :hotel:" */
-    "Looking for" => "Bunu aramaktayım",
+    "Looking for" => "Aranıyor",
     "someone" => "birisi",
     "on" => "-",
     "on_time" => "on", // could be different in languages other than English i.e. Dutch.
@@ -78,7 +78,7 @@ return [
     "Last change" => "Son değişiklik",
     "Go to profile" => "Habbo profiline geç",
     "Closed profile" => "Kapalı profil",
-    "Banned" => "Engellendi",
+    "Banned" => "Yasaklandı",
     "About me" => "Hakkımda",
     /* -- "Created on :date: and last updated :some time ago:" */
     "Created on" => "Tarihinde açıldı",
