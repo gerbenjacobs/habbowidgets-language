@@ -5511,6 +5511,24 @@
                 "description": "clothing_r22_beetle desc",
                 "buyout": 0
             },
+            "4389": {
+                "slug": "clothing_chococatscarf",
+                "name": "",
+                "description": "clothing_chococatscarf desc",
+                "buyout": 0
+            },
+            "4388": {
+                "slug": "clothing_chococatbag",
+                "name": "",
+                "description": "clothing_chococatbag desc",
+                "buyout": 0
+            },
+            "4378": {
+                "slug": "clothing_r22_magicstaff",
+                "name": "Bacchetta Magica",
+                "description": "clothing_r22_magicstaff desc",
+                "buyout": 0
+            },
             "4364": {
                 "slug": "clothing_badtzbackpack",
                 "name": "Badtz-Maru Backpack",
@@ -5980,6 +5998,30 @@
         "cc": {
             "9865": null,
             "9563": null,
+            "4387": {
+                "slug": "clothing_r22_galaxycape",
+                "name": "Mantello della Galassia Magica",
+                "description": "clothing_r22_galaxycape desc",
+                "buyout": 0
+            },
+            "4386": {
+                "slug": "clothing_r22_galaxycape",
+                "name": "Mantello della Galassia Magica",
+                "description": "clothing_r22_galaxycape desc",
+                "buyout": 0
+            },
+            "4377": {
+                "slug": "clothing_techapron",
+                "name": "Magic Tech Apron",
+                "description": "clothing_techapron desc",
+                "buyout": 0
+            },
+            "4376": {
+                "slug": "clothing_techapron",
+                "name": "Magic Tech Apron",
+                "description": "clothing_techapron desc",
+                "buyout": 0
+            },
             "4356": {
                 "slug": "clothing_bohonecklace",
                 "name": "Gioielli Nomadi",
