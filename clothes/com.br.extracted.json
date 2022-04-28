@@ -5525,7 +5525,7 @@
             },
             "4378": {
                 "slug": "clothing_r22_magicstaff",
-                "name": "Raro Cetro M\u00e1gico",
+                "name": "Raro Cetro Tecnom\u00e1gico",
                 "description": "clothing_r22_magicstaff desc",
                 "buyout": 0
             },
@@ -6012,13 +6012,13 @@
             },
             "4377": {
                 "slug": "clothing_techapron",
-                "name": "Avental T\u00e9cnico M\u00e1gico",
+                "name": "Avental Tecnomagia",
                 "description": "clothing_techapron desc",
                 "buyout": 0
             },
             "4376": {
                 "slug": "clothing_techapron",
-                "name": "Avental T\u00e9cnico M\u00e1gico",
+                "name": "Avental Tecnomagia",
                 "description": "clothing_techapron desc",
                 "buyout": 0
             },
