@@ -607,7 +607,7 @@
             },
             "3322": {
                 "slug": "clothing_gatsby",
-                "name": "Roaring 20's",
+                "name": "Wilde 20er",
                 "description": "Design fertig zum Tragen",
                 "buyout": 1
             },
@@ -996,25 +996,25 @@
             },
             "4340": {
                 "slug": "clothing_explorersoutfit",
-                "name": "Wilderness Explorer Outfit",
+                "name": "Wildnis-Forscher Outfit",
                 "description": "clothing_explorersoutfit desc",
                 "buyout": 1
             },
             "4339": {
                 "slug": "clothing_explorersoutfit",
-                "name": "Wilderness Explorer Outfit",
+                "name": "Wildnis-Forscher Outfit",
                 "description": "clothing_explorersoutfit desc",
                 "buyout": 1
             },
             "4338": {
                 "slug": "clothing_beetshirt",
-                "name": "Bee T-Shirt",
+                "name": "Bienen T-Shirt",
                 "description": "clothing_beetshirt desc",
                 "buyout": 1
             },
             "4337": {
                 "slug": "clothing_beetshirt",
-                "name": "Bee T-Shirt",
+                "name": "Bienen T-Shirt",
                 "description": "clothing_beetshirt desc",
                 "buyout": 1
             },
@@ -1788,13 +1788,13 @@
             },
             "3809": {
                 "slug": "clothing_plungebikini",
-                "name": "Seespringerbikini",
+                "name": "Seeplanscher-Bikini",
                 "description": "clothing_plungebikini desc",
                 "buyout": 1
             },
             "3808": {
                 "slug": "clothing_plungebikini",
-                "name": "Seespringerbikini",
+                "name": "Seeplanscher-Bikini",
                 "description": "clothing_plungebikini desc",
                 "buyout": 1
             },
@@ -2463,7 +2463,7 @@
             },
             "4341": {
                 "slug": "clothing_explorersoutfit",
-                "name": "Wilderness Explorer Outfit",
+                "name": "Wildnis-Forscher Outfit",
                 "description": "clothing_explorersoutfit desc",
                 "buyout": 1
             },
@@ -2577,7 +2577,7 @@
             },
             "4017": {
                 "slug": "clothing_cylegs",
-                "name": "Cyberpunk Wasserl\u00e4ufer",
+                "name": "Cyberpunk Stahll\u00e4ufer",
                 "description": "clothing_cylegs desc",
                 "buyout": 0
             },
@@ -5537,7 +5537,7 @@
             },
             "4347": {
                 "slug": "clothing_net",
-                "name": "Bug Net",
+                "name": "Insektennetz",
                 "description": "clothing_net desc",
                 "buyout": 1
             },
@@ -6000,13 +6000,13 @@
             "9563": null,
             "4387": {
                 "slug": "clothing_r22_galaxycape",
-                "name": "Zauber Galaxy Cape",
+                "name": "Galaxie Zauberumhang",
                 "description": "clothing_r22_galaxycape desc",
                 "buyout": 0
             },
             "4386": {
                 "slug": "clothing_r22_galaxycape",
-                "name": "Zauber Galaxy Cape",
+                "name": "Galaxie Zauberumhang",
                 "description": "clothing_r22_galaxycape desc",
                 "buyout": 0
             },
