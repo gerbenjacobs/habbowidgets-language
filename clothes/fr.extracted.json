@@ -1608,13 +1608,13 @@
             },
             "3970": {
                 "slug": "clothing_towelwrapfull",
-                "name": "Full Towel Wrap",
+                "name": "Grande serviette de bain",
                 "description": "clothing_towelwrapfull desc",
                 "buyout": 0
             },
             "3969": {
                 "slug": "clothing_towelwrapfull",
-                "name": "Full Towel Wrap",
+                "name": "Grande serviette de bain",
                 "description": "clothing_towelwrapfull desc",
                 "buyout": 0
             },
@@ -3062,7 +3062,7 @@
             },
             "4349": {
                 "slug": "clothing_snailfriend2",
-                "name": "clothing_snailfriend2 name",
+                "name": "Ami Escargot Bleu",
                 "description": "clothing_snailfriend2 desc",
                 "buyout": 0
             },
@@ -3368,7 +3368,7 @@
             },
             "4095": {
                 "slug": "clothing_patternhat",
-                "name": "Caquette g\u00e9om\u00e9trique",
+                "name": "Casquette g\u00e9om\u00e9trique",
                 "description": "clothing_patternhat desc",
                 "buyout": 0
             },
@@ -3386,7 +3386,7 @@
             },
             "4086": {
                 "slug": "clothing_tiedyehat",
-                "name": "Caquette arc-en-ciel",
+                "name": "Casquette arc-en-ciel",
                 "description": "clothing_tiedyehat desc",
                 "buyout": 0
             },
