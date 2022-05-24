@@ -17,6 +17,30 @@
     "clothing": {
         "hr": {
             "9534": null,
+            "4941": {
+                "slug": "clothing_r22_spikedshorthair",
+                "name": "Spiked Hair",
+                "description": "clothing_r22_spikedshorthair desc",
+                "buyout": 0
+            },
+            "4370": {
+                "slug": "clothing_r22_prideshorthair",
+                "name": "Capelli a punta Arcobaleno",
+                "description": "clothing_r22_prideshorthair desc",
+                "buyout": 0
+            },
+            "4363": {
+                "slug": "clothing_idolhairlong",
+                "name": "Coda di cavallo Idol",
+                "description": "clothing_idolhairlong desc",
+                "buyout": 0
+            },
+            "4360": {
+                "slug": "clothing_idolhairshort",
+                "name": "Accanciatura Performance Idol",
+                "description": "clothing_idolhairshort desc",
+                "buyout": 0
+            },
             "4352": {
                 "slug": "clothing_r22_messierbun",
                 "name": "Chignon Scompigliato",
@@ -746,6 +770,12 @@
             "100": null
         },
         "hd": {
+            "4383": {
+                "slug": "clothing_idolmakeup",
+                "name": "clothing_idolmakeup name",
+                "description": "clothing_idolmakeup desc",
+                "buyout": 0
+            },
             "4287": {
                 "slug": "test_nft_clothing2",
                 "name": "test_nft_clothing2 name",
@@ -964,6 +994,18 @@
                 "description": "clothing_ukrainesupport desc",
                 "buyout": 0
             },
+            "4368": {
+                "slug": "clothing_glittertop",
+                "name": "Top Luccicante Idol",
+                "description": "clothing_glittertop desc",
+                "buyout": 0
+            },
+            "4367": {
+                "slug": "clothing_glittertop",
+                "name": "Top Luccicante Idol",
+                "description": "clothing_glittertop desc",
+                "buyout": 0
+            },
             "4366": {
                 "slug": "clothing_badtzshirt",
                 "name": "Badtz-Maru T-Shirt",
@@ -974,6 +1016,18 @@
                 "slug": "clothing_badtzshirt",
                 "name": "Badtz-Maru T-Shirt",
                 "description": "clothing_badtzshirt desc",
+                "buyout": 0
+            },
+            "4362": {
+                "slug": "clothing_2layeredshirt",
+                "name": "Camicia a strati Idol",
+                "description": "clothing_2layeredshirt desc",
+                "buyout": 0
+            },
+            "4361": {
+                "slug": "clothing_2layeredshirt",
+                "name": "Camicia a strati Idol",
+                "description": "clothing_2layeredshirt desc",
                 "buyout": 0
             },
             "4353": {
@@ -2455,6 +2509,24 @@
             "210": null
         },
         "lg": {
+            "4375": {
+                "slug": "clothing_modernhanbokskirt",
+                "name": "clothing_modernhanbokskirt name",
+                "description": "clothing_modernhanbokskirt desc",
+                "buyout": 0
+            },
+            "4373": {
+                "slug": "clothing_grungetrousers",
+                "name": "Pantaloni Grunge Idol",
+                "description": "clothing_grungetrousers desc",
+                "buyout": 0
+            },
+            "4369": {
+                "slug": "clothing_cutepunkskirt",
+                "name": "Gonna punk Idol",
+                "description": "clothing_cutepunkskirt desc",
+                "buyout": 0
+            },
             "4358": {
                 "slug": "clothing_mymelodyskirt",
                 "name": "My Melody Skirt",
@@ -3042,10 +3114,22 @@
             "290": null
         },
         "ha": {
+            "4948": {
+                "slug": "clothing_goldknitalien",
+                "name": "Cappello Alieni d'Oro",
+                "description": "clothing_goldknitalien desc",
+                "buyout": 0
+            },
             "4374": {
                 "slug": "clothing_dipsyhat",
                 "name": "Cappello Dipsy",
                 "description": "clothing_dipsyhat desc",
+                "buyout": 0
+            },
+            "4371": {
+                "slug": "clothing_r22_gathat",
+                "name": "Gat Coreano",
+                "description": "clothing_r22_gathat desc",
                 "buyout": 0
             },
             "4355": {
@@ -5527,6 +5611,12 @@
                 "slug": "clothing_r22_magicstaff",
                 "name": "Bacchetta Magica",
                 "description": "clothing_r22_magicstaff desc",
+                "buyout": 0
+            },
+            "4372": {
+                "slug": "clothing_r22_gathat",
+                "name": "Gat Coreano",
+                "description": "clothing_r22_gathat desc",
                 "buyout": 0
             },
             "4364": {
