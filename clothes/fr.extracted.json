@@ -1050,13 +1050,13 @@
             },
             "4340": {
                 "slug": "clothing_explorersoutfit",
-                "name": "Wilderness Explorer Outfit",
+                "name": "Tenue d'explorateur de r\u00e9gions sauvages",
                 "description": "clothing_explorersoutfit desc",
                 "buyout": 1
             },
             "4339": {
                 "slug": "clothing_explorersoutfit",
-                "name": "Wilderness Explorer Outfit",
+                "name": "Tenue d'explorateur de r\u00e9gions sauvages",
                 "description": "clothing_explorersoutfit desc",
                 "buyout": 1
             },
@@ -2535,7 +2535,7 @@
             },
             "4341": {
                 "slug": "clothing_explorersoutfit",
-                "name": "Wilderness Explorer Outfit",
+                "name": "Tenue d'explorateur de r\u00e9gions sauvages",
                 "description": "clothing_explorersoutfit desc",
                 "buyout": 1
             },

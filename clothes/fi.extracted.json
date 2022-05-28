@@ -984,13 +984,13 @@
         "ch": {
             "4385": {
                 "slug": "clothing_ukrainesupport",
-                "name": "Seiso Ukrainan rinnalle t-paita",
+                "name": "Seiso Ukrainan rinnalla t-paita",
                 "description": "clothing_ukrainesupport desc",
                 "buyout": 0
             },
             "4384": {
                 "slug": "clothing_ukrainesupport",
-                "name": "Seiso Ukrainan rinnalle t-paita",
+                "name": "Seiso Ukrainan rinnalla t-paita",
                 "description": "clothing_ukrainesupport desc",
                 "buyout": 0
             },
@@ -3788,7 +3788,7 @@
             },
             "3742": {
                 "slug": "clothing_rudolphhat",
-                "name": "Poroipipo",
+                "name": "Poropipo",
                 "description": "clothing_rudolphhat desc",
                 "buyout": 0
             },
