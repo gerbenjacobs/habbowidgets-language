@@ -982,6 +982,18 @@
             "180": null
         },
         "ch": {
+            "4962": {
+                "slug": "clothing_ttlongshirt",
+                "name": "clothing_ttlongshirt name",
+                "description": "clothing_ttlongshirt desc",
+                "buyout": 0
+            },
+            "4961": {
+                "slug": "clothing_ttlongshirt",
+                "name": "clothing_ttlongshirt name",
+                "description": "clothing_ttlongshirt desc",
+                "buyout": 0
+            },
             "4385": {
                 "slug": "clothing_ukrainesupport",
                 "name": "T-Shirt Aux c\u00f4t\u00e9s de l'Ukraine",
@@ -3114,6 +3126,24 @@
             "290": null
         },
         "ha": {
+            "4964": {
+                "slug": "clothing_r22_egg",
+                "name": "Oeuf de dinosaure",
+                "description": "clothing_r22_egg desc",
+                "buyout": 0
+            },
+            "4960": {
+                "slug": "clothing_ttbuckethat",
+                "name": "clothing_ttbuckethat name",
+                "description": "clothing_ttbuckethat desc",
+                "buyout": 0
+            },
+            "4955": {
+                "slug": "clothing_keroppihat",
+                "name": "clothing_keroppihat name",
+                "description": "clothing_keroppihat desc",
+                "buyout": 0
+            },
             "4948": {
                 "slug": "clothing_goldknitalien",
                 "name": "Chapeau Alien en or",
@@ -5589,6 +5619,42 @@
             "1201": null
         },
         "ca": {
+            "4965": {
+                "slug": "clothing_r22_dinobackpack",
+                "name": "Sac \u00e0 dos Dinosaure",
+                "description": "clothing_r22_dinobackpack desc",
+                "buyout": 0
+            },
+            "4963": {
+                "slug": "clothing_r22_egg",
+                "name": "Oeuf de dinosaure",
+                "description": "clothing_r22_egg desc",
+                "buyout": 0
+            },
+            "4959": {
+                "slug": "clothing_ttslingbagpo",
+                "name": "clothing_ttslingbagpo name",
+                "description": "clothing_ttslingbagpo desc",
+                "buyout": 0
+            },
+            "4958": {
+                "slug": "clothing_ttslingbagll",
+                "name": "clothing_ttslingbagll name",
+                "description": "clothing_ttslingbagll desc",
+                "buyout": 0
+            },
+            "4957": {
+                "slug": "clothing_ttslingbagdp",
+                "name": "clothing_ttslingbagdp name",
+                "description": "clothing_ttslingbagdp desc",
+                "buyout": 0
+            },
+            "4956": {
+                "slug": "clothing_ttslingbagtw",
+                "name": "clothing_ttslingbagtw name",
+                "description": "clothing_ttslingbagtw desc",
+                "buyout": 0
+            },
             "4542": {
                 "slug": "clothing_r22_beetle",
                 "name": "Sac-\u00e0-dos Scarab\u00e9e",
@@ -6088,6 +6154,12 @@
         "cc": {
             "9865": null,
             "9563": null,
+            "4954": {
+                "slug": "clothing_keroppiapron",
+                "name": "clothing_keroppiapron name",
+                "description": "clothing_keroppiapron desc",
+                "buyout": 0
+            },
             "4387": {
                 "slug": "clothing_r22_galaxycape",
                 "name": "Cape galactique magique",
