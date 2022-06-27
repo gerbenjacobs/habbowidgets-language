@@ -984,13 +984,13 @@
         "ch": {
             "4962": {
                 "slug": "clothing_ttlongshirt",
-                "name": "clothing_ttlongshirt name",
+                "name": "Teletappien Pride -paita",
                 "description": "clothing_ttlongshirt desc",
                 "buyout": 0
             },
             "4961": {
                 "slug": "clothing_ttlongshirt",
-                "name": "clothing_ttlongshirt name",
+                "name": "Teletappien Pride -paita",
                 "description": "clothing_ttlongshirt desc",
                 "buyout": 0
             },
@@ -3134,7 +3134,7 @@
             },
             "4960": {
                 "slug": "clothing_ttbuckethat",
-                "name": "clothing_ttbuckethat name",
+                "name": "Teletappien Pride hattu",
                 "description": "clothing_ttbuckethat desc",
                 "buyout": 0
             },
@@ -5633,25 +5633,25 @@
             },
             "4959": {
                 "slug": "clothing_ttslingbagpo",
-                "name": "clothing_ttslingbagpo name",
+                "name": "Pai olkalaukku",
                 "description": "clothing_ttslingbagpo desc",
                 "buyout": 0
             },
             "4958": {
                 "slug": "clothing_ttslingbagll",
-                "name": "clothing_ttslingbagll name",
+                "name": "Laa-Laa olkalaukku",
                 "description": "clothing_ttslingbagll desc",
                 "buyout": 0
             },
             "4957": {
                 "slug": "clothing_ttslingbagdp",
-                "name": "clothing_ttslingbagdp name",
+                "name": "Hipsu olkalaukku",
                 "description": "clothing_ttslingbagdp desc",
                 "buyout": 0
             },
             "4956": {
                 "slug": "clothing_ttslingbagtw",
-                "name": "clothing_ttslingbagtw name",
+                "name": "Tiivi-Taavi olkalaukku",
                 "description": "clothing_ttslingbagtw desc",
                 "buyout": 0
             },

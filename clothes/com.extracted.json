@@ -31,13 +31,13 @@
             },
             "4363": {
                 "slug": "clothing_idolhairlong",
-                "name": "clothing_idolhairlong name",
+                "name": "Idol Ponytail",
                 "description": "clothing_idolhairlong desc",
                 "buyout": 0
             },
             "4360": {
                 "slug": "clothing_idolhairshort",
-                "name": "clothing_idolhairshort name",
+                "name": "Idol Performance Hair",
                 "description": "clothing_idolhairshort desc",
                 "buyout": 0
             },
@@ -984,13 +984,13 @@
         "ch": {
             "4962": {
                 "slug": "clothing_ttlongshirt",
-                "name": "clothing_ttlongshirt name",
+                "name": "Teletubbies Pride Shirt",
                 "description": "clothing_ttlongshirt desc",
                 "buyout": 0
             },
             "4961": {
                 "slug": "clothing_ttlongshirt",
-                "name": "clothing_ttlongshirt name",
+                "name": "Teletubbies Pride Shirt",
                 "description": "clothing_ttlongshirt desc",
                 "buyout": 0
             },
@@ -3134,7 +3134,7 @@
             },
             "4960": {
                 "slug": "clothing_ttbuckethat",
-                "name": "clothing_ttbuckethat name",
+                "name": "Teletubbies Pride Bucket Hat",
                 "description": "clothing_ttbuckethat desc",
                 "buyout": 0
             },
@@ -5633,25 +5633,25 @@
             },
             "4959": {
                 "slug": "clothing_ttslingbagpo",
-                "name": "clothing_ttslingbagpo name",
+                "name": "Po Sling Bag",
                 "description": "clothing_ttslingbagpo desc",
                 "buyout": 0
             },
             "4958": {
                 "slug": "clothing_ttslingbagll",
-                "name": "clothing_ttslingbagll name",
+                "name": "Laa-Laa Sling Bag",
                 "description": "clothing_ttslingbagll desc",
                 "buyout": 0
             },
             "4957": {
                 "slug": "clothing_ttslingbagdp",
-                "name": "clothing_ttslingbagdp name",
+                "name": "Dipsy Sling Bag",
                 "description": "clothing_ttslingbagdp desc",
                 "buyout": 0
             },
             "4956": {
                 "slug": "clothing_ttslingbagtw",
-                "name": "clothing_ttslingbagtw name",
+                "name": "Tinky Winky Sling Bag",
                 "description": "clothing_ttslingbagtw desc",
                 "buyout": 0
             },
