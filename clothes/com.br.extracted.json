@@ -1008,6 +1008,18 @@
             },
             "4951": null,
             "4950": null,
+            "4393": {
+                "slug": "clothing_dirndl",
+                "name": "Traje Feudal",
+                "description": "clothing_dirndl desc",
+                "buyout": 0
+            },
+            "4392": {
+                "slug": "clothing_dirndl",
+                "name": "Traje Feudal",
+                "description": "clothing_dirndl desc",
+                "buyout": 0
+            },
             "4385": {
                 "slug": "clothing_ukrainesupport",
                 "name": "Camiseta Apoio \u00e0 Ucr\u00e2nia",
@@ -2535,6 +2547,12 @@
             "210": null
         },
         "lg": {
+            "4934": {
+                "slug": "clothing_dirndl",
+                "name": "Traje Feudal",
+                "description": "clothing_dirndl desc",
+                "buyout": 0
+            },
             "4375": {
                 "slug": "clothing_modernhanbokskirt",
                 "name": "Modern Hanbok Skirt",
@@ -4563,6 +4581,24 @@
                 "description": "clothing_mvhqcollab desc",
                 "buyout": 0
             },
+            "4946": {
+                "slug": "clothing_r22_villainhornsa",
+                "name": "Chifres Vilanescos",
+                "description": "clothing_r22_villainhornsa desc",
+                "buyout": 0
+            },
+            "4945": {
+                "slug": "clothing_ultrafantasyheadpiece",
+                "name": "Coroa Fant\u00e1stica de Ouro",
+                "description": "clothing_ultrafantasyheadpiece desc",
+                "buyout": 0
+            },
+            "4944": {
+                "slug": "clothing_fantasyheadpiece",
+                "name": "Tiara Fant\u00e1stica Dourada",
+                "description": "clothing_fantasyheadpiece desc",
+                "buyout": 0
+            },
             "4382": {
                 "slug": "clothing_headband_tinkywinky",
                 "name": "Tiara Tinky Winky",
@@ -5700,10 +5736,46 @@
                 "description": "clothing_ttslingbagtw desc",
                 "buyout": 0
             },
+            "4939": {
+                "slug": "clothing_ultrafantasystaff",
+                "name": "Cetro Fantasia Poderosa",
+                "description": "clothing_ultrafantasystaff desc",
+                "buyout": 0
+            },
+            "4938": {
+                "slug": "clothing_fantasystaff",
+                "name": "Cetro Fantasia",
+                "description": "clothing_fantasystaff desc",
+                "buyout": 0
+            },
+            "4937": {
+                "slug": "clothing_ultrafantasysword",
+                "name": "Espada Fant\u00e1stica do Poder",
+                "description": "clothing_ultrafantasysword desc",
+                "buyout": 0
+            },
+            "4936": {
+                "slug": "clothing_fantasysword",
+                "name": "Espada Fant\u00e1stica",
+                "description": "clothing_fantasysword desc",
+                "buyout": 0
+            },
             "4542": {
                 "slug": "clothing_r22_beetle",
                 "name": "Mochila Escaravelho",
                 "description": "clothing_r22_beetle desc",
+                "buyout": 0
+            },
+            "4391": {
+                "slug": "clothing_ultrafantasynecklace",
+                "name": "Amuleto Fantasia Encantado",
+                "description": "clothing_ultrafantasynecklace desc",
+                "buyout": 0
+            },
+            "4390": {
+                "slug": "clothing_fantasynecklace",
+                "name": "Amuleto Fantasia",
+                "description": "clothing_fantasynecklace desc",
                 "buyout": 0
             },
             "4389": {
@@ -6219,6 +6291,30 @@
             },
             "4953": null,
             "4952": null,
+            "4947": {
+                "slug": "clothing_r22_princearmour",
+                "name": "Armadura Guarda Real",
+                "description": "clothing_r22_princearmour desc",
+                "buyout": 0
+            },
+            "4943": {
+                "slug": "clothing_ultrafantasycape",
+                "name": "Capa Fant\u00e1stica Adornada",
+                "description": "clothing_ultrafantasycape desc",
+                "buyout": 0
+            },
+            "4942": {
+                "slug": "clothing_fantasycape",
+                "name": "Capa Fant\u00e1stica",
+                "description": "clothing_fantasycape desc",
+                "buyout": 0
+            },
+            "4940": {
+                "slug": "clothing_fantasyvillager",
+                "name": "T\u00fanica do Vilarejo",
+                "description": "clothing_fantasyvillager desc",
+                "buyout": 0
+            },
             "4387": {
                 "slug": "clothing_r22_galaxycape",
                 "name": "Raro Capa Magia das Gal\u00e1xias",

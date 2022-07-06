@@ -1008,6 +1008,18 @@
             },
             "4951": null,
             "4950": null,
+            "4393": {
+                "slug": "clothing_dirndl",
+                "name": "clothing_dirndl name",
+                "description": "clothing_dirndl desc",
+                "buyout": 0
+            },
+            "4392": {
+                "slug": "clothing_dirndl",
+                "name": "clothing_dirndl name",
+                "description": "clothing_dirndl desc",
+                "buyout": 0
+            },
             "4385": {
                 "slug": "clothing_ukrainesupport",
                 "name": "Ukrayna ile Birlikte Ti\u015f\u00f6rt\u00fc",
@@ -2535,6 +2547,12 @@
             "210": null
         },
         "lg": {
+            "4934": {
+                "slug": "clothing_dirndl",
+                "name": "clothing_dirndl name",
+                "description": "clothing_dirndl desc",
+                "buyout": 0
+            },
             "4375": {
                 "slug": "clothing_modernhanbokskirt",
                 "name": "Modern Hanbok Etek",
@@ -4563,6 +4581,24 @@
                 "description": "clothing_mvhqcollab desc",
                 "buyout": 0
             },
+            "4946": {
+                "slug": "clothing_r22_villainhornsa",
+                "name": "clothing_r22_villainhornsa name",
+                "description": "clothing_r22_villainhornsa desc",
+                "buyout": 0
+            },
+            "4945": {
+                "slug": "clothing_ultrafantasyheadpiece",
+                "name": "clothing_ultrafantasyheadpiece name",
+                "description": "clothing_ultrafantasyheadpiece desc",
+                "buyout": 0
+            },
+            "4944": {
+                "slug": "clothing_fantasyheadpiece",
+                "name": "clothing_fantasyheadpiece name",
+                "description": "clothing_fantasyheadpiece desc",
+                "buyout": 0
+            },
             "4382": {
                 "slug": "clothing_headband_tinkywinky",
                 "name": "Tinky Winky Kafa Band\u0131",
@@ -5700,10 +5736,46 @@
                 "description": "clothing_ttslingbagtw desc",
                 "buyout": 0
             },
+            "4939": {
+                "slug": "clothing_ultrafantasystaff",
+                "name": "clothing_ultrafantasystaff name",
+                "description": "clothing_ultrafantasystaff desc",
+                "buyout": 0
+            },
+            "4938": {
+                "slug": "clothing_fantasystaff",
+                "name": "clothing_fantasystaff name",
+                "description": "clothing_fantasystaff desc",
+                "buyout": 0
+            },
+            "4937": {
+                "slug": "clothing_ultrafantasysword",
+                "name": "clothing_ultrafantasysword name",
+                "description": "clothing_ultrafantasysword desc",
+                "buyout": 0
+            },
+            "4936": {
+                "slug": "clothing_fantasysword",
+                "name": "clothing_fantasysword name",
+                "description": "clothing_fantasysword desc",
+                "buyout": 0
+            },
             "4542": {
                 "slug": "clothing_r22_beetle",
                 "name": "B\u00f6cek S\u0131rt \u00c7antas\u0131",
                 "description": "clothing_r22_beetle desc",
+                "buyout": 0
+            },
+            "4391": {
+                "slug": "clothing_ultrafantasynecklace",
+                "name": "clothing_ultrafantasynecklace name",
+                "description": "clothing_ultrafantasynecklace desc",
+                "buyout": 0
+            },
+            "4390": {
+                "slug": "clothing_fantasynecklace",
+                "name": "clothing_fantasynecklace name",
+                "description": "clothing_fantasynecklace desc",
                 "buyout": 0
             },
             "4389": {
@@ -6219,6 +6291,30 @@
             },
             "4953": null,
             "4952": null,
+            "4947": {
+                "slug": "clothing_r22_princearmour",
+                "name": "clothing_r22_princearmour name",
+                "description": "clothing_r22_princearmour desc",
+                "buyout": 0
+            },
+            "4943": {
+                "slug": "clothing_ultrafantasycape",
+                "name": "clothing_ultrafantasycape name",
+                "description": "clothing_ultrafantasycape desc",
+                "buyout": 0
+            },
+            "4942": {
+                "slug": "clothing_fantasycape",
+                "name": "clothing_fantasycape name",
+                "description": "clothing_fantasycape desc",
+                "buyout": 0
+            },
+            "4940": {
+                "slug": "clothing_fantasyvillager",
+                "name": "clothing_fantasyvillager name",
+                "description": "clothing_fantasyvillager desc",
+                "buyout": 0
+            },
             "4387": {
                 "slug": "clothing_r22_galaxycape",
                 "name": "Sihirli Galaksi Pelerini",
