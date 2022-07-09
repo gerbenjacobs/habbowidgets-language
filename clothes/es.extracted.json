@@ -3184,7 +3184,7 @@
             },
             "4955": {
                 "slug": "clothing_keroppihat",
-                "name": "clothing_keroppihat name",
+                "name": "Gorra Keroppi",
                 "description": "clothing_keroppihat desc",
                 "buyout": 0
             },
@@ -4589,13 +4589,13 @@
             },
             "4945": {
                 "slug": "clothing_ultrafantasyheadpiece",
-                "name": "clothing_ultrafantasyheadpiece name",
+                "name": "Corona de Oro Fantas\u00eda",
                 "description": "clothing_ultrafantasyheadpiece desc",
                 "buyout": 0
             },
             "4944": {
                 "slug": "clothing_fantasyheadpiece",
-                "name": "clothing_fantasyheadpiece name",
+                "name": "Banda Dorada Fantas\u00eda",
                 "description": "clothing_fantasyheadpiece desc",
                 "buyout": 0
             },
@@ -5738,25 +5738,25 @@
             },
             "4939": {
                 "slug": "clothing_ultrafantasystaff",
-                "name": "clothing_ultrafantasystaff name",
+                "name": "Bast\u00f3n Poderoso Fantas\u00eda",
                 "description": "clothing_ultrafantasystaff desc",
                 "buyout": 0
             },
             "4938": {
                 "slug": "clothing_fantasystaff",
-                "name": "clothing_fantasystaff name",
+                "name": "Bast\u00f3n Fantas\u00eda",
                 "description": "clothing_fantasystaff desc",
                 "buyout": 0
             },
             "4937": {
                 "slug": "clothing_ultrafantasysword",
-                "name": "clothing_ultrafantasysword name",
+                "name": "Espada Irrompible Fantas\u00eda",
                 "description": "clothing_ultrafantasysword desc",
                 "buyout": 0
             },
             "4936": {
                 "slug": "clothing_fantasysword",
-                "name": "clothing_fantasysword name",
+                "name": "Espada Fantas\u00eda",
                 "description": "clothing_fantasysword desc",
                 "buyout": 0
             },
@@ -5768,13 +5768,13 @@
             },
             "4391": {
                 "slug": "clothing_ultrafantasynecklace",
-                "name": "clothing_ultrafantasynecklace name",
+                "name": "Amuleto Encantado Fantas\u00eda",
                 "description": "clothing_ultrafantasynecklace desc",
                 "buyout": 0
             },
             "4390": {
                 "slug": "clothing_fantasynecklace",
-                "name": "clothing_fantasynecklace name",
+                "name": "Amuleto Fantas\u00eda",
                 "description": "clothing_fantasynecklace desc",
                 "buyout": 0
             },
@@ -6285,7 +6285,7 @@
             },
             "4954": {
                 "slug": "clothing_keroppiapron",
-                "name": "clothing_keroppiapron name",
+                "name": "Delantal Keroppi",
                 "description": "clothing_keroppiapron desc",
                 "buyout": 0
             },
@@ -6299,13 +6299,13 @@
             },
             "4943": {
                 "slug": "clothing_ultrafantasycape",
-                "name": "clothing_ultrafantasycape name",
+                "name": "Capa Adornada Fantas\u00eda",
                 "description": "clothing_ultrafantasycape desc",
                 "buyout": 0
             },
             "4942": {
                 "slug": "clothing_fantasycape",
-                "name": "clothing_fantasycape name",
+                "name": "Capa Fantas\u00eda",
                 "description": "clothing_fantasycape desc",
                 "buyout": 0
             },

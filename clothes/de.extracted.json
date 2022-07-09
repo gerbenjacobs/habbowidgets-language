@@ -1010,13 +1010,13 @@
             "4950": null,
             "4393": {
                 "slug": "clothing_dirndl",
-                "name": "clothing_dirndl name",
+                "name": "Landvolk-Dirndl",
                 "description": "clothing_dirndl desc",
                 "buyout": 0
             },
             "4392": {
                 "slug": "clothing_dirndl",
-                "name": "clothing_dirndl name",
+                "name": "Landvolk-Dirndl",
                 "description": "clothing_dirndl desc",
                 "buyout": 0
             },
@@ -2549,7 +2549,7 @@
         "lg": {
             "4934": {
                 "slug": "clothing_dirndl",
-                "name": "clothing_dirndl name",
+                "name": "Landvolk-Dirndl",
                 "description": "clothing_dirndl desc",
                 "buyout": 0
             },
@@ -4583,19 +4583,19 @@
             },
             "4946": {
                 "slug": "clothing_r22_villainhornsa",
-                "name": "clothing_r22_villainhornsa name",
+                "name": "Schurkenh\u00f6rner",
                 "description": "clothing_r22_villainhornsa desc",
                 "buyout": 0
             },
             "4945": {
                 "slug": "clothing_ultrafantasyheadpiece",
-                "name": "clothing_ultrafantasyheadpiece name",
+                "name": "Fantasy-Goldkrone",
                 "description": "clothing_ultrafantasyheadpiece desc",
                 "buyout": 0
             },
             "4944": {
                 "slug": "clothing_fantasyheadpiece",
-                "name": "clothing_fantasyheadpiece name",
+                "name": "Fantasy Goldstirnband",
                 "description": "clothing_fantasyheadpiece desc",
                 "buyout": 0
             },
@@ -5738,25 +5738,25 @@
             },
             "4939": {
                 "slug": "clothing_ultrafantasystaff",
-                "name": "clothing_ultrafantasystaff name",
+                "name": "M\u00e4chtiger Fantasy-Stab",
                 "description": "clothing_ultrafantasystaff desc",
                 "buyout": 0
             },
             "4938": {
                 "slug": "clothing_fantasystaff",
-                "name": "clothing_fantasystaff name",
+                "name": "Fantasy-Stab",
                 "description": "clothing_fantasystaff desc",
                 "buyout": 0
             },
             "4937": {
                 "slug": "clothing_ultrafantasysword",
-                "name": "clothing_ultrafantasysword name",
+                "name": "Unzerst\u00f6rbares Fantasy-Schwert",
                 "description": "clothing_ultrafantasysword desc",
                 "buyout": 0
             },
             "4936": {
                 "slug": "clothing_fantasysword",
-                "name": "clothing_fantasysword name",
+                "name": "Fantasy-Schwert",
                 "description": "clothing_fantasysword desc",
                 "buyout": 0
             },
@@ -5768,13 +5768,13 @@
             },
             "4391": {
                 "slug": "clothing_ultrafantasynecklace",
-                "name": "clothing_ultrafantasynecklace name",
+                "name": "Verzaubertes Fantasy-Amulett",
                 "description": "clothing_ultrafantasynecklace desc",
                 "buyout": 0
             },
             "4390": {
                 "slug": "clothing_fantasynecklace",
-                "name": "clothing_fantasynecklace name",
+                "name": "Fantasy-Amulett",
                 "description": "clothing_fantasynecklace desc",
                 "buyout": 0
             },
@@ -6293,25 +6293,25 @@
             "4952": null,
             "4947": {
                 "slug": "clothing_r22_princearmour",
-                "name": "clothing_r22_princearmour name",
+                "name": "K\u00f6nigliche R\u00fcstung",
                 "description": "clothing_r22_princearmour desc",
                 "buyout": 0
             },
             "4943": {
                 "slug": "clothing_ultrafantasycape",
-                "name": "clothing_ultrafantasycape name",
+                "name": "Verzierter Fantasy-Umhang",
                 "description": "clothing_ultrafantasycape desc",
                 "buyout": 0
             },
             "4942": {
                 "slug": "clothing_fantasycape",
-                "name": "clothing_fantasycape name",
+                "name": "Fantasy-Umhang",
                 "description": "clothing_fantasycape desc",
                 "buyout": 0
             },
             "4940": {
                 "slug": "clothing_fantasyvillager",
-                "name": "clothing_fantasyvillager name",
+                "name": "Dorfbewohner-Tunika",
                 "description": "clothing_fantasyvillager desc",
                 "buyout": 0
             },
