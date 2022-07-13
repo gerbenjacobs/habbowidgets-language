@@ -772,7 +772,7 @@
         "hd": {
             "4383": {
                 "slug": "clothing_idolmakeup",
-                "name": "Idol Makeup Look",
+                "name": "Makeup Idolo Pop",
                 "description": "clothing_idolmakeup desc",
                 "buyout": 1
             },
@@ -1006,8 +1006,18 @@
                 "description": "clothing_ttlongshirt desc",
                 "buyout": 0
             },
-            "4951": null,
-            "4950": null,
+            "4951": {
+                "slug": "clothing_nfthabboshirt",
+                "name": "clothing_nfthabboshirt name",
+                "description": "clothing_nfthabboshirt desc",
+                "buyout": 0
+            },
+            "4950": {
+                "slug": "clothing_nfthabboshirt",
+                "name": "clothing_nfthabboshirt name",
+                "description": "clothing_nfthabboshirt desc",
+                "buyout": 0
+            },
             "4393": {
                 "slug": "clothing_dirndl",
                 "name": "Traje Feudal",
@@ -1088,25 +1098,25 @@
             },
             "4340": {
                 "slug": "clothing_explorersoutfit",
-                "name": "Wilderness Explorer Outfit",
+                "name": "Visual Explorador da Vida Selvagem",
                 "description": "clothing_explorersoutfit desc",
                 "buyout": 1
             },
             "4339": {
                 "slug": "clothing_explorersoutfit",
-                "name": "Wilderness Explorer Outfit",
+                "name": "Visual Explorador da Vida Selvagem",
                 "description": "clothing_explorersoutfit desc",
                 "buyout": 1
             },
             "4338": {
                 "slug": "clothing_beetshirt",
-                "name": "Bee T-Shirt",
+                "name": "Camiseta Abelhinha",
                 "description": "clothing_beetshirt desc",
                 "buyout": 1
             },
             "4337": {
                 "slug": "clothing_beetshirt",
-                "name": "Bee T-Shirt",
+                "name": "Camiseta Abelhinha",
                 "description": "clothing_beetshirt desc",
                 "buyout": 1
             },
@@ -2555,7 +2565,7 @@
             },
             "4375": {
                 "slug": "clothing_modernhanbokskirt",
-                "name": "Modern Hanbok Skirt",
+                "name": "Saia Hanbok",
                 "description": "clothing_modernhanbokskirt desc",
                 "buyout": 1
             },
@@ -2579,7 +2589,7 @@
             },
             "4341": {
                 "slug": "clothing_explorersoutfit",
-                "name": "Wilderness Explorer Outfit",
+                "name": "Visual Explorador da Vida Selvagem",
                 "description": "clothing_explorersoutfit desc",
                 "buyout": 1
             },
@@ -3188,7 +3198,12 @@
                 "description": "clothing_keroppihat desc",
                 "buyout": 0
             },
-            "4949": null,
+            "4949": {
+                "slug": "clothing_nfthabbocap",
+                "name": "clothing_nfthabbocap name",
+                "description": "clothing_nfthabbocap desc",
+                "buyout": 0
+            },
             "4948": {
                 "slug": "clothing_goldknitalien",
                 "name": "Capacete Android Dourado",
@@ -6289,8 +6304,18 @@
                 "description": "clothing_keroppiapron desc",
                 "buyout": 0
             },
-            "4953": null,
-            "4952": null,
+            "4953": {
+                "slug": "clothing_nfthabbohoodie",
+                "name": "clothing_nfthabbohoodie name",
+                "description": "clothing_nfthabbohoodie desc",
+                "buyout": 0
+            },
+            "4952": {
+                "slug": "clothing_nfthabbohoodie",
+                "name": "clothing_nfthabbohoodie name",
+                "description": "clothing_nfthabbohoodie desc",
+                "buyout": 0
+            },
             "4947": {
                 "slug": "clothing_r22_princearmour",
                 "name": "Armadura Guarda Real",

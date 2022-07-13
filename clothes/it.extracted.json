@@ -1006,8 +1006,18 @@
                 "description": "clothing_ttlongshirt desc",
                 "buyout": 0
             },
-            "4951": null,
-            "4950": null,
+            "4951": {
+                "slug": "clothing_nfthabboshirt",
+                "name": "clothing_nfthabboshirt name",
+                "description": "clothing_nfthabboshirt desc",
+                "buyout": 0
+            },
+            "4950": {
+                "slug": "clothing_nfthabboshirt",
+                "name": "clothing_nfthabboshirt name",
+                "description": "clothing_nfthabboshirt desc",
+                "buyout": 0
+            },
             "4393": {
                 "slug": "clothing_dirndl",
                 "name": "Dirndl Tradizionale",
@@ -3188,7 +3198,12 @@
                 "description": "clothing_keroppihat desc",
                 "buyout": 0
             },
-            "4949": null,
+            "4949": {
+                "slug": "clothing_nfthabbocap",
+                "name": "clothing_nfthabbocap name",
+                "description": "clothing_nfthabbocap desc",
+                "buyout": 0
+            },
             "4948": {
                 "slug": "clothing_goldknitalien",
                 "name": "Cappello Alieni d'Oro",
@@ -4589,13 +4604,13 @@
             },
             "4945": {
                 "slug": "clothing_ultrafantasyheadpiece",
-                "name": "clothing_ultrafantasyheadpiece name",
+                "name": "Corona d'Oro Fantasy",
                 "description": "clothing_ultrafantasyheadpiece desc",
                 "buyout": 0
             },
             "4944": {
                 "slug": "clothing_fantasyheadpiece",
-                "name": "clothing_fantasyheadpiece name",
+                "name": "Tiara d'Oro Fantasy",
                 "description": "clothing_fantasyheadpiece desc",
                 "buyout": 0
             },
@@ -5738,25 +5753,25 @@
             },
             "4939": {
                 "slug": "clothing_ultrafantasystaff",
-                "name": "clothing_ultrafantasystaff name",
+                "name": "Bastone Poderoso Fantasy",
                 "description": "clothing_ultrafantasystaff desc",
                 "buyout": 0
             },
             "4938": {
                 "slug": "clothing_fantasystaff",
-                "name": "clothing_fantasystaff name",
+                "name": "Bastone Fantasy",
                 "description": "clothing_fantasystaff desc",
                 "buyout": 0
             },
             "4937": {
                 "slug": "clothing_ultrafantasysword",
-                "name": "clothing_ultrafantasysword name",
+                "name": "Spada Indistruttibile Fantasy",
                 "description": "clothing_ultrafantasysword desc",
                 "buyout": 0
             },
             "4936": {
                 "slug": "clothing_fantasysword",
-                "name": "clothing_fantasysword name",
+                "name": "Spada Fantasy",
                 "description": "clothing_fantasysword desc",
                 "buyout": 0
             },
@@ -5768,13 +5783,13 @@
             },
             "4391": {
                 "slug": "clothing_ultrafantasynecklace",
-                "name": "clothing_ultrafantasynecklace name",
+                "name": "Amuleto Incantato Fantasy",
                 "description": "clothing_ultrafantasynecklace desc",
                 "buyout": 0
             },
             "4390": {
                 "slug": "clothing_fantasynecklace",
-                "name": "clothing_fantasynecklace name",
+                "name": "Amuleto Fantasy",
                 "description": "clothing_fantasynecklace desc",
                 "buyout": 0
             },
@@ -6289,8 +6304,18 @@
                 "description": "clothing_keroppiapron desc",
                 "buyout": 0
             },
-            "4953": null,
-            "4952": null,
+            "4953": {
+                "slug": "clothing_nfthabbohoodie",
+                "name": "clothing_nfthabbohoodie name",
+                "description": "clothing_nfthabbohoodie desc",
+                "buyout": 0
+            },
+            "4952": {
+                "slug": "clothing_nfthabbohoodie",
+                "name": "clothing_nfthabbohoodie name",
+                "description": "clothing_nfthabbohoodie desc",
+                "buyout": 0
+            },
             "4947": {
                 "slug": "clothing_r22_princearmour",
                 "name": "Armatura Reale",
@@ -6299,13 +6324,13 @@
             },
             "4943": {
                 "slug": "clothing_ultrafantasycape",
-                "name": "clothing_ultrafantasycape name",
+                "name": "Mantello Decorato Fantasy",
                 "description": "clothing_ultrafantasycape desc",
                 "buyout": 0
             },
             "4942": {
                 "slug": "clothing_fantasycape",
-                "name": "clothing_fantasycape name",
+                "name": "Mantello Fantasy",
                 "description": "clothing_fantasycape desc",
                 "buyout": 0
             },
