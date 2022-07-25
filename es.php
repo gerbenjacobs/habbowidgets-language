@@ -8,7 +8,7 @@ return [
     "All badges" => "Todas las placas",
     "Badge top x" => "Top %d de placas", // %d will be replaced by the number
     "Achievements top x" => "Top %d de puntos de actividad",
-    "Unique badge top x" => "Unique badge top %d", // 'Unique' is chosen as they're not technically 'rares'.
+    "Unique badge top x" => "Top %d de placas únicas", // 'Unique' is chosen as they're not technically 'rares'.
     "Star Gems top x" => "Top %d Star Gems",
     "Badge owners" => "Dueños de placas",
     "News" => "Noticias",
@@ -75,7 +75,7 @@ return [
     "Previous mottos" => "Misiones anteriores",
     "Previous looks" => "Looks anteriores",
     "Last online" => "Última conexión",
-    "Last change" => "Ultimo cambio",
+    "Last change" => "Último cambio",
     "Go to profile" => "Ir al perfil",
     "Closed profile" => "Perfil cerrado",
     "Banned" => "Baneado",
@@ -137,7 +137,7 @@ return [
     "Achievement top x for" => "Top %d de puntos de actividad en", // "Achievement top x for :hotel:"
     "Last updated" => "Última actualización",
     "Badge top x for" => "Top %d de placas en",
-    "Unique badge top x for" => "Unique badge top %d for",
+    "Unique badge top x for" => "Top %d de placas únicas en",
     "All x badges in" => "Todas las %s placas en", // Leave the %s intact; "All :number: badges in :hotel:"
     "First discovered" => "Descubierta por primera vez",
     "Find out which Habbos own a specific badge!" => "¡Descubre qué Habbos tienen una placa específica!",
