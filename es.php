@@ -48,7 +48,7 @@ return [
     "This date lies in the future and can not be used" => "Esta fecha es del futuro y no puede ser utilizada",
 
     // Habinfo Form
-    "Find Habinfo on.." => "Buscar Habbinfo de...",
+    "Find Habinfo on.." => "Buscar Habinfo de...",
     "Find" => "Buscar", // Button on the Habinfo form
     "Tip" => "Consejo",
     "Did you know you can also use a Direct URL to get to the Habbo you want to find?" => "¿Sabías que puedes utilizar un enlace directo para encontrar el Habbo que quieras?",
