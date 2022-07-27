@@ -982,6 +982,30 @@
             "180": null
         },
         "ch": {
+            "4984": {
+                "slug": "clothing_nfttropicalcrop",
+                "name": "clothing_nfttropicalcrop name",
+                "description": "clothing_nfttropicalcrop desc",
+                "buyout": 0
+            },
+            "4983": {
+                "slug": "clothing_nfttropicalcrop",
+                "name": "clothing_nfttropicalcrop name",
+                "description": "clothing_nfttropicalcrop desc",
+                "buyout": 0
+            },
+            "4982": {
+                "slug": "clothing_nfttropical",
+                "name": "clothing_nfttropical name",
+                "description": "clothing_nfttropical desc",
+                "buyout": 0
+            },
+            "4981": {
+                "slug": "clothing_nfttropical",
+                "name": "clothing_nfttropical name",
+                "description": "clothing_nfttropical desc",
+                "buyout": 0
+            },
             "4975": {
                 "slug": "clothing_metakeycollab",
                 "name": "clothing_metakeycollab name",
@@ -996,13 +1020,13 @@
             },
             "4962": {
                 "slug": "clothing_ttlongshirt",
-                "name": "Maglietta dell'Orgoglio Teletubbies",
+                "name": "Maglietta Pride Teletubbies",
                 "description": "clothing_ttlongshirt desc",
                 "buyout": 0
             },
             "4961": {
                 "slug": "clothing_ttlongshirt",
-                "name": "Maglietta dell'Orgoglio Teletubbies",
+                "name": "Maglietta Pride Teletubbies",
                 "description": "clothing_ttlongshirt desc",
                 "buyout": 0
             },
@@ -3188,7 +3212,7 @@
             },
             "4960": {
                 "slug": "clothing_ttbuckethat",
-                "name": "Cappello a Secchiello dell'Orgoglio Teletubbies",
+                "name": "Cappello a Secchiello Pride Teletubbies",
                 "description": "clothing_ttbuckethat desc",
                 "buyout": 0
             },
@@ -5200,6 +5224,30 @@
             "1601": null
         },
         "ea": {
+            "4988": {
+                "slug": "clothing_nftpinkheartshades",
+                "name": "clothing_nftpinkheartshades name",
+                "description": "clothing_nftpinkheartshades desc",
+                "buyout": 0
+            },
+            "4987": {
+                "slug": "clothing_nftpinkstarshades",
+                "name": "clothing_nftpinkstarshades name",
+                "description": "clothing_nftpinkstarshades desc",
+                "buyout": 0
+            },
+            "4986": {
+                "slug": "clothing_nftblueheartshades",
+                "name": "clothing_nftblueheartshades name",
+                "description": "clothing_nftblueheartshades desc",
+                "buyout": 0
+            },
+            "4985": {
+                "slug": "clothing_nftbluestarshades",
+                "name": "clothing_nftbluestarshades name",
+                "description": "clothing_nftbluestarshades desc",
+                "buyout": 0
+            },
             "4968": {
                 "slug": "clothing_mvhqcollab",
                 "name": "clothing_mvhqcollab name",

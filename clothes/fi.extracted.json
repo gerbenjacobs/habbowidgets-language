@@ -982,6 +982,30 @@
             "180": null
         },
         "ch": {
+            "4984": {
+                "slug": "clothing_nfttropicalcrop",
+                "name": "clothing_nfttropicalcrop name",
+                "description": "clothing_nfttropicalcrop desc",
+                "buyout": 0
+            },
+            "4983": {
+                "slug": "clothing_nfttropicalcrop",
+                "name": "clothing_nfttropicalcrop name",
+                "description": "clothing_nfttropicalcrop desc",
+                "buyout": 0
+            },
+            "4982": {
+                "slug": "clothing_nfttropical",
+                "name": "clothing_nfttropical name",
+                "description": "clothing_nfttropical desc",
+                "buyout": 0
+            },
+            "4981": {
+                "slug": "clothing_nfttropical",
+                "name": "clothing_nfttropical name",
+                "description": "clothing_nfttropical desc",
+                "buyout": 0
+            },
             "4975": {
                 "slug": "clothing_metakeycollab",
                 "name": "clothing_metakeycollab name",
@@ -4604,13 +4628,13 @@
             },
             "4945": {
                 "slug": "clothing_ultrafantasyheadpiece",
-                "name": "clothing_ultrafantasyheadpiece name",
+                "name": "Kultainen fantasiakruunu",
                 "description": "clothing_ultrafantasyheadpiece desc",
                 "buyout": 0
             },
             "4944": {
                 "slug": "clothing_fantasyheadpiece",
-                "name": "clothing_fantasyheadpiece name",
+                "name": "Kultainen fantasiatiara",
                 "description": "clothing_fantasyheadpiece desc",
                 "buyout": 0
             },
@@ -5200,6 +5224,30 @@
             "1601": null
         },
         "ea": {
+            "4988": {
+                "slug": "clothing_nftpinkheartshades",
+                "name": "clothing_nftpinkheartshades name",
+                "description": "clothing_nftpinkheartshades desc",
+                "buyout": 0
+            },
+            "4987": {
+                "slug": "clothing_nftpinkstarshades",
+                "name": "clothing_nftpinkstarshades name",
+                "description": "clothing_nftpinkstarshades desc",
+                "buyout": 0
+            },
+            "4986": {
+                "slug": "clothing_nftblueheartshades",
+                "name": "clothing_nftblueheartshades name",
+                "description": "clothing_nftblueheartshades desc",
+                "buyout": 0
+            },
+            "4985": {
+                "slug": "clothing_nftbluestarshades",
+                "name": "clothing_nftbluestarshades name",
+                "description": "clothing_nftbluestarshades desc",
+                "buyout": 0
+            },
             "4968": {
                 "slug": "clothing_mvhqcollab",
                 "name": "clothing_mvhqcollab name",
@@ -5753,25 +5801,25 @@
             },
             "4939": {
                 "slug": "clothing_ultrafantasystaff",
-                "name": "clothing_ultrafantasystaff name",
+                "name": "Koristeltu fantasiasauva",
                 "description": "clothing_ultrafantasystaff desc",
                 "buyout": 0
             },
             "4938": {
                 "slug": "clothing_fantasystaff",
-                "name": "clothing_fantasystaff name",
+                "name": "Fantasiasauva",
                 "description": "clothing_fantasystaff desc",
                 "buyout": 0
             },
             "4937": {
                 "slug": "clothing_ultrafantasysword",
-                "name": "clothing_ultrafantasysword name",
+                "name": "Koristeltu fantasiamiekka",
                 "description": "clothing_ultrafantasysword desc",
                 "buyout": 0
             },
             "4936": {
                 "slug": "clothing_fantasysword",
-                "name": "clothing_fantasysword name",
+                "name": "Fantasiamiekka",
                 "description": "clothing_fantasysword desc",
                 "buyout": 0
             },
@@ -5783,13 +5831,13 @@
             },
             "4391": {
                 "slug": "clothing_ultrafantasynecklace",
-                "name": "clothing_ultrafantasynecklace name",
+                "name": "Lumottu fantasia-amuletti",
                 "description": "clothing_ultrafantasynecklace desc",
                 "buyout": 0
             },
             "4390": {
                 "slug": "clothing_fantasynecklace",
-                "name": "clothing_fantasynecklace name",
+                "name": "Fantasia-amuletti",
                 "description": "clothing_fantasynecklace desc",
                 "buyout": 0
             },
@@ -6324,13 +6372,13 @@
             },
             "4943": {
                 "slug": "clothing_ultrafantasycape",
-                "name": "clothing_ultrafantasycape name",
+                "name": "Koristeltu fantasiaviitta",
                 "description": "clothing_ultrafantasycape desc",
                 "buyout": 0
             },
             "4942": {
                 "slug": "clothing_fantasycape",
-                "name": "clothing_fantasycape name",
+                "name": "Fantasiaviitta",
                 "description": "clothing_fantasycape desc",
                 "buyout": 0
             },
