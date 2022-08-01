@@ -1046,13 +1046,13 @@
                 "slug": "clothing_dirndl",
                 "name": "Dirndl Tradizionale",
                 "description": "clothing_dirndl desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4392": {
                 "slug": "clothing_dirndl",
                 "name": "Dirndl Tradizionale",
                 "description": "clothing_dirndl desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4385": {
                 "slug": "clothing_ukrainesupport",
@@ -2585,7 +2585,7 @@
                 "slug": "clothing_dirndl",
                 "name": "Dirndl Tradizionale",
                 "description": "clothing_dirndl desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4375": {
                 "slug": "clothing_modernhanbokskirt",
@@ -6386,7 +6386,7 @@
                 "slug": "clothing_fantasyvillager",
                 "name": "Tunica Abitante del Villaggio",
                 "description": "clothing_fantasyvillager desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4387": {
                 "slug": "clothing_r22_galaxycape",

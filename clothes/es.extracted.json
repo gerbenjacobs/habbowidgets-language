@@ -1044,15 +1044,15 @@
             },
             "4393": {
                 "slug": "clothing_dirndl",
-                "name": "clothing_dirndl name",
+                "name": "Dirndl Popular",
                 "description": "clothing_dirndl desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4392": {
                 "slug": "clothing_dirndl",
-                "name": "clothing_dirndl name",
+                "name": "Dirndl Popular",
                 "description": "clothing_dirndl desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4385": {
                 "slug": "clothing_ukrainesupport",
@@ -2583,9 +2583,9 @@
         "lg": {
             "4934": {
                 "slug": "clothing_dirndl",
-                "name": "clothing_dirndl name",
+                "name": "Dirndl Popular",
                 "description": "clothing_dirndl desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4375": {
                 "slug": "clothing_modernhanbokskirt",
@@ -4622,7 +4622,7 @@
             },
             "4946": {
                 "slug": "clothing_r22_villainhornsa",
-                "name": "clothing_r22_villainhornsa name",
+                "name": "Cuernos de Villan@",
                 "description": "clothing_r22_villainhornsa desc",
                 "buyout": 0
             },
@@ -6366,7 +6366,7 @@
             },
             "4947": {
                 "slug": "clothing_r22_princearmour",
-                "name": "clothing_r22_princearmour name",
+                "name": "Armadura Real",
                 "description": "clothing_r22_princearmour desc",
                 "buyout": 0
             },
@@ -6384,9 +6384,9 @@
             },
             "4940": {
                 "slug": "clothing_fantasyvillager",
-                "name": "clothing_fantasyvillager name",
+                "name": "T\u00fanica de Aldean@",
                 "description": "clothing_fantasyvillager desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4387": {
                 "slug": "clothing_r22_galaxycape",
