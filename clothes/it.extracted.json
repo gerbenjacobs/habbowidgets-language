@@ -984,25 +984,25 @@
         "ch": {
             "4984": {
                 "slug": "clothing_nfttropicalcrop",
-                "name": "clothing_nfttropicalcrop name",
+                "name": "Crop Top Tropicale",
                 "description": "clothing_nfttropicalcrop desc",
                 "buyout": 0
             },
             "4983": {
                 "slug": "clothing_nfttropicalcrop",
-                "name": "clothing_nfttropicalcrop name",
+                "name": "Crop Top Tropicale",
                 "description": "clothing_nfttropicalcrop desc",
                 "buyout": 0
             },
             "4982": {
                 "slug": "clothing_nfttropical",
-                "name": "clothing_nfttropical name",
+                "name": "T-Shirt Tropicale",
                 "description": "clothing_nfttropical desc",
                 "buyout": 0
             },
             "4981": {
                 "slug": "clothing_nfttropical",
-                "name": "clothing_nfttropical name",
+                "name": "T-Shirt Tropicale",
                 "description": "clothing_nfttropical desc",
                 "buyout": 0
             },
@@ -5226,25 +5226,25 @@
         "ea": {
             "4988": {
                 "slug": "clothing_nftpinkheartshades",
-                "name": "clothing_nftpinkheartshades name",
+                "name": "Occhiali da sole Cuore Rosa",
                 "description": "clothing_nftpinkheartshades desc",
                 "buyout": 0
             },
             "4987": {
                 "slug": "clothing_nftpinkstarshades",
-                "name": "clothing_nftpinkstarshades name",
+                "name": "Occhiali da sole Stella Rosa",
                 "description": "clothing_nftpinkstarshades desc",
                 "buyout": 0
             },
             "4986": {
                 "slug": "clothing_nftblueheartshades",
-                "name": "clothing_nftblueheartshades name",
+                "name": "Occhiali da sole Cuore Blu",
                 "description": "clothing_nftblueheartshades desc",
                 "buyout": 0
             },
             "4985": {
                 "slug": "clothing_nftbluestarshades",
-                "name": "clothing_nftbluestarshades name",
+                "name": "Occhiali da sole Stella Blu",
                 "description": "clothing_nftbluestarshades desc",
                 "buyout": 0
             },

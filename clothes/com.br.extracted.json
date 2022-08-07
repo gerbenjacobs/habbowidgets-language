@@ -984,25 +984,25 @@
         "ch": {
             "4984": {
                 "slug": "clothing_nfttropicalcrop",
-                "name": "clothing_nfttropicalcrop name",
+                "name": "Crop Top Tropical",
                 "description": "clothing_nfttropicalcrop desc",
                 "buyout": 0
             },
             "4983": {
                 "slug": "clothing_nfttropicalcrop",
-                "name": "clothing_nfttropicalcrop name",
+                "name": "Crop Top Tropical",
                 "description": "clothing_nfttropicalcrop desc",
                 "buyout": 0
             },
             "4982": {
                 "slug": "clothing_nfttropical",
-                "name": "clothing_nfttropical name",
+                "name": "Regata Tropical",
                 "description": "clothing_nfttropical desc",
                 "buyout": 0
             },
             "4981": {
                 "slug": "clothing_nfttropical",
-                "name": "clothing_nfttropical name",
+                "name": "Regata Tropical",
                 "description": "clothing_nfttropical desc",
                 "buyout": 0
             },
@@ -5226,25 +5226,25 @@
         "ea": {
             "4988": {
                 "slug": "clothing_nftpinkheartshades",
-                "name": "clothing_nftpinkheartshades name",
+                "name": "\u00d3culos Cora\u00e7\u00e3o Rosa",
                 "description": "clothing_nftpinkheartshades desc",
                 "buyout": 0
             },
             "4987": {
                 "slug": "clothing_nftpinkstarshades",
-                "name": "clothing_nftpinkstarshades name",
+                "name": "\u00d3culos Estrela Rosa",
                 "description": "clothing_nftpinkstarshades desc",
                 "buyout": 0
             },
             "4986": {
                 "slug": "clothing_nftblueheartshades",
-                "name": "clothing_nftblueheartshades name",
+                "name": "\u00d3culos Cora\u00e7\u00e3o Azul",
                 "description": "clothing_nftblueheartshades desc",
                 "buyout": 0
             },
             "4985": {
                 "slug": "clothing_nftbluestarshades",
-                "name": "clothing_nftbluestarshades name",
+                "name": "\u00d3culos Estrela Azul",
                 "description": "clothing_nftbluestarshades desc",
                 "buyout": 0
             },
