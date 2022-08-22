@@ -17,6 +17,12 @@
     "clothing": {
         "hr": {
             "9534": null,
+            "4996": {
+                "slug": "clothing_r22_rosehair",
+                "name": "Tanssiaisten ruusukampaus",
+                "description": "clothing_r22_rosehair desc",
+                "buyout": 0
+            },
             "4941": {
                 "slug": "clothing_r22_spikedshorthair",
                 "name": "Spiked Hair",
@@ -982,6 +988,18 @@
             "180": null
         },
         "ch": {
+            "4995": {
+                "slug": "clothing_schoolblazer",
+                "name": "Koulupuku",
+                "description": "clothing_schoolblazer desc",
+                "buyout": 0
+            },
+            "4994": {
+                "slug": "clothing_schoolblazer",
+                "name": "Koulupuku",
+                "description": "clothing_schoolblazer desc",
+                "buyout": 0
+            },
             "4984": {
                 "slug": "clothing_nfttropicalcrop",
                 "name": "Tropiikki crop top",
@@ -1032,13 +1050,13 @@
             },
             "4951": {
                 "slug": "clothing_nfthabboshirt",
-                "name": "clothing_nfthabboshirt name",
+                "name": "Habbo T-Shirt 2022",
                 "description": "clothing_nfthabboshirt desc",
                 "buyout": 0
             },
             "4950": {
                 "slug": "clothing_nfthabboshirt",
-                "name": "clothing_nfthabboshirt name",
+                "name": "Habbo T-Shirt 2022",
                 "description": "clothing_nfthabboshirt desc",
                 "buyout": 0
             },
@@ -3194,7 +3212,7 @@
         "ha": {
             "4972": {
                 "slug": "clothing_nfttophat",
-                "name": "clothing_nfttophat name",
+                "name": "Psykedeelinen silinteri",
                 "description": "clothing_nfttophat desc",
                 "buyout": 0
             },
@@ -3224,7 +3242,7 @@
             },
             "4949": {
                 "slug": "clothing_nfthabbocap",
-                "name": "clothing_nfthabbocap name",
+                "name": "Habbo Cap 2022",
                 "description": "clothing_nfthabbocap desc",
                 "buyout": 0
             },
@@ -6334,6 +6352,18 @@
         "cc": {
             "9865": null,
             "9563": null,
+            "4998": {
+                "slug": "clothing_r22_tuxedocape",
+                "name": "Tanssiaisten smokkiviitta",
+                "description": "clothing_r22_tuxedocape desc",
+                "buyout": 0
+            },
+            "4997": {
+                "slug": "clothing_r22_tuxedocape",
+                "name": "Tanssiaisten smokkiviitta",
+                "description": "clothing_r22_tuxedocape desc",
+                "buyout": 0
+            },
             "4967": {
                 "slug": "clothing_mvhqcollab",
                 "name": "clothing_mvhqcollab name",
@@ -6354,13 +6384,13 @@
             },
             "4953": {
                 "slug": "clothing_nfthabbohoodie",
-                "name": "clothing_nfthabbohoodie name",
+                "name": "Habbo Hoodie 2022",
                 "description": "clothing_nfthabbohoodie desc",
                 "buyout": 0
             },
             "4952": {
                 "slug": "clothing_nfthabbohoodie",
-                "name": "clothing_nfthabbohoodie name",
+                "name": "Habbo Hoodie 2022",
                 "description": "clothing_nfthabbohoodie desc",
                 "buyout": 0
             },
