@@ -1062,13 +1062,13 @@
             },
             "4393": {
                 "slug": "clothing_dirndl",
-                "name": "clothing_dirndl name",
+                "name": "Dirndl Elbisesi",
                 "description": "clothing_dirndl desc",
                 "buyout": 1
             },
             "4392": {
                 "slug": "clothing_dirndl",
-                "name": "clothing_dirndl name",
+                "name": "Dirndl Elbisesi",
                 "description": "clothing_dirndl desc",
                 "buyout": 1
             },
@@ -2601,7 +2601,7 @@
         "lg": {
             "4934": {
                 "slug": "clothing_dirndl",
-                "name": "clothing_dirndl name",
+                "name": "Dirndl Elbisesi",
                 "description": "clothing_dirndl desc",
                 "buyout": 1
             },
@@ -3248,7 +3248,7 @@
             },
             "4948": {
                 "slug": "clothing_goldknitalien",
-                "name": "Gold Alien Hat",
+                "name": "Alt\u0131n Uzayl\u0131 \u015eapkas\u0131",
                 "description": "clothing_goldknitalien desc",
                 "buyout": 0
             },
@@ -4640,7 +4640,7 @@
             },
             "4946": {
                 "slug": "clothing_r22_villainhornsa",
-                "name": "clothing_r22_villainhornsa name",
+                "name": "K\u00f6t\u00fc Adam Boynuzlar\u0131",
                 "description": "clothing_r22_villainhornsa desc",
                 "buyout": 0
             },
@@ -6414,7 +6414,7 @@
             },
             "4940": {
                 "slug": "clothing_fantasyvillager",
-                "name": "clothing_fantasyvillager name",
+                "name": "K\u00f6yl\u00fc Tuni\u011fi",
                 "description": "clothing_fantasyvillager desc",
                 "buyout": 1
             },
