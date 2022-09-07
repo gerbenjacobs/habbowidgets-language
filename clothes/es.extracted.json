@@ -1000,6 +1000,12 @@
                 "description": "clothing_schoolblazer desc",
                 "buyout": 0
             },
+            "4989": {
+                "slug": "clothing_nt_gothicdress",
+                "name": "Vestido Victoriano G\u00f3tico (No tradeable)",
+                "description": "clothing_nt_gothicdress desc",
+                "buyout": 0
+            },
             "4984": {
                 "slug": "clothing_nfttropicalcrop",
                 "name": "Crop Tropical",
@@ -1022,6 +1028,12 @@
                 "slug": "clothing_nfttropical",
                 "name": "Camiseta Tropical",
                 "description": "clothing_nfttropical desc",
+                "buyout": 0
+            },
+            "4976": {
+                "slug": "clothing_r22_wingheadpiece",
+                "name": "Tocado Alado",
+                "description": "clothing_r22_wingheadpiece desc",
                 "buyout": 0
             },
             "4975": {
@@ -3210,6 +3222,12 @@
             "290": null
         },
         "ha": {
+            "4980": {
+                "slug": "clothing_gothichat",
+                "name": "Sombrero con Rosa G\u00f3tico",
+                "description": "clothing_gothichat desc",
+                "buyout": 0
+            },
             "4972": {
                 "slug": "clothing_nfttophat",
                 "name": "Sombrero de Copa Fiesta",
@@ -4626,6 +4644,13 @@
             "1001": null
         },
         "he": {
+            "4990": null,
+            "4977": {
+                "slug": "clothing_gothicflowerhorns",
+                "name": "Cuernos con Rosas G\u00f3ticos",
+                "description": "clothing_gothicflowerhorns desc",
+                "buyout": 0
+            },
             "4971": {
                 "slug": "clothing_cyberkongzcollab",
                 "name": "clothing_cyberkongzcollab name",
@@ -6362,6 +6387,18 @@
                 "slug": "clothing_r22_tuxedocape",
                 "name": "Esmoqu\u00edn Reencuentro",
                 "description": "clothing_r22_tuxedocape desc",
+                "buyout": 0
+            },
+            "4979": {
+                "slug": "clothing_r22_darkangelwings",
+                "name": "Alas Corruptas",
+                "description": "clothing_r22_darkangelwings desc",
+                "buyout": 0
+            },
+            "4978": {
+                "slug": "clothing_gothiccoat",
+                "name": "Abrigo G\u00f3tico",
+                "description": "clothing_gothiccoat desc",
                 "buyout": 0
             },
             "4967": {

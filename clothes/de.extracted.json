@@ -1000,6 +1000,12 @@
                 "description": "clothing_schoolblazer desc",
                 "buyout": 0
             },
+            "4989": {
+                "slug": "clothing_nt_gothicdress",
+                "name": "clothing_nt_gothicdress name",
+                "description": "clothing_nt_gothicdress desc",
+                "buyout": 0
+            },
             "4984": {
                 "slug": "clothing_nfttropicalcrop",
                 "name": "Tropisches bauchfreies Top",
@@ -1022,6 +1028,12 @@
                 "slug": "clothing_nfttropical",
                 "name": "Tropisches T-Shirt",
                 "description": "clothing_nfttropical desc",
+                "buyout": 0
+            },
+            "4976": {
+                "slug": "clothing_r22_wingheadpiece",
+                "name": "Fl\u00fcgelkopfschmuck",
+                "description": "clothing_r22_wingheadpiece desc",
                 "buyout": 0
             },
             "4975": {
@@ -3210,6 +3222,12 @@
             "290": null
         },
         "ha": {
+            "4980": {
+                "slug": "clothing_gothichat",
+                "name": "clothing_gothichat name",
+                "description": "clothing_gothichat desc",
+                "buyout": 0
+            },
             "4972": {
                 "slug": "clothing_nfttophat",
                 "name": "Bizarrer Zylinder",
@@ -3248,7 +3266,7 @@
             },
             "4948": {
                 "slug": "clothing_goldknitalien",
-                "name": "Goldenen Alien-Hut",
+                "name": "Goldener Alien-Hut",
                 "description": "clothing_goldknitalien desc",
                 "buyout": 0
             },
@@ -4626,6 +4644,13 @@
             "1001": null
         },
         "he": {
+            "4990": null,
+            "4977": {
+                "slug": "clothing_gothicflowerhorns",
+                "name": "clothing_gothicflowerhorns name",
+                "description": "clothing_gothicflowerhorns desc",
+                "buyout": 0
+            },
             "4971": {
                 "slug": "clothing_cyberkongzcollab",
                 "name": "clothing_cyberkongzcollab name",
@@ -6362,6 +6387,18 @@
                 "slug": "clothing_r22_tuxedocape",
                 "name": "Homecoming Smoking",
                 "description": "clothing_r22_tuxedocape desc",
+                "buyout": 0
+            },
+            "4979": {
+                "slug": "clothing_r22_darkangelwings",
+                "name": "Kaputte Fl\u00fcgel",
+                "description": "clothing_r22_darkangelwings desc",
+                "buyout": 0
+            },
+            "4978": {
+                "slug": "clothing_gothiccoat",
+                "name": "clothing_gothiccoat name",
+                "description": "clothing_gothiccoat desc",
                 "buyout": 0
             },
             "4967": {
