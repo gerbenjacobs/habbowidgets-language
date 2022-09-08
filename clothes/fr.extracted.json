@@ -992,13 +992,13 @@
                 "slug": "clothing_schoolblazer",
                 "name": "Uniforme Scolaire",
                 "description": "clothing_schoolblazer desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4994": {
                 "slug": "clothing_schoolblazer",
                 "name": "Uniforme Scolaire",
                 "description": "clothing_schoolblazer desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4989": {
                 "slug": "clothing_nt_gothicdress",
