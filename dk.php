@@ -9,7 +9,7 @@ return [
     "Badge top x" => "Skilte top %d", // %d will be replaced by the number
     "Achievements top x" => "Missioner top %d",
     "Unique badge top x" => "Unikke skilte top %d", // 'Unique' is chosen as they're not technically 'rares'.
-    "Star Gems top x" => "Star Gems top %d",
+    "Star Gems top x" => "Star Gems top %d", // Same
     "Badge owners" => "Skilte ejere",
     "News" => "Nyheder",
     "About" => "Om os",
@@ -188,5 +188,5 @@ return [
     "No clothing items found.." => "Intet tøj er blevet fundet..",
 
     // Habbo Star Gems
-    "Star Gems top x for" => "Star Gems top %d for"
+    "Star Gems top x for" => "Star Gems top %d for" // The Same
 ];
