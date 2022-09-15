@@ -992,13 +992,13 @@
                 "slug": "clothing_schoolblazer",
                 "name": "Uniforme Scolaire",
                 "description": "clothing_schoolblazer desc",
-                "buyout": 1
+                "buyout": 0
             },
             "4994": {
                 "slug": "clothing_schoolblazer",
                 "name": "Uniforme Scolaire",
                 "description": "clothing_schoolblazer desc",
-                "buyout": 1
+                "buyout": 0
             },
             "4989": {
                 "slug": "clothing_nt_gothicdress",
@@ -1032,7 +1032,7 @@
             },
             "4976": {
                 "slug": "clothing_r22_wingheadpiece",
-                "name": "clothing_r22_wingheadpiece name",
+                "name": "v\u00eatements_r22_t\u00eated'aile nom",
                 "description": "clothing_r22_wingheadpiece desc",
                 "buyout": 0
             },
@@ -6391,7 +6391,7 @@
             },
             "4979": {
                 "slug": "clothing_r22_darkangelwings",
-                "name": "clothing_r22_darkangelwings name",
+                "name": "v\u00eatements_r22_ailesd'angenoir nom",
                 "description": "clothing_r22_darkangelwings desc",
                 "buyout": 0
             },

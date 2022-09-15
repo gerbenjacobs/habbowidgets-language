@@ -992,13 +992,13 @@
                 "slug": "clothing_schoolblazer",
                 "name": "School Uniform",
                 "description": "clothing_schoolblazer desc",
-                "buyout": 1
+                "buyout": 0
             },
             "4994": {
                 "slug": "clothing_schoolblazer",
                 "name": "School Uniform",
                 "description": "clothing_schoolblazer desc",
-                "buyout": 1
+                "buyout": 0
             },
             "4989": {
                 "slug": "clothing_nt_gothicdress",
@@ -6391,7 +6391,7 @@
             },
             "4979": {
                 "slug": "clothing_r22_darkangelwings",
-                "name": "Rugvleugels",
+                "name": "Corrupte Vleugels",
                 "description": "clothing_r22_darkangelwings desc",
                 "buyout": 0
             },

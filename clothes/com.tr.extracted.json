@@ -1002,7 +1002,7 @@
             },
             "4989": {
                 "slug": "clothing_nt_gothicdress",
-                "name": "clothing_nt_gothicdress name",
+                "name": "Viktorya Gotik Elbise (takas yap\u0131lamaz)",
                 "description": "clothing_nt_gothicdress desc",
                 "buyout": 0
             },
@@ -1032,7 +1032,7 @@
             },
             "4976": {
                 "slug": "clothing_r22_wingheadpiece",
-                "name": "clothing_r22_wingheadpiece name",
+                "name": "Kanatl\u0131 Ba\u015fl\u0131k",
                 "description": "clothing_r22_wingheadpiece desc",
                 "buyout": 0
             },
@@ -3224,7 +3224,7 @@
         "ha": {
             "4980": {
                 "slug": "clothing_gothichat",
-                "name": "clothing_gothichat name",
+                "name": "Gotik g\u00fcl \u015fapkas\u0131",
                 "description": "clothing_gothichat desc",
                 "buyout": 0
             },
@@ -4647,7 +4647,7 @@
             "4990": null,
             "4977": {
                 "slug": "clothing_gothicflowerhorns",
-                "name": "clothing_gothicflowerhorns name",
+                "name": "Gotik g\u00fcl boynuzlar\u0131",
                 "description": "clothing_gothicflowerhorns desc",
                 "buyout": 0
             },
@@ -6391,13 +6391,13 @@
             },
             "4979": {
                 "slug": "clothing_r22_darkangelwings",
-                "name": "clothing_r22_darkangelwings name",
+                "name": "K\u0131r\u0131k Kanatlar",
                 "description": "clothing_r22_darkangelwings desc",
                 "buyout": 0
             },
             "4978": {
                 "slug": "clothing_gothiccoat",
-                "name": "clothing_gothiccoat name",
+                "name": "Gotik Mont",
                 "description": "clothing_gothiccoat desc",
                 "buyout": 0
             },
