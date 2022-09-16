@@ -1031,9 +1031,9 @@
                 "buyout": 0
             },
             "4976": {
-                "slug": "clothing_r22_wingheadpiece",
-                "name": "Kanatl\u0131 Ba\u015fl\u0131k",
-                "description": "clothing_r22_wingheadpiece desc",
+                "slug": "clothing_nt_gothicdress",
+                "name": "Viktorya Gotik Elbise (takas yap\u0131lamaz)",
+                "description": "clothing_nt_gothicdress desc",
                 "buyout": 0
             },
             "4975": {
@@ -4644,7 +4644,12 @@
             "1001": null
         },
         "he": {
-            "4990": null,
+            "4990": {
+                "slug": "clothing_r22_wingheadpiece",
+                "name": "Kanatl\u0131 Ba\u015fl\u0131k",
+                "description": "clothing_r22_wingheadpiece desc",
+                "buyout": 0
+            },
             "4977": {
                 "slug": "clothing_gothicflowerhorns",
                 "name": "Gotik g\u00fcl boynuzlar\u0131",
