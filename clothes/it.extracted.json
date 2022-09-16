@@ -23,6 +23,12 @@
                 "description": "clothing_r22_rosehair desc",
                 "buyout": 0
             },
+            "4991": {
+                "slug": "clothing_baconhairv2",
+                "name": "clothing_baconhairv2 name",
+                "description": "clothing_baconhairv2 desc",
+                "buyout": 0
+            },
             "4941": {
                 "slug": "clothing_r22_spikedshorthair",
                 "name": "Capelli a Punta",
@@ -988,6 +994,18 @@
             "180": null
         },
         "ch": {
+            "5006": {
+                "slug": "clothing_coolcatsshirt",
+                "name": "clothing_coolcatsshirt name",
+                "description": "clothing_coolcatsshirt desc",
+                "buyout": 0
+            },
+            "5005": {
+                "slug": "clothing_coolcatsshirt",
+                "name": "clothing_coolcatsshirt name",
+                "description": "clothing_coolcatsshirt desc",
+                "buyout": 0
+            },
             "4995": {
                 "slug": "clothing_schoolblazer",
                 "name": "Uniforme Accademica",
@@ -3222,6 +3240,36 @@
             "290": null
         },
         "ha": {
+            "5012": {
+                "slug": "clothing_nftpartyhat3",
+                "name": "Trippy 1st Birthday Hat",
+                "description": "clothing_nftpartyhat3 desc",
+                "buyout": 0
+            },
+            "5011": {
+                "slug": "clothing_nftpartyhat2",
+                "name": "Gold 1st Birthday Hat",
+                "description": "clothing_nftpartyhat2 desc",
+                "buyout": 0
+            },
+            "5010": {
+                "slug": "clothing_nftpartyhat1",
+                "name": "Silver 1st Birthday Hat",
+                "description": "clothing_nftpartyhat1 desc",
+                "buyout": 0
+            },
+            "5004": {
+                "slug": "clothing_coolcatstv",
+                "name": "clothing_coolcatstv name",
+                "description": "clothing_coolcatstv desc",
+                "buyout": 0
+            },
+            "5003": {
+                "slug": "clothing_coolcatsmask",
+                "name": "clothing_coolcatsmask name",
+                "description": "clothing_coolcatsmask desc",
+                "buyout": 0
+            },
             "4980": {
                 "slug": "clothing_gothichat",
                 "name": "Cappello con Rose Gotico",
@@ -5272,6 +5320,24 @@
             "1601": null
         },
         "ea": {
+            "5009": {
+                "slug": "clothing_nftpartyshades3",
+                "name": "Trippy 1st Birthday Shades",
+                "description": "clothing_nftpartyshades3 desc",
+                "buyout": 0
+            },
+            "5008": {
+                "slug": "clothing_nftpartyshades2",
+                "name": "Gold 1st Birthday Shades",
+                "description": "clothing_nftpartyshades2 desc",
+                "buyout": 0
+            },
+            "5007": {
+                "slug": "clothing_nftpartyshades1",
+                "name": "Silver 1st Birthday Shades",
+                "description": "clothing_nftpartyshades1 desc",
+                "buyout": 0
+            },
             "4988": {
                 "slug": "clothing_nftpinkheartshades",
                 "name": "Occhiali da sole Cuore Rosa",
@@ -5811,6 +5877,18 @@
             "1201": null
         },
         "ca": {
+            "5002": {
+                "slug": "clothing_coolcatsmilk",
+                "name": "clothing_coolcatsmilk name",
+                "description": "clothing_coolcatsmilk desc",
+                "buyout": 0
+            },
+            "5001": {
+                "slug": "clothing_coolcatsheart",
+                "name": "clothing_coolcatsheart name",
+                "description": "clothing_coolcatsheart desc",
+                "buyout": 0
+            },
             "4965": {
                 "slug": "clothing_r22_dinobackpack",
                 "name": "Zaino Dinosauro",
