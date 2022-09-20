@@ -25,7 +25,7 @@
             },
             "4991": {
                 "slug": "clothing_baconhairv2",
-                "name": "clothing_baconhairv2 name",
+                "name": "Bacon Hair 2.0",
                 "description": "clothing_baconhairv2 desc",
                 "buyout": 0
             },
@@ -1020,7 +1020,7 @@
             },
             "4989": {
                 "slug": "clothing_nt_gothicdress",
-                "name": "clothing_nt_gothicdress name",
+                "name": "Victorian Gothic Dress (Non-Tradeable)",
                 "description": "clothing_nt_gothicdress desc",
                 "buyout": 0
             },
@@ -1050,7 +1050,7 @@
             },
             "4976": {
                 "slug": "clothing_nt_gothicdress",
-                "name": "clothing_nt_gothicdress name",
+                "name": "Victorian Gothic Dress (Non-Tradeable)",
                 "description": "clothing_nt_gothicdress desc",
                 "buyout": 0
             },
@@ -3272,7 +3272,7 @@
             },
             "4980": {
                 "slug": "clothing_gothichat",
-                "name": "clothing_gothichat name",
+                "name": "Gothic Rose Hat",
                 "description": "clothing_gothichat desc",
                 "buyout": 0
             },
@@ -4700,7 +4700,7 @@
             },
             "4977": {
                 "slug": "clothing_gothicflowerhorns",
-                "name": "clothing_gothicflowerhorns name",
+                "name": "Gothic Rose Horns",
                 "description": "clothing_gothicflowerhorns desc",
                 "buyout": 0
             },
@@ -6480,7 +6480,7 @@
             },
             "4978": {
                 "slug": "clothing_gothiccoat",
-                "name": "clothing_gothiccoat name",
+                "name": "Gothic Coat",
                 "description": "clothing_gothiccoat desc",
                 "buyout": 0
             },

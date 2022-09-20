@@ -25,7 +25,7 @@
             },
             "4991": {
                 "slug": "clothing_baconhairv2",
-                "name": "clothing_baconhairv2 name",
+                "name": "Cheveux Bacon 2.0",
                 "description": "clothing_baconhairv2 desc",
                 "buyout": 0
             },
@@ -1010,17 +1010,17 @@
                 "slug": "clothing_schoolblazer",
                 "name": "Uniforme Scolaire",
                 "description": "clothing_schoolblazer desc",
-                "buyout": 1
+                "buyout": 0
             },
             "4994": {
                 "slug": "clothing_schoolblazer",
                 "name": "Uniforme Scolaire",
                 "description": "clothing_schoolblazer desc",
-                "buyout": 1
+                "buyout": 0
             },
             "4989": {
                 "slug": "clothing_nt_gothicdress",
-                "name": "clothing_nt_gothicdress name",
+                "name": "clothing_nt_robegothique name",
                 "description": "clothing_nt_gothicdress desc",
                 "buyout": 0
             },
@@ -1050,7 +1050,7 @@
             },
             "4976": {
                 "slug": "clothing_nt_gothicdress",
-                "name": "clothing_nt_gothicdress name",
+                "name": "clothing_nt_robegothique name",
                 "description": "clothing_nt_gothicdress desc",
                 "buyout": 0
             },
@@ -3272,7 +3272,7 @@
             },
             "4980": {
                 "slug": "clothing_gothichat",
-                "name": "clothing_gothichat name",
+                "name": "clothing_chapeauderosegothique name",
                 "description": "clothing_gothichat desc",
                 "buyout": 0
             },
@@ -4700,7 +4700,7 @@
             },
             "4977": {
                 "slug": "clothing_gothicflowerhorns",
-                "name": "clothing_gothicflowerhorns name",
+                "name": "clothing_cornesderosesgothiques name",
                 "description": "clothing_gothicflowerhorns desc",
                 "buyout": 0
             },
@@ -6480,7 +6480,7 @@
             },
             "4978": {
                 "slug": "clothing_gothiccoat",
-                "name": "clothing_gothiccoat name",
+                "name": "clothing_manteaugothique name",
                 "description": "clothing_gothiccoat desc",
                 "buyout": 0
             },
