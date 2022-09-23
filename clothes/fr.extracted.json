@@ -1010,13 +1010,13 @@
                 "slug": "clothing_schoolblazer",
                 "name": "Uniforme Scolaire",
                 "description": "clothing_schoolblazer desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4994": {
                 "slug": "clothing_schoolblazer",
                 "name": "Uniforme Scolaire",
                 "description": "clothing_schoolblazer desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4989": {
                 "slug": "clothing_nt_gothicdress",
@@ -3242,19 +3242,19 @@
         "ha": {
             "5012": {
                 "slug": "clothing_nftpartyhat3",
-                "name": "Trippy 1st Birthday Hat",
+                "name": "Chapeau Psych\u00e9d\u00e9lique 1er Anniversaire",
                 "description": "clothing_nftpartyhat3 desc",
                 "buyout": 0
             },
             "5011": {
                 "slug": "clothing_nftpartyhat2",
-                "name": "Gold 1st Birthday Hat",
+                "name": "Chapeau Or 1er Anniversaire",
                 "description": "clothing_nftpartyhat2 desc",
                 "buyout": 0
             },
             "5010": {
                 "slug": "clothing_nftpartyhat1",
-                "name": "Silver 1st Birthday Hat",
+                "name": "Chapeau Argent\u00e9 du 1er anniversaire",
                 "description": "clothing_nftpartyhat1 desc",
                 "buyout": 0
             },
@@ -5322,19 +5322,19 @@
         "ea": {
             "5009": {
                 "slug": "clothing_nftpartyshades3",
-                "name": "Trippy 1st Birthday Shades",
+                "name": "Lunettes Psych\u00e9d\u00e9lique du 1er Anniversaire",
                 "description": "clothing_nftpartyshades3 desc",
                 "buyout": 0
             },
             "5008": {
                 "slug": "clothing_nftpartyshades2",
-                "name": "Gold 1st Birthday Shades",
+                "name": "Lunettes Dor\u00e9es du 1er Anniversaire",
                 "description": "clothing_nftpartyshades2 desc",
                 "buyout": 0
             },
             "5007": {
                 "slug": "clothing_nftpartyshades1",
-                "name": "Silver 1st Birthday Shades",
+                "name": "Lunettes Argent\u00e9es pour le 1er Anniversaire",
                 "description": "clothing_nftpartyshades1 desc",
                 "buyout": 0
             },

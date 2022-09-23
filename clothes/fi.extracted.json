@@ -3242,19 +3242,19 @@
         "ha": {
             "5012": {
                 "slug": "clothing_nftpartyhat3",
-                "name": "Trippy 1st Birthday Hat",
+                "name": "Psykedeelinen 1-vuotissyntt\u00e4rihattu",
                 "description": "clothing_nftpartyhat3 desc",
                 "buyout": 0
             },
             "5011": {
                 "slug": "clothing_nftpartyhat2",
-                "name": "Gold 1st Birthday Hat",
+                "name": "Kultainen 1-vuotissyntt\u00e4rihattu",
                 "description": "clothing_nftpartyhat2 desc",
                 "buyout": 0
             },
             "5010": {
                 "slug": "clothing_nftpartyhat1",
-                "name": "Silver 1st Birthday Hat",
+                "name": "Hopeinen 1-vuotissyntt\u00e4rihattu",
                 "description": "clothing_nftpartyhat1 desc",
                 "buyout": 0
             },
@@ -5322,19 +5322,19 @@
         "ea": {
             "5009": {
                 "slug": "clothing_nftpartyshades3",
-                "name": "Trippy 1st Birthday Shades",
+                "name": "Psykedeeliset 1-vuotissyntt\u00e4riplehat",
                 "description": "clothing_nftpartyshades3 desc",
                 "buyout": 0
             },
             "5008": {
                 "slug": "clothing_nftpartyshades2",
-                "name": "Gold 1st Birthday Shades",
+                "name": "Kultaiset 1-vuotissyntt\u00e4riplehat",
                 "description": "clothing_nftpartyshades2 desc",
                 "buyout": 0
             },
             "5007": {
                 "slug": "clothing_nftpartyshades1",
-                "name": "Silver 1st Birthday Shades",
+                "name": "Hopeiset 1-vuotissyntt\u00e4riplehat",
                 "description": "clothing_nftpartyshades1 desc",
                 "buyout": 0
             },
