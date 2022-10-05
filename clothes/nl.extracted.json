@@ -3274,7 +3274,7 @@
                 "slug": "clothing_gothichat",
                 "name": "Gothic Rozen hoed",
                 "description": "clothing_gothichat desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4972": {
                 "slug": "clothing_nfttophat",
@@ -4702,7 +4702,7 @@
                 "slug": "clothing_gothicflowerhorns",
                 "name": "Gothic Rozen Hoorns",
                 "description": "clothing_gothicflowerhorns desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4971": {
                 "slug": "clothing_cyberkongzcollab",
@@ -6482,7 +6482,7 @@
                 "slug": "clothing_gothiccoat",
                 "name": "Gothic Jas",
                 "description": "clothing_gothiccoat desc",
-                "buyout": 0
+                "buyout": 1
             },
             "4967": {
                 "slug": "clothing_mvhqcollab",
