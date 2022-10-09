@@ -996,13 +996,13 @@
         "ch": {
             "5006": {
                 "slug": "clothing_coolcatsshirt",
-                "name": "clothing_coolcatsshirt name",
+                "name": "Cool Cats T-Shirt",
                 "description": "clothing_coolcatsshirt desc",
                 "buyout": 0
             },
             "5005": {
                 "slug": "clothing_coolcatsshirt",
-                "name": "clothing_coolcatsshirt name",
+                "name": "Cool Cats T-Shirt",
                 "description": "clothing_coolcatsshirt desc",
                 "buyout": 0
             },
@@ -3260,13 +3260,13 @@
             },
             "5004": {
                 "slug": "clothing_coolcatstv",
-                "name": "clothing_coolcatstv name",
+                "name": "Cool Cats TV-Kopf",
                 "description": "clothing_coolcatstv desc",
                 "buyout": 0
             },
             "5003": {
                 "slug": "clothing_coolcatsmask",
-                "name": "clothing_coolcatsmask name",
+                "name": "Cool Cats Maske",
                 "description": "clothing_coolcatsmask desc",
                 "buyout": 0
             },
@@ -5879,13 +5879,13 @@
         "ca": {
             "5002": {
                 "slug": "clothing_coolcatsmilk",
-                "name": "clothing_coolcatsmilk name",
+                "name": "Lil' Chugs Rucksack",
                 "description": "clothing_coolcatsmilk desc",
                 "buyout": 0
             },
             "5001": {
                 "slug": "clothing_coolcatsheart",
-                "name": "clothing_coolcatsheart name",
+                "name": "Cool Cats Herz-Rucksack",
                 "description": "clothing_coolcatsheart desc",
                 "buyout": 0
             },

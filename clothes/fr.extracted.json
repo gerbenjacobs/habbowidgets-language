@@ -996,13 +996,13 @@
         "ch": {
             "5006": {
                 "slug": "clothing_coolcatsshirt",
-                "name": "clothing_coolcatsshirt name",
+                "name": "T-Shirt Chats Cools",
                 "description": "clothing_coolcatsshirt desc",
                 "buyout": 0
             },
             "5005": {
                 "slug": "clothing_coolcatsshirt",
-                "name": "clothing_coolcatsshirt name",
+                "name": "T-Shirt Chats Cools",
                 "description": "clothing_coolcatsshirt desc",
                 "buyout": 0
             },
@@ -1020,7 +1020,7 @@
             },
             "4989": {
                 "slug": "clothing_nt_gothicdress",
-                "name": "clothing_nt_robegothique name",
+                "name": "Robe Gothique Victorienne (Non-\u00e9chngeable)",
                 "description": "clothing_nt_gothicdress desc",
                 "buyout": 0
             },
@@ -1050,7 +1050,7 @@
             },
             "4976": {
                 "slug": "clothing_nt_gothicdress",
-                "name": "clothing_nt_robegothique name",
+                "name": "Robe Gothique Victorienne (Non-\u00e9chngeable)",
                 "description": "clothing_nt_gothicdress desc",
                 "buyout": 0
             },
@@ -3260,19 +3260,19 @@
             },
             "5004": {
                 "slug": "clothing_coolcatstv",
-                "name": "clothing_coolcatstv name",
+                "name": "T\u00eate de TV Chats Cools",
                 "description": "clothing_coolcatstv desc",
                 "buyout": 0
             },
             "5003": {
                 "slug": "clothing_coolcatsmask",
-                "name": "clothing_coolcatsmask name",
+                "name": "Masque de Chats Cools",
                 "description": "clothing_coolcatsmask desc",
                 "buyout": 0
             },
             "4980": {
                 "slug": "clothing_gothichat",
-                "name": "clothing_chapeauderosegothique name",
+                "name": "Chapeau de Rose Gothique",
                 "description": "clothing_gothichat desc",
                 "buyout": 1
             },
@@ -4694,13 +4694,13 @@
         "he": {
             "4990": {
                 "slug": "clothing_r22_wingheadpiece",
-                "name": "v\u00eatements_r22_t\u00eated'aile nom",
+                "name": "Coiffe Ail\u00e9e",
                 "description": "clothing_r22_wingheadpiece desc",
                 "buyout": 0
             },
             "4977": {
                 "slug": "clothing_gothicflowerhorns",
-                "name": "clothing_cornesderosesgothiques name",
+                "name": "Cornes de Roses Gothiques",
                 "description": "clothing_gothicflowerhorns desc",
                 "buyout": 1
             },
@@ -5879,13 +5879,13 @@
         "ca": {
             "5002": {
                 "slug": "clothing_coolcatsmilk",
-                "name": "clothing_coolcatsmilk name",
+                "name": "Sac \u00e0 dos Lil' Chugs",
                 "description": "clothing_coolcatsmilk desc",
                 "buyout": 0
             },
             "5001": {
                 "slug": "clothing_coolcatsheart",
-                "name": "clothing_coolcatsheart name",
+                "name": "Sac \u00e0 dos Coeur de Chats Cools",
                 "description": "clothing_coolcatsheart desc",
                 "buyout": 0
             },
@@ -6474,13 +6474,13 @@
             },
             "4979": {
                 "slug": "clothing_r22_darkangelwings",
-                "name": "v\u00eatements_r22_ailesd'angenoir nom",
+                "name": "Ailes Corrompues",
                 "description": "clothing_r22_darkangelwings desc",
                 "buyout": 0
             },
             "4978": {
                 "slug": "clothing_gothiccoat",
-                "name": "clothing_manteaugothique name",
+                "name": "Manteau Gothique",
                 "description": "clothing_gothiccoat desc",
                 "buyout": 1
             },
