@@ -3274,7 +3274,7 @@
                 "slug": "clothing_gothichat",
                 "name": "Chapeau de Rose Gothique",
                 "description": "clothing_gothichat desc",
-                "buyout": 1
+                "buyout": 0
             },
             "4972": {
                 "slug": "clothing_nfttophat",
@@ -4702,7 +4702,7 @@
                 "slug": "clothing_gothicflowerhorns",
                 "name": "Cornes de Roses Gothiques",
                 "description": "clothing_gothicflowerhorns desc",
-                "buyout": 1
+                "buyout": 0
             },
             "4971": {
                 "slug": "clothing_cyberkongzcollab",
@@ -6482,7 +6482,7 @@
                 "slug": "clothing_gothiccoat",
                 "name": "Manteau Gothique",
                 "description": "clothing_gothiccoat desc",
-                "buyout": 1
+                "buyout": 0
             },
             "4967": {
                 "slug": "clothing_mvhqcollab",

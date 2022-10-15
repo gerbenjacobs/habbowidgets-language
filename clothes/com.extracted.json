@@ -996,13 +996,13 @@
         "ch": {
             "5006": {
                 "slug": "clothing_coolcatsshirt",
-                "name": "Cool Cats Shirt",
+                "name": "Cool Cats T-Shirt",
                 "description": "clothing_coolcatsshirt desc",
                 "buyout": 0
             },
             "5005": {
                 "slug": "clothing_coolcatsshirt",
-                "name": "Cool Cats Shirt",
+                "name": "Cool Cats T-Shirt",
                 "description": "clothing_coolcatsshirt desc",
                 "buyout": 0
             },
@@ -5879,13 +5879,13 @@
         "ca": {
             "5002": {
                 "slug": "clothing_coolcatsmilk",
-                "name": "Milk Carton Back Bag",
+                "name": "Lil' Chugs Backpack",
                 "description": "clothing_coolcatsmilk desc",
                 "buyout": 0
             },
             "5001": {
                 "slug": "clothing_coolcatsheart",
-                "name": "Heart Backpack",
+                "name": "Cool Cats Heart Backpack",
                 "description": "clothing_coolcatsheart desc",
                 "buyout": 0
             },

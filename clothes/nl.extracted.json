@@ -996,13 +996,13 @@
         "ch": {
             "5006": {
                 "slug": "clothing_coolcatsshirt",
-                "name": "clothing_coolcatsshirt name",
+                "name": "Cool Cats T-Shirt",
                 "description": "clothing_coolcatsshirt desc",
                 "buyout": 0
             },
             "5005": {
                 "slug": "clothing_coolcatsshirt",
-                "name": "clothing_coolcatsshirt name",
+                "name": "Cool Cats T-Shirt",
                 "description": "clothing_coolcatsshirt desc",
                 "buyout": 0
             },
@@ -3260,13 +3260,13 @@
             },
             "5004": {
                 "slug": "clothing_coolcatstv",
-                "name": "clothing_coolcatstv name",
+                "name": "Cool Cats TV-Hoofd",
                 "description": "clothing_coolcatstv desc",
                 "buyout": 0
             },
             "5003": {
                 "slug": "clothing_coolcatsmask",
-                "name": "clothing_coolcatsmask name",
+                "name": "Cool Cats Masker",
                 "description": "clothing_coolcatsmask desc",
                 "buyout": 0
             },
@@ -3274,7 +3274,7 @@
                 "slug": "clothing_gothichat",
                 "name": "Gothic Rozen hoed",
                 "description": "clothing_gothichat desc",
-                "buyout": 1
+                "buyout": 0
             },
             "4972": {
                 "slug": "clothing_nfttophat",
@@ -4702,7 +4702,7 @@
                 "slug": "clothing_gothicflowerhorns",
                 "name": "Gothic Rozen Hoorns",
                 "description": "clothing_gothicflowerhorns desc",
-                "buyout": 1
+                "buyout": 0
             },
             "4971": {
                 "slug": "clothing_cyberkongzcollab",
@@ -5879,13 +5879,13 @@
         "ca": {
             "5002": {
                 "slug": "clothing_coolcatsmilk",
-                "name": "clothing_coolcatsmilk name",
+                "name": "Lil' Chugs Rugtas",
                 "description": "clothing_coolcatsmilk desc",
                 "buyout": 0
             },
             "5001": {
                 "slug": "clothing_coolcatsheart",
-                "name": "clothing_coolcatsheart name",
+                "name": "Cool Cats Hartjes Rugtas",
                 "description": "clothing_coolcatsheart desc",
                 "buyout": 0
             },
@@ -6482,7 +6482,7 @@
                 "slug": "clothing_gothiccoat",
                 "name": "Gothic Jas",
                 "description": "clothing_gothiccoat desc",
-                "buyout": 1
+                "buyout": 0
             },
             "4967": {
                 "slug": "clothing_mvhqcollab",
