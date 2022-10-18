@@ -17,6 +17,18 @@
     "clothing": {
         "hr": {
             "9534": null,
+            "5040": {
+                "slug": "clothing_nftdollhair2",
+                "name": "Penteado Chiquinhas de Boneca",
+                "description": "clothing_nftdollhair2 desc",
+                "buyout": 0
+            },
+            "5039": {
+                "slug": "clothing_nftdollhair",
+                "name": "Penteado Boneco",
+                "description": "clothing_nftdollhair desc",
+                "buyout": 0
+            },
             "4996": {
                 "slug": "clothing_r22_rosehair",
                 "name": "Penteado Festa Estudantil",
@@ -782,6 +794,24 @@
             "100": null
         },
         "hd": {
+            "5042": {
+                "slug": "clothing_nftpossesseddoll",
+                "name": "Rosto Boneca Possu\u00edda",
+                "description": "clothing_nftpossesseddoll desc",
+                "buyout": 0
+            },
+            "5041": {
+                "slug": "clothing_nftdollface",
+                "name": "Rosto de Boneca",
+                "description": "clothing_nftdollface desc",
+                "buyout": 0
+            },
+            "5033": {
+                "slug": "clothing_avatarplaceholder",
+                "name": "clothing_avatarplaceholder name",
+                "description": "clothing_avatarplaceholder desc",
+                "buyout": 0
+            },
             "4383": {
                 "slug": "clothing_idolmakeup",
                 "name": "Makeup Idolo Pop",
@@ -994,6 +1024,48 @@
             "180": null
         },
         "ch": {
+            "5038": {
+                "slug": "clothing_nftdolldress",
+                "name": "Vestido Boneca G\u00f3tica",
+                "description": "clothing_nftdolldress desc",
+                "buyout": 0
+            },
+            "5037": {
+                "slug": "clothing_nftdoll",
+                "name": "Macac\u00e3o Boneco G\u00f3tico",
+                "description": "clothing_nftdoll desc",
+                "buyout": 0
+            },
+            "5036": {
+                "slug": "clothing_nftdoll",
+                "name": "Macac\u00e3o Boneco G\u00f3tico",
+                "description": "clothing_nftdoll desc",
+                "buyout": 0
+            },
+            "5035": {
+                "slug": "clothing_hkdungarees",
+                "name": "clothing_hkdungarees name",
+                "description": "clothing_hkdungarees desc",
+                "buyout": 0
+            },
+            "5034": {
+                "slug": "clothing_hkdungarees",
+                "name": "clothing_hkdungarees name",
+                "description": "clothing_hkdungarees desc",
+                "buyout": 0
+            },
+            "5030": {
+                "slug": "clothing_r22_yukata",
+                "name": "Yukata Onsen",
+                "description": "clothing_r22_yukata desc",
+                "buyout": 0
+            },
+            "5029": {
+                "slug": "clothing_r22_yukata",
+                "name": "Yukata Onsen",
+                "description": "clothing_r22_yukata desc",
+                "buyout": 0
+            },
             "5006": {
                 "slug": "clothing_coolcatsshirt",
                 "name": "Camiseta Cool Cats",
@@ -1016,6 +1088,18 @@
                 "slug": "clothing_schoolblazer",
                 "name": "Uniforme Acad\u00eamico",
                 "description": "clothing_schoolblazer desc",
+                "buyout": 0
+            },
+            "4993": {
+                "slug": "clothing_kuromitshirt",
+                "name": "clothing_kuromitshirt name",
+                "description": "clothing_kuromitshirt desc",
+                "buyout": 0
+            },
+            "4992": {
+                "slug": "clothing_kuromitshirt",
+                "name": "clothing_kuromitshirt name",
+                "description": "clothing_kuromitshirt desc",
                 "buyout": 0
             },
             "4989": {
@@ -3062,6 +3146,12 @@
             "270": null
         },
         "sh": {
+            "5032": {
+                "slug": "clothing_nftdollshoes",
+                "name": "Sapatos Bonecos G\u00f3ticos",
+                "description": "clothing_nftdollshoes desc",
+                "buyout": 0
+            },
             "4159": {
                 "slug": "clothing_r21_rollerskates",
                 "name": "Patins 80's",
@@ -3240,6 +3330,12 @@
             "290": null
         },
         "ha": {
+            "5027": {
+                "slug": "clothing_r22_samurai",
+                "name": "Equipamento Samurai Ancestral",
+                "description": "clothing_r22_samurai desc",
+                "buyout": 0
+            },
             "5012": {
                 "slug": "clothing_nftpartyhat3",
                 "name": "Chap\u00e9u 1o Anivers\u00e1rio Trippy",
@@ -3268,6 +3364,12 @@
                 "slug": "clothing_coolcatsmask",
                 "name": "M\u00e1scara Cool Cats",
                 "description": "clothing_coolcatsmask desc",
+                "buyout": 0
+            },
+            "5000": {
+                "slug": "clothing_kuromioutfit",
+                "name": "clothing_kuromioutfit name",
+                "description": "clothing_kuromioutfit desc",
                 "buyout": 0
             },
             "4980": {
@@ -4692,6 +4794,12 @@
             "1001": null
         },
         "he": {
+            "5031": {
+                "slug": "clothing_hkheadphones",
+                "name": "clothing_hkheadphones name",
+                "description": "clothing_hkheadphones desc",
+                "buyout": 0
+            },
             "4990": {
                 "slug": "clothing_r22_wingheadpiece",
                 "name": "Adorno Alado",
@@ -5877,6 +5985,18 @@
             "1201": null
         },
         "ca": {
+            "5043": {
+                "slug": "clothing_nftpumpkinbag",
+                "name": "Mochila Ab\u00f3bora Trippy",
+                "description": "clothing_nftpumpkinbag desc",
+                "buyout": 0
+            },
+            "5028": {
+                "slug": "clothing_r22_samurai",
+                "name": "Equipamento Samurai Ancestral",
+                "description": "clothing_r22_samurai desc",
+                "buyout": 0
+            },
             "5002": {
                 "slug": "clothing_coolcatsmilk",
                 "name": "Mochila Lil Chugs",
@@ -5887,6 +6007,12 @@
                 "slug": "clothing_coolcatsheart",
                 "name": "Mochila Cora\u00e7\u00e3o Cool Cats",
                 "description": "clothing_coolcatsheart desc",
+                "buyout": 0
+            },
+            "4999": {
+                "slug": "clothing_kuromioutfit",
+                "name": "clothing_kuromioutfit name",
+                "description": "clothing_kuromioutfit desc",
                 "buyout": 0
             },
             "4965": {

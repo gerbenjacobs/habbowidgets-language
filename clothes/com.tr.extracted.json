@@ -17,6 +17,18 @@
     "clothing": {
         "hr": {
             "9534": null,
+            "5040": {
+                "slug": "clothing_nftdollhair2",
+                "name": "Bebek At Kuyru\u011fu",
+                "description": "clothing_nftdollhair2 desc",
+                "buyout": 0
+            },
+            "5039": {
+                "slug": "clothing_nftdollhair",
+                "name": "Oyuncak Bebek Sa\u00e7\u0131",
+                "description": "clothing_nftdollhair desc",
+                "buyout": 0
+            },
             "4996": {
                 "slug": "clothing_r22_rosehair",
                 "name": "Eve D\u00f6n\u00fc\u015f G\u00fcl Sa\u00e7\u0131",
@@ -782,6 +794,24 @@
             "100": null
         },
         "hd": {
+            "5042": {
+                "slug": "clothing_nftpossesseddoll",
+                "name": "Cinli Bebek Y\u00fcz\u00fc",
+                "description": "clothing_nftpossesseddoll desc",
+                "buyout": 0
+            },
+            "5041": {
+                "slug": "clothing_nftdollface",
+                "name": "Bebek Y\u00fcz\u00fc",
+                "description": "clothing_nftdollface desc",
+                "buyout": 0
+            },
+            "5033": {
+                "slug": "clothing_avatarplaceholder",
+                "name": "clothing_avatarplaceholder name",
+                "description": "clothing_avatarplaceholder desc",
+                "buyout": 0
+            },
             "4383": {
                 "slug": "clothing_idolmakeup",
                 "name": "Idol Makyaj G\u00f6r\u00fcn\u00fcm\u00fc",
@@ -994,6 +1024,48 @@
             "180": null
         },
         "ch": {
+            "5038": {
+                "slug": "clothing_nftdolldress",
+                "name": "Gotik Bebek Elbisesi",
+                "description": "clothing_nftdolldress desc",
+                "buyout": 0
+            },
+            "5037": {
+                "slug": "clothing_nftdoll",
+                "name": "Gotik Bebek Tulumu",
+                "description": "clothing_nftdoll desc",
+                "buyout": 0
+            },
+            "5036": {
+                "slug": "clothing_nftdoll",
+                "name": "Gotik Bebek Tulumu",
+                "description": "clothing_nftdoll desc",
+                "buyout": 0
+            },
+            "5035": {
+                "slug": "clothing_hkdungarees",
+                "name": "clothing_hkdungarees name",
+                "description": "clothing_hkdungarees desc",
+                "buyout": 0
+            },
+            "5034": {
+                "slug": "clothing_hkdungarees",
+                "name": "clothing_hkdungarees name",
+                "description": "clothing_hkdungarees desc",
+                "buyout": 0
+            },
+            "5030": {
+                "slug": "clothing_r22_yukata",
+                "name": "Onsen Resort Yukata",
+                "description": "clothing_r22_yukata desc",
+                "buyout": 0
+            },
+            "5029": {
+                "slug": "clothing_r22_yukata",
+                "name": "Onsen Resort Yukata",
+                "description": "clothing_r22_yukata desc",
+                "buyout": 0
+            },
             "5006": {
                 "slug": "clothing_coolcatsshirt",
                 "name": "Cool Cats Ti\u015f\u00f6rt",
@@ -1016,6 +1088,18 @@
                 "slug": "clothing_schoolblazer",
                 "name": "Okul \u00dcniformas\u0131",
                 "description": "clothing_schoolblazer desc",
+                "buyout": 0
+            },
+            "4993": {
+                "slug": "clothing_kuromitshirt",
+                "name": "clothing_kuromitshirt name",
+                "description": "clothing_kuromitshirt desc",
+                "buyout": 0
+            },
+            "4992": {
+                "slug": "clothing_kuromitshirt",
+                "name": "clothing_kuromitshirt name",
+                "description": "clothing_kuromitshirt desc",
                 "buyout": 0
             },
             "4989": {
@@ -3062,6 +3146,12 @@
             "270": null
         },
         "sh": {
+            "5032": {
+                "slug": "clothing_nftdollshoes",
+                "name": "Gotik Bebek Ayakkab\u0131s\u0131",
+                "description": "clothing_nftdollshoes desc",
+                "buyout": 0
+            },
             "4159": {
                 "slug": "clothing_r21_rollerskates",
                 "name": "Retro Patenler",
@@ -3240,6 +3330,12 @@
             "290": null
         },
         "ha": {
+            "5027": {
+                "slug": "clothing_r22_samurai",
+                "name": "Antik Samuray Tak\u0131m\u0131",
+                "description": "clothing_r22_samurai desc",
+                "buyout": 0
+            },
             "5012": {
                 "slug": "clothing_nftpartyhat3",
                 "name": "Trip 1. Do\u011fum G\u00fcn\u00fc \u015eapkas\u0131",
@@ -3268,6 +3364,12 @@
                 "slug": "clothing_coolcatsmask",
                 "name": "Cool Cats Maske",
                 "description": "clothing_coolcatsmask desc",
+                "buyout": 0
+            },
+            "5000": {
+                "slug": "clothing_kuromioutfit",
+                "name": "clothing_kuromioutfit name",
+                "description": "clothing_kuromioutfit desc",
                 "buyout": 0
             },
             "4980": {
@@ -4692,6 +4794,12 @@
             "1001": null
         },
         "he": {
+            "5031": {
+                "slug": "clothing_hkheadphones",
+                "name": "clothing_hkheadphones name",
+                "description": "clothing_hkheadphones desc",
+                "buyout": 0
+            },
             "4990": {
                 "slug": "clothing_r22_wingheadpiece",
                 "name": "Kanatl\u0131 Ba\u015fl\u0131k",
@@ -5877,6 +5985,18 @@
             "1201": null
         },
         "ca": {
+            "5043": {
+                "slug": "clothing_nftpumpkinbag",
+                "name": "Trippy Kabak \u00c7anta",
+                "description": "clothing_nftpumpkinbag desc",
+                "buyout": 0
+            },
+            "5028": {
+                "slug": "clothing_r22_samurai",
+                "name": "Antik Samuray Tak\u0131m\u0131",
+                "description": "clothing_r22_samurai desc",
+                "buyout": 0
+            },
             "5002": {
                 "slug": "clothing_coolcatsmilk",
                 "name": "Lil' Chugs S\u0131rt \u00c7anta",
@@ -5887,6 +6007,12 @@
                 "slug": "clothing_coolcatsheart",
                 "name": "Cool Cats Kalpli S\u0131rt \u00c7anta",
                 "description": "clothing_coolcatsheart desc",
+                "buyout": 0
+            },
+            "4999": {
+                "slug": "clothing_kuromioutfit",
+                "name": "clothing_kuromioutfit name",
+                "description": "clothing_kuromioutfit desc",
                 "buyout": 0
             },
             "4965": {
