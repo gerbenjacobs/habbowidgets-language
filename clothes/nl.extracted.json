@@ -19,13 +19,13 @@
             "9534": null,
             "5040": {
                 "slug": "clothing_nftdollhair2",
-                "name": "clothing_nftdollhair2 name",
+                "name": "Poppen Paardenstaartjes",
                 "description": "clothing_nftdollhair2 desc",
                 "buyout": 0
             },
             "5039": {
                 "slug": "clothing_nftdollhair",
-                "name": "clothing_nftdollhair name",
+                "name": "Poppen Kapsel",
                 "description": "clothing_nftdollhair desc",
                 "buyout": 0
             },
@@ -796,13 +796,13 @@
         "hd": {
             "5042": {
                 "slug": "clothing_nftpossesseddoll",
-                "name": "clothing_nftpossesseddoll name",
+                "name": "Bezeten Poppengezicht",
                 "description": "clothing_nftpossesseddoll desc",
                 "buyout": 0
             },
             "5041": {
                 "slug": "clothing_nftdollface",
-                "name": "clothing_nftdollface name",
+                "name": "Poppengezicht",
                 "description": "clothing_nftdollface desc",
                 "buyout": 0
             },
@@ -1026,19 +1026,19 @@
         "ch": {
             "5038": {
                 "slug": "clothing_nftdolldress",
-                "name": "clothing_nftdolldress name",
+                "name": "Gothic Pop Jurk",
                 "description": "clothing_nftdolldress desc",
                 "buyout": 0
             },
             "5037": {
                 "slug": "clothing_nftdoll",
-                "name": "clothing_nftdoll name",
+                "name": "Gothic Pop Tuinbroek",
                 "description": "clothing_nftdoll desc",
                 "buyout": 0
             },
             "5036": {
                 "slug": "clothing_nftdoll",
-                "name": "clothing_nftdoll name",
+                "name": "Gothic Pop Tuinbroek",
                 "description": "clothing_nftdoll desc",
                 "buyout": 0
             },
@@ -3148,7 +3148,7 @@
         "sh": {
             "5032": {
                 "slug": "clothing_nftdollshoes",
-                "name": "clothing_nftdollshoes name",
+                "name": "Gothic Pop Schoenen",
                 "description": "clothing_nftdollshoes desc",
                 "buyout": 0
             },
@@ -3376,7 +3376,7 @@
                 "slug": "clothing_gothichat",
                 "name": "Gothic Rozen hoed",
                 "description": "clothing_gothichat desc",
-                "buyout": 1
+                "buyout": 0
             },
             "4972": {
                 "slug": "clothing_nfttophat",
@@ -4810,7 +4810,7 @@
                 "slug": "clothing_gothicflowerhorns",
                 "name": "Gothic Rozen Hoorns",
                 "description": "clothing_gothicflowerhorns desc",
-                "buyout": 1
+                "buyout": 0
             },
             "4971": {
                 "slug": "clothing_cyberkongzcollab",
@@ -5987,7 +5987,7 @@
         "ca": {
             "5043": {
                 "slug": "clothing_nftpumpkinbag",
-                "name": "clothing_nftpumpkinbag name",
+                "name": "Trippy Pompoen Rugtas",
                 "description": "clothing_nftpumpkinbag desc",
                 "buyout": 0
             },
@@ -6608,7 +6608,7 @@
                 "slug": "clothing_gothiccoat",
                 "name": "Gothic Jas",
                 "description": "clothing_gothiccoat desc",
-                "buyout": 1
+                "buyout": 0
             },
             "4967": {
                 "slug": "clothing_mvhqcollab",
