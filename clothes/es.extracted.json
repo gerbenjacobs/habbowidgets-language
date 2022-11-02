@@ -29,6 +29,18 @@
                 "description": "clothing_nftdollhair desc",
                 "buyout": 0
             },
+            "5019": {
+                "slug": "clothing_fadehair",
+                "name": "clothing_fadehair name",
+                "description": "clothing_fadehair desc",
+                "buyout": 0
+            },
+            "5018": {
+                "slug": "clothing_r22_bowbraidhair",
+                "name": "clothing_r22_bowbraidhair name",
+                "description": "clothing_r22_bowbraidhair desc",
+                "buyout": 0
+            },
             "4996": {
                 "slug": "clothing_r22_rosehair",
                 "name": "Pelo Rosa Reencuentro",
@@ -1024,6 +1036,30 @@
             "180": null
         },
         "ch": {
+            "5048": {
+                "slug": "clothing_drsportsshirt2",
+                "name": "clothing_drsportsshirt2 name",
+                "description": "clothing_drsportsshirt2 desc",
+                "buyout": 0
+            },
+            "5047": {
+                "slug": "clothing_drsportsshirt2",
+                "name": "clothing_drsportsshirt2 name",
+                "description": "clothing_drsportsshirt2 desc",
+                "buyout": 0
+            },
+            "5045": {
+                "slug": "clothing_drsportsshirt",
+                "name": "clothing_drsportsshirt name",
+                "description": "clothing_drsportsshirt desc",
+                "buyout": 0
+            },
+            "5044": {
+                "slug": "clothing_drsportsshirt",
+                "name": "clothing_drsportsshirt name",
+                "description": "clothing_drsportsshirt desc",
+                "buyout": 0
+            },
             "5038": {
                 "slug": "clothing_nftdolldress",
                 "name": "Vestido Mu\u00f1eca G\u00f3tica",
@@ -1044,13 +1080,13 @@
             },
             "5035": {
                 "slug": "clothing_hkdungarees",
-                "name": "clothing_hkdungarees name",
+                "name": "Peto Hello Kitty",
                 "description": "clothing_hkdungarees desc",
                 "buyout": 0
             },
             "5034": {
                 "slug": "clothing_hkdungarees",
-                "name": "clothing_hkdungarees name",
+                "name": "Peto Hello Kitty",
                 "description": "clothing_hkdungarees desc",
                 "buyout": 0
             },
@@ -1064,6 +1100,24 @@
                 "slug": "clothing_r22_yukata",
                 "name": "Yukata Onsen",
                 "description": "clothing_r22_yukata desc",
+                "buyout": 0
+            },
+            "5021": {
+                "slug": "clothing_r22_xmastreeoutfit",
+                "name": "clothing_r22_xmastreeoutfit name",
+                "description": "clothing_r22_xmastreeoutfit desc",
+                "buyout": 0
+            },
+            "5015": {
+                "slug": "clothing_hollyjumper",
+                "name": "clothing_hollyjumper name",
+                "description": "clothing_hollyjumper desc",
+                "buyout": 0
+            },
+            "5014": {
+                "slug": "clothing_starryjumper",
+                "name": "clothing_starryjumper name",
+                "description": "clothing_starryjumper desc",
                 "buyout": 0
             },
             "5006": {
@@ -1092,13 +1146,13 @@
             },
             "4993": {
                 "slug": "clothing_kuromitshirt",
-                "name": "clothing_kuromitshirt name",
+                "name": "Camiseta Kuromi",
                 "description": "clothing_kuromitshirt desc",
                 "buyout": 0
             },
             "4992": {
                 "slug": "clothing_kuromitshirt",
-                "name": "clothing_kuromitshirt name",
+                "name": "Camiseta Kuromi",
                 "description": "clothing_kuromitshirt desc",
                 "buyout": 0
             },
@@ -2713,6 +2767,12 @@
             "210": null
         },
         "lg": {
+            "5022": {
+                "slug": "clothing_r22_xmastreeoutfit",
+                "name": "clothing_r22_xmastreeoutfit name",
+                "description": "clothing_r22_xmastreeoutfit desc",
+                "buyout": 0
+            },
             "4934": {
                 "slug": "clothing_dirndl",
                 "name": "Dirndl Popular",
@@ -3152,6 +3212,12 @@
                 "description": "clothing_nftdollshoes desc",
                 "buyout": 0
             },
+            "5023": {
+                "slug": "clothing_r22_xmastreeoutfit",
+                "name": "clothing_r22_xmastreeoutfit name",
+                "description": "clothing_r22_xmastreeoutfit desc",
+                "buyout": 0
+            },
             "4159": {
                 "slug": "clothing_r21_rollerskates",
                 "name": "Patines Retro",
@@ -3330,10 +3396,34 @@
             "290": null
         },
         "ha": {
+            "5046": {
+                "slug": "clothing_drsportshat",
+                "name": "clothing_drsportshat name",
+                "description": "clothing_drsportshat desc",
+                "buyout": 0
+            },
             "5027": {
                 "slug": "clothing_r22_samurai",
                 "name": "Armadura Samurai Antiguo",
                 "description": "clothing_r22_samurai desc",
+                "buyout": 0
+            },
+            "5025": {
+                "slug": "clothing_festivereindeerhat",
+                "name": "clothing_festivereindeerhat name",
+                "description": "clothing_festivereindeerhat desc",
+                "buyout": 0
+            },
+            "5024": {
+                "slug": "clothing_festivepenguinhat",
+                "name": "clothing_festivepenguinhat name",
+                "description": "clothing_festivepenguinhat desc",
+                "buyout": 0
+            },
+            "5020": {
+                "slug": "clothing_r22_xmastreeoutfit",
+                "name": "clothing_r22_xmastreeoutfit name",
+                "description": "clothing_r22_xmastreeoutfit desc",
                 "buyout": 0
             },
             "5012": {
@@ -3368,7 +3458,7 @@
             },
             "5000": {
                 "slug": "clothing_kuromioutfit",
-                "name": "clothing_kuromioutfit name",
+                "name": "Sombrero Kuromi",
                 "description": "clothing_kuromioutfit desc",
                 "buyout": 0
             },
@@ -4796,7 +4886,7 @@
         "he": {
             "5031": {
                 "slug": "clothing_hkheadphones",
-                "name": "clothing_hkheadphones name",
+                "name": "Auriculares Hello Kitty",
                 "description": "clothing_hkheadphones desc",
                 "buyout": 0
             },
@@ -5997,6 +6087,24 @@
                 "description": "clothing_r22_samurai desc",
                 "buyout": 0
             },
+            "5026": {
+                "slug": "clothing_ltd22_angelwings",
+                "name": "clothing_ltd22_angelwings name",
+                "description": "clothing_ltd22_angelwings desc",
+                "buyout": 0
+            },
+            "5017": {
+                "slug": "clothing_reindeerbackpack",
+                "name": "clothing_reindeerbackpack name",
+                "description": "clothing_reindeerbackpack desc",
+                "buyout": 0
+            },
+            "5016": {
+                "slug": "clothing_penguinbackpack",
+                "name": "clothing_penguinbackpack name",
+                "description": "clothing_penguinbackpack desc",
+                "buyout": 0
+            },
             "5002": {
                 "slug": "clothing_coolcatsmilk",
                 "name": "Mochila Lil' Chugs",
@@ -6011,7 +6119,7 @@
             },
             "4999": {
                 "slug": "clothing_kuromioutfit",
-                "name": "clothing_kuromioutfit name",
+                "name": "Sombrero Kuromi",
                 "description": "clothing_kuromioutfit desc",
                 "buyout": 0
             },
