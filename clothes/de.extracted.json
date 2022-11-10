@@ -31,13 +31,13 @@
             },
             "5019": {
                 "slug": "clothing_fadehair",
-                "name": "clothing_fadehair name",
+                "name": "Perfekte Schattierung",
                 "description": "clothing_fadehair desc",
                 "buyout": 0
             },
             "5018": {
                 "slug": "clothing_r22_bowbraidhair",
-                "name": "clothing_r22_bowbraidhair name",
+                "name": "Geflochtenes Haar mit Schleife",
                 "description": "clothing_r22_bowbraidhair desc",
                 "buyout": 0
             },
@@ -1038,25 +1038,25 @@
         "ch": {
             "5048": {
                 "slug": "clothing_drsportsshirt2",
-                "name": "clothing_drsportsshirt2 name",
+                "name": "World Cup T-Shirt",
                 "description": "clothing_drsportsshirt2 desc",
                 "buyout": 0
             },
             "5047": {
                 "slug": "clothing_drsportsshirt2",
-                "name": "clothing_drsportsshirt2 name",
+                "name": "World Cup T-Shirt",
                 "description": "clothing_drsportsshirt2 desc",
                 "buyout": 0
             },
             "5045": {
                 "slug": "clothing_drsportsshirt",
-                "name": "clothing_drsportsshirt name",
+                "name": "DR Sports T-Shirt",
                 "description": "clothing_drsportsshirt desc",
                 "buyout": 0
             },
             "5044": {
                 "slug": "clothing_drsportsshirt",
-                "name": "clothing_drsportsshirt name",
+                "name": "DR Sports T-Shirt",
                 "description": "clothing_drsportsshirt desc",
                 "buyout": 0
             },
@@ -1092,19 +1092,19 @@
             },
             "5030": {
                 "slug": "clothing_r22_yukata",
-                "name": "Onsen Resort Yukata",
+                "name": "Onsen Resort-Yukata",
                 "description": "clothing_r22_yukata desc",
                 "buyout": 0
             },
             "5029": {
                 "slug": "clothing_r22_yukata",
-                "name": "Onsen Resort Yukata",
+                "name": "Onsen Resort-Yukata",
                 "description": "clothing_r22_yukata desc",
                 "buyout": 0
             },
             "5021": {
                 "slug": "clothing_r22_xmastreeoutfit",
-                "name": "clothing_r22_xmastreeoutfit name",
+                "name": "Festbaum-Outfit",
                 "description": "clothing_r22_xmastreeoutfit desc",
                 "buyout": 0
             },
@@ -2769,7 +2769,7 @@
         "lg": {
             "5022": {
                 "slug": "clothing_r22_xmastreeoutfit",
-                "name": "clothing_r22_xmastreeoutfit name",
+                "name": "Festbaum-Outfit",
                 "description": "clothing_r22_xmastreeoutfit desc",
                 "buyout": 0
             },
@@ -3214,7 +3214,7 @@
             },
             "5023": {
                 "slug": "clothing_r22_xmastreeoutfit",
-                "name": "clothing_r22_xmastreeoutfit name",
+                "name": "Festbaum-Outfit",
                 "description": "clothing_r22_xmastreeoutfit desc",
                 "buyout": 0
             },
@@ -3398,7 +3398,7 @@
         "ha": {
             "5046": {
                 "slug": "clothing_drsportshat",
-                "name": "clothing_drsportshat name",
+                "name": "DR Sports-K\u00e4ppi",
                 "description": "clothing_drsportshat desc",
                 "buyout": 0
             },
@@ -3422,7 +3422,7 @@
             },
             "5020": {
                 "slug": "clothing_r22_xmastreeoutfit",
-                "name": "clothing_r22_xmastreeoutfit name",
+                "name": "Festbaum-Outfit",
                 "description": "clothing_r22_xmastreeoutfit desc",
                 "buyout": 0
             },
@@ -3506,7 +3506,7 @@
             },
             "4948": {
                 "slug": "clothing_goldknitalien",
-                "name": "Goldener Alien-Hut",
+                "name": "Goldener Alienhut",
                 "description": "clothing_goldknitalien desc",
                 "buyout": 0
             },
@@ -6089,7 +6089,7 @@
             },
             "5026": {
                 "slug": "clothing_ltd22_angelwings",
-                "name": "clothing_ltd22_angelwings name",
+                "name": "Engelsfl\u00fcgel",
                 "description": "clothing_ltd22_angelwings desc",
                 "buyout": 0
             },

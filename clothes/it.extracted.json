@@ -1038,26 +1038,26 @@
         "ch": {
             "5048": {
                 "slug": "clothing_drsportsshirt2",
-                "name": "clothing_drsportsshirt2 name",
-                "description": "clothing_drsportsshirt2 desc",
+                "name": "Maglietta dei mondiali",
+                "description": "Maglietta dei mondiali",
                 "buyout": 0
             },
             "5047": {
                 "slug": "clothing_drsportsshirt2",
-                "name": "clothing_drsportsshirt2 name",
-                "description": "clothing_drsportsshirt2 desc",
+                "name": "Maglietta dei mondiali",
+                "description": "Maglietta dei mondiali",
                 "buyout": 0
             },
             "5045": {
                 "slug": "clothing_drsportsshirt",
-                "name": "clothing_drsportsshirt name",
-                "description": "clothing_drsportsshirt desc",
+                "name": "T-shirt DR Sports",
+                "description": "T-shirt DR Sports",
                 "buyout": 0
             },
             "5044": {
                 "slug": "clothing_drsportsshirt",
-                "name": "clothing_drsportsshirt name",
-                "description": "clothing_drsportsshirt desc",
+                "name": "T-shirt DR Sports",
+                "description": "T-shirt DR Sports",
                 "buyout": 0
             },
             "5038": {
@@ -3398,8 +3398,8 @@
         "ha": {
             "5046": {
                 "slug": "clothing_drsportshat",
-                "name": "clothing_drsportshat name",
-                "description": "clothing_drsportshat desc",
+                "name": "Cappellino DR Sports",
+                "description": "Cappellino DR Sports",
                 "buyout": 0
             },
             "5027": {
@@ -3974,7 +3974,7 @@
             },
             "4006": {
                 "slug": "clothing_ghost",
-                "name": "Fanstasma Sulla Spalla",
+                "name": "Fantasma Sulla Spalla",
                 "description": "clothing_ghost desc",
                 "buyout": 1
             },

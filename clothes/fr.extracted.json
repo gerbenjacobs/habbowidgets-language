@@ -1038,25 +1038,25 @@
         "ch": {
             "5048": {
                 "slug": "clothing_drsportsshirt2",
-                "name": "clothing_drsportsshirt2 name",
+                "name": "Maillot de la Coupe du Monde",
                 "description": "clothing_drsportsshirt2 desc",
                 "buyout": 0
             },
             "5047": {
                 "slug": "clothing_drsportsshirt2",
-                "name": "clothing_drsportsshirt2 name",
+                "name": "Maillot de la Coupe du Monde",
                 "description": "clothing_drsportsshirt2 desc",
                 "buyout": 0
             },
             "5045": {
                 "slug": "clothing_drsportsshirt",
-                "name": "clothing_drsportsshirt name",
+                "name": "T-shirt de sport DR",
                 "description": "clothing_drsportsshirt desc",
                 "buyout": 0
             },
             "5044": {
                 "slug": "clothing_drsportsshirt",
-                "name": "clothing_drsportsshirt name",
+                "name": "T-shirt de sport DR",
                 "description": "clothing_drsportsshirt desc",
                 "buyout": 0
             },
@@ -3398,7 +3398,7 @@
         "ha": {
             "5046": {
                 "slug": "clothing_drsportshat",
-                "name": "clothing_drsportshat name",
+                "name": "Casquette de sport DR",
                 "description": "clothing_drsportshat desc",
                 "buyout": 0
             },
