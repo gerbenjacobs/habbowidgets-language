@@ -1038,13 +1038,13 @@
         "ch": {
             "5048": {
                 "slug": "clothing_drsportsshirt2",
-                "name": "World Cup T-Shirt",
+                "name": "DR WM T-Shirt",
                 "description": "clothing_drsportsshirt2 desc",
                 "buyout": 0
             },
             "5047": {
                 "slug": "clothing_drsportsshirt2",
-                "name": "World Cup T-Shirt",
+                "name": "DR WM T-Shirt",
                 "description": "clothing_drsportsshirt2 desc",
                 "buyout": 0
             },
@@ -1110,7 +1110,7 @@
             },
             "5015": {
                 "slug": "clothing_hollyjumper",
-                "name": "clothing_hollyjumper name",
+                "name": "Weihnachtspulli",
                 "description": "clothing_hollyjumper desc",
                 "buyout": 0
             },
@@ -2811,25 +2811,25 @@
             },
             "4315": {
                 "slug": "clothing_po",
-                "name": "Po-Outfit",
+                "name": "Teletubbies - Po-Outfit",
                 "description": "clothing_po desc",
                 "buyout": 0
             },
             "4312": {
                 "slug": "clothing_laalaa",
-                "name": "Laalaa-Outfit",
+                "name": "Teletubbies - Laalaa-Outfit",
                 "description": "clothing_laalaa desc",
                 "buyout": 0
             },
             "4309": {
                 "slug": "clothing_dipsy",
-                "name": "Dipsy-Outfit",
+                "name": "Teletubbies - Dipsy-Outfit",
                 "description": "clothing_dipsy desc",
                 "buyout": 0
             },
             "4306": {
                 "slug": "clothing_tinkywinky",
-                "name": "Tinky Winky-Outfit",
+                "name": "Teletubbies - Tinky Winky-Outfit",
                 "description": "clothing_tinkywinky desc",
                 "buyout": 0
             },
@@ -3410,13 +3410,13 @@
             },
             "5025": {
                 "slug": "clothing_festivereindeerhat",
-                "name": "clothing_festivereindeerhat name",
+                "name": "Rentier-Winterhut",
                 "description": "clothing_festivereindeerhat desc",
                 "buyout": 0
             },
             "5024": {
                 "slug": "clothing_festivepenguinhat",
-                "name": "clothing_festivepenguinhat name",
+                "name": "Pinguin-Winterhut",
                 "description": "clothing_festivepenguinhat desc",
                 "buyout": 0
             },
@@ -3512,7 +3512,7 @@
             },
             "4374": {
                 "slug": "clothing_dipsyhat",
-                "name": "Dipsy-Hut",
+                "name": "Teletubbies - Dipsy-Hut",
                 "description": "clothing_dipsyhat desc",
                 "buyout": 0
             },
@@ -3650,25 +3650,25 @@
             },
             "4313": {
                 "slug": "clothing_po",
-                "name": "Po-Outfit",
+                "name": "Teletubbies - Po-Outfit",
                 "description": "clothing_po desc",
                 "buyout": 0
             },
             "4310": {
                 "slug": "clothing_laalaa",
-                "name": "Laalaa-Outfit",
+                "name": "Teletubbies - Laalaa-Outfit",
                 "description": "clothing_laalaa desc",
                 "buyout": 0
             },
             "4307": {
                 "slug": "clothing_dipsy",
-                "name": "Dipsy-Outfit",
+                "name": "Teletubbies - Dipsy-Outfit",
                 "description": "clothing_dipsy desc",
                 "buyout": 0
             },
             "4304": {
                 "slug": "clothing_tinkywinky",
-                "name": "Tinky Winky-Outfit",
+                "name": "Teletubbies - Tinky Winky-Outfit",
                 "description": "clothing_tinkywinky desc",
                 "buyout": 0
             },
@@ -4934,25 +4934,25 @@
             },
             "4382": {
                 "slug": "clothing_headband_tinkywinky",
-                "name": "Tinky Winky-Stirnband",
+                "name": "Teletubbies - Tinky Winky-Stirnband",
                 "description": "clothing_headband_tinkywinky desc",
                 "buyout": 0
             },
             "4381": {
                 "slug": "clothing_headband_dipsy",
-                "name": "Dipsy-Stirnband",
+                "name": "Teletubbies - Dipsy-Stirnband",
                 "description": "clothing_headband_dipsy desc",
                 "buyout": 0
             },
             "4380": {
                 "slug": "clothing_headband_laalaa",
-                "name": "Laa-Laa-Stirnband",
+                "name": "Teletubbies - Laa-Laa-Stirnband",
                 "description": "clothing_headband_laalaa desc",
                 "buyout": 0
             },
             "4379": {
                 "slug": "clothing_headband_po",
-                "name": "Po-Stirnband",
+                "name": "Teletubbies - Po-Stirnband",
                 "description": "clothing_headband_po desc",
                 "buyout": 0
             },
@@ -6095,13 +6095,13 @@
             },
             "5017": {
                 "slug": "clothing_reindeerbackpack",
-                "name": "clothing_reindeerbackpack name",
+                "name": "Rentierrucksack",
                 "description": "clothing_reindeerbackpack desc",
                 "buyout": 0
             },
             "5016": {
                 "slug": "clothing_penguinbackpack",
-                "name": "clothing_penguinbackpack name",
+                "name": "Pinguinrucksack",
                 "description": "clothing_penguinbackpack desc",
                 "buyout": 0
             },
@@ -6137,25 +6137,25 @@
             },
             "4959": {
                 "slug": "clothing_ttslingbagpo",
-                "name": "Po-Umh\u00e4ngetasche",
+                "name": "Teletubbies - Po-Umh\u00e4ngetasche",
                 "description": "clothing_ttslingbagpo desc",
                 "buyout": 0
             },
             "4958": {
                 "slug": "clothing_ttslingbagll",
-                "name": "Laa-Laa-Umh\u00e4ngetasche",
+                "name": "Teletubbies - Laa-Laa-Umh\u00e4ngetasche",
                 "description": "clothing_ttslingbagll desc",
                 "buyout": 0
             },
             "4957": {
                 "slug": "clothing_ttslingbagdp",
-                "name": "Dipsy-Umh\u00e4ngetasche",
+                "name": "Teletubbies - Dipsy-Umh\u00e4ngetasche",
                 "description": "clothing_ttslingbagdp desc",
                 "buyout": 0
             },
             "4956": {
                 "slug": "clothing_ttslingbagtw",
-                "name": "Tinky Winky-Umh\u00e4ngetasche",
+                "name": "Teletubbies - Tinky Winky-Umh\u00e4ngetasche",
                 "description": "clothing_ttslingbagtw desc",
                 "buyout": 0
             },
@@ -6804,25 +6804,25 @@
             },
             "4314": {
                 "slug": "clothing_po",
-                "name": "Po-Outfit",
+                "name": "Teletubbies - Po-Outfit",
                 "description": "clothing_po desc",
                 "buyout": 0
             },
             "4311": {
                 "slug": "clothing_laalaa",
-                "name": "Laalaa-Outfit",
+                "name": "Teletubbies - Laalaa-Outfit",
                 "description": "clothing_laalaa desc",
                 "buyout": 0
             },
             "4308": {
                 "slug": "clothing_dipsy",
-                "name": "Dipsy-Outfit",
+                "name": "Teletubbies - Dipsy-Outfit",
                 "description": "clothing_dipsy desc",
                 "buyout": 0
             },
             "4305": {
                 "slug": "clothing_tinkywinky",
-                "name": "Tinky Winky-Outfit",
+                "name": "Teletubbies - Tinky Winky-Outfit",
                 "description": "clothing_tinkywinky desc",
                 "buyout": 0
             },

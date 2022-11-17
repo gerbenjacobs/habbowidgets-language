@@ -31,13 +31,13 @@
             },
             "5019": {
                 "slug": "clothing_fadehair",
-                "name": "clothing_fadehair name",
+                "name": "T\u00e4ydellinen ananastukka",
                 "description": "clothing_fadehair desc",
                 "buyout": 0
             },
             "5018": {
                 "slug": "clothing_r22_bowbraidhair",
-                "name": "clothing_r22_bowbraidhair name",
+                "name": "Letitetty rusettikampaus",
                 "description": "clothing_r22_bowbraidhair desc",
                 "buyout": 0
             },
@@ -1038,13 +1038,13 @@
         "ch": {
             "5048": {
                 "slug": "clothing_drsportsshirt2",
-                "name": "World Cup-paita",
+                "name": "DR Jalkapallon MM-paita",
                 "description": "clothing_drsportsshirt2 desc",
                 "buyout": 0
             },
             "5047": {
                 "slug": "clothing_drsportsshirt2",
-                "name": "World Cup-paita",
+                "name": "DR Jalkapallon MM-paita",
                 "description": "clothing_drsportsshirt2 desc",
                 "buyout": 0
             },
@@ -1104,13 +1104,13 @@
             },
             "5021": {
                 "slug": "clothing_r22_xmastreeoutfit",
-                "name": "clothing_r22_xmastreeoutfit name",
+                "name": "Joulukuusi-asu",
                 "description": "clothing_r22_xmastreeoutfit desc",
                 "buyout": 0
             },
             "5015": {
                 "slug": "clothing_hollyjumper",
-                "name": "clothing_hollyjumper name",
+                "name": "Jouluinen villapaita",
                 "description": "clothing_hollyjumper desc",
                 "buyout": 0
             },
@@ -2769,7 +2769,7 @@
         "lg": {
             "5022": {
                 "slug": "clothing_r22_xmastreeoutfit",
-                "name": "clothing_r22_xmastreeoutfit name",
+                "name": "Joulukuusi-asu",
                 "description": "clothing_r22_xmastreeoutfit desc",
                 "buyout": 0
             },
@@ -2811,25 +2811,25 @@
             },
             "4315": {
                 "slug": "clothing_po",
-                "name": "Pai-asu",
+                "name": "Teletubbies - Pai-asu",
                 "description": "clothing_po desc",
                 "buyout": 0
             },
             "4312": {
                 "slug": "clothing_laalaa",
-                "name": "Laa-Laa-asu",
+                "name": "Teletubbies - Laa-Laa-asu",
                 "description": "clothing_laalaa desc",
                 "buyout": 0
             },
             "4309": {
                 "slug": "clothing_dipsy",
-                "name": "Hipsu-asu",
+                "name": "Teletubbies - Hipsu-asu",
                 "description": "clothing_dipsy desc",
                 "buyout": 0
             },
             "4306": {
                 "slug": "clothing_tinkywinky",
-                "name": "Tiivi-Taavi-asu",
+                "name": "Teletubbies - Tiivi-Taavi-asu",
                 "description": "clothing_tinkywinky desc",
                 "buyout": 0
             },
@@ -3214,7 +3214,7 @@
             },
             "5023": {
                 "slug": "clothing_r22_xmastreeoutfit",
-                "name": "clothing_r22_xmastreeoutfit name",
+                "name": "Joulukuusi-asu",
                 "description": "clothing_r22_xmastreeoutfit desc",
                 "buyout": 0
             },
@@ -3410,19 +3410,19 @@
             },
             "5025": {
                 "slug": "clothing_festivereindeerhat",
-                "name": "clothing_festivereindeerhat name",
+                "name": "Poropipo",
                 "description": "clothing_festivereindeerhat desc",
                 "buyout": 0
             },
             "5024": {
                 "slug": "clothing_festivepenguinhat",
-                "name": "clothing_festivepenguinhat name",
+                "name": "Pingviinipipo",
                 "description": "clothing_festivepenguinhat desc",
                 "buyout": 0
             },
             "5020": {
                 "slug": "clothing_r22_xmastreeoutfit",
-                "name": "clothing_r22_xmastreeoutfit name",
+                "name": "Joulukuusi-asu",
                 "description": "clothing_r22_xmastreeoutfit desc",
                 "buyout": 0
             },
@@ -3512,7 +3512,7 @@
             },
             "4374": {
                 "slug": "clothing_dipsyhat",
-                "name": "Hipsun hattu",
+                "name": "Teletubbies - Hipsun hattu",
                 "description": "clothing_dipsyhat desc",
                 "buyout": 0
             },
@@ -3650,25 +3650,25 @@
             },
             "4313": {
                 "slug": "clothing_po",
-                "name": "Pai-asu",
+                "name": "Teletubbies - Pai-asu",
                 "description": "clothing_po desc",
                 "buyout": 0
             },
             "4310": {
                 "slug": "clothing_laalaa",
-                "name": "Laa-Laa-asu",
+                "name": "Teletubbies - Laa-Laa-asu",
                 "description": "clothing_laalaa desc",
                 "buyout": 0
             },
             "4307": {
                 "slug": "clothing_dipsy",
-                "name": "Hipsu-asu",
+                "name": "Teletubbies - Hipsu-asu",
                 "description": "clothing_dipsy desc",
                 "buyout": 0
             },
             "4304": {
                 "slug": "clothing_tinkywinky",
-                "name": "Tiivi-Taavi-asu",
+                "name": "Teletubbies - Tiivi-Taavi-asu",
                 "description": "clothing_tinkywinky desc",
                 "buyout": 0
             },
@@ -4934,25 +4934,25 @@
             },
             "4382": {
                 "slug": "clothing_headband_tinkywinky",
-                "name": "Tiivi-Taavi-panta",
+                "name": "Teletubbies - Tiivi-Taavi-panta",
                 "description": "clothing_headband_tinkywinky desc",
                 "buyout": 0
             },
             "4381": {
                 "slug": "clothing_headband_dipsy",
-                "name": "Hipsu-panta",
+                "name": "Teletubbies - Hipsu-panta",
                 "description": "clothing_headband_dipsy desc",
                 "buyout": 0
             },
             "4380": {
                 "slug": "clothing_headband_laalaa",
-                "name": "Laa-Laa-panta",
+                "name": "Teletubbies - Laa-Laa-panta",
                 "description": "clothing_headband_laalaa desc",
                 "buyout": 0
             },
             "4379": {
                 "slug": "clothing_headband_po",
-                "name": "Pai-panta",
+                "name": "Teletubbies - Pai-panta",
                 "description": "clothing_headband_po desc",
                 "buyout": 0
             },
@@ -6089,19 +6089,19 @@
             },
             "5026": {
                 "slug": "clothing_ltd22_angelwings",
-                "name": "clothing_ltd22_angelwings name",
+                "name": "Enkelin siivet",
                 "description": "clothing_ltd22_angelwings desc",
                 "buyout": 0
             },
             "5017": {
                 "slug": "clothing_reindeerbackpack",
-                "name": "clothing_reindeerbackpack name",
+                "name": "Pororeppu",
                 "description": "clothing_reindeerbackpack desc",
                 "buyout": 0
             },
             "5016": {
                 "slug": "clothing_penguinbackpack",
-                "name": "clothing_penguinbackpack name",
+                "name": "Pingviinireppu",
                 "description": "clothing_penguinbackpack desc",
                 "buyout": 0
             },
@@ -6137,25 +6137,25 @@
             },
             "4959": {
                 "slug": "clothing_ttslingbagpo",
-                "name": "Pai olkalaukku",
+                "name": "Teletubbies - Pai olkalaukku",
                 "description": "clothing_ttslingbagpo desc",
                 "buyout": 0
             },
             "4958": {
                 "slug": "clothing_ttslingbagll",
-                "name": "Laa-Laa olkalaukku",
+                "name": "Teletubbies - Laa-Laa olkalaukku",
                 "description": "clothing_ttslingbagll desc",
                 "buyout": 0
             },
             "4957": {
                 "slug": "clothing_ttslingbagdp",
-                "name": "Hipsu olkalaukku",
+                "name": "Teletubbies - Hipsu olkalaukku",
                 "description": "clothing_ttslingbagdp desc",
                 "buyout": 0
             },
             "4956": {
                 "slug": "clothing_ttslingbagtw",
-                "name": "Tiivi-Taavi olkalaukku",
+                "name": "Teletubbies - Tiivi-Taavi olkalaukku",
                 "description": "clothing_ttslingbagtw desc",
                 "buyout": 0
             },
@@ -6804,25 +6804,25 @@
             },
             "4314": {
                 "slug": "clothing_po",
-                "name": "Pai-asu",
+                "name": "Teletubbies - Pai-asu",
                 "description": "clothing_po desc",
                 "buyout": 0
             },
             "4311": {
                 "slug": "clothing_laalaa",
-                "name": "Laa-Laa-asu",
+                "name": "Teletubbies - Laa-Laa-asu",
                 "description": "clothing_laalaa desc",
                 "buyout": 0
             },
             "4308": {
                 "slug": "clothing_dipsy",
-                "name": "Hipsu-asu",
+                "name": "Teletubbies - Hipsu-asu",
                 "description": "clothing_dipsy desc",
                 "buyout": 0
             },
             "4305": {
                 "slug": "clothing_tinkywinky",
-                "name": "Tiivi-Taavi-asu",
+                "name": "Teletubbies - Tiivi-Taavi-asu",
                 "description": "clothing_tinkywinky desc",
                 "buyout": 0
             },

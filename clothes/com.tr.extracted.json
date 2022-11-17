@@ -31,13 +31,13 @@
             },
             "5019": {
                 "slug": "clothing_fadehair",
-                "name": "clothing_fadehair name",
+                "name": "M\u00fckemmel G\u00f6lge",
                 "description": "clothing_fadehair desc",
                 "buyout": 0
             },
             "5018": {
                 "slug": "clothing_r22_bowbraidhair",
-                "name": "clothing_r22_bowbraidhair name",
+                "name": "Kurdeleli \u00d6rg\u00fc Sa\u00e7",
                 "description": "clothing_r22_bowbraidhair desc",
                 "buyout": 0
             },
@@ -1038,13 +1038,13 @@
         "ch": {
             "5048": {
                 "slug": "clothing_drsportsshirt2",
-                "name": "D\u00fcnya Kupas\u0131 Ti\u015f\u00f6rt\u00fc",
+                "name": "DR D\u00fcnya Kupas\u0131 Ti\u015f\u00f6rt\u00fc",
                 "description": "clothing_drsportsshirt2 desc",
                 "buyout": 0
             },
             "5047": {
                 "slug": "clothing_drsportsshirt2",
-                "name": "D\u00fcnya Kupas\u0131 Ti\u015f\u00f6rt\u00fc",
+                "name": "DR D\u00fcnya Kupas\u0131 Ti\u015f\u00f6rt\u00fc",
                 "description": "clothing_drsportsshirt2 desc",
                 "buyout": 0
             },
@@ -1104,7 +1104,7 @@
             },
             "5021": {
                 "slug": "clothing_r22_xmastreeoutfit",
-                "name": "clothing_r22_xmastreeoutfit name",
+                "name": "\u00c7am A\u011fac\u0131 Kost\u00fcm\u00fc",
                 "description": "clothing_r22_xmastreeoutfit desc",
                 "buyout": 0
             },
@@ -2769,7 +2769,7 @@
         "lg": {
             "5022": {
                 "slug": "clothing_r22_xmastreeoutfit",
-                "name": "clothing_r22_xmastreeoutfit name",
+                "name": "\u00c7am A\u011fac\u0131 Kost\u00fcm\u00fc",
                 "description": "clothing_r22_xmastreeoutfit desc",
                 "buyout": 0
             },
@@ -2811,25 +2811,25 @@
             },
             "4315": {
                 "slug": "clothing_po",
-                "name": "Po K\u0131yafeti ",
+                "name": "Teletubbies - Po K\u0131yafeti",
                 "description": "clothing_po desc",
                 "buyout": 0
             },
             "4312": {
                 "slug": "clothing_laalaa",
-                "name": "Laalaa K\u0131yafeti ",
+                "name": "Teletubbies - Laalaa K\u0131yafeti",
                 "description": "clothing_laalaa desc",
                 "buyout": 0
             },
             "4309": {
                 "slug": "clothing_dipsy",
-                "name": "Dipsy K\u0131yafeti ",
+                "name": "Teletubbies - Dipsy K\u0131yafeti",
                 "description": "clothing_dipsy desc",
                 "buyout": 0
             },
             "4306": {
                 "slug": "clothing_tinkywinky",
-                "name": "Tinky Winky K\u0131yafeti ",
+                "name": "Teletubbies - Tinky Winky K\u0131yafeti",
                 "description": "clothing_tinkywinky desc",
                 "buyout": 0
             },
@@ -3214,7 +3214,7 @@
             },
             "5023": {
                 "slug": "clothing_r22_xmastreeoutfit",
-                "name": "clothing_r22_xmastreeoutfit name",
+                "name": "\u00c7am A\u011fac\u0131 Kost\u00fcm\u00fc",
                 "description": "clothing_r22_xmastreeoutfit desc",
                 "buyout": 0
             },
@@ -3422,7 +3422,7 @@
             },
             "5020": {
                 "slug": "clothing_r22_xmastreeoutfit",
-                "name": "clothing_r22_xmastreeoutfit name",
+                "name": "\u00c7am A\u011fac\u0131 Kost\u00fcm\u00fc",
                 "description": "clothing_r22_xmastreeoutfit desc",
                 "buyout": 0
             },
@@ -3512,7 +3512,7 @@
             },
             "4374": {
                 "slug": "clothing_dipsyhat",
-                "name": "Dipsy \u015eapkas\u0131",
+                "name": "Teletubbies - Dipsy \u015eapkas\u0131",
                 "description": "clothing_dipsyhat desc",
                 "buyout": 0
             },
@@ -3650,25 +3650,25 @@
             },
             "4313": {
                 "slug": "clothing_po",
-                "name": "Po K\u0131yafeti ",
+                "name": "Teletubbies - Po K\u0131yafeti",
                 "description": "clothing_po desc",
                 "buyout": 0
             },
             "4310": {
                 "slug": "clothing_laalaa",
-                "name": "Laalaa K\u0131yafeti ",
+                "name": "Teletubbies - Laalaa K\u0131yafeti",
                 "description": "clothing_laalaa desc",
                 "buyout": 0
             },
             "4307": {
                 "slug": "clothing_dipsy",
-                "name": "Dipsy K\u0131yafeti ",
+                "name": "Teletubbies - Dipsy K\u0131yafeti",
                 "description": "clothing_dipsy desc",
                 "buyout": 0
             },
             "4304": {
                 "slug": "clothing_tinkywinky",
-                "name": "Tinky Winky K\u0131yafeti ",
+                "name": "Teletubbies - Tinky Winky K\u0131yafeti",
                 "description": "clothing_tinkywinky desc",
                 "buyout": 0
             },
@@ -4934,25 +4934,25 @@
             },
             "4382": {
                 "slug": "clothing_headband_tinkywinky",
-                "name": "Tinky Winky Kafa Band\u0131",
+                "name": "Teletubbies - Tinky Winky Kafa Band\u0131",
                 "description": "clothing_headband_tinkywinky desc",
                 "buyout": 0
             },
             "4381": {
                 "slug": "clothing_headband_dipsy",
-                "name": "Dipsy Kafa Band\u0131",
+                "name": "Teletubbies - Dipsy Kafa Band\u0131",
                 "description": "clothing_headband_dipsy desc",
                 "buyout": 0
             },
             "4380": {
                 "slug": "clothing_headband_laalaa",
-                "name": "Laa-Laa Kafa Band\u0131",
+                "name": "Teletubbies - Laa-Laa Kafa Band\u0131",
                 "description": "clothing_headband_laalaa desc",
                 "buyout": 0
             },
             "4379": {
                 "slug": "clothing_headband_po",
-                "name": "Po Kafa Band\u0131",
+                "name": "Teletubbies - Po Kafa Band\u0131",
                 "description": "clothing_headband_po desc",
                 "buyout": 0
             },
@@ -6089,7 +6089,7 @@
             },
             "5026": {
                 "slug": "clothing_ltd22_angelwings",
-                "name": "clothing_ltd22_angelwings name",
+                "name": "Melek Kanatlar\u0131",
                 "description": "clothing_ltd22_angelwings desc",
                 "buyout": 0
             },
@@ -6137,25 +6137,25 @@
             },
             "4959": {
                 "slug": "clothing_ttslingbagpo",
-                "name": "Po Ask\u0131l\u0131 \u00c7anta",
+                "name": "Teletubbies - Po Ask\u0131l\u0131 \u00c7anta",
                 "description": "clothing_ttslingbagpo desc",
                 "buyout": 0
             },
             "4958": {
                 "slug": "clothing_ttslingbagll",
-                "name": "Laa-Laa Ask\u0131l\u0131 \u00c7anta",
+                "name": "Teletubbies - Laa-Laa Ask\u0131l\u0131 \u00c7anta",
                 "description": "clothing_ttslingbagll desc",
                 "buyout": 0
             },
             "4957": {
                 "slug": "clothing_ttslingbagdp",
-                "name": "Dipsy Ask\u0131l\u0131 \u00c7anta",
+                "name": "Teletubbies - Dipsy Ask\u0131l\u0131 \u00c7anta",
                 "description": "clothing_ttslingbagdp desc",
                 "buyout": 0
             },
             "4956": {
                 "slug": "clothing_ttslingbagtw",
-                "name": "Tinky Winky Ask\u0131l\u0131 \u00c7anta",
+                "name": "Teletubbies - Tinky Winky Ask\u0131l\u0131 \u00c7anta",
                 "description": "clothing_ttslingbagtw desc",
                 "buyout": 0
             },
@@ -6804,25 +6804,25 @@
             },
             "4314": {
                 "slug": "clothing_po",
-                "name": "Po K\u0131yafeti ",
+                "name": "Teletubbies - Po K\u0131yafeti",
                 "description": "clothing_po desc",
                 "buyout": 0
             },
             "4311": {
                 "slug": "clothing_laalaa",
-                "name": "Laalaa K\u0131yafeti ",
+                "name": "Teletubbies - Laalaa K\u0131yafeti",
                 "description": "clothing_laalaa desc",
                 "buyout": 0
             },
             "4308": {
                 "slug": "clothing_dipsy",
-                "name": "Dipsy K\u0131yafeti ",
+                "name": "Teletubbies - Dipsy K\u0131yafeti",
                 "description": "clothing_dipsy desc",
                 "buyout": 0
             },
             "4305": {
                 "slug": "clothing_tinkywinky",
-                "name": "Tinky Winky K\u0131yafeti ",
+                "name": "Teletubbies - Tinky Winky K\u0131yafeti",
                 "description": "clothing_tinkywinky desc",
                 "buyout": 0
             },

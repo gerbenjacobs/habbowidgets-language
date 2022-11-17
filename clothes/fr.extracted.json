@@ -31,13 +31,13 @@
             },
             "5019": {
                 "slug": "clothing_fadehair",
-                "name": "clothing_fadehair name",
+                "name": "D\u00e9coloration parfaite",
                 "description": "clothing_fadehair desc",
                 "buyout": 0
             },
             "5018": {
                 "slug": "clothing_r22_bowbraidhair",
-                "name": "clothing_r22_bowbraidhair name",
+                "name": "Cheveulure tress\u00e9s avec un n\u0153ud",
                 "description": "clothing_r22_bowbraidhair desc",
                 "buyout": 0
             },
@@ -1038,13 +1038,13 @@
         "ch": {
             "5048": {
                 "slug": "clothing_drsportsshirt2",
-                "name": "Maillot de la Coupe du Monde",
+                "name": "Maillot de la Coupe du Monde DR",
                 "description": "clothing_drsportsshirt2 desc",
                 "buyout": 0
             },
             "5047": {
                 "slug": "clothing_drsportsshirt2",
-                "name": "Maillot de la Coupe du Monde",
+                "name": "Maillot de la Coupe du Monde DR",
                 "description": "clothing_drsportsshirt2 desc",
                 "buyout": 0
             },
@@ -1104,13 +1104,13 @@
             },
             "5021": {
                 "slug": "clothing_r22_xmastreeoutfit",
-                "name": "clothing_r22_xmastreeoutfit name",
+                "name": "Tenue de sapin de No\u00ebl",
                 "description": "clothing_r22_xmastreeoutfit desc",
                 "buyout": 0
             },
             "5015": {
                 "slug": "clothing_hollyjumper",
-                "name": "clothing_hollyjumper name",
+                "name": "Pull-over de Holly",
                 "description": "clothing_hollyjumper desc",
                 "buyout": 0
             },
@@ -2769,7 +2769,7 @@
         "lg": {
             "5022": {
                 "slug": "clothing_r22_xmastreeoutfit",
-                "name": "clothing_r22_xmastreeoutfit name",
+                "name": "Tenue de sapin de No\u00ebl",
                 "description": "clothing_r22_xmastreeoutfit desc",
                 "buyout": 0
             },
@@ -2811,25 +2811,25 @@
             },
             "4315": {
                 "slug": "clothing_po",
-                "name": "Tenue de Po",
+                "name": "Teletubbies - Tenue de Po",
                 "description": "clothing_po desc",
                 "buyout": 0
             },
             "4312": {
                 "slug": "clothing_laalaa",
-                "name": "Tenue de Laalaa",
+                "name": "Teletubbies - Tenue de Laalaa",
                 "description": "clothing_laalaa desc",
                 "buyout": 0
             },
             "4309": {
                 "slug": "clothing_dipsy",
-                "name": "Tenue de Dipsy",
+                "name": "Teletubbies - Tenue de Dipsy",
                 "description": "clothing_dipsy desc",
                 "buyout": 0
             },
             "4306": {
                 "slug": "clothing_tinkywinky",
-                "name": "Tenue de Tinky Winky",
+                "name": "Teletubbies - Tenue de Tinky Winky",
                 "description": "clothing_tinkywinky desc",
                 "buyout": 0
             },
@@ -3214,7 +3214,7 @@
             },
             "5023": {
                 "slug": "clothing_r22_xmastreeoutfit",
-                "name": "clothing_r22_xmastreeoutfit name",
+                "name": "Tenue de sapin de No\u00ebl",
                 "description": "clothing_r22_xmastreeoutfit desc",
                 "buyout": 0
             },
@@ -3410,19 +3410,19 @@
             },
             "5025": {
                 "slug": "clothing_festivereindeerhat",
-                "name": "clothing_festivereindeerhat name",
+                "name": "Bonnet de renne d'hiver",
                 "description": "clothing_festivereindeerhat desc",
                 "buyout": 0
             },
             "5024": {
                 "slug": "clothing_festivepenguinhat",
-                "name": "clothing_festivepenguinhat name",
+                "name": "Chapeau d'hiver Pingouin",
                 "description": "clothing_festivepenguinhat desc",
                 "buyout": 0
             },
             "5020": {
                 "slug": "clothing_r22_xmastreeoutfit",
-                "name": "clothing_r22_xmastreeoutfit name",
+                "name": "Tenue de sapin de No\u00ebl",
                 "description": "clothing_r22_xmastreeoutfit desc",
                 "buyout": 0
             },
@@ -3512,7 +3512,7 @@
             },
             "4374": {
                 "slug": "clothing_dipsyhat",
-                "name": "Chapeau Dipsy",
+                "name": "Teletubbies - Chapeau Dipsy",
                 "description": "clothing_dipsyhat desc",
                 "buyout": 0
             },
@@ -3650,25 +3650,25 @@
             },
             "4313": {
                 "slug": "clothing_po",
-                "name": "Tenue de Po",
+                "name": "Teletubbies - Tenue de Po",
                 "description": "clothing_po desc",
                 "buyout": 0
             },
             "4310": {
                 "slug": "clothing_laalaa",
-                "name": "Tenue de Laalaa",
+                "name": "Teletubbies - Tenue de Laalaa",
                 "description": "clothing_laalaa desc",
                 "buyout": 0
             },
             "4307": {
                 "slug": "clothing_dipsy",
-                "name": "Tenue de Dipsy",
+                "name": "Teletubbies - Tenue de Dipsy",
                 "description": "clothing_dipsy desc",
                 "buyout": 0
             },
             "4304": {
                 "slug": "clothing_tinkywinky",
-                "name": "Tenue de Tinky Winky",
+                "name": "Teletubbies - Tenue de Tinky Winky",
                 "description": "clothing_tinkywinky desc",
                 "buyout": 0
             },
@@ -4934,25 +4934,25 @@
             },
             "4382": {
                 "slug": "clothing_headband_tinkywinky",
-                "name": "Serre-t\u00eate Tinky Winky",
+                "name": "Teletubbies - Serre-t\u00eate Tinky Winky",
                 "description": "clothing_headband_tinkywinky desc",
                 "buyout": 0
             },
             "4381": {
                 "slug": "clothing_headband_dipsy",
-                "name": "Serre-t\u00eate Dipsy",
+                "name": "Teletubbies - Serre-t\u00eate Dipsy",
                 "description": "clothing_headband_dipsy desc",
                 "buyout": 0
             },
             "4380": {
                 "slug": "clothing_headband_laalaa",
-                "name": "Serre-t\u00eate Laa-Laa",
+                "name": "Teletubbies - Serre-t\u00eate Laa-Laa",
                 "description": "clothing_headband_laalaa desc",
                 "buyout": 0
             },
             "4379": {
                 "slug": "clothing_headband_po",
-                "name": "Serre-t\u00eate Po",
+                "name": "Teletubbies - Serre-t\u00eate Po",
                 "description": "clothing_headband_po desc",
                 "buyout": 0
             },
@@ -6089,19 +6089,19 @@
             },
             "5026": {
                 "slug": "clothing_ltd22_angelwings",
-                "name": "clothing_ltd22_angelwings name",
+                "name": "Ailes d'ange",
                 "description": "clothing_ltd22_angelwings desc",
                 "buyout": 0
             },
             "5017": {
                 "slug": "clothing_reindeerbackpack",
-                "name": "clothing_reindeerbackpack name",
+                "name": "Sac \u00e0 dos Renne",
                 "description": "clothing_reindeerbackpack desc",
                 "buyout": 0
             },
             "5016": {
                 "slug": "clothing_penguinbackpack",
-                "name": "clothing_penguinbackpack name",
+                "name": "Sac \u00e0 dos Pingouin",
                 "description": "clothing_penguinbackpack desc",
                 "buyout": 0
             },
@@ -6137,25 +6137,25 @@
             },
             "4959": {
                 "slug": "clothing_ttslingbagpo",
-                "name": "Sac en bandouli\u00e8re Po",
+                "name": "Teletubbies - Sac en bandouli\u00e8re Po",
                 "description": "clothing_ttslingbagpo desc",
                 "buyout": 0
             },
             "4958": {
                 "slug": "clothing_ttslingbagll",
-                "name": "Sac en bandouli\u00e8re Laa-Laa",
+                "name": "Teletubbies - Sac en bandouli\u00e8re Laa-Laa",
                 "description": "clothing_ttslingbagll desc",
                 "buyout": 0
             },
             "4957": {
                 "slug": "clothing_ttslingbagdp",
-                "name": "Sac en bandouli\u00e8re Dipsy",
+                "name": "Teletubbies - Sac en bandouli\u00e8re Dipsy",
                 "description": "clothing_ttslingbagdp desc",
                 "buyout": 0
             },
             "4956": {
                 "slug": "clothing_ttslingbagtw",
-                "name": "Sac en bandouli\u00e8re Tinky Winky",
+                "name": "Teletubbies - Sac en bandouli\u00e8re Tinky Winky",
                 "description": "clothing_ttslingbagtw desc",
                 "buyout": 0
             },
@@ -6804,25 +6804,25 @@
             },
             "4314": {
                 "slug": "clothing_po",
-                "name": "Tenue de Po",
+                "name": "Teletubbies - Tenue de Po",
                 "description": "clothing_po desc",
                 "buyout": 0
             },
             "4311": {
                 "slug": "clothing_laalaa",
-                "name": "Tenue de Laalaa",
+                "name": "Teletubbies - Tenue de Laalaa",
                 "description": "clothing_laalaa desc",
                 "buyout": 0
             },
             "4308": {
                 "slug": "clothing_dipsy",
-                "name": "Tenue de Dipsy",
+                "name": "Teletubbies - Tenue de Dipsy",
                 "description": "clothing_dipsy desc",
                 "buyout": 0
             },
             "4305": {
                 "slug": "clothing_tinkywinky",
-                "name": "Tenue de Tinky Winky",
+                "name": "Teletubbies - Tenue de Tinky Winky",
                 "description": "clothing_tinkywinky desc",
                 "buyout": 0
             },

@@ -31,13 +31,13 @@
             },
             "5019": {
                 "slug": "clothing_fadehair",
-                "name": "clothing_fadehair name",
+                "name": "Perfect Fade Kapsel",
                 "description": "clothing_fadehair desc",
                 "buyout": 0
             },
             "5018": {
                 "slug": "clothing_r22_bowbraidhair",
-                "name": "clothing_r22_bowbraidhair name",
+                "name": "Gevlochten Kapsel met Strik",
                 "description": "clothing_r22_bowbraidhair desc",
                 "buyout": 0
             },
@@ -1038,13 +1038,13 @@
         "ch": {
             "5048": {
                 "slug": "clothing_drsportsshirt2",
-                "name": "WK T-shirt",
+                "name": "DR WK T-shirt",
                 "description": "clothing_drsportsshirt2 desc",
                 "buyout": 0
             },
             "5047": {
                 "slug": "clothing_drsportsshirt2",
-                "name": "WK T-shirt",
+                "name": "DR WK T-shirt",
                 "description": "clothing_drsportsshirt2 desc",
                 "buyout": 0
             },
@@ -1104,7 +1104,7 @@
             },
             "5021": {
                 "slug": "clothing_r22_xmastreeoutfit",
-                "name": "clothing_r22_xmastreeoutfit name",
+                "name": "Kerstboom Outfit",
                 "description": "clothing_r22_xmastreeoutfit desc",
                 "buyout": 0
             },
@@ -2769,7 +2769,7 @@
         "lg": {
             "5022": {
                 "slug": "clothing_r22_xmastreeoutfit",
-                "name": "clothing_r22_xmastreeoutfit name",
+                "name": "Kerstboom Outfit",
                 "description": "clothing_r22_xmastreeoutfit desc",
                 "buyout": 0
             },
@@ -2811,25 +2811,25 @@
             },
             "4315": {
                 "slug": "clothing_po",
-                "name": "Po Outfit",
+                "name": "Teletubbies - Po Outfit",
                 "description": "clothing_po desc",
                 "buyout": 0
             },
             "4312": {
                 "slug": "clothing_laalaa",
-                "name": "Laa-laa Outfit",
+                "name": "Teletubbies - Laa-laa Outfit",
                 "description": "clothing_laalaa desc",
                 "buyout": 0
             },
             "4309": {
                 "slug": "clothing_dipsy",
-                "name": "Dipsy Outfit",
+                "name": "Teletubbies - Dipsy Outfit",
                 "description": "clothing_dipsy desc",
                 "buyout": 0
             },
             "4306": {
                 "slug": "clothing_tinkywinky",
-                "name": "Tinky Winky Outfit",
+                "name": "Teletubbies - Tinky Winky Outfit",
                 "description": "clothing_tinkywinky desc",
                 "buyout": 0
             },
@@ -3214,7 +3214,7 @@
             },
             "5023": {
                 "slug": "clothing_r22_xmastreeoutfit",
-                "name": "clothing_r22_xmastreeoutfit name",
+                "name": "Kerstboom Outfit",
                 "description": "clothing_r22_xmastreeoutfit desc",
                 "buyout": 0
             },
@@ -3422,7 +3422,7 @@
             },
             "5020": {
                 "slug": "clothing_r22_xmastreeoutfit",
-                "name": "clothing_r22_xmastreeoutfit name",
+                "name": "Kerstboom Outfit",
                 "description": "clothing_r22_xmastreeoutfit desc",
                 "buyout": 0
             },
@@ -3512,7 +3512,7 @@
             },
             "4374": {
                 "slug": "clothing_dipsyhat",
-                "name": "Dipsy Hoed",
+                "name": "Teletubbies - Dipsy Hoed",
                 "description": "clothing_dipsyhat desc",
                 "buyout": 0
             },
@@ -3650,25 +3650,25 @@
             },
             "4313": {
                 "slug": "clothing_po",
-                "name": "Po Outfit",
+                "name": "Teletubbies - Po Outfit",
                 "description": "clothing_po desc",
                 "buyout": 0
             },
             "4310": {
                 "slug": "clothing_laalaa",
-                "name": "Laa-laa Outfit",
+                "name": "Teletubbies - Laa-laa Outfit",
                 "description": "clothing_laalaa desc",
                 "buyout": 0
             },
             "4307": {
                 "slug": "clothing_dipsy",
-                "name": "Dipsy Outfit",
+                "name": "Teletubbies - Dipsy Outfit",
                 "description": "clothing_dipsy desc",
                 "buyout": 0
             },
             "4304": {
                 "slug": "clothing_tinkywinky",
-                "name": "Tinky Winky Outfit",
+                "name": "Teletubbies - Tinky Winky Outfit",
                 "description": "clothing_tinkywinky desc",
                 "buyout": 0
             },
@@ -4934,25 +4934,25 @@
             },
             "4382": {
                 "slug": "clothing_headband_tinkywinky",
-                "name": "Tinky Winky Haarband",
+                "name": "Teletubbies - Tinky Winky Haarband",
                 "description": "clothing_headband_tinkywinky desc",
                 "buyout": 0
             },
             "4381": {
                 "slug": "clothing_headband_dipsy",
-                "name": "Dipsy Haarband",
+                "name": "Teletubbies - Dipsy Haarband",
                 "description": "clothing_headband_dipsy desc",
                 "buyout": 0
             },
             "4380": {
                 "slug": "clothing_headband_laalaa",
-                "name": "Laa-Laa Haarband",
+                "name": "Teletubbies - Laa-Laa Haarband",
                 "description": "clothing_headband_laalaa desc",
                 "buyout": 0
             },
             "4379": {
                 "slug": "clothing_headband_po",
-                "name": "Po Haarband",
+                "name": "Teletubbies - Po Haarband",
                 "description": "clothing_headband_po desc",
                 "buyout": 0
             },
@@ -6089,7 +6089,7 @@
             },
             "5026": {
                 "slug": "clothing_ltd22_angelwings",
-                "name": "clothing_ltd22_angelwings name",
+                "name": "Engel Vleugels",
                 "description": "clothing_ltd22_angelwings desc",
                 "buyout": 0
             },
@@ -6137,25 +6137,25 @@
             },
             "4959": {
                 "slug": "clothing_ttslingbagpo",
-                "name": "Po Schoudertas",
+                "name": "Teletubbies - Po Schoudertas",
                 "description": "clothing_ttslingbagpo desc",
                 "buyout": 0
             },
             "4958": {
                 "slug": "clothing_ttslingbagll",
-                "name": "Laa-Laa Schoudertas",
+                "name": "Teletubbies - Laa-Laa Schoudertas",
                 "description": "clothing_ttslingbagll desc",
                 "buyout": 0
             },
             "4957": {
                 "slug": "clothing_ttslingbagdp",
-                "name": "Dipsy Schoudertas",
+                "name": "Teletubbies - Dipsy Schoudertas",
                 "description": "clothing_ttslingbagdp desc",
                 "buyout": 0
             },
             "4956": {
                 "slug": "clothing_ttslingbagtw",
-                "name": "Tinky Winky Schoudertas",
+                "name": "Teletubbies - Tinky Winky Schoudertas",
                 "description": "clothing_ttslingbagtw desc",
                 "buyout": 0
             },
@@ -6804,25 +6804,25 @@
             },
             "4314": {
                 "slug": "clothing_po",
-                "name": "Po Outfit",
+                "name": "Teletubbies - Po Outfit",
                 "description": "clothing_po desc",
                 "buyout": 0
             },
             "4311": {
                 "slug": "clothing_laalaa",
-                "name": "Laa-laa Outfit",
+                "name": "Teletubbies - Laa-laa Outfit",
                 "description": "clothing_laalaa desc",
                 "buyout": 0
             },
             "4308": {
                 "slug": "clothing_dipsy",
-                "name": "Dipsy Outfit",
+                "name": "Teletubbies - Dipsy Outfit",
                 "description": "clothing_dipsy desc",
                 "buyout": 0
             },
             "4305": {
                 "slug": "clothing_tinkywinky",
-                "name": "Tinky Winky Outfit",
+                "name": "Teletubbies - Tinky Winky Outfit",
                 "description": "clothing_tinkywinky desc",
                 "buyout": 0
             },
