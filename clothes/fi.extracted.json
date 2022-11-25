@@ -2364,7 +2364,7 @@
             },
             "3540": {
                 "slug": "clothing_xmas4",
-                "name": "Ruudolf-pusakka",
+                "name": "Petteripusakka",
                 "description": "L\u00e4mmitt\u00e4\u00e4 talvipakkasilla",
                 "buyout": 1
             },
@@ -4884,6 +4884,12 @@
             "1001": null
         },
         "he": {
+            "5074": {
+                "slug": "clothing_starcrown",
+                "name": "T\u00e4htikruunu",
+                "description": "clothing_starcrown desc",
+                "buyout": 0
+            },
             "5031": {
                 "slug": "clothing_hkheadphones",
                 "name": "clothing_hkheadphones name",

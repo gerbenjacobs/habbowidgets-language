@@ -4884,6 +4884,12 @@
             "1001": null
         },
         "he": {
+            "5074": {
+                "slug": "clothing_starcrown",
+                "name": "Coroa de Estrelas",
+                "description": "clothing_starcrown desc",
+                "buyout": 0
+            },
             "5031": {
                 "slug": "clothing_hkheadphones",
                 "name": "Fones de Ouvido Hello Kitty",

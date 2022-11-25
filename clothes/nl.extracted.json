@@ -1110,7 +1110,7 @@
             },
             "5015": {
                 "slug": "clothing_hollyjumper",
-                "name": "clothing_hollyjumper name",
+                "name": "Kersttrui",
                 "description": "clothing_hollyjumper desc",
                 "buyout": 0
             },
@@ -3410,13 +3410,13 @@
             },
             "5025": {
                 "slug": "clothing_festivereindeerhat",
-                "name": "clothing_festivereindeerhat name",
+                "name": "Rendier Wintermuts",
                 "description": "clothing_festivereindeerhat desc",
                 "buyout": 0
             },
             "5024": {
                 "slug": "clothing_festivepenguinhat",
-                "name": "clothing_festivepenguinhat name",
+                "name": "Pingu\u00efn Wintermuts",
                 "description": "clothing_festivepenguinhat desc",
                 "buyout": 0
             },
@@ -4884,6 +4884,12 @@
             "1001": null
         },
         "he": {
+            "5074": {
+                "slug": "clothing_starcrown",
+                "name": "Sterren Kroon",
+                "description": "clothing_starcrown desc",
+                "buyout": 0
+            },
             "5031": {
                 "slug": "clothing_hkheadphones",
                 "name": "clothing_hkheadphones name",
@@ -6095,13 +6101,13 @@
             },
             "5017": {
                 "slug": "clothing_reindeerbackpack",
-                "name": "clothing_reindeerbackpack name",
+                "name": "Rendier Rugzak",
                 "description": "clothing_reindeerbackpack desc",
                 "buyout": 0
             },
             "5016": {
                 "slug": "clothing_penguinbackpack",
-                "name": "clothing_penguinbackpack name",
+                "name": "Pingu\u00efn Rugzak",
                 "description": "clothing_penguinbackpack desc",
                 "buyout": 0
             },

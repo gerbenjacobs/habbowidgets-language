@@ -1104,7 +1104,7 @@
             },
             "5021": {
                 "slug": "clothing_r22_xmastreeoutfit",
-                "name": "clothing_r22_xmastreeoutfit name",
+                "name": "Look da Albero Festivo",
                 "description": "clothing_r22_xmastreeoutfit desc",
                 "buyout": 0
             },
@@ -1206,13 +1206,13 @@
             },
             "4962": {
                 "slug": "clothing_ttlongshirt",
-                "name": "Maglietta Pride Teletubbies",
+                "name": "Teletubbies - Maglietta Pride",
                 "description": "clothing_ttlongshirt desc",
                 "buyout": 0
             },
             "4961": {
                 "slug": "clothing_ttlongshirt",
-                "name": "Maglietta Pride Teletubbies",
+                "name": "Teletubbies - Maglietta Pride",
                 "description": "clothing_ttlongshirt desc",
                 "buyout": 0
             },
@@ -2769,7 +2769,7 @@
         "lg": {
             "5022": {
                 "slug": "clothing_r22_xmastreeoutfit",
-                "name": "clothing_r22_xmastreeoutfit name",
+                "name": "Look da Albero Festivo",
                 "description": "clothing_r22_xmastreeoutfit desc",
                 "buyout": 0
             },
@@ -3214,7 +3214,7 @@
             },
             "5023": {
                 "slug": "clothing_r22_xmastreeoutfit",
-                "name": "clothing_r22_xmastreeoutfit name",
+                "name": "Look da Albero Festivo",
                 "description": "clothing_r22_xmastreeoutfit desc",
                 "buyout": 0
             },
@@ -3422,7 +3422,7 @@
             },
             "5020": {
                 "slug": "clothing_r22_xmastreeoutfit",
-                "name": "clothing_r22_xmastreeoutfit name",
+                "name": "Look da Albero Festivo",
                 "description": "clothing_r22_xmastreeoutfit desc",
                 "buyout": 0
             },
@@ -4884,6 +4884,12 @@
             "1001": null
         },
         "he": {
+            "5074": {
+                "slug": "clothing_starcrown",
+                "name": "Corona Stellare",
+                "description": "clothing_starcrown desc",
+                "buyout": 0
+            },
             "5031": {
                 "slug": "clothing_hkheadphones",
                 "name": "clothing_hkheadphones name",

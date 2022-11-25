@@ -4884,6 +4884,12 @@
             "1001": null
         },
         "he": {
+            "5074": {
+                "slug": "clothing_starcrown",
+                "name": "Couronne d'\u00e9toile",
+                "description": "clothing_starcrown desc",
+                "buyout": 0
+            },
             "5031": {
                 "slug": "clothing_hkheadphones",
                 "name": "clothing_hkheadphones name",
