@@ -31,7 +31,7 @@
             },
             "5019": {
                 "slug": "clothing_fadehair",
-                "name": "Penteado High Fade Pereito",
+                "name": "Penteado High Fade Perfeito",
                 "description": "clothing_fadehair desc",
                 "buyout": 0
             },
@@ -1036,6 +1036,60 @@
             "180": null
         },
         "ch": {
+            "5072": {
+                "slug": "clothing_nftreindeerdress",
+                "name": "Vestido Rena",
+                "description": "clothing_nftreindeerdress desc",
+                "buyout": 0
+            },
+            "5071": {
+                "slug": "clothing_nftreindeer",
+                "name": "Macac\u00e3o Rena",
+                "description": "clothing_nftreindeer desc",
+                "buyout": 0
+            },
+            "5070": {
+                "slug": "clothing_nftreindeer",
+                "name": "Macac\u00e3o Rena",
+                "description": "clothing_nftreindeer desc",
+                "buyout": 0
+            },
+            "5068": {
+                "slug": "clothing_nftpenguindress",
+                "name": "Vestido Pinguim",
+                "description": "clothing_nftpenguindress desc",
+                "buyout": 0
+            },
+            "5067": {
+                "slug": "clothing_nftpenguin",
+                "name": "Macac\u00e3o Pinguim",
+                "description": "clothing_nftpenguin desc",
+                "buyout": 0
+            },
+            "5066": {
+                "slug": "clothing_nftpenguin",
+                "name": "Macac\u00e3o Pinguim",
+                "description": "clothing_nftpenguin desc",
+                "buyout": 0
+            },
+            "5064": {
+                "slug": "clothing_nftxmasdress",
+                "name": "Vestido de Natal Scarlet",
+                "description": "clothing_nftxmasdress desc",
+                "buyout": 0
+            },
+            "5063": {
+                "slug": "clothing_nftxmaspants",
+                "name": "Macac\u00e3o de Natal Scarlet",
+                "description": "clothing_nftxmaspants desc",
+                "buyout": 0
+            },
+            "5062": {
+                "slug": "clothing_nftxmaspants",
+                "name": "Macac\u00e3o de Natal Scarlet",
+                "description": "clothing_nftxmaspants desc",
+                "buyout": 0
+            },
             "5048": {
                 "slug": "clothing_drsportsshirt2",
                 "name": "Camiseta DR Copa do Mundo",
@@ -3206,6 +3260,24 @@
             "270": null
         },
         "sh": {
+            "5073": {
+                "slug": "clothing_nftreindeerslippers",
+                "name": "Pantufas Rena",
+                "description": "clothing_nftreindeerslippers desc",
+                "buyout": 0
+            },
+            "5069": {
+                "slug": "clothing_nftpenguinslippers",
+                "name": "Pantufas Pinguim",
+                "description": "clothing_nftpenguinslippers desc",
+                "buyout": 0
+            },
+            "5065": {
+                "slug": "clothing_nftxmasshoes",
+                "name": "Sapatinhos de Natal Scarlet",
+                "description": "clothing_nftxmasshoes desc",
+                "buyout": 0
+            },
             "5032": {
                 "slug": "clothing_nftdollshoes",
                 "name": "Sapatos Bonecos G\u00f3ticos",
@@ -3396,6 +3468,66 @@
             "290": null
         },
         "ha": {
+            "5089": {
+                "slug": "clothing_goldhatpack3",
+                "name": "clothing_goldhatpack3 name",
+                "description": "clothing_goldhatpack3 desc",
+                "buyout": 0
+            },
+            "5087": {
+                "slug": "clothing_diafeathercrown",
+                "name": "clothing_diafeathercrown name",
+                "description": "clothing_diafeathercrown desc",
+                "buyout": 0
+            },
+            "5086": {
+                "slug": "clothing_diaturban",
+                "name": "clothing_diaturban name",
+                "description": "clothing_diaturban desc",
+                "buyout": 0
+            },
+            "5085": {
+                "slug": "clothing_goldhatpack3",
+                "name": "clothing_goldhatpack3 name",
+                "description": "clothing_goldhatpack3 desc",
+                "buyout": 0
+            },
+            "5084": {
+                "slug": "clothing_goldhatpack3",
+                "name": "clothing_goldhatpack3 name",
+                "description": "clothing_goldhatpack3 desc",
+                "buyout": 0
+            },
+            "5083": {
+                "slug": "clothing_goldhatpack3",
+                "name": "clothing_goldhatpack3 name",
+                "description": "clothing_goldhatpack3 desc",
+                "buyout": 0
+            },
+            "5082": {
+                "slug": "clothing_goldhatpack3",
+                "name": "clothing_goldhatpack3 name",
+                "description": "clothing_goldhatpack3 desc",
+                "buyout": 0
+            },
+            "5081": {
+                "slug": "clothing_goldhatpack3",
+                "name": "clothing_goldhatpack3 name",
+                "description": "clothing_goldhatpack3 desc",
+                "buyout": 0
+            },
+            "5080": {
+                "slug": "clothing_goldhatpack3",
+                "name": "clothing_goldhatpack3 name",
+                "description": "clothing_goldhatpack3 desc",
+                "buyout": 0
+            },
+            "5079": {
+                "slug": "clothing_goldhatpack3",
+                "name": "clothing_goldhatpack3 name",
+                "description": "clothing_goldhatpack3 desc",
+                "buyout": 0
+            },
             "5046": {
                 "slug": "clothing_drsportshat",
                 "name": "Bon\u00e9 DR Sports",
@@ -4884,6 +5016,12 @@
             "1001": null
         },
         "he": {
+            "5088": {
+                "slug": "clothing_diahalo",
+                "name": "clothing_diahalo name",
+                "description": "clothing_diahalo desc",
+                "buyout": 0
+            },
             "5074": {
                 "slug": "clothing_starcrown",
                 "name": "Coroa de Estrelas",
@@ -5791,6 +5929,54 @@
             "1401": null
         },
         "fa": {
+            "5060": {
+                "slug": "clothing_r22_nypartyhorn8",
+                "name": "L\u00edngua de Sogra Dourada",
+                "description": "clothing_r22_nypartyhorn8 desc",
+                "buyout": 0
+            },
+            "5059": {
+                "slug": "clothing_r22_nypartyhorn7",
+                "name": "L\u00edngua de Sogra Azul",
+                "description": "clothing_r22_nypartyhorn7 desc",
+                "buyout": 0
+            },
+            "5058": {
+                "slug": "clothing_r22_nypartyhorn6",
+                "name": "L\u00edngua de Sogra Verde",
+                "description": "clothing_r22_nypartyhorn6 desc",
+                "buyout": 0
+            },
+            "5057": {
+                "slug": "clothing_r22_nypartyhorn5",
+                "name": "L\u00edngua de Sogra Branca",
+                "description": "clothing_r22_nypartyhorn5 desc",
+                "buyout": 0
+            },
+            "5056": {
+                "slug": "clothing_r22_nypartyhorn4",
+                "name": "L\u00edngua de Sogra Preta",
+                "description": "clothing_r22_nypartyhorn4 desc",
+                "buyout": 0
+            },
+            "5055": {
+                "slug": "clothing_r22_nypartyhorn3",
+                "name": "L\u00edngua de Sogra Roxa",
+                "description": "clothing_r22_nypartyhorn3 desc",
+                "buyout": 0
+            },
+            "5054": {
+                "slug": "clothing_r22_nypartyhorn2",
+                "name": "L\u00edngua de Sogra Laranja",
+                "description": "clothing_r22_nypartyhorn2 desc",
+                "buyout": 0
+            },
+            "5053": {
+                "slug": "clothing_r22_nypartyhorn1",
+                "name": "L\u00edngua de Sogra Rosa",
+                "description": "clothing_r22_nypartyhorn1 desc",
+                "buyout": 0
+            },
             "4283": {
                 "slug": "clothing_conductoroutfit",
                 "name": "Traje Maquinista",

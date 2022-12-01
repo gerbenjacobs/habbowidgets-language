@@ -1036,6 +1036,60 @@
             "180": null
         },
         "ch": {
+            "5072": {
+                "slug": "clothing_nftreindeerdress",
+                "name": "Reindeer Dress",
+                "description": "clothing_nftreindeerdress desc",
+                "buyout": 0
+            },
+            "5071": {
+                "slug": "clothing_nftreindeer",
+                "name": "Reindeer Dungarees",
+                "description": "clothing_nftreindeer desc",
+                "buyout": 0
+            },
+            "5070": {
+                "slug": "clothing_nftreindeer",
+                "name": "Reindeer Dungarees",
+                "description": "clothing_nftreindeer desc",
+                "buyout": 0
+            },
+            "5068": {
+                "slug": "clothing_nftpenguindress",
+                "name": "Penguin Dress",
+                "description": "clothing_nftpenguindress desc",
+                "buyout": 0
+            },
+            "5067": {
+                "slug": "clothing_nftpenguin",
+                "name": "Penguin Dungarees",
+                "description": "clothing_nftpenguin desc",
+                "buyout": 0
+            },
+            "5066": {
+                "slug": "clothing_nftpenguin",
+                "name": "Penguin Dungarees",
+                "description": "clothing_nftpenguin desc",
+                "buyout": 0
+            },
+            "5064": {
+                "slug": "clothing_nftxmasdress",
+                "name": "Scarlet Xmas Dress",
+                "description": "clothing_nftxmasdress desc",
+                "buyout": 0
+            },
+            "5063": {
+                "slug": "clothing_nftxmaspants",
+                "name": "Scarlet Xmas Dungarees",
+                "description": "clothing_nftxmaspants desc",
+                "buyout": 0
+            },
+            "5062": {
+                "slug": "clothing_nftxmaspants",
+                "name": "Scarlet Xmas Dungarees",
+                "description": "clothing_nftxmaspants desc",
+                "buyout": 0
+            },
             "5048": {
                 "slug": "clothing_drsportsshirt2",
                 "name": "DR World Cup Shirt",
@@ -3206,6 +3260,24 @@
             "270": null
         },
         "sh": {
+            "5073": {
+                "slug": "clothing_nftreindeerslippers",
+                "name": "Reindeer Slippers",
+                "description": "clothing_nftreindeerslippers desc",
+                "buyout": 0
+            },
+            "5069": {
+                "slug": "clothing_nftpenguinslippers",
+                "name": "Penguin Slippers",
+                "description": "clothing_nftpenguinslippers desc",
+                "buyout": 0
+            },
+            "5065": {
+                "slug": "clothing_nftxmasshoes",
+                "name": "Scarlet Xmas Shoes",
+                "description": "clothing_nftxmasshoes desc",
+                "buyout": 0
+            },
             "5032": {
                 "slug": "clothing_nftdollshoes",
                 "name": "Gothic Doll Shoes",
@@ -3396,6 +3468,66 @@
             "290": null
         },
         "ha": {
+            "5089": {
+                "slug": "clothing_goldhatpack3",
+                "name": "clothing_goldhatpack3 name",
+                "description": "clothing_goldhatpack3 desc",
+                "buyout": 0
+            },
+            "5087": {
+                "slug": "clothing_diafeathercrown",
+                "name": "clothing_diafeathercrown name",
+                "description": "clothing_diafeathercrown desc",
+                "buyout": 0
+            },
+            "5086": {
+                "slug": "clothing_diaturban",
+                "name": "clothing_diaturban name",
+                "description": "clothing_diaturban desc",
+                "buyout": 0
+            },
+            "5085": {
+                "slug": "clothing_goldhatpack3",
+                "name": "clothing_goldhatpack3 name",
+                "description": "clothing_goldhatpack3 desc",
+                "buyout": 0
+            },
+            "5084": {
+                "slug": "clothing_goldhatpack3",
+                "name": "clothing_goldhatpack3 name",
+                "description": "clothing_goldhatpack3 desc",
+                "buyout": 0
+            },
+            "5083": {
+                "slug": "clothing_goldhatpack3",
+                "name": "clothing_goldhatpack3 name",
+                "description": "clothing_goldhatpack3 desc",
+                "buyout": 0
+            },
+            "5082": {
+                "slug": "clothing_goldhatpack3",
+                "name": "clothing_goldhatpack3 name",
+                "description": "clothing_goldhatpack3 desc",
+                "buyout": 0
+            },
+            "5081": {
+                "slug": "clothing_goldhatpack3",
+                "name": "clothing_goldhatpack3 name",
+                "description": "clothing_goldhatpack3 desc",
+                "buyout": 0
+            },
+            "5080": {
+                "slug": "clothing_goldhatpack3",
+                "name": "clothing_goldhatpack3 name",
+                "description": "clothing_goldhatpack3 desc",
+                "buyout": 0
+            },
+            "5079": {
+                "slug": "clothing_goldhatpack3",
+                "name": "clothing_goldhatpack3 name",
+                "description": "clothing_goldhatpack3 desc",
+                "buyout": 0
+            },
             "5046": {
                 "slug": "clothing_drsportshat",
                 "name": "DR Sports Cap",
@@ -4884,6 +5016,12 @@
             "1001": null
         },
         "he": {
+            "5088": {
+                "slug": "clothing_diahalo",
+                "name": "clothing_diahalo name",
+                "description": "clothing_diahalo desc",
+                "buyout": 0
+            },
             "5074": {
                 "slug": "clothing_starcrown",
                 "name": "Star Crown",
@@ -5791,6 +5929,54 @@
             "1401": null
         },
         "fa": {
+            "5060": {
+                "slug": "clothing_r22_nypartyhorn8",
+                "name": "Gold Party Horn",
+                "description": "clothing_r22_nypartyhorn8 desc",
+                "buyout": 0
+            },
+            "5059": {
+                "slug": "clothing_r22_nypartyhorn7",
+                "name": "Blue Party Horn",
+                "description": "clothing_r22_nypartyhorn7 desc",
+                "buyout": 0
+            },
+            "5058": {
+                "slug": "clothing_r22_nypartyhorn6",
+                "name": "Green Party Horn",
+                "description": "clothing_r22_nypartyhorn6 desc",
+                "buyout": 0
+            },
+            "5057": {
+                "slug": "clothing_r22_nypartyhorn5",
+                "name": "White Party Horn",
+                "description": "clothing_r22_nypartyhorn5 desc",
+                "buyout": 0
+            },
+            "5056": {
+                "slug": "clothing_r22_nypartyhorn4",
+                "name": "Black Party Horn",
+                "description": "clothing_r22_nypartyhorn4 desc",
+                "buyout": 0
+            },
+            "5055": {
+                "slug": "clothing_r22_nypartyhorn3",
+                "name": "Purple Party Horn",
+                "description": "clothing_r22_nypartyhorn3 desc",
+                "buyout": 0
+            },
+            "5054": {
+                "slug": "clothing_r22_nypartyhorn2",
+                "name": "Orange Party Horn",
+                "description": "clothing_r22_nypartyhorn2 desc",
+                "buyout": 0
+            },
+            "5053": {
+                "slug": "clothing_r22_nypartyhorn1",
+                "name": "Pink Party Horn",
+                "description": "clothing_r22_nypartyhorn1 desc",
+                "buyout": 0
+            },
             "4283": {
                 "slug": "clothing_conductoroutfit",
                 "name": "Conducter Outfit",
