@@ -33,7 +33,7 @@
                 "slug": "clothing_fadehair",
                 "name": "clothing_fadehair name",
                 "description": "clothing_fadehair desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5018": {
                 "slug": "clothing_r22_bowbraidhair",
@@ -1164,13 +1164,13 @@
             },
             "5015": {
                 "slug": "clothing_hollyjumper",
-                "name": "clothing_hollyjumper name",
+                "name": "Maglione Agrifoglio",
                 "description": "clothing_hollyjumper desc",
                 "buyout": 0
             },
             "5014": {
                 "slug": "clothing_starryjumper",
-                "name": "clothing_starryjumper name",
+                "name": "Maglione Stelle",
                 "description": "clothing_starryjumper desc",
                 "buyout": 0
             },
@@ -3542,13 +3542,13 @@
             },
             "5025": {
                 "slug": "clothing_festivereindeerhat",
-                "name": "clothing_festivereindeerhat name",
+                "name": "Cappello Invernale da Renna",
                 "description": "clothing_festivereindeerhat desc",
                 "buyout": 0
             },
             "5024": {
                 "slug": "clothing_festivepenguinhat",
-                "name": "clothing_festivepenguinhat name",
+                "name": "Cappello Invernale da Pinguino",
                 "description": "clothing_festivepenguinhat desc",
                 "buyout": 0
             },
@@ -6287,13 +6287,13 @@
             },
             "5017": {
                 "slug": "clothing_reindeerbackpack",
-                "name": "clothing_reindeerbackpack name",
+                "name": "Zaino Renna",
                 "description": "clothing_reindeerbackpack desc",
                 "buyout": 0
             },
             "5016": {
                 "slug": "clothing_penguinbackpack",
-                "name": "clothing_penguinbackpack name",
+                "name": "Zaino Pinguino",
                 "description": "clothing_penguinbackpack desc",
                 "buyout": 0
             },

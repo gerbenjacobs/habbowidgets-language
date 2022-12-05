@@ -33,7 +33,7 @@
                 "slug": "clothing_fadehair",
                 "name": "M\u00fckemmel G\u00f6lge",
                 "description": "clothing_fadehair desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5018": {
                 "slug": "clothing_r22_bowbraidhair",
@@ -1170,7 +1170,7 @@
             },
             "5014": {
                 "slug": "clothing_starryjumper",
-                "name": "clothing_starryjumper name",
+                "name": "Y\u0131ld\u0131zl\u0131 kazak",
                 "description": "clothing_starryjumper desc",
                 "buyout": 0
             },

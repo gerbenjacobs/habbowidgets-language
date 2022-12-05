@@ -33,7 +33,7 @@
                 "slug": "clothing_fadehair",
                 "name": "D\u00e9coloration parfaite",
                 "description": "clothing_fadehair desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5018": {
                 "slug": "clothing_r22_bowbraidhair",
@@ -1170,7 +1170,7 @@
             },
             "5014": {
                 "slug": "clothing_starryjumper",
-                "name": "clothing_starryjumper name",
+                "name": "Pull-over \u00e9toile",
                 "description": "clothing_starryjumper desc",
                 "buyout": 0
             },
