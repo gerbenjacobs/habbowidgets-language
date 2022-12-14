@@ -1036,6 +1036,42 @@
             "180": null
         },
         "ch": {
+            "5096": {
+                "slug": "clothing_marianabomerch",
+                "name": "Mariana Bo-oheistuotteet",
+                "description": "clothing_marianabomerch desc",
+                "buyout": 0
+            },
+            "5095": {
+                "slug": "clothing_marianabomerch",
+                "name": "Mariana Bo-oheistuotteet",
+                "description": "clothing_marianabomerch desc",
+                "buyout": 0
+            },
+            "5094": {
+                "slug": "clothing_mrblackmerch",
+                "name": "Mr Black-oheistuotteet",
+                "description": "clothing_mrblackmerch desc",
+                "buyout": 0
+            },
+            "5093": {
+                "slug": "clothing_mrblackmerch",
+                "name": "Mr Black-oheistuotteet",
+                "description": "clothing_mrblackmerch desc",
+                "buyout": 0
+            },
+            "5092": {
+                "slug": "clothing_marksixmamerch",
+                "name": "Mark Sixma-oheistuotteet",
+                "description": "clothing_marksixmamerch desc",
+                "buyout": 0
+            },
+            "5091": {
+                "slug": "clothing_marksixmamerch",
+                "name": "Mark Sixma-oheistuotteet",
+                "description": "clothing_marksixmamerch desc",
+                "buyout": 0
+            },
             "5072": {
                 "slug": "clothing_nftreindeerdress",
                 "name": "Poromekko",
@@ -3468,6 +3504,24 @@
             "290": null
         },
         "ha": {
+            "5099": {
+                "slug": "clothing_marksixmamerch",
+                "name": "Mark Sixma-oheistuotteet",
+                "description": "clothing_marksixmamerch desc",
+                "buyout": 0
+            },
+            "5098": {
+                "slug": "clothing_marianabomerch",
+                "name": "Mariana Bo-oheistuotteet",
+                "description": "clothing_marianabomerch desc",
+                "buyout": 0
+            },
+            "5097": {
+                "slug": "clothing_mrblackmerch",
+                "name": "Mr Black-oheistuotteet",
+                "description": "clothing_mrblackmerch desc",
+                "buyout": 0
+            },
             "5089": {
                 "slug": "clothing_goldhatpack3",
                 "name": "clothing_goldhatpack3 name",
@@ -3526,6 +3580,12 @@
                 "slug": "clothing_goldhatpack3",
                 "name": "clothing_goldhatpack3 name",
                 "description": "clothing_goldhatpack3 desc",
+                "buyout": 0
+            },
+            "5076": {
+                "slug": "clothing_r23_tvhead",
+                "name": "clothing_r23_tvhead name",
+                "description": "clothing_r23_tvhead desc",
                 "buyout": 0
             },
             "5046": {
@@ -5028,6 +5088,12 @@
                 "description": "clothing_starcrown desc",
                 "buyout": 0
             },
+            "5050": {
+                "slug": "clothing_cnyrabbit",
+                "name": "clothing_cnyrabbit name",
+                "description": "clothing_cnyrabbit desc",
+                "buyout": 0
+            },
             "5031": {
                 "slug": "clothing_hkheadphones",
                 "name": "clothing_hkheadphones name",
@@ -6267,6 +6333,36 @@
             "1201": null
         },
         "ca": {
+            "5102": {
+                "slug": "clothing_mrblackmerch",
+                "name": "Mr Black-oheistuotteet",
+                "description": "clothing_mrblackmerch desc",
+                "buyout": 0
+            },
+            "5101": {
+                "slug": "clothing_marianabomerch",
+                "name": "Mariana Bo-oheistuotteet",
+                "description": "clothing_marianabomerch desc",
+                "buyout": 0
+            },
+            "5100": {
+                "slug": "clothing_marksixmamerch",
+                "name": "Mark Sixma-oheistuotteet",
+                "description": "clothing_marksixmamerch desc",
+                "buyout": 0
+            },
+            "5051": {
+                "slug": "clothing_r23_kangarooharness",
+                "name": "clothing_r23_kangarooharness name",
+                "description": "clothing_r23_kangarooharness desc",
+                "buyout": 0
+            },
+            "5049": {
+                "slug": "clothing_cnyrabbit",
+                "name": "clothing_cnyrabbit name",
+                "description": "clothing_cnyrabbit desc",
+                "buyout": 0
+            },
             "5043": {
                 "slug": "clothing_nftpumpkinbag",
                 "name": "Psykedeelinen kurpitsareppu",

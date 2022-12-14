@@ -31,7 +31,7 @@
             },
             "5019": {
                 "slug": "clothing_fadehair",
-                "name": "clothing_fadehair name",
+                "name": "Sfumatura Perfetta",
                 "description": "clothing_fadehair desc",
                 "buyout": 1
             },
@@ -1036,6 +1036,42 @@
             "180": null
         },
         "ch": {
+            "5096": {
+                "slug": "clothing_marianabomerch",
+                "name": "Look da Mariana Bo",
+                "description": "clothing_marianabomerch desc",
+                "buyout": 0
+            },
+            "5095": {
+                "slug": "clothing_marianabomerch",
+                "name": "Look da Mariana Bo",
+                "description": "clothing_marianabomerch desc",
+                "buyout": 0
+            },
+            "5094": {
+                "slug": "clothing_mrblackmerch",
+                "name": "Look da Mr Black",
+                "description": "clothing_mrblackmerch desc",
+                "buyout": 0
+            },
+            "5093": {
+                "slug": "clothing_mrblackmerch",
+                "name": "Look da Mr Black",
+                "description": "clothing_mrblackmerch desc",
+                "buyout": 0
+            },
+            "5092": {
+                "slug": "clothing_marksixmamerch",
+                "name": "Look da Mark Sixma",
+                "description": "clothing_marksixmamerch desc",
+                "buyout": 0
+            },
+            "5091": {
+                "slug": "clothing_marksixmamerch",
+                "name": "Look da Mark Sixma",
+                "description": "clothing_marksixmamerch desc",
+                "buyout": 0
+            },
             "5072": {
                 "slug": "clothing_nftreindeerdress",
                 "name": "Vestito da Renna",
@@ -3468,64 +3504,88 @@
             "290": null
         },
         "ha": {
+            "5099": {
+                "slug": "clothing_marksixmamerch",
+                "name": "Look da Mark Sixma",
+                "description": "clothing_marksixmamerch desc",
+                "buyout": 0
+            },
+            "5098": {
+                "slug": "clothing_marianabomerch",
+                "name": "Look da Mariana Bo",
+                "description": "clothing_marianabomerch desc",
+                "buyout": 0
+            },
+            "5097": {
+                "slug": "clothing_mrblackmerch",
+                "name": "Look da Mr Black",
+                "description": "clothing_mrblackmerch desc",
+                "buyout": 0
+            },
             "5089": {
                 "slug": "clothing_goldhatpack3",
-                "name": "clothing_goldhatpack3 name",
+                "name": "Pack Cappelli d'Oro 3",
                 "description": "clothing_goldhatpack3 desc",
                 "buyout": 0
             },
             "5087": {
                 "slug": "clothing_diafeathercrown",
-                "name": "clothing_diafeathercrown name",
+                "name": "Corona di Piume di Diamante",
                 "description": "clothing_diafeathercrown desc",
                 "buyout": 0
             },
             "5086": {
                 "slug": "clothing_diaturban",
-                "name": "clothing_diaturban name",
+                "name": "Turbante Diamante",
                 "description": "clothing_diaturban desc",
                 "buyout": 0
             },
             "5085": {
                 "slug": "clothing_goldhatpack3",
-                "name": "clothing_goldhatpack3 name",
+                "name": "Pack Cappelli d'Oro 3",
                 "description": "clothing_goldhatpack3 desc",
                 "buyout": 0
             },
             "5084": {
                 "slug": "clothing_goldhatpack3",
-                "name": "clothing_goldhatpack3 name",
+                "name": "Pack Cappelli d'Oro 3",
                 "description": "clothing_goldhatpack3 desc",
                 "buyout": 0
             },
             "5083": {
                 "slug": "clothing_goldhatpack3",
-                "name": "clothing_goldhatpack3 name",
+                "name": "Pack Cappelli d'Oro 3",
                 "description": "clothing_goldhatpack3 desc",
                 "buyout": 0
             },
             "5082": {
                 "slug": "clothing_goldhatpack3",
-                "name": "clothing_goldhatpack3 name",
+                "name": "Pack Cappelli d'Oro 3",
                 "description": "clothing_goldhatpack3 desc",
                 "buyout": 0
             },
             "5081": {
                 "slug": "clothing_goldhatpack3",
-                "name": "clothing_goldhatpack3 name",
+                "name": "Pack Cappelli d'Oro 3",
                 "description": "clothing_goldhatpack3 desc",
                 "buyout": 0
             },
             "5080": {
                 "slug": "clothing_goldhatpack3",
-                "name": "clothing_goldhatpack3 name",
+                "name": "Pack Cappelli d'Oro 3",
                 "description": "clothing_goldhatpack3 desc",
                 "buyout": 0
             },
             "5079": {
                 "slug": "clothing_goldhatpack3",
-                "name": "clothing_goldhatpack3 name",
+                "name": "Pack Cappelli d'Oro 3",
                 "description": "clothing_goldhatpack3 desc",
+                "buyout": 0
+            },
+            "5076": {
+                "slug": "clothing_r23_tvhead",
+                "name": "Testa di Televisione",
+                "description": "clothing_r23_tvhead desc",
                 "buyout": 0
             },
             "5046": {
@@ -5018,7 +5078,7 @@
         "he": {
             "5088": {
                 "slug": "clothing_diahalo",
-                "name": "clothing_diahalo name",
+                "name": "Aureola Diamante",
                 "description": "clothing_diahalo desc",
                 "buyout": 0
             },
@@ -5026,6 +5086,12 @@
                 "slug": "clothing_starcrown",
                 "name": "Corona Stellare",
                 "description": "clothing_starcrown desc",
+                "buyout": 0
+            },
+            "5050": {
+                "slug": "clothing_cnyrabbit",
+                "name": "Accessori Coniglio",
+                "description": "clothing_cnyrabbit desc",
                 "buyout": 0
             },
             "5031": {
@@ -6267,6 +6333,36 @@
             "1201": null
         },
         "ca": {
+            "5102": {
+                "slug": "clothing_mrblackmerch",
+                "name": "Look da Mr Black",
+                "description": "clothing_mrblackmerch desc",
+                "buyout": 0
+            },
+            "5101": {
+                "slug": "clothing_marianabomerch",
+                "name": "Look da Mariana Bo",
+                "description": "clothing_marianabomerch desc",
+                "buyout": 0
+            },
+            "5100": {
+                "slug": "clothing_marksixmamerch",
+                "name": "Look da Mark Sixma",
+                "description": "clothing_marksixmamerch desc",
+                "buyout": 0
+            },
+            "5051": {
+                "slug": "clothing_r23_kangarooharness",
+                "name": "Imbracatura Canguro",
+                "description": "clothing_r23_kangarooharness desc",
+                "buyout": 0
+            },
+            "5049": {
+                "slug": "clothing_cnyrabbit",
+                "name": "Accessori Coniglio",
+                "description": "clothing_cnyrabbit desc",
+                "buyout": 0
+            },
             "5043": {
                 "slug": "clothing_nftpumpkinbag",
                 "name": "Zainetto Zucca Trippy",
