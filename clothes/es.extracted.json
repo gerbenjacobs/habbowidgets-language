@@ -3504,6 +3504,12 @@
             "290": null
         },
         "ha": {
+            "5103": {
+                "slug": "clothing_nftrastasanta",
+                "name": "Rasta Santa Hat",
+                "description": "clothing_nftrastasanta desc",
+                "buyout": 0
+            },
             "5099": {
                 "slug": "clothing_marksixmamerch",
                 "name": "Outfit Mark Sixma",
@@ -5076,6 +5082,12 @@
             "1001": null
         },
         "he": {
+            "5090": {
+                "slug": "clothing_ltsheadband",
+                "name": "",
+                "description": "clothing_ltsheadband desc",
+                "buyout": 0
+            },
             "5088": {
                 "slug": "clothing_diahalo",
                 "name": "Halo de Diamante",
@@ -6349,6 +6361,12 @@
                 "slug": "clothing_marksixmamerch",
                 "name": "Outfit Mark Sixma",
                 "description": "clothing_marksixmamerch desc",
+                "buyout": 0
+            },
+            "5061": {
+                "slug": "clothing_ltsbackstar",
+                "name": "",
+                "description": "clothing_ltsbackstar desc",
                 "buyout": 0
             },
             "5051": {

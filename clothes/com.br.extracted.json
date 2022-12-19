@@ -3504,6 +3504,12 @@
             "290": null
         },
         "ha": {
+            "5103": {
+                "slug": "clothing_nftrastasanta",
+                "name": "Rasta Santa Hat",
+                "description": "clothing_nftrastasanta desc",
+                "buyout": 0
+            },
             "5099": {
                 "slug": "clothing_marksixmamerch",
                 "name": "Mark Sixma Outfit",
@@ -3530,13 +3536,13 @@
             },
             "5087": {
                 "slug": "clothing_diafeathercrown",
-                "name": "clothing_diafeathercrown name",
+                "name": "Coroa de Plumas Diamante",
                 "description": "clothing_diafeathercrown desc",
                 "buyout": 0
             },
             "5086": {
                 "slug": "clothing_diaturban",
-                "name": "clothing_diaturban name",
+                "name": "Turbante Diamante",
                 "description": "clothing_diaturban desc",
                 "buyout": 0
             },
@@ -3584,7 +3590,7 @@
             },
             "5076": {
                 "slug": "clothing_r23_tvhead",
-                "name": "clothing_r23_tvhead name",
+                "name": "Cabe\u00e7a Televisiva",
                 "description": "clothing_r23_tvhead desc",
                 "buyout": 0
             },
@@ -5076,9 +5082,15 @@
             "1001": null
         },
         "he": {
+            "5090": {
+                "slug": "clothing_ltsheadband",
+                "name": "",
+                "description": "clothing_ltsheadband desc",
+                "buyout": 0
+            },
             "5088": {
                 "slug": "clothing_diahalo",
-                "name": "clothing_diahalo name",
+                "name": "Aur\u00e9ola Diamante",
                 "description": "clothing_diahalo desc",
                 "buyout": 0
             },
@@ -5090,7 +5102,7 @@
             },
             "5050": {
                 "slug": "clothing_cnyrabbit",
-                "name": "clothing_cnyrabbit name",
+                "name": "Acess\u00f3rios do Coelho",
                 "description": "clothing_cnyrabbit desc",
                 "buyout": 0
             },
@@ -6351,15 +6363,21 @@
                 "description": "clothing_marksixmamerch desc",
                 "buyout": 0
             },
+            "5061": {
+                "slug": "clothing_ltsbackstar",
+                "name": "",
+                "description": "clothing_ltsbackstar desc",
+                "buyout": 0
+            },
             "5051": {
                 "slug": "clothing_r23_kangarooharness",
-                "name": "clothing_r23_kangarooharness name",
+                "name": "Canguru Kangoo",
                 "description": "clothing_r23_kangarooharness desc",
                 "buyout": 0
             },
             "5049": {
                 "slug": "clothing_cnyrabbit",
-                "name": "clothing_cnyrabbit name",
+                "name": "Acess\u00f3rios do Coelho",
                 "description": "clothing_cnyrabbit desc",
                 "buyout": 0
             },
