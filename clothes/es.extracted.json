@@ -2857,6 +2857,12 @@
             "210": null
         },
         "lg": {
+            "5106": {
+                "slug": "clothing_nft2023tuxedo",
+                "name": "Esmoquin 2023",
+                "description": "clothing_nft2023tuxedo desc",
+                "buyout": 0
+            },
             "5022": {
                 "slug": "clothing_r22_xmastreeoutfit",
                 "name": "Traje \u00c1rbol Navide\u00f1o",
@@ -3506,7 +3512,7 @@
         "ha": {
             "5103": {
                 "slug": "clothing_nftrastasanta",
-                "name": "Rasta Santa Hat",
+                "name": "Gorro de Pap\u00e1 Noel Rasta",
                 "description": "clothing_nftrastasanta desc",
                 "buyout": 0
             },
@@ -5084,7 +5090,7 @@
         "he": {
             "5090": {
                 "slug": "clothing_ltsheadband",
-                "name": "",
+                "name": "Diadema Little Twin Star",
                 "description": "clothing_ltsheadband desc",
                 "buyout": 0
             },
@@ -6365,7 +6371,7 @@
             },
             "5061": {
                 "slug": "clothing_ltsbackstar",
-                "name": "",
+                "name": "Mochila Little Twin Star",
                 "description": "clothing_ltsbackstar desc",
                 "buyout": 0
             },
@@ -7000,6 +7006,18 @@
         "cc": {
             "9865": null,
             "9563": null,
+            "5105": {
+                "slug": "clothing_nft2023tuxedo",
+                "name": "Esmoquin 2023",
+                "description": "clothing_nft2023tuxedo desc",
+                "buyout": 0
+            },
+            "5104": {
+                "slug": "clothing_nft2023tuxedo",
+                "name": "Esmoquin 2023",
+                "description": "clothing_nft2023tuxedo desc",
+                "buyout": 0
+            },
             "4998": {
                 "slug": "clothing_r22_tuxedocape",
                 "name": "Esmoqu\u00edn Reencuentro",

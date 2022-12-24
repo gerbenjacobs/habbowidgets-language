@@ -2857,6 +2857,12 @@
             "210": null
         },
         "lg": {
+            "5106": {
+                "slug": "clothing_nft2023tuxedo",
+                "name": "Smokki Ilotulitus 2023",
+                "description": "clothing_nft2023tuxedo desc",
+                "buyout": 0
+            },
             "5022": {
                 "slug": "clothing_r22_xmastreeoutfit",
                 "name": "Joulukuusi-asu",
@@ -3506,7 +3512,7 @@
         "ha": {
             "5103": {
                 "slug": "clothing_nftrastasanta",
-                "name": "Rasta Santa Hat",
+                "name": "Rasta Tonttulakki",
                 "description": "clothing_nftrastasanta desc",
                 "buyout": 0
             },
@@ -3530,67 +3536,67 @@
             },
             "5089": {
                 "slug": "clothing_goldhatpack3",
-                "name": "clothing_goldhatpack3 name",
+                "name": "Kultainen hattu -paketti 3",
                 "description": "clothing_goldhatpack3 desc",
                 "buyout": 0
             },
             "5087": {
                 "slug": "clothing_diafeathercrown",
-                "name": "clothing_diafeathercrown name",
+                "name": "Timantti sulkakruunu",
                 "description": "clothing_diafeathercrown desc",
                 "buyout": 0
             },
             "5086": {
                 "slug": "clothing_diaturban",
-                "name": "clothing_diaturban name",
+                "name": "Timantti turbaani",
                 "description": "clothing_diaturban desc",
                 "buyout": 0
             },
             "5085": {
                 "slug": "clothing_goldhatpack3",
-                "name": "clothing_goldhatpack3 name",
+                "name": "Kultainen hattu -paketti 3",
                 "description": "clothing_goldhatpack3 desc",
                 "buyout": 0
             },
             "5084": {
                 "slug": "clothing_goldhatpack3",
-                "name": "clothing_goldhatpack3 name",
+                "name": "Kultainen hattu -paketti 3",
                 "description": "clothing_goldhatpack3 desc",
                 "buyout": 0
             },
             "5083": {
                 "slug": "clothing_goldhatpack3",
-                "name": "clothing_goldhatpack3 name",
+                "name": "Kultainen hattu -paketti 3",
                 "description": "clothing_goldhatpack3 desc",
                 "buyout": 0
             },
             "5082": {
                 "slug": "clothing_goldhatpack3",
-                "name": "clothing_goldhatpack3 name",
+                "name": "Kultainen hattu -paketti 3",
                 "description": "clothing_goldhatpack3 desc",
                 "buyout": 0
             },
             "5081": {
                 "slug": "clothing_goldhatpack3",
-                "name": "clothing_goldhatpack3 name",
+                "name": "Kultainen hattu -paketti 3",
                 "description": "clothing_goldhatpack3 desc",
                 "buyout": 0
             },
             "5080": {
                 "slug": "clothing_goldhatpack3",
-                "name": "clothing_goldhatpack3 name",
+                "name": "Kultainen hattu -paketti 3",
                 "description": "clothing_goldhatpack3 desc",
                 "buyout": 0
             },
             "5079": {
                 "slug": "clothing_goldhatpack3",
-                "name": "clothing_goldhatpack3 name",
+                "name": "Kultainen hattu -paketti 3",
                 "description": "clothing_goldhatpack3 desc",
                 "buyout": 0
             },
             "5076": {
                 "slug": "clothing_r23_tvhead",
-                "name": "clothing_r23_tvhead name",
+                "name": "Telkkarip\u00e4\u00e4",
                 "description": "clothing_r23_tvhead desc",
                 "buyout": 0
             },
@@ -5090,7 +5096,7 @@
             },
             "5088": {
                 "slug": "clothing_diahalo",
-                "name": "clothing_diahalo name",
+                "name": "Timantti s\u00e4dekeh\u00e4",
                 "description": "clothing_diahalo desc",
                 "buyout": 0
             },
@@ -5102,7 +5108,7 @@
             },
             "5050": {
                 "slug": "clothing_cnyrabbit",
-                "name": "clothing_cnyrabbit name",
+                "name": "J\u00e4nis -asusteet",
                 "description": "clothing_cnyrabbit desc",
                 "buyout": 0
             },
@@ -6371,13 +6377,13 @@
             },
             "5051": {
                 "slug": "clothing_r23_kangarooharness",
-                "name": "clothing_r23_kangarooharness name",
+                "name": "Kengurun kantoreppu",
                 "description": "clothing_r23_kangarooharness desc",
                 "buyout": 0
             },
             "5049": {
                 "slug": "clothing_cnyrabbit",
-                "name": "clothing_cnyrabbit name",
+                "name": "J\u00e4nis -asusteet",
                 "description": "clothing_cnyrabbit desc",
                 "buyout": 0
             },
@@ -7000,6 +7006,18 @@
         "cc": {
             "9865": null,
             "9563": null,
+            "5105": {
+                "slug": "clothing_nft2023tuxedo",
+                "name": "Smokki Ilotulitus 2023",
+                "description": "clothing_nft2023tuxedo desc",
+                "buyout": 0
+            },
+            "5104": {
+                "slug": "clothing_nft2023tuxedo",
+                "name": "Smokki Ilotulitus 2023",
+                "description": "clothing_nft2023tuxedo desc",
+                "buyout": 0
+            },
             "4998": {
                 "slug": "clothing_r22_tuxedocape",
                 "name": "Tanssiaisten smokkiviitta",

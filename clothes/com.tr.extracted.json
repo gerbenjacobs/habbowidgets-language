@@ -2857,6 +2857,12 @@
             "210": null
         },
         "lg": {
+            "5106": {
+                "slug": "clothing_nft2023tuxedo",
+                "name": "2023 Havai Fi\u015fekli Smokin",
+                "description": "clothing_nft2023tuxedo desc",
+                "buyout": 0
+            },
             "5022": {
                 "slug": "clothing_r22_xmastreeoutfit",
                 "name": "\u00c7am A\u011fac\u0131 Kost\u00fcm\u00fc",
@@ -3506,7 +3512,7 @@
         "ha": {
             "5103": {
                 "slug": "clothing_nftrastasanta",
-                "name": "Rasta Santa Hat",
+                "name": "Rasta Noel Baba \u015eapkas\u0131",
                 "description": "clothing_nftrastasanta desc",
                 "buyout": 0
             },
@@ -3590,7 +3596,7 @@
             },
             "5076": {
                 "slug": "clothing_r23_tvhead",
-                "name": "clothing_r23_tvhead name",
+                "name": "Televizyon Kafa",
                 "description": "clothing_r23_tvhead desc",
                 "buyout": 0
             },
@@ -5102,7 +5108,7 @@
             },
             "5050": {
                 "slug": "clothing_cnyrabbit",
-                "name": "clothing_cnyrabbit name",
+                "name": "Tav\u015fan Aksesuarlar\u0131",
                 "description": "clothing_cnyrabbit desc",
                 "buyout": 0
             },
@@ -6371,13 +6377,13 @@
             },
             "5051": {
                 "slug": "clothing_r23_kangarooharness",
-                "name": "clothing_r23_kangarooharness name",
+                "name": "Kanguru Kunda\u011f\u0131",
                 "description": "clothing_r23_kangarooharness desc",
                 "buyout": 0
             },
             "5049": {
                 "slug": "clothing_cnyrabbit",
-                "name": "clothing_cnyrabbit name",
+                "name": "Tav\u015fan Aksesuarlar\u0131",
                 "description": "clothing_cnyrabbit desc",
                 "buyout": 0
             },
@@ -7000,6 +7006,18 @@
         "cc": {
             "9865": null,
             "9563": null,
+            "5105": {
+                "slug": "clothing_nft2023tuxedo",
+                "name": "2023 Havai Fi\u015fekli Smokin",
+                "description": "clothing_nft2023tuxedo desc",
+                "buyout": 0
+            },
+            "5104": {
+                "slug": "clothing_nft2023tuxedo",
+                "name": "2023 Havai Fi\u015fekli Smokin",
+                "description": "clothing_nft2023tuxedo desc",
+                "buyout": 0
+            },
             "4998": {
                 "slug": "clothing_r22_tuxedocape",
                 "name": "Eve D\u00f6n\u00fc\u015f Smokin Pelerini",

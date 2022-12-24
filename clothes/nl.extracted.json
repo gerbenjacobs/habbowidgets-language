@@ -2857,6 +2857,12 @@
             "210": null
         },
         "lg": {
+            "5106": {
+                "slug": "clothing_nft2023tuxedo",
+                "name": "2023 Vuurwerk Smoking",
+                "description": "clothing_nft2023tuxedo desc",
+                "buyout": 0
+            },
             "5022": {
                 "slug": "clothing_r22_xmastreeoutfit",
                 "name": "Kerstboom Outfit",
@@ -3506,7 +3512,7 @@
         "ha": {
             "5103": {
                 "slug": "clothing_nftrastasanta",
-                "name": "Rasta Santa Hat",
+                "name": "Rasta Kerstmuts",
                 "description": "clothing_nftrastasanta desc",
                 "buyout": 0
             },
@@ -3536,13 +3542,13 @@
             },
             "5087": {
                 "slug": "clothing_diafeathercrown",
-                "name": "clothing_diafeathercrown name",
+                "name": "Diamanten Verenkroon",
                 "description": "clothing_diafeathercrown desc",
                 "buyout": 0
             },
             "5086": {
                 "slug": "clothing_diaturban",
-                "name": "clothing_diaturban name",
+                "name": "Diamanten Tulband",
                 "description": "clothing_diaturban desc",
                 "buyout": 0
             },
@@ -3590,7 +3596,7 @@
             },
             "5076": {
                 "slug": "clothing_r23_tvhead",
-                "name": "clothing_r23_tvhead name",
+                "name": "Televisie-hoofd",
                 "description": "clothing_r23_tvhead desc",
                 "buyout": 0
             },
@@ -5090,7 +5096,7 @@
             },
             "5088": {
                 "slug": "clothing_diahalo",
-                "name": "clothing_diahalo name",
+                "name": "Diamanten Halo",
                 "description": "clothing_diahalo desc",
                 "buyout": 0
             },
@@ -5102,7 +5108,7 @@
             },
             "5050": {
                 "slug": "clothing_cnyrabbit",
-                "name": "clothing_cnyrabbit name",
+                "name": "Konijn Accessoires",
                 "description": "clothing_cnyrabbit desc",
                 "buyout": 0
             },
@@ -6371,13 +6377,13 @@
             },
             "5051": {
                 "slug": "clothing_r23_kangarooharness",
-                "name": "clothing_r23_kangarooharness name",
+                "name": "Kangoeroe Buiktas",
                 "description": "clothing_r23_kangarooharness desc",
                 "buyout": 0
             },
             "5049": {
                 "slug": "clothing_cnyrabbit",
-                "name": "clothing_cnyrabbit name",
+                "name": "Konijn Accessoires",
                 "description": "clothing_cnyrabbit desc",
                 "buyout": 0
             },
@@ -7000,6 +7006,18 @@
         "cc": {
             "9865": null,
             "9563": null,
+            "5105": {
+                "slug": "clothing_nft2023tuxedo",
+                "name": "2023 Vuurwerk Smoking",
+                "description": "clothing_nft2023tuxedo desc",
+                "buyout": 0
+            },
+            "5104": {
+                "slug": "clothing_nft2023tuxedo",
+                "name": "2023 Vuurwerk Smoking",
+                "description": "clothing_nft2023tuxedo desc",
+                "buyout": 0
+            },
             "4998": {
                 "slug": "clothing_r22_tuxedocape",
                 "name": "Back to School Tuxedo Cape",

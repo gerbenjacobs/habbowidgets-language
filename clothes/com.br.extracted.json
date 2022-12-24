@@ -2857,6 +2857,12 @@
             "210": null
         },
         "lg": {
+            "5106": {
+                "slug": "clothing_nft2023tuxedo",
+                "name": "Traje Fogos de Artif\u00edcio 2023",
+                "description": "clothing_nft2023tuxedo desc",
+                "buyout": 0
+            },
             "5022": {
                 "slug": "clothing_r22_xmastreeoutfit",
                 "name": "Look \u00c1rvore de Natal",
@@ -3506,7 +3512,7 @@
         "ha": {
             "5103": {
                 "slug": "clothing_nftrastasanta",
-                "name": "Rasta Santa Hat",
+                "name": "Gorro Papai Noel Rasta",
                 "description": "clothing_nftrastasanta desc",
                 "buyout": 0
             },
@@ -3530,7 +3536,7 @@
             },
             "5089": {
                 "slug": "clothing_goldhatpack3",
-                "name": "clothing_goldhatpack3 name",
+                "name": "Pack de Chap\u00e9us Dourados 3.0",
                 "description": "clothing_goldhatpack3 desc",
                 "buyout": 0
             },
@@ -3548,43 +3554,43 @@
             },
             "5085": {
                 "slug": "clothing_goldhatpack3",
-                "name": "clothing_goldhatpack3 name",
+                "name": "Pack de Chap\u00e9us Dourados 3.0",
                 "description": "clothing_goldhatpack3 desc",
                 "buyout": 0
             },
             "5084": {
                 "slug": "clothing_goldhatpack3",
-                "name": "clothing_goldhatpack3 name",
+                "name": "Pack de Chap\u00e9us Dourados 3.0",
                 "description": "clothing_goldhatpack3 desc",
                 "buyout": 0
             },
             "5083": {
                 "slug": "clothing_goldhatpack3",
-                "name": "clothing_goldhatpack3 name",
+                "name": "Pack de Chap\u00e9us Dourados 3.0",
                 "description": "clothing_goldhatpack3 desc",
                 "buyout": 0
             },
             "5082": {
                 "slug": "clothing_goldhatpack3",
-                "name": "clothing_goldhatpack3 name",
+                "name": "Pack de Chap\u00e9us Dourados 3.0",
                 "description": "clothing_goldhatpack3 desc",
                 "buyout": 0
             },
             "5081": {
                 "slug": "clothing_goldhatpack3",
-                "name": "clothing_goldhatpack3 name",
+                "name": "Pack de Chap\u00e9us Dourados 3.0",
                 "description": "clothing_goldhatpack3 desc",
                 "buyout": 0
             },
             "5080": {
                 "slug": "clothing_goldhatpack3",
-                "name": "clothing_goldhatpack3 name",
+                "name": "Pack de Chap\u00e9us Dourados 3.0",
                 "description": "clothing_goldhatpack3 desc",
                 "buyout": 0
             },
             "5079": {
                 "slug": "clothing_goldhatpack3",
-                "name": "clothing_goldhatpack3 name",
+                "name": "Pack de Chap\u00e9us Dourados 3.0",
                 "description": "clothing_goldhatpack3 desc",
                 "buyout": 0
             },
@@ -5084,7 +5090,7 @@
         "he": {
             "5090": {
                 "slug": "clothing_ltsheadband",
-                "name": "",
+                "name": "Tiara Little Twin Stars",
                 "description": "clothing_ltsheadband desc",
                 "buyout": 0
             },
@@ -6365,7 +6371,7 @@
             },
             "5061": {
                 "slug": "clothing_ltsbackstar",
-                "name": "",
+                "name": "Estrela Little Twin Stars",
                 "description": "clothing_ltsbackstar desc",
                 "buyout": 0
             },
@@ -7000,6 +7006,18 @@
         "cc": {
             "9865": null,
             "9563": null,
+            "5105": {
+                "slug": "clothing_nft2023tuxedo",
+                "name": "Traje Fogos de Artif\u00edcio 2023",
+                "description": "clothing_nft2023tuxedo desc",
+                "buyout": 0
+            },
+            "5104": {
+                "slug": "clothing_nft2023tuxedo",
+                "name": "Traje Fogos de Artif\u00edcio 2023",
+                "description": "clothing_nft2023tuxedo desc",
+                "buyout": 0
+            },
             "4998": {
                 "slug": "clothing_r22_tuxedocape",
                 "name": "Capa Smoking Estudantes",
