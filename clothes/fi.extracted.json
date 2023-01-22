@@ -5110,7 +5110,7 @@
                 "slug": "clothing_cnyrabbit",
                 "name": "J\u00e4nis -asusteet",
                 "description": "clothing_cnyrabbit desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5031": {
                 "slug": "clothing_hkheadphones",
@@ -6385,7 +6385,7 @@
                 "slug": "clothing_cnyrabbit",
                 "name": "J\u00e4nis -asusteet",
                 "description": "clothing_cnyrabbit desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5043": {
                 "slug": "clothing_nftpumpkinbag",

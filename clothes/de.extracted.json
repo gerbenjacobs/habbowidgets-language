@@ -31,7 +31,7 @@
             },
             "5019": {
                 "slug": "clothing_fadehair",
-                "name": "Perfekte Schattierung",
+                "name": "Perfekter \u00dcbergang",
                 "description": "clothing_fadehair desc",
                 "buyout": 1
             },
@@ -223,7 +223,7 @@
             },
             "3998": {
                 "slug": "clothing_modernshortwave",
-                "name": "Glatte Wellen ",
+                "name": "Leichte Wellen",
                 "description": "clothing_modernshortwave desc",
                 "buyout": 1
             },
@@ -379,7 +379,7 @@
             },
             "3786": {
                 "slug": "clothing_highfade",
-                "name": "Fade Frisur",
+                "name": "Hoher \u00dcbergang",
                 "description": "clothing_highfade desc",
                 "buyout": 1
             },
@@ -421,7 +421,7 @@
             },
             "3746": {
                 "slug": "clothing_sideflopped",
-                "name": "Fade Frisur",
+                "name": "Seitenscheitel",
                 "description": "clothing_sideflopped desc",
                 "buyout": 1
             },
@@ -517,7 +517,7 @@
             },
             "3665": {
                 "slug": "clothing_braidedwavy",
-                "name": "Lockenzopf",
+                "name": "Wellige Flechtfrisur",
                 "description": "clothing_braidedwavy desc",
                 "buyout": 1
             },
@@ -553,7 +553,7 @@
             },
             "3569": {
                 "slug": "clothing_messyhalfbun",
-                "name": "Bauern-Haarknoten",
+                "name": "Bauerndutt",
                 "description": "Riecht nach nassem Hund.",
                 "buyout": 1
             },
@@ -3692,7 +3692,7 @@
             },
             "4960": {
                 "slug": "clothing_ttbuckethat",
-                "name": "Teletubbies Pride-K\u00fcbelhut",
+                "name": "Teletubbies Pride-Fischerhut",
                 "description": "clothing_ttbuckethat desc",
                 "buyout": 0
             },
@@ -5110,7 +5110,7 @@
                 "slug": "clothing_cnyrabbit",
                 "name": "Hasen-Accessoires",
                 "description": "clothing_cnyrabbit desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5031": {
                 "slug": "clothing_hkheadphones",
@@ -5660,7 +5660,7 @@
             },
             "3469": {
                 "slug": "clothing_ribbon",
-                "name": "Schickes Band",
+                "name": "Schicke Schleife",
                 "description": "Habbo Couture: Weihnachten 2015",
                 "buyout": 1
             },
@@ -6385,7 +6385,7 @@
                 "slug": "clothing_cnyrabbit",
                 "name": "Hasen-Accessoires",
                 "description": "clothing_cnyrabbit desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5043": {
                 "slug": "clothing_nftpumpkinbag",
