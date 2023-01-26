@@ -17,6 +17,24 @@
     "clothing": {
         "hr": {
             "9534": null,
+            "5125": {
+                "slug": "clothing_nftwinterweaves",
+                "name": "Penteado Ondulado Branco Invernal",
+                "description": "clothing_nftwinterweaves desc",
+                "buyout": 0
+            },
+            "5124": {
+                "slug": "clothing_nftwinterbreeze",
+                "name": "Penteado Branco Invernal",
+                "description": "clothing_nftwinterbreeze desc",
+                "buyout": 0
+            },
+            "5120": {
+                "slug": "clothing_r23_retrowave",
+                "name": "Penteado Joystick",
+                "description": "clothing_r23_retrowave desc",
+                "buyout": 0
+            },
             "5040": {
                 "slug": "clothing_nftdollhair2",
                 "name": "Penteado Chiquinhas de Boneca",
@@ -3510,6 +3528,42 @@
             "290": null
         },
         "ha": {
+            "5134": {
+                "slug": "clothing_nftwintercapcheck",
+                "name": "Boina Xadrez",
+                "description": "clothing_nftwintercapcheck desc",
+                "buyout": 0
+            },
+            "5133": {
+                "slug": "clothing_nftwintercapwhite",
+                "name": "Boina Branca",
+                "description": "clothing_nftwintercapwhite desc",
+                "buyout": 0
+            },
+            "5132": {
+                "slug": "clothing_nftwintercapbrown",
+                "name": "Boina Bege",
+                "description": "clothing_nftwintercapbrown desc",
+                "buyout": 0
+            },
+            "5131": {
+                "slug": "clothing_nftberetcheck",
+                "name": "Gorro Xadrez",
+                "description": "clothing_nftberetcheck desc",
+                "buyout": 0
+            },
+            "5130": {
+                "slug": "clothing_nftberetwhite",
+                "name": "Gorro Branco",
+                "description": "clothing_nftberetwhite desc",
+                "buyout": 0
+            },
+            "5129": {
+                "slug": "clothing_nftberetbrown",
+                "name": "Gorro Bege",
+                "description": "clothing_nftberetbrown desc",
+                "buyout": 0
+            },
             "5103": {
                 "slug": "clothing_nftrastasanta",
                 "name": "Gorro Papai Noel Rasta",
@@ -5088,6 +5142,12 @@
             "1001": null
         },
         "he": {
+            "5121": {
+                "slug": "clothing_r23_healthbar",
+                "name": "Tr\u00eas Vidas Restantes",
+                "description": "clothing_r23_healthbar desc",
+                "buyout": 0
+            },
             "5090": {
                 "slug": "clothing_ltsheadband",
                 "name": "Tiara Little Twin Stars",
@@ -5746,6 +5806,12 @@
             "1601": null
         },
         "ea": {
+            "5135": {
+                "slug": "clothing_nftbookworm",
+                "name": "\u00d3culos Rato de Biblioteca",
+                "description": "clothing_nftbookworm desc",
+                "buyout": 0
+            },
             "5009": {
                 "slug": "clothing_nftpartyshades3",
                 "name": "\u00d3culos 1o Anivers\u00e1rio Trippy",
@@ -6351,6 +6417,12 @@
             "1201": null
         },
         "ca": {
+            "5136": {
+                "slug": "clothing_nftduckpack",
+                "name": "clothing_nftduckpack name",
+                "description": "clothing_nftduckpack desc",
+                "buyout": 0
+            },
             "5102": {
                 "slug": "clothing_mrblackmerch",
                 "name": "Mr Black Outfit",
@@ -7006,6 +7078,24 @@
         "cc": {
             "9865": null,
             "9563": null,
+            "5128": {
+                "slug": "clothing_nftwintercoatcheck",
+                "name": "Casaco de Inverno Xadrez",
+                "description": "clothing_nftwintercoatcheck desc",
+                "buyout": 0
+            },
+            "5127": {
+                "slug": "clothing_nftwintercoatwhite",
+                "name": "Casaco de Inverno Branco",
+                "description": "clothing_nftwintercoatwhite desc",
+                "buyout": 0
+            },
+            "5126": {
+                "slug": "clothing_nftwintercoatbrown",
+                "name": "Casaco de Inverno Marrom",
+                "description": "clothing_nftwintercoatbrown desc",
+                "buyout": 0
+            },
             "5105": {
                 "slug": "clothing_nft2023tuxedo",
                 "name": "Traje Fogos de Artif\u00edcio 2023",

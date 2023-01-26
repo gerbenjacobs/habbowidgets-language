@@ -17,6 +17,24 @@
     "clothing": {
         "hr": {
             "9534": null,
+            "5125": {
+                "slug": "clothing_nftwinterweaves",
+                "name": "Boccoli Invernali Bianchi",
+                "description": "clothing_nftwinterweaves desc",
+                "buyout": 0
+            },
+            "5124": {
+                "slug": "clothing_nftwinterbreeze",
+                "name": "Capelli Invernali Bianchi",
+                "description": "clothing_nftwinterbreeze desc",
+                "buyout": 0
+            },
+            "5120": {
+                "slug": "clothing_r23_retrowave",
+                "name": "Capelli Arcade Ondulati",
+                "description": "clothing_r23_retrowave desc",
+                "buyout": 0
+            },
             "5040": {
                 "slug": "clothing_nftdollhair2",
                 "name": "Codini Bambola",
@@ -3510,6 +3528,42 @@
             "290": null
         },
         "ha": {
+            "5134": {
+                "slug": "clothing_nftwintercapcheck",
+                "name": "Cappello Invernale a Quadri",
+                "description": "clothing_nftwintercapcheck desc",
+                "buyout": 0
+            },
+            "5133": {
+                "slug": "clothing_nftwintercapwhite",
+                "name": "Cappello Invernale Bianco",
+                "description": "clothing_nftwintercapwhite desc",
+                "buyout": 0
+            },
+            "5132": {
+                "slug": "clothing_nftwintercapbrown",
+                "name": "Cappello Invernale Beige",
+                "description": "clothing_nftwintercapbrown desc",
+                "buyout": 0
+            },
+            "5131": {
+                "slug": "clothing_nftberetcheck",
+                "name": "Berretto a Quadri",
+                "description": "clothing_nftberetcheck desc",
+                "buyout": 0
+            },
+            "5130": {
+                "slug": "clothing_nftberetwhite",
+                "name": "Berretto Bianco",
+                "description": "clothing_nftberetwhite desc",
+                "buyout": 0
+            },
+            "5129": {
+                "slug": "clothing_nftberetbrown",
+                "name": "Berretto Beige",
+                "description": "clothing_nftberetbrown desc",
+                "buyout": 0
+            },
             "5103": {
                 "slug": "clothing_nftrastasanta",
                 "name": "Cappello da Babbo Natale Rasta",
@@ -5088,6 +5142,12 @@
             "1001": null
         },
         "he": {
+            "5121": {
+                "slug": "clothing_r23_healthbar",
+                "name": "Solo Tre Vite",
+                "description": "clothing_r23_healthbar desc",
+                "buyout": 0
+            },
             "5090": {
                 "slug": "clothing_ltsheadband",
                 "name": "",
@@ -5746,6 +5806,12 @@
             "1601": null
         },
         "ea": {
+            "5135": {
+                "slug": "clothing_nftbookworm",
+                "name": "Occhiali da Topo da Biblioteca",
+                "description": "clothing_nftbookworm desc",
+                "buyout": 0
+            },
             "5009": {
                 "slug": "clothing_nftpartyshades3",
                 "name": "Occhiali Psichedelici del Primo Anniversario",
@@ -6351,6 +6417,12 @@
             "1201": null
         },
         "ca": {
+            "5136": {
+                "slug": "clothing_nftduckpack",
+                "name": "clothing_nftduckpack name",
+                "description": "clothing_nftduckpack desc",
+                "buyout": 0
+            },
             "5102": {
                 "slug": "clothing_mrblackmerch",
                 "name": "Look da Mr Black",
@@ -7006,6 +7078,24 @@
         "cc": {
             "9865": null,
             "9563": null,
+            "5128": {
+                "slug": "clothing_nftwintercoatcheck",
+                "name": "Cappotto Invernale a Quadri",
+                "description": "clothing_nftwintercoatcheck desc",
+                "buyout": 0
+            },
+            "5127": {
+                "slug": "clothing_nftwintercoatwhite",
+                "name": "Cappotto Invernale Bianco",
+                "description": "clothing_nftwintercoatwhite desc",
+                "buyout": 0
+            },
+            "5126": {
+                "slug": "clothing_nftwintercoatbrown",
+                "name": "Cappotto Invernale Marrone",
+                "description": "clothing_nftwintercoatbrown desc",
+                "buyout": 0
+            },
             "5105": {
                 "slug": "clothing_nft2023tuxedo",
                 "name": "Smoking Fuochi Artificiali 2023",
