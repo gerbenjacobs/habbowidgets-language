@@ -5142,6 +5142,13 @@
             "1001": null
         },
         "he": {
+            "5139": {
+                "slug": "clothing_r23_heartbopper",
+                "name": "clothing_r23_heartbopper name",
+                "description": "clothing_r23_heartbopper desc",
+                "buyout": 0
+            },
+            "5137": null,
             "5121": {
                 "slug": "clothing_r23_healthbar",
                 "name": "Nog maar drie levens",
@@ -6079,6 +6086,7 @@
             "1401": null
         },
         "fa": {
+            "5122": null,
             "5060": {
                 "slug": "clothing_r22_nypartyhorn8",
                 "name": "Gouden Feesttoeter",
@@ -6980,6 +6988,7 @@
             "1801": null
         },
         "wa": {
+            "5123": null,
             "4317": {
                 "slug": "clothing_cnytiger",
                 "name": "Tijger Accessoires",

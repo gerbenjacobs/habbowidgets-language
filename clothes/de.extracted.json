@@ -916,7 +916,7 @@
             },
             "4174": {
                 "slug": "clothing_toughface",
-                "name": "Gangsterface",
+                "name": "Gangster-Gesicht",
                 "description": "clothing_toughface desc",
                 "buyout": 1
             },
@@ -3262,7 +3262,7 @@
             },
             "3328": {
                 "slug": "clothing_hipoutfit2",
-                "name": "Designer Outfit mit Brillen",
+                "name": "Designer-Outfit mit Brille",
                 "description": "Ernsthaft gutes Haar",
                 "buyout": 1
             },
@@ -5054,7 +5054,7 @@
             },
             "3352": {
                 "slug": "clothing_headband",
-                "name": "Rockstar Haarband",
+                "name": "Rockstar Stirnband",
                 "description": "Design fertig zum Tragen",
                 "buyout": 1
             },
@@ -5142,6 +5142,13 @@
             "1001": null
         },
         "he": {
+            "5139": {
+                "slug": "clothing_r23_heartbopper",
+                "name": "Heart Bopper-Haarreifen",
+                "description": "clothing_r23_heartbopper desc",
+                "buyout": 0
+            },
+            "5137": null,
             "5121": {
                 "slug": "clothing_r23_healthbar",
                 "name": "Nur drei Leben",
@@ -5222,25 +5229,25 @@
             },
             "4382": {
                 "slug": "clothing_headband_tinkywinky",
-                "name": "Teletubbies - Tinky Winky-Stirnband",
+                "name": "Tinky Winky-Haarreif",
                 "description": "clothing_headband_tinkywinky desc",
                 "buyout": 0
             },
             "4381": {
                 "slug": "clothing_headband_dipsy",
-                "name": "Teletubbies - Dipsy-Stirnband",
+                "name": "Dipsy-Haarreif",
                 "description": "clothing_headband_dipsy desc",
                 "buyout": 0
             },
             "4380": {
                 "slug": "clothing_headband_laalaa",
-                "name": "Teletubbies - Laa-Laa-Stirnband",
+                "name": "Laa-Laa-Haarreif",
                 "description": "clothing_headband_laalaa desc",
                 "buyout": 0
             },
             "4379": {
                 "slug": "clothing_headband_po",
-                "name": "Teletubbies - Po-Stirnband",
+                "name": "Po-Haarreif",
                 "description": "clothing_headband_po desc",
                 "buyout": 0
             },
@@ -6079,6 +6086,7 @@
             "1401": null
         },
         "fa": {
+            "5122": null,
             "5060": {
                 "slug": "clothing_r22_nypartyhorn8",
                 "name": "Goldene Partytr\u00f6te",
@@ -6683,7 +6691,7 @@
             },
             "4116": {
                 "slug": "clothing_multibadges",
-                "name": "Multi Badges",
+                "name": "Multi-Abzeichen",
                 "description": "clothing_multibadges desc",
                 "buyout": 1
             },
@@ -6980,6 +6988,7 @@
             "1801": null
         },
         "wa": {
+            "5123": null,
             "4317": {
                 "slug": "clothing_cnytiger",
                 "name": "Tiger-Accessoires",
