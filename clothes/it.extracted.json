@@ -5148,7 +5148,12 @@
                 "description": "clothing_r23_heartbopper desc",
                 "buyout": 0
             },
-            "5137": null,
+            "5137": {
+                "slug": "clothing_r23_sakuraantlers",
+                "name": "Corna Sakura",
+                "description": "clothing_r23_sakuraantlers desc",
+                "buyout": 0
+            },
             "5121": {
                 "slug": "clothing_r23_healthbar",
                 "name": "Solo Tre Vite",
@@ -6086,7 +6091,12 @@
             "1401": null
         },
         "fa": {
-            "5122": null,
+            "5122": {
+                "slug": "clothing_r23_kitsuneoutfit",
+                "name": "Set Kitsune",
+                "description": "clothing_r23_kitsuneoutfit desc",
+                "buyout": 0
+            },
             "5060": {
                 "slug": "clothing_r22_nypartyhorn8",
                 "name": "Lingua di Menelik d'Oro",
@@ -6988,7 +6998,12 @@
             "1801": null
         },
         "wa": {
-            "5123": null,
+            "5123": {
+                "slug": "clothing_r23_kitsuneoutfit",
+                "name": "Set Kitsune",
+                "description": "clothing_r23_kitsuneoutfit desc",
+                "buyout": 0
+            },
             "4317": {
                 "slug": "clothing_cnytiger",
                 "name": "Accessori Tigre",

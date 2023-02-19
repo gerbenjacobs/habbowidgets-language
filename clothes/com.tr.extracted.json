@@ -5148,7 +5148,12 @@
                 "description": "clothing_r23_heartbopper desc",
                 "buyout": 0
             },
-            "5137": null,
+            "5137": {
+                "slug": "clothing_r23_sakuraantlers",
+                "name": "Sakura Boynuzlar\u0131",
+                "description": "clothing_r23_sakuraantlers desc",
+                "buyout": 0
+            },
             "5121": {
                 "slug": "clothing_r23_healthbar",
                 "name": "\u00dc\u00e7 Can",
@@ -6086,7 +6091,12 @@
             "1401": null
         },
         "fa": {
-            "5122": null,
+            "5122": {
+                "slug": "clothing_r23_kitsuneoutfit",
+                "name": "Kitsune Set",
+                "description": "clothing_r23_kitsuneoutfit desc",
+                "buyout": 0
+            },
             "5060": {
                 "slug": "clothing_r22_nypartyhorn8",
                 "name": "Alt\u0131n Parti D\u00fcd\u00fc\u011f\u00fc",
@@ -6988,7 +6998,12 @@
             "1801": null
         },
         "wa": {
-            "5123": null,
+            "5123": {
+                "slug": "clothing_r23_kitsuneoutfit",
+                "name": "Kitsune Set",
+                "description": "clothing_r23_kitsuneoutfit desc",
+                "buyout": 0
+            },
             "4317": {
                 "slug": "clothing_cnytiger",
                 "name": "Kaplan Aksesuarlar\u0131",
