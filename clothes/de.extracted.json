@@ -824,6 +824,9 @@
             "100": null
         },
         "hd": {
+            "5154": null,
+            "5153": null,
+            "5143": null,
             "5042": {
                 "slug": "clothing_nftpossesseddoll",
                 "name": "Besessenes Puppengesicht",
@@ -1054,6 +1057,10 @@
             "180": null
         },
         "ch": {
+            "5162": null,
+            "5161": null,
+            "5160": null,
+            "5159": null,
             "5096": {
                 "slug": "clothing_marianabomerch",
                 "name": "Mariana Bo-Outfit",
@@ -2875,6 +2882,8 @@
             "210": null
         },
         "lg": {
+            "5163": null,
+            "5152": null,
             "5106": {
                 "slug": "clothing_nft2023tuxedo",
                 "name": "2023 Feuerwerks-Smoking",
@@ -3320,6 +3329,8 @@
             "270": null
         },
         "sh": {
+            "5164": null,
+            "5151": null,
             "5073": {
                 "slug": "clothing_nftreindeerslippers",
                 "name": "Rentier-Pantoffeln",
@@ -3528,6 +3539,14 @@
             "290": null
         },
         "ha": {
+            "5155": null,
+            "5149": null,
+            "5138": {
+                "slug": "clothing_smileyhead",
+                "name": "clothing_smileyhead name",
+                "description": "clothing_smileyhead desc",
+                "buyout": 0
+            },
             "5134": {
                 "slug": "clothing_nftwintercapcheck",
                 "name": "Karierte Winterm\u00fctze",
@@ -3652,6 +3671,12 @@
                 "slug": "clothing_r23_tvhead",
                 "name": "TV-Kopf",
                 "description": "clothing_r23_tvhead desc",
+                "buyout": 0
+            },
+            "5075": {
+                "slug": "clothing_smileyberet",
+                "name": "clothing_smileyberet name",
+                "description": "clothing_smileyberet desc",
                 "buyout": 0
             },
             "5046": {
@@ -5142,6 +5167,7 @@
             "1001": null
         },
         "he": {
+            "5147": null,
             "5139": {
                 "slug": "clothing_r23_heartbopper",
                 "name": "Herzchen-Haarreif",
@@ -5818,6 +5844,9 @@
             "1601": null
         },
         "ea": {
+            "5156": null,
+            "5148": null,
+            "5146": null,
             "5135": {
                 "slug": "clothing_nftbookworm",
                 "name": "Bookworm Specs",
@@ -6091,6 +6120,8 @@
             "1401": null
         },
         "fa": {
+            "5158": null,
+            "5157": null,
             "5122": {
                 "slug": "clothing_r23_kitsuneoutfit",
                 "name": "Kitsune-Set",
@@ -6435,6 +6466,7 @@
             "1201": null
         },
         "ca": {
+            "5145": null,
             "5136": {
                 "slug": "clothing_nftduckpack",
                 "name": "clothing_nftduckpack name",
@@ -7102,6 +7134,8 @@
         "cc": {
             "9865": null,
             "9563": null,
+            "5150": null,
+            "5144": null,
             "5128": {
                 "slug": "clothing_nftwintercoatcheck",
                 "name": "Karierter Wintermantel",
@@ -7130,6 +7164,18 @@
                 "slug": "clothing_nft2023tuxedo",
                 "name": "2023 Feuerwerks-Smoking",
                 "description": "clothing_nft2023tuxedo desc",
+                "buyout": 0
+            },
+            "5078": {
+                "slug": "clothing_smileyjacket",
+                "name": "clothing_smileyjacket name",
+                "description": "clothing_smileyjacket desc",
+                "buyout": 0
+            },
+            "5077": {
+                "slug": "clothing_smileyjacket",
+                "name": "clothing_smileyjacket name",
+                "description": "clothing_smileyjacket desc",
                 "buyout": 0
             },
             "4998": {
