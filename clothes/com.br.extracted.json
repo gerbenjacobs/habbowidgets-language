@@ -3543,7 +3543,7 @@
             "5149": null,
             "5138": {
                 "slug": "clothing_smileyhead",
-                "name": "clothing_smileyhead name",
+                "name": "Cabe\u00e7a Bobblehead Smiley",
                 "description": "clothing_smileyhead desc",
                 "buyout": 0
             },
@@ -3675,7 +3675,7 @@
             },
             "5075": {
                 "slug": "clothing_smileyberet",
-                "name": "clothing_smileyberet name",
+                "name": "Boina Smiley",
                 "description": "clothing_smileyberet desc",
                 "buyout": 0
             },
@@ -7168,13 +7168,13 @@
             },
             "5078": {
                 "slug": "clothing_smileyjacket",
-                "name": "clothing_smileyjacket name",
+                "name": "Jaqueta Jeans Smiley",
                 "description": "clothing_smileyjacket desc",
                 "buyout": 0
             },
             "5077": {
                 "slug": "clothing_smileyjacket",
-                "name": "clothing_smileyjacket name",
+                "name": "Jaqueta Jeans Smiley",
                 "description": "clothing_smileyjacket desc",
                 "buyout": 0
             },
