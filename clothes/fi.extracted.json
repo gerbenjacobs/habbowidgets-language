@@ -35,6 +35,12 @@
                 "description": "clothing_r23_retrowave desc",
                 "buyout": 0
             },
+            "5109": {
+                "slug": "clothing_saladhair",
+                "name": "clothing_saladhair name",
+                "description": "clothing_saladhair desc",
+                "buyout": 0
+            },
             "5040": {
                 "slug": "clothing_nftdollhair2",
                 "name": "Nuken saparot",
@@ -1061,6 +1067,30 @@
             "5161": null,
             "5160": null,
             "5159": null,
+            "5118": {
+                "slug": "clothing_bohoflowertop",
+                "name": "clothing_bohoflowertop name",
+                "description": "clothing_bohoflowertop desc",
+                "buyout": 0
+            },
+            "5117": {
+                "slug": "clothing_bohoflowertop",
+                "name": "clothing_bohoflowertop name",
+                "description": "clothing_bohoflowertop desc",
+                "buyout": 0
+            },
+            "5111": {
+                "slug": "clothing_trash",
+                "name": "clothing_trash name",
+                "description": "clothing_trash desc",
+                "buyout": 0
+            },
+            "5110": {
+                "slug": "clothing_trash",
+                "name": "clothing_trash name",
+                "description": "clothing_trash desc",
+                "buyout": 0
+            },
             "5096": {
                 "slug": "clothing_marianabomerch",
                 "name": "Mariana Bo-oheistuotteet",
@@ -2884,6 +2914,18 @@
         "lg": {
             "5163": null,
             "5152": null,
+            "5119": {
+                "slug": "clothing_bohopocketpants",
+                "name": "clothing_bohopocketpants name",
+                "description": "clothing_bohopocketpants desc",
+                "buyout": 0
+            },
+            "5113": {
+                "slug": "clothing_ltd23_solarpunkbunny",
+                "name": "clothing_ltd23_solarpunkbunny name",
+                "description": "clothing_ltd23_solarpunkbunny desc",
+                "buyout": 0
+            },
             "5106": {
                 "slug": "clothing_nft2023tuxedo",
                 "name": "Smokki Ilotulitus 2023",
@@ -3539,11 +3581,17 @@
             "290": null
         },
         "ha": {
+            "5194": {
+                "slug": "clothing_nftmechahelmet",
+                "name": "clothing_nftmechahelmet name",
+                "description": "clothing_nftmechahelmet desc",
+                "buyout": 0
+            },
             "5155": null,
             "5149": null,
             "5138": {
                 "slug": "clothing_smileyhead",
-                "name": "clothing_smileyhead name",
+                "name": "Smiley-kuplap\u00e4\u00e4",
                 "description": "clothing_smileyhead desc",
                 "buyout": 0
             },
@@ -3581,6 +3629,24 @@
                 "slug": "clothing_nftberetbrown",
                 "name": "Beige baskeri",
                 "description": "clothing_nftberetbrown desc",
+                "buyout": 0
+            },
+            "5116": {
+                "slug": "clothing_r23_floppybunnyhat",
+                "name": "clothing_r23_floppybunnyhat name",
+                "description": "clothing_r23_floppybunnyhat desc",
+                "buyout": 0
+            },
+            "5115": {
+                "slug": "clothing_ltd23_solarpunkbunny",
+                "name": "clothing_ltd23_solarpunkbunny name",
+                "description": "clothing_ltd23_solarpunkbunny desc",
+                "buyout": 0
+            },
+            "5112": {
+                "slug": "clothing_r23_bunnytophat",
+                "name": "clothing_r23_bunnytophat name",
+                "description": "clothing_r23_bunnytophat desc",
                 "buyout": 0
             },
             "5103": {
@@ -3675,7 +3741,7 @@
             },
             "5075": {
                 "slug": "clothing_smileyberet",
-                "name": "clothing_smileyberet name",
+                "name": "Smiley-baskeri",
                 "description": "clothing_smileyberet desc",
                 "buyout": 0
             },
@@ -6466,11 +6532,23 @@
             "1201": null
         },
         "ca": {
+            "5193": {
+                "slug": "clothing_nftmechapack",
+                "name": "clothing_nftmechapack name",
+                "description": "clothing_nftmechapack desc",
+                "buyout": 0
+            },
             "5145": null,
             "5136": {
                 "slug": "clothing_nftduckpack",
                 "name": "clothing_nftduckpack name",
                 "description": "clothing_nftduckpack desc",
+                "buyout": 0
+            },
+            "5108": {
+                "slug": "clothing_bunnybackpack",
+                "name": "clothing_bunnybackpack name",
+                "description": "clothing_bunnybackpack desc",
                 "buyout": 0
             },
             "5102": {
@@ -7154,6 +7232,12 @@
                 "description": "clothing_nftwintercoatbrown desc",
                 "buyout": 0
             },
+            "5114": {
+                "slug": "clothing_ltd23_solarpunkbunny",
+                "name": "clothing_ltd23_solarpunkbunny name",
+                "description": "clothing_ltd23_solarpunkbunny desc",
+                "buyout": 0
+            },
             "5105": {
                 "slug": "clothing_nft2023tuxedo",
                 "name": "Smokki Ilotulitus 2023",
@@ -7168,13 +7252,13 @@
             },
             "5078": {
                 "slug": "clothing_smileyjacket",
-                "name": "clothing_smileyjacket name",
+                "name": "Smiley-farkkutakki",
                 "description": "clothing_smileyjacket desc",
                 "buyout": 0
             },
             "5077": {
                 "slug": "clothing_smileyjacket",
-                "name": "clothing_smileyjacket name",
+                "name": "Smiley-farkkutakki",
                 "description": "clothing_smileyjacket desc",
                 "buyout": 0
             },
