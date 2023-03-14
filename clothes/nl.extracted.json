@@ -2922,7 +2922,7 @@
             },
             "5113": {
                 "slug": "clothing_ltd23_solarpunkbunny",
-                "name": "clothing_ltd23_solarpunkbunny name",
+                "name": "Solarpunk Bunny Outfit",
                 "description": "clothing_ltd23_solarpunkbunny desc",
                 "buyout": 0
             },
@@ -3633,19 +3633,19 @@
             },
             "5116": {
                 "slug": "clothing_r23_floppybunnyhat",
-                "name": "clothing_r23_floppybunnyhat name",
+                "name": "Floppy Bunny Hoed",
                 "description": "clothing_r23_floppybunnyhat desc",
                 "buyout": 0
             },
             "5115": {
                 "slug": "clothing_ltd23_solarpunkbunny",
-                "name": "clothing_ltd23_solarpunkbunny name",
+                "name": "Solarpunk Bunny Outfit",
                 "description": "clothing_ltd23_solarpunkbunny desc",
                 "buyout": 0
             },
             "5112": {
                 "slug": "clothing_r23_bunnytophat",
-                "name": "clothing_r23_bunnytophat name",
+                "name": "Bunny Oren Hoed",
                 "description": "clothing_r23_bunnytophat desc",
                 "buyout": 0
             },
@@ -4571,19 +4571,19 @@
                 "slug": "clothing_dianoblecrown",
                 "name": "Diamanten Koningskroon",
                 "description": "clothing_dianoblecrown desc",
-                "buyout": 0
+                "buyout": 1
             },
             "3709": {
                 "slug": "clothing_dialeafcrown",
                 "name": "Diamanten Julias Caesar-kroon",
                 "description": "clothing_dialeafcrown desc",
-                "buyout": 0
+                "buyout": 1
             },
             "3708": {
                 "slug": "clothing_diafish",
                 "name": "Diamanten Vishoed",
                 "description": "clothing_diafish desc",
-                "buyout": 0
+                "buyout": 1
             },
             "3701": {
                 "slug": "clothing_dragonplushhat",
@@ -7234,7 +7234,7 @@
             },
             "5114": {
                 "slug": "clothing_ltd23_solarpunkbunny",
-                "name": "clothing_ltd23_solarpunkbunny name",
+                "name": "Solarpunk Bunny Outfit",
                 "description": "clothing_ltd23_solarpunkbunny desc",
                 "buyout": 0
             },
