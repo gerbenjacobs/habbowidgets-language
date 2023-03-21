@@ -37,7 +37,7 @@
             },
             "5109": {
                 "slug": "clothing_saladhair",
-                "name": "clothing_saladhair name",
+                "name": "Salad Head",
                 "description": "clothing_saladhair desc",
                 "buyout": 0
             },
@@ -1069,25 +1069,25 @@
             "5159": null,
             "5118": {
                 "slug": "clothing_bohoflowertop",
-                "name": "clothing_bohoflowertop name",
+                "name": "Reformed Flower-Lover Shirt",
                 "description": "clothing_bohoflowertop desc",
                 "buyout": 0
             },
             "5117": {
                 "slug": "clothing_bohoflowertop",
-                "name": "clothing_bohoflowertop name",
+                "name": "Reformed Flower-Lover Shirt",
                 "description": "clothing_bohoflowertop desc",
                 "buyout": 0
             },
             "5111": {
                 "slug": "clothing_trash",
-                "name": "clothing_trash name",
+                "name": "Distressed Trash Tank",
                 "description": "clothing_trash desc",
                 "buyout": 0
             },
             "5110": {
                 "slug": "clothing_trash",
-                "name": "clothing_trash name",
+                "name": "Distressed Trash Tank",
                 "description": "clothing_trash desc",
                 "buyout": 0
             },
@@ -2916,7 +2916,7 @@
             "5152": null,
             "5119": {
                 "slug": "clothing_bohopocketpants",
-                "name": "clothing_bohopocketpants name",
+                "name": "Reformed Patchwork Pants",
                 "description": "clothing_bohopocketpants desc",
                 "buyout": 0
             },
@@ -6547,7 +6547,7 @@
             },
             "5108": {
                 "slug": "clothing_bunnybackpack",
-                "name": "clothing_bunnybackpack name",
+                "name": "Squishy Bunny Backpack",
                 "description": "clothing_bunnybackpack desc",
                 "buyout": 0
             },

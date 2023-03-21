@@ -1081,13 +1081,13 @@
             },
             "5111": {
                 "slug": "clothing_trash",
-                "name": "clothing_trash name",
+                "name": "Camiseta rota",
                 "description": "clothing_trash desc",
                 "buyout": 0
             },
             "5110": {
                 "slug": "clothing_trash",
-                "name": "clothing_trash name",
+                "name": "Camiseta rota",
                 "description": "clothing_trash desc",
                 "buyout": 0
             },
@@ -2922,7 +2922,7 @@
             },
             "5113": {
                 "slug": "clothing_ltd23_solarpunkbunny",
-                "name": "Traje de Conejito Solarpunk LTD",
+                "name": "Ropa LTD Conejo Solarpunk",
                 "description": "clothing_ltd23_solarpunkbunny desc",
                 "buyout": 0
             },
@@ -3633,19 +3633,19 @@
             },
             "5116": {
                 "slug": "clothing_r23_floppybunnyhat",
-                "name": "Sombrero Elegante de Conejito",
+                "name": "Gorro de Conejo Blandito",
                 "description": "clothing_r23_floppybunnyhat desc",
                 "buyout": 0
             },
             "5115": {
                 "slug": "clothing_ltd23_solarpunkbunny",
-                "name": "Traje de Conejito Solarpunk LTD",
+                "name": "Ropa LTD Conejo Solarpunk",
                 "description": "clothing_ltd23_solarpunkbunny desc",
                 "buyout": 0
             },
             "5112": {
                 "slug": "clothing_r23_bunnytophat",
-                "name": "Sombrero con Orejas de Conejo",
+                "name": "Gorro de Orejas de Conejo",
                 "description": "clothing_r23_bunnytophat desc",
                 "buyout": 0
             },
@@ -7234,7 +7234,7 @@
             },
             "5114": {
                 "slug": "clothing_ltd23_solarpunkbunny",
-                "name": "Traje de Conejito Solarpunk LTD",
+                "name": "Ropa LTD Conejo Solarpunk",
                 "description": "clothing_ltd23_solarpunkbunny desc",
                 "buyout": 0
             },
