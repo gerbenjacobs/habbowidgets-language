@@ -37,7 +37,7 @@
             },
             "5109": {
                 "slug": "clothing_saladhair",
-                "name": "clothing_saladhair name",
+                "name": "T\u00eate de salade",
                 "description": "clothing_saladhair desc",
                 "buyout": 0
             },
@@ -1069,25 +1069,25 @@
             "5159": null,
             "5118": {
                 "slug": "clothing_bohoflowertop",
-                "name": "clothing_bohoflowertop name",
+                "name": "Chemise modifi\u00e9e d'amateur de fleurs",
                 "description": "clothing_bohoflowertop desc",
                 "buyout": 0
             },
             "5117": {
                 "slug": "clothing_bohoflowertop",
-                "name": "clothing_bohoflowertop name",
+                "name": "Chemise modifi\u00e9e d'amateur de fleurs",
                 "description": "clothing_bohoflowertop desc",
                 "buyout": 0
             },
             "5111": {
                 "slug": "clothing_trash",
-                "name": "Distressed Trash Tank",
+                "name": "D\u00e9bardeur en vieux cuir",
                 "description": "clothing_trash desc",
                 "buyout": 0
             },
             "5110": {
                 "slug": "clothing_trash",
-                "name": "Distressed Trash Tank",
+                "name": "D\u00e9bardeur en vieux cuir",
                 "description": "clothing_trash desc",
                 "buyout": 0
             },
@@ -2916,7 +2916,7 @@
             "5152": null,
             "5119": {
                 "slug": "clothing_bohopocketpants",
-                "name": "clothing_bohopocketpants name",
+                "name": "Pantalon modifi\u00e9 patchwork",
                 "description": "clothing_bohopocketpants desc",
                 "buyout": 0
             },
@@ -6547,7 +6547,7 @@
             },
             "5108": {
                 "slug": "clothing_bunnybackpack",
-                "name": "clothing_bunnybackpack name",
+                "name": "Sac \u00e0 dos lapin Squishy",
                 "description": "clothing_bunnybackpack desc",
                 "buyout": 0
             },
