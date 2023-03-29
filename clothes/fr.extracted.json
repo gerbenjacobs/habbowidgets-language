@@ -1063,6 +1063,10 @@
             "180": null
         },
         "ch": {
+            "5202": null,
+            "5201": null,
+            "5200": null,
+            "5195": null,
             "5162": null,
             "5161": null,
             "5160": null,
@@ -3581,6 +3585,9 @@
             "290": null
         },
         "ha": {
+            "5198": null,
+            "5197": null,
+            "5196": null,
             "5194": {
                 "slug": "clothing_nftmechahelmet",
                 "name": "clothing_nftmechahelmet name",
@@ -4571,19 +4578,19 @@
                 "slug": "clothing_dianoblecrown",
                 "name": "Couronne de Noble Diamant",
                 "description": "clothing_dianoblecrown desc",
-                "buyout": 1
+                "buyout": 0
             },
             "3709": {
                 "slug": "clothing_dialeafcrown",
                 "name": "Couronne de Laurier Diamant",
                 "description": "clothing_dialeafcrown desc",
-                "buyout": 1
+                "buyout": 0
             },
             "3708": {
                 "slug": "clothing_diafish",
                 "name": "Chapeau Poiscaille Diamant",
                 "description": "clothing_diafish desc",
-                "buyout": 1
+                "buyout": 0
             },
             "3701": {
                 "slug": "clothing_dragonplushhat",
@@ -5233,6 +5240,7 @@
             "1001": null
         },
         "he": {
+            "5199": null,
             "5147": null,
             "5139": {
                 "slug": "clothing_r23_heartbopper",
