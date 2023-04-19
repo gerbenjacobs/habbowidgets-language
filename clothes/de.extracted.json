@@ -17,6 +17,12 @@
     "clothing": {
         "hr": {
             "9534": null,
+            "5210": {
+                "slug": "clothing_ombredreads",
+                "name": "clothing_ombredreads name",
+                "description": "clothing_ombredreads desc",
+                "buyout": 0
+            },
             "5125": {
                 "slug": "clothing_nftwinterweaves",
                 "name": "Weisse Winterm\u00fctze",
@@ -1063,10 +1069,118 @@
             "180": null
         },
         "ch": {
-            "5202": null,
+            "5229": null,
+            "5225": {
+                "slug": "clothing_nftsunflowerdress",
+                "name": "Sonnenblumen-Kleid",
+                "description": "clothing_nftsunflowerdress desc",
+                "buyout": 0
+            },
+            "5224": {
+                "slug": "clothing_nftsunflowerdress",
+                "name": "Sonnenblumen-Kleid",
+                "description": "clothing_nftsunflowerdress desc",
+                "buyout": 0
+            },
+            "5223": {
+                "slug": "clothing_nftsunflowershirt",
+                "name": "Sonnenblumen-Shirt",
+                "description": "clothing_nftsunflowershirt desc",
+                "buyout": 0
+            },
+            "5222": {
+                "slug": "clothing_nftsunflowershirt",
+                "name": "Sonnenblumen-Shirt",
+                "description": "clothing_nftsunflowershirt desc",
+                "buyout": 0
+            },
+            "5220": {
+                "slug": "clothing_aftvshirt2",
+                "name": "clothing_aftvshirt2 name",
+                "description": "clothing_aftvshirt2 desc",
+                "buyout": 0
+            },
+            "5219": {
+                "slug": "clothing_aftvshirt2",
+                "name": "clothing_aftvshirt2 name",
+                "description": "clothing_aftvshirt2 desc",
+                "buyout": 0
+            },
+            "5217": {
+                "slug": "clothing_fballpresenter3",
+                "name": "clothing_fballpresenter3 name",
+                "description": "clothing_fballpresenter3 desc",
+                "buyout": 0
+            },
+            "5216": {
+                "slug": "clothing_fballpresenter3",
+                "name": "clothing_fballpresenter3 name",
+                "description": "clothing_fballpresenter3 desc",
+                "buyout": 0
+            },
+            "5215": {
+                "slug": "clothing_fballpresenter2",
+                "name": "clothing_fballpresenter2 name",
+                "description": "clothing_fballpresenter2 desc",
+                "buyout": 0
+            },
+            "5214": {
+                "slug": "clothing_fballpresenter2",
+                "name": "clothing_fballpresenter2 name",
+                "description": "clothing_fballpresenter2 desc",
+                "buyout": 0
+            },
+            "5213": {
+                "slug": "clothing_fballpresenter1",
+                "name": "clothing_fballpresenter1 name",
+                "description": "clothing_fballpresenter1 desc",
+                "buyout": 0
+            },
+            "5212": {
+                "slug": "clothing_fballpresenter1",
+                "name": "clothing_fballpresenter1 name",
+                "description": "clothing_fballpresenter1 desc",
+                "buyout": 0
+            },
+            "5207": {
+                "slug": "clothing_aftvshirt",
+                "name": "clothing_aftvshirt name",
+                "description": "clothing_aftvshirt desc",
+                "buyout": 0
+            },
+            "5206": {
+                "slug": "clothing_aftvshirt",
+                "name": "clothing_aftvshirt name",
+                "description": "clothing_aftvshirt desc",
+                "buyout": 0
+            },
+            "5205": {
+                "slug": "clothing_r23_icecreamoutfit",
+                "name": "Eiscreme-Outfit",
+                "description": "clothing_r23_icecreamoutfit desc",
+                "buyout": 0
+            },
+            "5204": {
+                "slug": "clothing_r23_icecreamoutfit",
+                "name": "Eiscreme-Outfit",
+                "description": "clothing_r23_icecreamoutfit desc",
+                "buyout": 0
+            },
+            "5202": {
+                "slug": "clothing_r23_catwaitress",
+                "name": "Katzen-Caf\u00e9 Personal",
+                "description": "clothing_r23_catwaitress desc",
+                "buyout": 0
+            },
             "5201": null,
             "5200": null,
             "5195": null,
+            "5168": {
+                "slug": "clothing_r23_catwaitress",
+                "name": "Katzen-Caf\u00e9 Personal",
+                "description": "clothing_r23_catwaitress desc",
+                "buyout": 0
+            },
             "5162": null,
             "5161": null,
             "5160": null,
@@ -1085,13 +1199,13 @@
             },
             "5111": {
                 "slug": "clothing_trash",
-                "name": "Trash Tank-Top",
+                "name": "Recycling Tank-Top",
                 "description": "clothing_trash desc",
                 "buyout": 0
             },
             "5110": {
                 "slug": "clothing_trash",
-                "name": "Trash Tank-Top",
+                "name": "Recycling Tank-Top",
                 "description": "clothing_trash desc",
                 "buyout": 0
             },
@@ -2916,6 +3030,12 @@
             "210": null
         },
         "lg": {
+            "5226": {
+                "slug": "clothing_nftsunflowershorts",
+                "name": "Sonnenblumen-Shorts",
+                "description": "clothing_nftsunflowershorts desc",
+                "buyout": 0
+            },
             "5163": null,
             "5152": null,
             "5119": {
@@ -3375,6 +3495,7 @@
             "270": null
         },
         "sh": {
+            "5234": null,
             "5164": null,
             "5151": null,
             "5073": {
@@ -3585,6 +3706,27 @@
             "290": null
         },
         "ha": {
+            "5236": null,
+            "5230": null,
+            "5228": null,
+            "5221": {
+                "slug": "clothing_nftspringbrimhat",
+                "name": "Weitkrempiger Sonnenhut",
+                "description": "clothing_nftspringbrimhat desc",
+                "buyout": 0
+            },
+            "5218": {
+                "slug": "clothing_aftvhat",
+                "name": "clothing_aftvhat name",
+                "description": "clothing_aftvhat desc",
+                "buyout": 0
+            },
+            "5203": {
+                "slug": "clothing_r23_icecreamoutfit",
+                "name": "Eiscreme-Outfit",
+                "description": "clothing_r23_icecreamoutfit desc",
+                "buyout": 0
+            },
             "5198": null,
             "5197": null,
             "5196": null,
@@ -3640,7 +3782,7 @@
             },
             "5116": {
                 "slug": "clothing_r23_floppybunnyhat",
-                "name": "Hasenschlappohren-M\u00fctze",
+                "name": "Schlappohrhasen-M\u00fctze",
                 "description": "clothing_r23_floppybunnyhat desc",
                 "buyout": 0
             },
@@ -5240,6 +5382,7 @@
             "1001": null
         },
         "he": {
+            "5232": null,
             "5199": null,
             "5147": null,
             "5139": {
@@ -6194,6 +6337,13 @@
             "1401": null
         },
         "fa": {
+            "5231": null,
+            "5211": {
+                "slug": "clothing_stubblebeard",
+                "name": "clothing_stubblebeard name",
+                "description": "clothing_stubblebeard desc",
+                "buyout": 0
+            },
             "5158": null,
             "5157": null,
             "5122": {
@@ -6540,6 +6690,18 @@
             "1201": null
         },
         "ca": {
+            "5209": {
+                "slug": "clothing_aftvscarf2",
+                "name": "clothing_aftvscarf2 name",
+                "description": "clothing_aftvscarf2 desc",
+                "buyout": 0
+            },
+            "5208": {
+                "slug": "clothing_aftvscarf1",
+                "name": "clothing_aftvscarf1 name",
+                "description": "clothing_aftvscarf1 desc",
+                "buyout": 0
+            },
             "5193": {
                 "slug": "clothing_nftmechapack",
                 "name": "clothing_nftmechapack name",
@@ -7220,6 +7382,9 @@
         "cc": {
             "9865": null,
             "9563": null,
+            "5237": null,
+            "5235": null,
+            "5233": null,
             "5150": null,
             "5144": null,
             "5128": {
