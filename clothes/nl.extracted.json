@@ -1172,8 +1172,18 @@
                 "description": "clothing_r23_catwaitress desc",
                 "buyout": 0
             },
-            "5201": null,
-            "5200": null,
+            "5201": {
+                "slug": "clothing_smurfshirt",
+                "name": "Smurf Shirt",
+                "description": "clothing_smurfshirt desc",
+                "buyout": 0
+            },
+            "5200": {
+                "slug": "clothing_smurfshirt",
+                "name": "Smurf Shirt",
+                "description": "clothing_smurfshirt desc",
+                "buyout": 0
+            },
             "5195": null,
             "5168": {
                 "slug": "clothing_r23_catwaitress",
@@ -1201,13 +1211,13 @@
                 "slug": "clothing_trash",
                 "name": "Trash Tank Top",
                 "description": "clothing_trash desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5110": {
                 "slug": "clothing_trash",
                 "name": "Trash Tank Top",
                 "description": "clothing_trash desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5096": {
                 "slug": "clothing_marianabomerch",
@@ -3727,7 +3737,12 @@
                 "description": "clothing_r23_icecreamoutfit desc",
                 "buyout": 0
             },
-            "5198": null,
+            "5198": {
+                "slug": "clothing_smurfhat",
+                "name": "Smurfen Hoed",
+                "description": "clothing_smurfhat desc",
+                "buyout": 0
+            },
             "5197": null,
             "5196": null,
             "5194": {
@@ -5383,7 +5398,12 @@
         },
         "he": {
             "5232": null,
-            "5199": null,
+            "5199": {
+                "slug": "clothing_smurfdaisy",
+                "name": "Smurfen Madeliefje",
+                "description": "clothing_smurfdaisy desc",
+                "buyout": 0
+            },
             "5147": null,
             "5139": {
                 "slug": "clothing_r23_heartbopper",
