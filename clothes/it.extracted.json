@@ -1096,13 +1096,13 @@
             },
             "5220": {
                 "slug": "clothing_aftvshirt2",
-                "name": "clothing_aftvshirt2 name",
+                "name": "Maglietta con Logo AFTV",
                 "description": "clothing_aftvshirt2 desc",
                 "buyout": 0
             },
             "5219": {
                 "slug": "clothing_aftvshirt2",
-                "name": "clothing_aftvshirt2 name",
+                "name": "Maglietta con Logo AFTV",
                 "description": "clothing_aftvshirt2 desc",
                 "buyout": 0
             },
@@ -1144,13 +1144,13 @@
             },
             "5207": {
                 "slug": "clothing_aftvshirt",
-                "name": "clothing_aftvshirt name",
+                "name": "Maglietta con Marchio AFTV",
                 "description": "clothing_aftvshirt desc",
                 "buyout": 0
             },
             "5206": {
                 "slug": "clothing_aftvshirt",
-                "name": "clothing_aftvshirt name",
+                "name": "Maglietta con Marchio AFTV",
                 "description": "clothing_aftvshirt desc",
                 "buyout": 0
             },
@@ -3727,7 +3727,7 @@
             },
             "5218": {
                 "slug": "clothing_aftvhat",
-                "name": "clothing_aftvhat name",
+                "name": "Cappellino con Logo AFTV",
                 "description": "clothing_aftvhat desc",
                 "buyout": 0
             },
@@ -6712,13 +6712,13 @@
         "ca": {
             "5209": {
                 "slug": "clothing_aftvscarf2",
-                "name": "clothing_aftvscarf2 name",
+                "name": "Sciarpa con Logo AFTV",
                 "description": "clothing_aftvscarf2 desc",
                 "buyout": 0
             },
             "5208": {
                 "slug": "clothing_aftvscarf1",
-                "name": "clothing_aftvscarf1 name",
+                "name": "Sciarpa con Marchio AFTV",
                 "description": "clothing_aftvscarf1 desc",
                 "buyout": 0
             },

@@ -1096,13 +1096,13 @@
             },
             "5220": {
                 "slug": "clothing_aftvshirt2",
-                "name": "clothing_aftvshirt2 name",
+                "name": "AFTV Logo Shirt",
                 "description": "clothing_aftvshirt2 desc",
                 "buyout": 0
             },
             "5219": {
                 "slug": "clothing_aftvshirt2",
-                "name": "clothing_aftvshirt2 name",
+                "name": "AFTV Logo Shirt",
                 "description": "clothing_aftvshirt2 desc",
                 "buyout": 0
             },
@@ -1144,13 +1144,13 @@
             },
             "5207": {
                 "slug": "clothing_aftvshirt",
-                "name": "clothing_aftvshirt name",
+                "name": "AFTV Merk Shirt",
                 "description": "clothing_aftvshirt desc",
                 "buyout": 0
             },
             "5206": {
                 "slug": "clothing_aftvshirt",
-                "name": "clothing_aftvshirt name",
+                "name": "AFTV Merk Shirt",
                 "description": "clothing_aftvshirt desc",
                 "buyout": 0
             },
@@ -1211,13 +1211,13 @@
                 "slug": "clothing_trash",
                 "name": "Trash Tank Top",
                 "description": "clothing_trash desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5110": {
                 "slug": "clothing_trash",
                 "name": "Trash Tank Top",
                 "description": "clothing_trash desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5096": {
                 "slug": "clothing_marianabomerch",
@@ -3727,7 +3727,7 @@
             },
             "5218": {
                 "slug": "clothing_aftvhat",
-                "name": "clothing_aftvhat name",
+                "name": "AFTV Logo Pet",
                 "description": "clothing_aftvhat desc",
                 "buyout": 0
             },
@@ -6712,13 +6712,13 @@
         "ca": {
             "5209": {
                 "slug": "clothing_aftvscarf2",
-                "name": "clothing_aftvscarf2 name",
+                "name": "AFTV Sjaal met Symbool",
                 "description": "clothing_aftvscarf2 desc",
                 "buyout": 0
             },
             "5208": {
                 "slug": "clothing_aftvscarf1",
-                "name": "clothing_aftvscarf1 name",
+                "name": "AFTV Merk Sjaal",
                 "description": "clothing_aftvscarf1 desc",
                 "buyout": 0
             },
