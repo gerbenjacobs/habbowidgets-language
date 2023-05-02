@@ -1,7 +1,7 @@
 <?php
 
 
-function fetchPage($url)
+function fetchPage($url): bool|string
 {
     $ch = curl_init();
     curl_setopt($ch, CURLOPT_URL, $url);
@@ -16,13 +16,13 @@ function fetchPage($url)
     return $data;
 }
 
-function getCategories($country)
+function getCategories($country): array
 {
     $categories = [];
-    $data = fetchPage("https://www.habbo.${country}/gamedata/external_flash_texts/hashyhash");
+    $data = fetchPage("https://www.habbo.{$country}/gamedata/external_flash_texts/hashyhash");
     $lines = explode("\n", $data);
     foreach ($lines as $line) {
-        if (!strstr($line, "=")) {
+        if (!str_contains($line, "=")) {
             continue;
         }
         list($key, $value) = explode("=", $line);
@@ -35,7 +35,10 @@ function getCategories($country)
     return $categories;
 }
 
-function getClothingIDs()
+/**
+ * @throws Exception
+ */
+function getClothingIDs(): array
 {
     $clothing = [];
     $data = fetchPage("https://www.habbo.com/gamedata/figuredata/hashyhash");
@@ -55,18 +58,18 @@ function getClothingIDs()
 function getClothingNames($country)
 {
     $clothing = [];
-    $data = fetchPage("https://www.habbo.${country}/gamedata/furnidata_xml/hashyhash");
+    $data = fetchPage("https://www.habbo.{$country}/gamedata/furnidata_xml/hashyhash");
     $xml = nonStrictXMLParsing($data);
 
     foreach ($xml->roomitemtypes[0] as $furni) {
         $slug = (string)$furni->attributes()['classname'];
-        if (!strstr($slug, "clothing_") && $slug != "test_nft_clothing" && $slug != "test_nft_clothing2") {
+        if (!str_contains($slug, "clothing_") && $slug != "test_nft_clothing" && $slug != "test_nft_clothing2") {
             continue;
         }
 
         $ids = [];
         $id = (string)$furni->customparams;
-        if (strstr($id, ",")) {
+        if (str_contains($id, ",")) {
             foreach (explode(",", $id) as $i) {
                 $ids[] = trim($i);
             }
@@ -87,7 +90,7 @@ function getClothingNames($country)
     return $clothing;
 }
 
-function nonStrictXMLParsing($xmlData)
+function nonStrictXMLParsing($xmlData): SimpleXMLElement|null
 {
     libxml_use_internal_errors(true);
     $dom = new DOMDocument("1.0", "UTF-8");
@@ -106,14 +109,19 @@ function nonStrictXMLParsing($xmlData)
 echo "- Starting script\n";
 $countries = ['com', 'com.br', 'com.tr', 'de', 'es', 'fi', 'fr', 'nl', 'it'];
 
-$clothingIDs = getClothingIDs();
+try {
+    $clothingIDs = getClothingIDs();
+} catch (Exception $e) {
+    echo "Error: " . $e->getMessage();
+    exit;
+}
 foreach ($countries as $country) {
-    echo "- Extracting: .${country}\n";
-    echo "-- Fetching categories for ${country}\n";
+    echo "- Extracting: .{$country}\n";
+    echo "-- Fetching categories for {$country}\n";
     $data['categories'] = getCategories($country);
 
 
-    echo "-- Fetching clothing for ${country}\n";
+    echo "-- Fetching clothing for {$country}\n";
     $clothingNames = getClothingNames($country);
 
     foreach ($clothingIDs as $cat => $ids) {
@@ -128,7 +136,7 @@ foreach ($countries as $country) {
         }
     }
     echo "--- Fetching done\n";
-    file_put_contents("${country}.extracted.json", json_encode($data, JSON_PRETTY_PRINT));
+    file_put_contents("{$country}.extracted.json", json_encode($data, JSON_PRETTY_PRINT));
     echo "---- Writing to file complete\n\n";
 }
 
