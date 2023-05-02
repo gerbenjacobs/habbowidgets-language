@@ -1211,13 +1211,13 @@
                 "slug": "clothing_trash",
                 "name": "Trash Tank Top",
                 "description": "clothing_trash desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5110": {
                 "slug": "clothing_trash",
                 "name": "Trash Tank Top",
                 "description": "clothing_trash desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5096": {
                 "slug": "clothing_marianabomerch",
