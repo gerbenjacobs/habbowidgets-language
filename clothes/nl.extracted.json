@@ -3747,7 +3747,7 @@
             "5196": null,
             "5194": {
                 "slug": "clothing_nftmechahelmet",
-                "name": "clothing_nftmechahelmet name",
+                "name": "Gesmede Helm",
                 "description": "clothing_nftmechahelmet desc",
                 "buyout": 0
             },
@@ -6724,14 +6724,14 @@
             },
             "5193": {
                 "slug": "clothing_nftmechapack",
-                "name": "clothing_nftmechapack name",
+                "name": "Gesmede Rakket Rugzak",
                 "description": "clothing_nftmechapack desc",
                 "buyout": 0
             },
             "5145": null,
             "5136": {
                 "slug": "clothing_nftduckpack",
-                "name": "clothing_nftduckpack name",
+                "name": "Eenden Rugzak",
                 "description": "clothing_nftduckpack desc",
                 "buyout": 0
             },
