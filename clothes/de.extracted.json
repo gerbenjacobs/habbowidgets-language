@@ -23,6 +23,18 @@
                 "description": "clothing_ombredreads desc",
                 "buyout": 0
             },
+            "5176": {
+                "slug": "clothing_r23_professorhair",
+                "name": "Verr\u00fcckter Professor-Frisur",
+                "description": "clothing_r23_professorhair desc",
+                "buyout": 0
+            },
+            "5142": {
+                "slug": "clothing_r23_colourfuloutfit",
+                "name": "Kitschiges K\u00fcnstler-Outfit",
+                "description": "clothing_r23_colourfuloutfit desc",
+                "buyout": 0
+            },
             "5125": {
                 "slug": "clothing_nftwinterweaves",
                 "name": "Weisse Winterm\u00fctze",
@@ -307,7 +319,7 @@
             },
             "3920": {
                 "slug": "clothing_r20_ponytailcap",
-                "name": "Natur K\u00e4ppi",
+                "name": "Natur-K\u00e4ppi",
                 "description": "clothing_r20_ponytailcap desc",
                 "buyout": 0
             },
@@ -1096,13 +1108,13 @@
             },
             "5220": {
                 "slug": "clothing_aftvshirt2",
-                "name": "AFTV Logo-Shirt",
+                "name": "T-Shirt mit AFTV-Logo",
                 "description": "clothing_aftvshirt2 desc",
                 "buyout": 0
             },
             "5219": {
                 "slug": "clothing_aftvshirt2",
-                "name": "AFTV Logo-Shirt",
+                "name": "T-Shirt mit AFTV-Logo",
                 "description": "clothing_aftvshirt2 desc",
                 "buyout": 0
             },
@@ -1144,31 +1156,31 @@
             },
             "5207": {
                 "slug": "clothing_aftvshirt",
-                "name": "AFTV Markenhemd",
+                "name": "T-Shirt mit AFTV-Druck",
                 "description": "clothing_aftvshirt desc",
                 "buyout": 0
             },
             "5206": {
                 "slug": "clothing_aftvshirt",
-                "name": "AFTV Markenhemd",
+                "name": "T-Shirt mit AFTV-Druck",
                 "description": "clothing_aftvshirt desc",
                 "buyout": 0
             },
             "5205": {
                 "slug": "clothing_r23_icecreamoutfit",
-                "name": "Eiscreme-Outfit",
+                "name": "Eiskrem-Outfit",
                 "description": "clothing_r23_icecreamoutfit desc",
                 "buyout": 0
             },
             "5204": {
                 "slug": "clothing_r23_icecreamoutfit",
-                "name": "Eiscreme-Outfit",
+                "name": "Eiskrem-Outfit",
                 "description": "clothing_r23_icecreamoutfit desc",
                 "buyout": 0
             },
             "5202": {
                 "slug": "clothing_r23_catwaitress",
-                "name": "Katzen-Caf\u00e9 Personal",
+                "name": "Katzencaf\u00e9-Kellner",
                 "description": "clothing_r23_catwaitress desc",
                 "buyout": 0
             },
@@ -1185,10 +1197,28 @@
                 "buyout": 0
             },
             "5195": null,
+            "5189": {
+                "slug": "clothing_nt_graduationoutfit",
+                "name": "clothing_nt_graduationoutfit name",
+                "description": "clothing_nt_graduationoutfit desc",
+                "buyout": 0
+            },
             "5168": {
                 "slug": "clothing_r23_catwaitress",
-                "name": "Katzen-Caf\u00e9 Personal",
+                "name": "Katzencaf\u00e9-Kellner",
                 "description": "clothing_r23_catwaitress desc",
+                "buyout": 0
+            },
+            "5167": {
+                "slug": "clothing_r23_colourfuloutfit",
+                "name": "Kitschiges K\u00fcnstler-Outfit",
+                "description": "clothing_r23_colourfuloutfit desc",
+                "buyout": 0
+            },
+            "5166": {
+                "slug": "clothing_r23_colourfuloutfit",
+                "name": "Kitschiges K\u00fcnstler-Outfit",
+                "description": "clothing_r23_colourfuloutfit desc",
                 "buyout": 0
             },
             "5162": null,
@@ -3046,6 +3076,18 @@
                 "description": "clothing_nftsunflowershorts desc",
                 "buyout": 0
             },
+            "5190": {
+                "slug": "clothing_ltd23_firedemonoutfit",
+                "name": "Feuerherrscher-Outfit",
+                "description": "clothing_ltd23_firedemonoutfit desc",
+                "buyout": 0
+            },
+            "5165": {
+                "slug": "clothing_r23_colourfuloutfit",
+                "name": "Kitschiges K\u00fcnstler-Outfit",
+                "description": "clothing_r23_colourfuloutfit desc",
+                "buyout": 0
+            },
             "5163": null,
             "5152": null,
             "5119": {
@@ -3727,13 +3769,13 @@
             },
             "5218": {
                 "slug": "clothing_aftvhat",
-                "name": "AFTV Logo Snapback",
+                "name": "K\u00e4ppi mit AFTV-Logo",
                 "description": "clothing_aftvhat desc",
                 "buyout": 0
             },
             "5203": {
                 "slug": "clothing_r23_icecreamoutfit",
-                "name": "Eiscreme-Outfit",
+                "name": "Eiskrem-Outfit",
                 "description": "clothing_r23_icecreamoutfit desc",
                 "buyout": 0
             },
@@ -3751,8 +3793,26 @@
                 "description": "clothing_nftmechahelmet desc",
                 "buyout": 0
             },
+            "5191": {
+                "slug": "clothing_ltd23_firedemonoutfit",
+                "name": "Feuerherrscher-Outfit",
+                "description": "clothing_ltd23_firedemonoutfit desc",
+                "buyout": 0
+            },
+            "5169": {
+                "slug": "clothing_pantshat",
+                "name": "Unterhosen-Hut",
+                "description": "clothing_pantshat desc",
+                "buyout": 0
+            },
             "5155": null,
             "5149": null,
+            "5141": {
+                "slug": "clothing_nt_graduationoutfit",
+                "name": "clothing_nt_graduationoutfit name",
+                "description": "clothing_nt_graduationoutfit desc",
+                "buyout": 0
+            },
             "5138": {
                 "slug": "clothing_smileyhead",
                 "name": "Smiley-Wackelkopf",
@@ -4343,7 +4403,7 @@
             },
             "4120": {
                 "slug": "clothing_blockhat",
-                "name": "Colour-block K\u00e4ppi",
+                "name": "Farbblock-K\u00e4ppi",
                 "description": "clothing_blockhat desc",
                 "buyout": 0
             },
@@ -4361,7 +4421,7 @@
             },
             "4094": {
                 "slug": "clothing_basichat",
-                "name": "Einfaches K\u00e4ppi",
+                "name": "Schlichtes K\u00e4ppi",
                 "description": "clothing_basichat desc",
                 "buyout": 0
             },
@@ -4373,7 +4433,7 @@
             },
             "4086": {
                 "slug": "clothing_tiedyehat",
-                "name": "Regenbogen K\u00e4ppi",
+                "name": "Regenbogen-K\u00e4ppi",
                 "description": "clothing_tiedyehat desc",
                 "buyout": 0
             },
@@ -4385,7 +4445,7 @@
             },
             "4084": {
                 "slug": "clothing_camohat",
-                "name": "Combat K\u00e4ppi",
+                "name": "Camo-K\u00e4ppi",
                 "description": "clothing_camohat desc",
                 "buyout": 0
             },
@@ -5527,7 +5587,7 @@
             },
             "4345": {
                 "slug": "clothing_r22_mothoutfit",
-                "name": "Menschliches Motten-Outfit",
+                "name": "Mottenmensch-Outfit",
                 "description": "clothing_r22_mothoutfit desc",
                 "buyout": 0
             },
@@ -6140,7 +6200,7 @@
             },
             "4346": {
                 "slug": "clothing_r22_mothoutfit",
-                "name": "Menschliches Motten-Outfit",
+                "name": "Mottenmensch-Outfit",
                 "description": "clothing_r22_mothoutfit desc",
                 "buyout": 0
             },
@@ -6712,13 +6772,13 @@
         "ca": {
             "5209": {
                 "slug": "clothing_aftvscarf2",
-                "name": "AFTV Symbolschal",
+                "name": "Schal mit AFTV-Symbol",
                 "description": "clothing_aftvscarf2 desc",
                 "buyout": 0
             },
             "5208": {
                 "slug": "clothing_aftvscarf1",
-                "name": "AFTV Markenschal",
+                "name": "Schal mit AFTV-Druck",
                 "description": "clothing_aftvscarf1 desc",
                 "buyout": 0
             },
@@ -6726,6 +6786,42 @@
                 "slug": "clothing_nftmechapack",
                 "name": "Schmiede-Raketenrucksack",
                 "description": "clothing_nftmechapack desc",
+                "buyout": 0
+            },
+            "5175": {
+                "slug": "clothing_unibackpack5",
+                "name": "Goldener H Rucksack",
+                "description": "clothing_unibackpack5 desc",
+                "buyout": 0
+            },
+            "5174": {
+                "slug": "clothing_unibackpack4",
+                "name": "K\u00fcnstler-Rucksack",
+                "description": "clothing_unibackpack4 desc",
+                "buyout": 0
+            },
+            "5173": {
+                "slug": "clothing_unibackpack3",
+                "name": "Gotischer Rucksack",
+                "description": "clothing_unibackpack3 desc",
+                "buyout": 0
+            },
+            "5172": {
+                "slug": "clothing_unibackpack2",
+                "name": "Sportlicher Rucksack",
+                "description": "clothing_unibackpack2 desc",
+                "buyout": 0
+            },
+            "5171": {
+                "slug": "clothing_unibackpack1",
+                "name": "Intellektueller Rucksack",
+                "description": "clothing_unibackpack1 desc",
+                "buyout": 0
+            },
+            "5170": {
+                "slug": "clothing_unibackpack",
+                "name": "Uni-Rucksack",
+                "description": "clothing_unibackpack desc",
                 "buyout": 0
             },
             "5145": null,
@@ -6941,7 +7037,7 @@
             },
             "4344": {
                 "slug": "clothing_r22_mothoutfit",
-                "name": "Menschliches Motten-Outfit",
+                "name": "Mottenmensch-Outfit",
                 "description": "clothing_r22_mothoutfit desc",
                 "buyout": 0
             },
@@ -7405,6 +7501,84 @@
             "5237": null,
             "5235": null,
             "5233": null,
+            "5192": {
+                "slug": "clothing_ltd23_firedemonoutfit",
+                "name": "Feuerherrscher-Outfit",
+                "description": "clothing_ltd23_firedemonoutfit desc",
+                "buyout": 0
+            },
+            "5188": {
+                "slug": "clothing_unijacket5",
+                "name": "Goldene H Uniform",
+                "description": "clothing_unijacket5 desc",
+                "buyout": 0
+            },
+            "5187": {
+                "slug": "clothing_unijacket4",
+                "name": "K\u00fcnstler-Uniform",
+                "description": "clothing_unijacket4 desc",
+                "buyout": 0
+            },
+            "5186": {
+                "slug": "clothing_unijacket3",
+                "name": "Gotische Uniform",
+                "description": "clothing_unijacket3 desc",
+                "buyout": 0
+            },
+            "5185": {
+                "slug": "clothing_unijacket2",
+                "name": "Aktiv-Uniform",
+                "description": "clothing_unijacket2 desc",
+                "buyout": 0
+            },
+            "5184": {
+                "slug": "clothing_unijacket1",
+                "name": "Intellektuelle Uniform",
+                "description": "clothing_unijacket1 desc",
+                "buyout": 0
+            },
+            "5183": {
+                "slug": "clothing_unijacket",
+                "name": "Letterman-Jacke",
+                "description": "clothing_unijacket desc",
+                "buyout": 0
+            },
+            "5182": {
+                "slug": "clothing_unijacket5",
+                "name": "Goldene H Uniform",
+                "description": "clothing_unijacket5 desc",
+                "buyout": 0
+            },
+            "5181": {
+                "slug": "clothing_unijacket4",
+                "name": "K\u00fcnstler-Uniform",
+                "description": "clothing_unijacket4 desc",
+                "buyout": 0
+            },
+            "5180": {
+                "slug": "clothing_unijacket3",
+                "name": "Gotische Uniform",
+                "description": "clothing_unijacket3 desc",
+                "buyout": 0
+            },
+            "5179": {
+                "slug": "clothing_unijacket2",
+                "name": "Aktiv-Uniform",
+                "description": "clothing_unijacket2 desc",
+                "buyout": 0
+            },
+            "5178": {
+                "slug": "clothing_unijacket1",
+                "name": "Intellektuelle Uniform",
+                "description": "clothing_unijacket1 desc",
+                "buyout": 0
+            },
+            "5177": {
+                "slug": "clothing_unijacket",
+                "name": "Letterman-Jacke",
+                "description": "clothing_unijacket desc",
+                "buyout": 0
+            },
             "5150": null,
             "5144": null,
             "5128": {

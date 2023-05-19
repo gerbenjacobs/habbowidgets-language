@@ -23,6 +23,18 @@
                 "description": "clothing_ombredreads desc",
                 "buyout": 0
             },
+            "5176": {
+                "slug": "clothing_r23_professorhair",
+                "name": "Acconciatura da Professore Pazzo",
+                "description": "clothing_r23_professorhair desc",
+                "buyout": 0
+            },
+            "5142": {
+                "slug": "clothing_r23_colourfuloutfit",
+                "name": "Look da Artista Carina",
+                "description": "clothing_r23_colourfuloutfit desc",
+                "buyout": 0
+            },
             "5125": {
                 "slug": "clothing_nftwinterweaves",
                 "name": "Boccoli Invernali Bianchi",
@@ -1185,10 +1197,28 @@
                 "buyout": 0
             },
             "5195": null,
+            "5189": {
+                "slug": "clothing_nt_graduationoutfit",
+                "name": "clothing_nt_graduationoutfit name",
+                "description": "clothing_nt_graduationoutfit desc",
+                "buyout": 0
+            },
             "5168": {
                 "slug": "clothing_r23_catwaitress",
                 "name": "Vestito da Personale di Sala del Cat Caf\u00e9",
                 "description": "clothing_r23_catwaitress desc",
+                "buyout": 0
+            },
+            "5167": {
+                "slug": "clothing_r23_colourfuloutfit",
+                "name": "Look da Artista Carina",
+                "description": "clothing_r23_colourfuloutfit desc",
+                "buyout": 0
+            },
+            "5166": {
+                "slug": "clothing_r23_colourfuloutfit",
+                "name": "Look da Artista Carina",
+                "description": "clothing_r23_colourfuloutfit desc",
                 "buyout": 0
             },
             "5162": null,
@@ -3046,6 +3076,18 @@
                 "description": "clothing_nftsunflowershorts desc",
                 "buyout": 0
             },
+            "5190": {
+                "slug": "clothing_ltd23_firedemonoutfit",
+                "name": "Look da Signore del Fuoco",
+                "description": "clothing_ltd23_firedemonoutfit desc",
+                "buyout": 0
+            },
+            "5165": {
+                "slug": "clothing_r23_colourfuloutfit",
+                "name": "Look da Artista Carina",
+                "description": "clothing_r23_colourfuloutfit desc",
+                "buyout": 0
+            },
             "5163": null,
             "5152": null,
             "5119": {
@@ -3751,8 +3793,26 @@
                 "description": "clothing_nftmechahelmet desc",
                 "buyout": 0
             },
+            "5191": {
+                "slug": "clothing_ltd23_firedemonoutfit",
+                "name": "Look da Signore del Fuoco",
+                "description": "clothing_ltd23_firedemonoutfit desc",
+                "buyout": 0
+            },
+            "5169": {
+                "slug": "clothing_pantshat",
+                "name": "Cappellino a Mutande",
+                "description": "clothing_pantshat desc",
+                "buyout": 0
+            },
             "5155": null,
             "5149": null,
+            "5141": {
+                "slug": "clothing_nt_graduationoutfit",
+                "name": "clothing_nt_graduationoutfit name",
+                "description": "clothing_nt_graduationoutfit desc",
+                "buyout": 0
+            },
             "5138": {
                 "slug": "clothing_smileyhead",
                 "name": "Testa a Molla Smiley",
@@ -6728,6 +6788,42 @@
                 "description": "clothing_nftmechapack desc",
                 "buyout": 0
             },
+            "5175": {
+                "slug": "clothing_unibackpack5",
+                "name": "Zaino H d'Oro",
+                "description": "clothing_unibackpack5 desc",
+                "buyout": 0
+            },
+            "5174": {
+                "slug": "clothing_unibackpack4",
+                "name": "Zaino da Artista",
+                "description": "clothing_unibackpack4 desc",
+                "buyout": 0
+            },
+            "5173": {
+                "slug": "clothing_unibackpack3",
+                "name": "Zaino da Gotico",
+                "description": "clothing_unibackpack3 desc",
+                "buyout": 0
+            },
+            "5172": {
+                "slug": "clothing_unibackpack2",
+                "name": "Zaino da Sportivo",
+                "description": "clothing_unibackpack2 desc",
+                "buyout": 0
+            },
+            "5171": {
+                "slug": "clothing_unibackpack1",
+                "name": "Zaino da Intellettuale",
+                "description": "clothing_unibackpack1 desc",
+                "buyout": 0
+            },
+            "5170": {
+                "slug": "clothing_unibackpack",
+                "name": "Zaino da Universitario",
+                "description": "clothing_unibackpack desc",
+                "buyout": 0
+            },
             "5145": null,
             "5136": {
                 "slug": "clothing_nftduckpack",
@@ -7405,6 +7501,84 @@
             "5237": null,
             "5235": null,
             "5233": null,
+            "5192": {
+                "slug": "clothing_ltd23_firedemonoutfit",
+                "name": "Look da Signore del Fuoco",
+                "description": "clothing_ltd23_firedemonoutfit desc",
+                "buyout": 0
+            },
+            "5188": {
+                "slug": "clothing_unijacket5",
+                "name": "Uniforme H d'Oro",
+                "description": "clothing_unijacket5 desc",
+                "buyout": 0
+            },
+            "5187": {
+                "slug": "clothing_unijacket4",
+                "name": "Uniforme da Artista",
+                "description": "clothing_unijacket4 desc",
+                "buyout": 0
+            },
+            "5186": {
+                "slug": "clothing_unijacket3",
+                "name": "Uniforme da Gotico",
+                "description": "clothing_unijacket3 desc",
+                "buyout": 0
+            },
+            "5185": {
+                "slug": "clothing_unijacket2",
+                "name": "Uniforme da Attivo",
+                "description": "clothing_unijacket2 desc",
+                "buyout": 0
+            },
+            "5184": {
+                "slug": "clothing_unijacket1",
+                "name": "Uniforme da Intellettuale",
+                "description": "clothing_unijacket1 desc",
+                "buyout": 0
+            },
+            "5183": {
+                "slug": "clothing_unijacket",
+                "name": "Giubbotto con Lettera",
+                "description": "clothing_unijacket desc",
+                "buyout": 0
+            },
+            "5182": {
+                "slug": "clothing_unijacket5",
+                "name": "Uniforme H d'Oro",
+                "description": "clothing_unijacket5 desc",
+                "buyout": 0
+            },
+            "5181": {
+                "slug": "clothing_unijacket4",
+                "name": "Uniforme da Artista",
+                "description": "clothing_unijacket4 desc",
+                "buyout": 0
+            },
+            "5180": {
+                "slug": "clothing_unijacket3",
+                "name": "Uniforme da Gotico",
+                "description": "clothing_unijacket3 desc",
+                "buyout": 0
+            },
+            "5179": {
+                "slug": "clothing_unijacket2",
+                "name": "Uniforme da Attivo",
+                "description": "clothing_unijacket2 desc",
+                "buyout": 0
+            },
+            "5178": {
+                "slug": "clothing_unijacket1",
+                "name": "Uniforme da Intellettuale",
+                "description": "clothing_unijacket1 desc",
+                "buyout": 0
+            },
+            "5177": {
+                "slug": "clothing_unijacket",
+                "name": "Giubbotto con Lettera",
+                "description": "clothing_unijacket desc",
+                "buyout": 0
+            },
             "5150": null,
             "5144": null,
             "5128": {
