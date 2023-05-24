@@ -3547,6 +3547,12 @@
             "270": null
         },
         "sh": {
+            "5247": {
+                "slug": "clothing_ltd23_summerflipflopsocks",
+                "name": "Chanclas y Calcetines",
+                "description": "clothing_ltd23_summerflipflopsocks desc",
+                "buyout": 0
+            },
             "5234": null,
             "5164": null,
             "5151": null,

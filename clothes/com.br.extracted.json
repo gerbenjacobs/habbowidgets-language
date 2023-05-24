@@ -3547,6 +3547,12 @@
             "270": null
         },
         "sh": {
+            "5247": {
+                "slug": "clothing_ltd23_summerflipflopsocks",
+                "name": "Flip Flops and Socks",
+                "description": "clothing_ltd23_summerflipflopsocks desc",
+                "buyout": 0
+            },
             "5234": null,
             "5164": null,
             "5151": null,
@@ -6790,37 +6796,37 @@
             },
             "5175": {
                 "slug": "clothing_unibackpack5",
-                "name": "Golden H Backpack",
+                "name": "Mochila H Dourado",
                 "description": "clothing_unibackpack5 desc",
                 "buyout": 0
             },
             "5174": {
                 "slug": "clothing_unibackpack4",
-                "name": "Arty Backpack",
+                "name": "Mochila Art\u00edstica",
                 "description": "clothing_unibackpack4 desc",
                 "buyout": 0
             },
             "5173": {
                 "slug": "clothing_unibackpack3",
-                "name": "Gothic Backpack",
+                "name": "Mochila G\u00f3tica",
                 "description": "clothing_unibackpack3 desc",
                 "buyout": 0
             },
             "5172": {
                 "slug": "clothing_unibackpack2",
-                "name": "Sporty Backpack",
+                "name": "Mochila Esportiva",
                 "description": "clothing_unibackpack2 desc",
                 "buyout": 0
             },
             "5171": {
                 "slug": "clothing_unibackpack1",
-                "name": "Intellectual Backpack",
+                "name": "Mochila Intelectual",
                 "description": "clothing_unibackpack1 desc",
                 "buyout": 0
             },
             "5170": {
                 "slug": "clothing_unibackpack",
-                "name": "University Backpack",
+                "name": "Mochila Calouro",
                 "description": "clothing_unibackpack desc",
                 "buyout": 0
             },
@@ -7509,73 +7515,73 @@
             },
             "5188": {
                 "slug": "clothing_unijacket5",
-                "name": "Golden H Uniform",
+                "name": "Uniforme H Dourado",
                 "description": "clothing_unijacket5 desc",
                 "buyout": 0
             },
             "5187": {
                 "slug": "clothing_unijacket4",
-                "name": "Arty Uniform",
+                "name": "Uniforme Art\u00edstico",
                 "description": "clothing_unijacket4 desc",
                 "buyout": 0
             },
             "5186": {
                 "slug": "clothing_unijacket3",
-                "name": "Gothic Uniform",
+                "name": "Uniforme G\u00f3tico",
                 "description": "clothing_unijacket3 desc",
                 "buyout": 0
             },
             "5185": {
                 "slug": "clothing_unijacket2",
-                "name": "Active Uniform",
+                "name": "Uniforme Esportivo",
                 "description": "clothing_unijacket2 desc",
                 "buyout": 0
             },
             "5184": {
                 "slug": "clothing_unijacket1",
-                "name": "Intellectual Uniform",
+                "name": "Uniforme Intelectual",
                 "description": "clothing_unijacket1 desc",
                 "buyout": 0
             },
             "5183": {
                 "slug": "clothing_unijacket",
-                "name": "Letterman Jacket",
+                "name": "Uniforme Calouro",
                 "description": "clothing_unijacket desc",
                 "buyout": 0
             },
             "5182": {
                 "slug": "clothing_unijacket5",
-                "name": "Golden H Uniform",
+                "name": "Uniforme H Dourado",
                 "description": "clothing_unijacket5 desc",
                 "buyout": 0
             },
             "5181": {
                 "slug": "clothing_unijacket4",
-                "name": "Arty Uniform",
+                "name": "Uniforme Art\u00edstico",
                 "description": "clothing_unijacket4 desc",
                 "buyout": 0
             },
             "5180": {
                 "slug": "clothing_unijacket3",
-                "name": "Gothic Uniform",
+                "name": "Uniforme G\u00f3tico",
                 "description": "clothing_unijacket3 desc",
                 "buyout": 0
             },
             "5179": {
                 "slug": "clothing_unijacket2",
-                "name": "Active Uniform",
+                "name": "Uniforme Esportivo",
                 "description": "clothing_unijacket2 desc",
                 "buyout": 0
             },
             "5178": {
                 "slug": "clothing_unijacket1",
-                "name": "Intellectual Uniform",
+                "name": "Uniforme Intelectual",
                 "description": "clothing_unijacket1 desc",
                 "buyout": 0
             },
             "5177": {
                 "slug": "clothing_unijacket",
-                "name": "Letterman Jacket",
+                "name": "Uniforme Calouro",
                 "description": "clothing_unijacket desc",
                 "buyout": 0
             },
