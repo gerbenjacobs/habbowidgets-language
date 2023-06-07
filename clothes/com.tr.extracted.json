@@ -19,7 +19,7 @@
             "9534": null,
             "5210": {
                 "slug": "clothing_ombredreads",
-                "name": "clothing_ombredreads name",
+                "name": "Ombreli Rastalar",
                 "description": "clothing_ombredreads desc",
                 "buyout": 0
             },
@@ -1120,37 +1120,37 @@
             },
             "5217": {
                 "slug": "clothing_fballpresenter3",
-                "name": "clothing_fballpresenter3 name",
+                "name": "Futbol Sunucusu Logolu Forma",
                 "description": "clothing_fballpresenter3 desc",
                 "buyout": 0
             },
             "5216": {
                 "slug": "clothing_fballpresenter3",
-                "name": "clothing_fballpresenter3 name",
+                "name": "Futbol Sunucusu Logolu Forma",
                 "description": "clothing_fballpresenter3 desc",
                 "buyout": 0
             },
             "5215": {
                 "slug": "clothing_fballpresenter2",
-                "name": "clothing_fballpresenter2 name",
+                "name": "Futbol Sunucusu Destek Formas\u0131",
                 "description": "clothing_fballpresenter2 desc",
                 "buyout": 0
             },
             "5214": {
                 "slug": "clothing_fballpresenter2",
-                "name": "clothing_fballpresenter2 name",
+                "name": "Futbol Sunucusu Destek Formas\u0131",
                 "description": "clothing_fballpresenter2 desc",
                 "buyout": 0
             },
             "5213": {
                 "slug": "clothing_fballpresenter1",
-                "name": "clothing_fballpresenter1 name",
+                "name": "Futbol Sunucusu Mesajl\u0131 Forma",
                 "description": "clothing_fballpresenter1 desc",
                 "buyout": 0
             },
             "5212": {
                 "slug": "clothing_fballpresenter1",
-                "name": "clothing_fballpresenter1 name",
+                "name": "Futbol Sunucusu Mesajl\u0131 Forma",
                 "description": "clothing_fballpresenter1 desc",
                 "buyout": 0
             },
@@ -6426,7 +6426,7 @@
             "5231": null,
             "5211": {
                 "slug": "clothing_stubblebeard",
-                "name": "clothing_stubblebeard name",
+                "name": "Kirli Sakal",
                 "description": "clothing_stubblebeard desc",
                 "buyout": 0
             },
@@ -6828,7 +6828,7 @@
                 "slug": "clothing_unibackpack",
                 "name": "\u00dcniversite S\u0131rt \u00c7antas\u0131",
                 "description": "clothing_unibackpack desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5145": null,
             "5136": {
@@ -7547,7 +7547,7 @@
                 "slug": "clothing_unijacket",
                 "name": "\u00d6rnek \u00d6\u011frenci Ceketi",
                 "description": "clothing_unijacket desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5182": {
                 "slug": "clothing_unijacket5",
@@ -7583,7 +7583,7 @@
                 "slug": "clothing_unijacket",
                 "name": "\u00d6rnek \u00d6\u011frenci Ceketi",
                 "description": "clothing_unijacket desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5150": null,
             "5144": null,
