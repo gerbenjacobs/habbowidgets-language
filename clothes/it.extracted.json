@@ -1081,6 +1081,13 @@
             "180": null
         },
         "ch": {
+            "5263": null,
+            "5262": null,
+            "5260": null,
+            "5259": null,
+            "5258": null,
+            "5257": null,
+            "5256": null,
             "5229": null,
             "5225": {
                 "slug": "clothing_nftsunflowerdress",
@@ -1197,6 +1204,12 @@
                 "buyout": 0
             },
             "5195": null,
+            "5192": {
+                "slug": "clothing_ltd23_firedemonoutfit",
+                "name": "Look da Signore del Fuoco",
+                "description": "clothing_ltd23_firedemonoutfit desc",
+                "buyout": 0
+            },
             "5189": {
                 "slug": "clothing_nt_graduationoutfit",
                 "name": "clothing_nt_graduationoutfit name",
@@ -3070,6 +3083,10 @@
             "210": null
         },
         "lg": {
+            "5266": null,
+            "5265": null,
+            "5264": null,
+            "5261": null,
             "5226": {
                 "slug": "clothing_nftsunflowershorts",
                 "name": "Shorts con Girasoli",
@@ -6776,6 +6793,13 @@
             "1201": null
         },
         "ca": {
+            "5255": null,
+            "5254": null,
+            "5253": null,
+            "5252": null,
+            "5251": null,
+            "5250": null,
+            "5227": null,
             "5209": {
                 "slug": "clothing_aftvscarf2",
                 "name": "Sciarpa con Logo AFTV",
@@ -7507,12 +7531,6 @@
             "5237": null,
             "5235": null,
             "5233": null,
-            "5192": {
-                "slug": "clothing_ltd23_firedemonoutfit",
-                "name": "Look da Signore del Fuoco",
-                "description": "clothing_ltd23_firedemonoutfit desc",
-                "buyout": 0
-            },
             "5188": {
                 "slug": "clothing_unijacket5",
                 "name": "Uniforme H d'Oro",

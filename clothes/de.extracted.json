@@ -115,7 +115,7 @@
             },
             "4360": {
                 "slug": "clothing_idolhairshort",
-                "name": "Idol Performance-Frisur",
+                "name": "Idol Konzert-Frisur",
                 "description": "clothing_idolhairshort desc",
                 "buyout": 0
             },
@@ -1081,6 +1081,13 @@
             "180": null
         },
         "ch": {
+            "5263": null,
+            "5262": null,
+            "5260": null,
+            "5259": null,
+            "5258": null,
+            "5257": null,
+            "5256": null,
             "5229": null,
             "5225": {
                 "slug": "clothing_nftsunflowerdress",
@@ -1120,37 +1127,37 @@
             },
             "5217": {
                 "slug": "clothing_fballpresenter3",
-                "name": "Fussballmoderator-Hemd mit Logo",
+                "name": "Fu\u00dfballmoderator-Trikot mit Logo",
                 "description": "clothing_fballpresenter3 desc",
                 "buyout": 0
             },
             "5216": {
                 "slug": "clothing_fballpresenter3",
-                "name": "Fussballmoderator-Hemd mit Logo",
+                "name": "Fu\u00dfballmoderator-Trikot mit Logo",
                 "description": "clothing_fballpresenter3 desc",
                 "buyout": 0
             },
             "5215": {
                 "slug": "clothing_fballpresenter2",
-                "name": "Fussballmoderator-Fanhemd",
+                "name": "Fu\u00dfballmoderator-Fantrikot",
                 "description": "clothing_fballpresenter2 desc",
                 "buyout": 0
             },
             "5214": {
                 "slug": "clothing_fballpresenter2",
-                "name": "Fussballmoderator-Fanhemd",
+                "name": "Fu\u00dfballmoderator-Fantrikot",
                 "description": "clothing_fballpresenter2 desc",
                 "buyout": 0
             },
             "5213": {
                 "slug": "clothing_fballpresenter1",
-                "name": "Fussballmoderator-Hemd mit Nachricht",
+                "name": "Fu\u00dfballmoderator-Trikot mit Nachricht",
                 "description": "clothing_fballpresenter1 desc",
                 "buyout": 0
             },
             "5212": {
                 "slug": "clothing_fballpresenter1",
-                "name": "Fussballmoderator-Hemd mit Nachricht",
+                "name": "Fu\u00dfballmoderator-Trikot mit Nachricht",
                 "description": "clothing_fballpresenter1 desc",
                 "buyout": 0
             },
@@ -1197,6 +1204,12 @@
                 "buyout": 0
             },
             "5195": null,
+            "5192": {
+                "slug": "clothing_ltd23_firedemonoutfit",
+                "name": "Feuerherrscher-Outfit",
+                "description": "clothing_ltd23_firedemonoutfit desc",
+                "buyout": 0
+            },
             "5189": {
                 "slug": "clothing_nt_graduationoutfit",
                 "name": "clothing_nt_graduationoutfit name",
@@ -2019,13 +2032,13 @@
             },
             "4122": {
                 "slug": "clothing_blockcroptop",
-                "name": "Bauchfreies Colour-block Top",
+                "name": "Farbblock-Crop-Top",
                 "description": "clothing_blockcroptop desc",
                 "buyout": 0
             },
             "4121": {
                 "slug": "clothing_blockcroptop",
-                "name": "Bauchfreies Colour-block Top",
+                "name": "Farbblock-Crop-Top",
                 "description": "clothing_blockcroptop desc",
                 "buyout": 0
             },
@@ -2049,7 +2062,7 @@
             },
             "4100": {
                 "slug": "clothing_patterncroptop",
-                "name": "Geometrisches bauchfreies Oberteil",
+                "name": "Geomuster-Crop-Top",
                 "description": "clothing_patterncroptop desc",
                 "buyout": 0
             },
@@ -2061,7 +2074,7 @@
             },
             "4098": {
                 "slug": "clothing_patterncroptop",
-                "name": "Geometrisches bauchfreies Oberteil",
+                "name": "Geomuster-Crop-Top",
                 "description": "clothing_patterncroptop desc",
                 "buyout": 0
             },
@@ -2079,37 +2092,37 @@
             },
             "4074": {
                 "slug": "clothing_tiedyecroptop",
-                "name": "Bauchfreies Regenbogen-Top",
+                "name": "Regenbogen Batik-Crop-Top",
                 "description": "clothing_tiedyecroptop desc",
                 "buyout": 0
             },
             "4073": {
                 "slug": "clothing_darkcroptop",
-                "name": "Bauchfreies dunkles Regenbogenoberteil",
+                "name": "Dunkles Batik-Crop-Top",
                 "description": "clothing_darkcroptop desc",
                 "buyout": 0
             },
             "4072": {
                 "slug": "clothing_camocroptop",
-                "name": "Bauchfreies Combat-Top",
+                "name": "Camo-Crop-Top",
                 "description": "clothing_camocroptop desc",
                 "buyout": 0
             },
             "4071": {
                 "slug": "clothing_tiedyecroptop",
-                "name": "Bauchfreies Regenbogen-Top",
+                "name": "Regenbogen Batik-Crop-Top",
                 "description": "clothing_tiedyecroptop desc",
                 "buyout": 0
             },
             "4070": {
                 "slug": "clothing_darkcroptop",
-                "name": "Bauchfreies dunkles Regenbogenoberteil",
+                "name": "Dunkles Batik-Crop-Top",
                 "description": "clothing_darkcroptop desc",
                 "buyout": 0
             },
             "4069": {
                 "slug": "clothing_camocroptop",
-                "name": "Bauchfreies Combat-Top",
+                "name": "Camo-Crop-Top",
                 "description": "clothing_camocroptop desc",
                 "buyout": 0
             },
@@ -3070,6 +3083,10 @@
             "210": null
         },
         "lg": {
+            "5266": null,
+            "5265": null,
+            "5264": null,
+            "5261": null,
             "5226": {
                 "slug": "clothing_nftsunflowershorts",
                 "name": "Sonnenblumen-Shorts",
@@ -3194,7 +3211,7 @@
             },
             "4125": {
                 "slug": "clothing_blockjoggers",
-                "name": "Colour-block Jogginghosen",
+                "name": "Farbblock-Jogginghose",
                 "description": "clothing_blockjoggers desc",
                 "buyout": 0
             },
@@ -3218,7 +3235,7 @@
             },
             "4102": {
                 "slug": "clothing_patternjoggers",
-                "name": "Geometrische Jogginghosen",
+                "name": "Geomuster-Jogginghose",
                 "description": "clothing_patternjoggers desc",
                 "buyout": 0
             },
@@ -3230,7 +3247,7 @@
             },
             "4083": {
                 "slug": "clothing_tiedyejoggers",
-                "name": "Regenbogen Jogginghosen",
+                "name": "Regenbogen Batik-Jogginghose",
                 "description": "clothing_tiedyejoggers desc",
                 "buyout": 0
             },
@@ -3242,7 +3259,7 @@
             },
             "4081": {
                 "slug": "clothing_camojoggers",
-                "name": "Combat Jogginghosen",
+                "name": "Camo-Jogginghose",
                 "description": "clothing_camojoggers desc",
                 "buyout": 0
             },
@@ -4421,7 +4438,7 @@
             },
             "4095": {
                 "slug": "clothing_patternhat",
-                "name": "Geometrisches K\u00e4ppi",
+                "name": "Geomuster-K\u00e4ppi",
                 "description": "clothing_patternhat desc",
                 "buyout": 0
             },
@@ -4439,13 +4456,13 @@
             },
             "4086": {
                 "slug": "clothing_tiedyehat",
-                "name": "Regenbogen-K\u00e4ppi",
+                "name": "Regenbogen Batik-K\u00e4ppi",
                 "description": "clothing_tiedyehat desc",
                 "buyout": 0
             },
             "4085": {
                 "slug": "clothing_darkhat",
-                "name": "Dunkles Regenbogen-K\u00e4ppi",
+                "name": "Dunkles Batik-K\u00e4ppi",
                 "description": "clothing_darkhat desc",
                 "buyout": 0
             },
@@ -6426,7 +6443,7 @@
             "5231": null,
             "5211": {
                 "slug": "clothing_stubblebeard",
-                "name": "Stoppeln im Gesicht",
+                "name": "Dreitagebart",
                 "description": "clothing_stubblebeard desc",
                 "buyout": 0
             },
@@ -6776,6 +6793,13 @@
             "1201": null
         },
         "ca": {
+            "5255": null,
+            "5254": null,
+            "5253": null,
+            "5252": null,
+            "5251": null,
+            "5250": null,
+            "5227": null,
             "5209": {
                 "slug": "clothing_aftvscarf2",
                 "name": "AFTV Symbolschal",
@@ -6796,7 +6820,7 @@
             },
             "5175": {
                 "slug": "clothing_unibackpack5",
-                "name": "Goldener H Rucksack",
+                "name": "Goldener H-Rucksack",
                 "description": "clothing_unibackpack5 desc",
                 "buyout": 0
             },
@@ -6808,7 +6832,7 @@
             },
             "5173": {
                 "slug": "clothing_unibackpack3",
-                "name": "Gotischer Rucksack",
+                "name": "Gotik-Rucksack",
                 "description": "clothing_unibackpack3 desc",
                 "buyout": 0
             },
@@ -6820,7 +6844,7 @@
             },
             "5171": {
                 "slug": "clothing_unibackpack1",
-                "name": "Intellektueller Rucksack",
+                "name": "Genie-Rucksack",
                 "description": "clothing_unibackpack1 desc",
                 "buyout": 0
             },
@@ -7507,15 +7531,9 @@
             "5237": null,
             "5235": null,
             "5233": null,
-            "5192": {
-                "slug": "clothing_ltd23_firedemonoutfit",
-                "name": "Feuerherrscher-Outfit",
-                "description": "clothing_ltd23_firedemonoutfit desc",
-                "buyout": 0
-            },
             "5188": {
                 "slug": "clothing_unijacket5",
-                "name": "Goldene H Uniform",
+                "name": "Goldene H-Collegejacke",
                 "description": "clothing_unijacket5 desc",
                 "buyout": 0
             },
@@ -7539,19 +7557,19 @@
             },
             "5184": {
                 "slug": "clothing_unijacket1",
-                "name": "Intellektuelle Uniform",
+                "name": "Genie-Uniform",
                 "description": "clothing_unijacket1 desc",
                 "buyout": 0
             },
             "5183": {
                 "slug": "clothing_unijacket",
-                "name": "Letterman-Jacke",
+                "name": "Collegejacke",
                 "description": "clothing_unijacket desc",
                 "buyout": 1
             },
             "5182": {
                 "slug": "clothing_unijacket5",
-                "name": "Goldene H Uniform",
+                "name": "Goldene H-Collegejacke",
                 "description": "clothing_unijacket5 desc",
                 "buyout": 0
             },
@@ -7575,13 +7593,13 @@
             },
             "5178": {
                 "slug": "clothing_unijacket1",
-                "name": "Intellektuelle Uniform",
+                "name": "Genie-Uniform",
                 "description": "clothing_unijacket1 desc",
                 "buyout": 0
             },
             "5177": {
                 "slug": "clothing_unijacket",
-                "name": "Letterman-Jacke",
+                "name": "Collegejacke",
                 "description": "clothing_unijacket desc",
                 "buyout": 1
             },
@@ -7836,13 +7854,13 @@
             },
             "4176": {
                 "slug": "clothing_pridehoodie",
-                "name": "Pride Gestreifte Kapuzenjacke",
+                "name": "Gestreifter Pride-Kapuzenpulli",
                 "description": "clothing_pridehoodie desc",
                 "buyout": 0
             },
             "4175": {
                 "slug": "clothing_pridehoodie",
-                "name": "Pride Gestreifte Kapuzenjacke",
+                "name": "Gestreifter Pride-Kapuzenpulli",
                 "description": "clothing_pridehoodie desc",
                 "buyout": 0
             },
@@ -7854,25 +7872,25 @@
             },
             "4124": {
                 "slug": "clothing_blockhoodie",
-                "name": "Colour-block Kapuzenjacke",
+                "name": "Farbblock-Kapuzenpulli",
                 "description": "clothing_blockhoodie desc",
                 "buyout": 0
             },
             "4123": {
                 "slug": "clothing_blockhoodie",
-                "name": "Colour-block Kapuzenjacke",
+                "name": "Farbblock-Kapuzenpulli",
                 "description": "clothing_blockhoodie desc",
                 "buyout": 0
             },
             "4109": {
                 "slug": "clothing_basichoodie",
-                "name": "Einfache Kapuzenjacke",
+                "name": "Schlichter Kapuzenpulli",
                 "description": "clothing_basichoodie desc",
                 "buyout": 0
             },
             "4108": {
                 "slug": "clothing_basichoodie",
-                "name": "Einfache Kapuzenjacke",
+                "name": "Schlichter Kapuzenpulli",
                 "description": "clothing_basichoodie desc",
                 "buyout": 0
             },
@@ -7902,13 +7920,13 @@
             },
             "4097": {
                 "slug": "clothing_patternhoodie",
-                "name": "Geometrische Kapuzenjacke",
+                "name": "Geomuster-Kapuzenpulli",
                 "description": "clothing_patternhoodie desc",
                 "buyout": 0
             },
             "4096": {
                 "slug": "clothing_patternhoodie",
-                "name": "Geometrische Kapuzenjacke",
+                "name": "Geomuster-Kapuzenpulli",
                 "description": "clothing_patternhoodie desc",
                 "buyout": 0
             },
@@ -7926,13 +7944,13 @@
             },
             "4079": {
                 "slug": "clothing_darkhoodie",
-                "name": "Dunkle Regenbogenkapuzenjacke",
+                "name": "Dunkler Batik-Kapuzenpulli",
                 "description": "clothing_darkhoodie desc",
                 "buyout": 0
             },
             "4078": {
                 "slug": "clothing_camohoodie",
-                "name": "Combat Kapuzenjacke",
+                "name": "Camo-Kapuzenpulli",
                 "description": "clothing_camohoodie desc",
                 "buyout": 0
             },
@@ -7944,13 +7962,13 @@
             },
             "4076": {
                 "slug": "clothing_darkhoodie",
-                "name": "Dunkle Regenbogenkapuzenjacke",
+                "name": "Dunkler Batik-Kapuzenpulli",
                 "description": "clothing_darkhoodie desc",
                 "buyout": 0
             },
             "4075": {
                 "slug": "clothing_camohoodie",
-                "name": "Combat Kapuzenjacke",
+                "name": "Camo-Kapuzenpulli",
                 "description": "clothing_camohoodie desc",
                 "buyout": 0
             },
