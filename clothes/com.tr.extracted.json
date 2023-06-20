@@ -1081,13 +1081,48 @@
             "180": null
         },
         "ch": {
-            "5263": null,
-            "5262": null,
-            "5260": null,
-            "5259": null,
-            "5258": null,
-            "5257": null,
-            "5256": null,
+            "5263": {
+                "slug": "clothing_nftpinkbikini",
+                "name": "Pink Bikini",
+                "description": "clothing_nftpinkbikini desc",
+                "buyout": 0
+            },
+            "5262": {
+                "slug": "clothing_nftpinkbikini",
+                "name": "Pink Bikini",
+                "description": "clothing_nftpinkbikini desc",
+                "buyout": 0
+            },
+            "5260": {
+                "slug": "clothing_nftbluebikini",
+                "name": "Blue Bikini",
+                "description": "clothing_nftbluebikini desc",
+                "buyout": 0
+            },
+            "5259": {
+                "slug": "clothing_nftbluebikini",
+                "name": "Blue Bikini",
+                "description": "clothing_nftbluebikini desc",
+                "buyout": 0
+            },
+            "5258": {
+                "slug": "clothing_nftjuicebox3",
+                "name": "Wearable Pear Juice",
+                "description": "clothing_nftjuicebox3 desc",
+                "buyout": 0
+            },
+            "5257": {
+                "slug": "clothing_nftjuicebox2",
+                "name": "Wearable Strawberry Juice",
+                "description": "clothing_nftjuicebox2 desc",
+                "buyout": 0
+            },
+            "5256": {
+                "slug": "clothing_nftjuicebox1",
+                "name": "Wearable Orange Juice",
+                "description": "clothing_nftjuicebox1 desc",
+                "buyout": 0
+            },
             "5229": null,
             "5225": {
                 "slug": "clothing_nftsunflowerdress",
@@ -3083,10 +3118,30 @@
             "210": null
         },
         "lg": {
-            "5266": null,
-            "5265": null,
-            "5264": null,
-            "5261": null,
+            "5266": {
+                "slug": "clothing_nftpinkswimshorts",
+                "name": "Pink Swim Shorts",
+                "description": "clothing_nftpinkswimshorts desc",
+                "buyout": 0
+            },
+            "5265": {
+                "slug": "clothing_nftblueswimshorts",
+                "name": "Blue Swim Shorts",
+                "description": "clothing_nftblueswimshorts desc",
+                "buyout": 0
+            },
+            "5264": {
+                "slug": "clothing_nftpinkbikini",
+                "name": "Pink Bikini",
+                "description": "clothing_nftpinkbikini desc",
+                "buyout": 0
+            },
+            "5261": {
+                "slug": "clothing_nftbluebikini",
+                "name": "Blue Bikini",
+                "description": "clothing_nftbluebikini desc",
+                "buyout": 0
+            },
             "5226": {
                 "slug": "clothing_nftsunflowershorts",
                 "name": "Ay\u00e7i\u00e7e\u011fi \u015eort",
@@ -6793,13 +6848,48 @@
             "1201": null
         },
         "ca": {
-            "5255": null,
-            "5254": null,
-            "5253": null,
-            "5252": null,
-            "5251": null,
-            "5250": null,
-            "5227": null,
+            "5255": {
+                "slug": "clothing_nfticecreambag3",
+                "name": "Strawberry Ice Cream Rucksack",
+                "description": "clothing_nfticecreambag3 desc",
+                "buyout": 0
+            },
+            "5254": {
+                "slug": "clothing_nfticecreambag2",
+                "name": "Chocolate Ice Cream Rucksack",
+                "description": "clothing_nfticecreambag2 desc",
+                "buyout": 0
+            },
+            "5253": {
+                "slug": "clothing_nfticecreambag1",
+                "name": "Vanilla Ice Cream Rucksack",
+                "description": "clothing_nfticecreambag1 desc",
+                "buyout": 0
+            },
+            "5252": {
+                "slug": "clothing_nftflamingofloat",
+                "name": "Flamingo Rubber Ring",
+                "description": "clothing_nftflamingofloat desc",
+                "buyout": 0
+            },
+            "5251": {
+                "slug": "clothing_nftdonutfloat",
+                "name": "Donut Rubber Ring",
+                "description": "clothing_nftdonutfloat desc",
+                "buyout": 0
+            },
+            "5250": {
+                "slug": "clothing_nftduckfloat",
+                "name": "Duck Rubber Ring",
+                "description": "clothing_nftduckfloat desc",
+                "buyout": 0
+            },
+            "5227": {
+                "slug": "clothing_nftbluefloat",
+                "name": "Sky Blue Rubber Ring",
+                "description": "clothing_nftbluefloat desc",
+                "buyout": 0
+            },
             "5209": {
                 "slug": "clothing_aftvscarf2",
                 "name": "AFTV Semboll\u00fc Atk\u0131",
