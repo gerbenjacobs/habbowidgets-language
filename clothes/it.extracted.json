@@ -17,6 +17,18 @@
     "clothing": {
         "hr": {
             "9534": null,
+            "5271": {
+                "slug": "clothing_sportsponytail",
+                "name": "clothing_sportsponytail name",
+                "description": "clothing_sportsponytail desc",
+                "buyout": 0
+            },
+            "5248": {
+                "slug": "clothing_r23_tentaclehair",
+                "name": "Acconciatura Tentacoli",
+                "description": "clothing_r23_tentaclehair desc",
+                "buyout": 0
+            },
             "5210": {
                 "slug": "clothing_ombredreads",
                 "name": "Capelli Dreadlock",
@@ -1081,46 +1093,82 @@
             "180": null
         },
         "ch": {
+            "5268": {
+                "slug": "clothing_f1outfit",
+                "name": "Outfit On Track F1",
+                "description": "clothing_f1outfit desc",
+                "buyout": 0
+            },
+            "5267": {
+                "slug": "clothing_f1outfit",
+                "name": "Outfit On Track F1",
+                "description": "clothing_f1outfit desc",
+                "buyout": 0
+            },
             "5263": {
                 "slug": "clothing_nftpinkbikini",
-                "name": "Pink Bikini",
+                "name": "Bikini Rosa",
                 "description": "clothing_nftpinkbikini desc",
                 "buyout": 0
             },
             "5262": {
                 "slug": "clothing_nftpinkbikini",
-                "name": "Pink Bikini",
+                "name": "Bikini Rosa",
                 "description": "clothing_nftpinkbikini desc",
                 "buyout": 0
             },
             "5260": {
                 "slug": "clothing_nftbluebikini",
-                "name": "Blue Bikini",
+                "name": "Bikini Blu",
                 "description": "clothing_nftbluebikini desc",
                 "buyout": 0
             },
             "5259": {
                 "slug": "clothing_nftbluebikini",
-                "name": "Blue Bikini",
+                "name": "Bikini Blu",
                 "description": "clothing_nftbluebikini desc",
                 "buyout": 0
             },
             "5258": {
                 "slug": "clothing_nftjuicebox3",
-                "name": "Wearable Pear Juice",
+                "name": "Succo di Pera Indossabile",
                 "description": "clothing_nftjuicebox3 desc",
                 "buyout": 0
             },
             "5257": {
                 "slug": "clothing_nftjuicebox2",
-                "name": "Wearable Strawberry Juice",
+                "name": "Succo di Fragola Indossabile",
                 "description": "clothing_nftjuicebox2 desc",
                 "buyout": 0
             },
             "5256": {
                 "slug": "clothing_nftjuicebox1",
-                "name": "Wearable Orange Juice",
+                "name": "Succo d'Arancia Indossabile",
                 "description": "clothing_nftjuicebox1 desc",
+                "buyout": 0
+            },
+            "5246": {
+                "slug": "clothing_r23_hipoutfit",
+                "name": "Streetwear Estivo",
+                "description": "clothing_r23_hipoutfit desc",
+                "buyout": 0
+            },
+            "5245": {
+                "slug": "clothing_r23_hipoutfit",
+                "name": "Streetwear Estivo",
+                "description": "clothing_r23_hipoutfit desc",
+                "buyout": 0
+            },
+            "5240": {
+                "slug": "clothing_ltd23_80sretro",
+                "name": "Outfit Nostalgia degli Anni 80",
+                "description": "clothing_ltd23_80sretro desc",
+                "buyout": 0
+            },
+            "5239": {
+                "slug": "clothing_ltd23_80sretro",
+                "name": "Outfit Nostalgia degli Anni 80",
+                "description": "clothing_ltd23_80sretro desc",
                 "buyout": 0
             },
             "5229": null,
@@ -3120,26 +3168,32 @@
         "lg": {
             "5266": {
                 "slug": "clothing_nftpinkswimshorts",
-                "name": "Pink Swim Shorts",
+                "name": "Boxer Rosa",
                 "description": "clothing_nftpinkswimshorts desc",
                 "buyout": 0
             },
             "5265": {
                 "slug": "clothing_nftblueswimshorts",
-                "name": "Blue Swim Shorts",
+                "name": "Boxer Blu",
                 "description": "clothing_nftblueswimshorts desc",
                 "buyout": 0
             },
             "5264": {
                 "slug": "clothing_nftpinkbikini",
-                "name": "Pink Bikini",
+                "name": "Bikini Rosa",
                 "description": "clothing_nftpinkbikini desc",
                 "buyout": 0
             },
             "5261": {
                 "slug": "clothing_nftbluebikini",
-                "name": "Blue Bikini",
+                "name": "Bikini Blu",
                 "description": "clothing_nftbluebikini desc",
+                "buyout": 0
+            },
+            "5243": {
+                "slug": "clothing_r23_hipoutfit",
+                "name": "Streetwear Estivo",
+                "description": "clothing_r23_hipoutfit desc",
                 "buyout": 0
             },
             "5226": {
@@ -3619,10 +3673,22 @@
             "270": null
         },
         "sh": {
+            "5274": {
+                "slug": "clothing_heeledboots",
+                "name": "clothing_heeledboots name",
+                "description": "clothing_heeledboots desc",
+                "buyout": 0
+            },
             "5247": {
                 "slug": "clothing_ltd23_summerflipflopsocks",
                 "name": "Infradito e Calzini",
                 "description": "clothing_ltd23_summerflipflopsocks desc",
+                "buyout": 0
+            },
+            "5242": {
+                "slug": "clothing_ltd23_80sretro",
+                "name": "Outfit Nostalgia degli Anni 80",
+                "description": "clothing_ltd23_80sretro desc",
                 "buyout": 0
             },
             "5234": null,
@@ -3836,6 +3902,18 @@
             "290": null
         },
         "ha": {
+            "5269": {
+                "slug": "clothing_f1outfit",
+                "name": "Outfit On Track F1",
+                "description": "clothing_f1outfit desc",
+                "buyout": 0
+            },
+            "5241": {
+                "slug": "clothing_ltd23_80sretro",
+                "name": "Outfit Nostalgia degli Anni 80",
+                "description": "clothing_ltd23_80sretro desc",
+                "buyout": 0
+            },
             "5236": null,
             "5230": null,
             "5228": null,
@@ -5535,6 +5613,18 @@
             "1001": null
         },
         "he": {
+            "5270": {
+                "slug": "clothing_footballboppers",
+                "name": "clothing_footballboppers name",
+                "description": "clothing_footballboppers desc",
+                "buyout": 0
+            },
+            "5244": {
+                "slug": "clothing_r23_hipoutfit",
+                "name": "Streetwear Estivo",
+                "description": "clothing_r23_hipoutfit desc",
+                "buyout": 0
+            },
             "5232": null,
             "5199": {
                 "slug": "clothing_smurfdaisy",
@@ -6850,43 +6940,55 @@
         "ca": {
             "5255": {
                 "slug": "clothing_nfticecreambag3",
-                "name": "Strawberry Ice Cream Rucksack",
+                "name": "Zainetto Gelato Fragola",
                 "description": "clothing_nfticecreambag3 desc",
                 "buyout": 0
             },
             "5254": {
                 "slug": "clothing_nfticecreambag2",
-                "name": "Chocolate Ice Cream Rucksack",
+                "name": "Zainetto Gelato Cioccolato",
                 "description": "clothing_nfticecreambag2 desc",
                 "buyout": 0
             },
             "5253": {
                 "slug": "clothing_nfticecreambag1",
-                "name": "Vanilla Ice Cream Rucksack",
+                "name": "Zainetto Gelato Vaniglia",
                 "description": "clothing_nfticecreambag1 desc",
                 "buyout": 0
             },
             "5252": {
                 "slug": "clothing_nftflamingofloat",
-                "name": "Flamingo Rubber Ring",
+                "name": "Ciambella Fenicottero",
                 "description": "clothing_nftflamingofloat desc",
                 "buyout": 0
             },
             "5251": {
                 "slug": "clothing_nftdonutfloat",
-                "name": "Donut Rubber Ring",
+                "name": "Ciambella Donut",
                 "description": "clothing_nftdonutfloat desc",
                 "buyout": 0
             },
             "5250": {
                 "slug": "clothing_nftduckfloat",
-                "name": "Duck Rubber Ring",
+                "name": "Ciambella Anatra",
                 "description": "clothing_nftduckfloat desc",
+                "buyout": 0
+            },
+            "5249": {
+                "slug": "clothing_r23_plantbackpack",
+                "name": "Zaino Porta-Pianta Trasparente",
+                "description": "clothing_r23_plantbackpack desc",
+                "buyout": 0
+            },
+            "5238": {
+                "slug": "clothing_r23_dslr",
+                "name": "Reflex da Turista",
+                "description": "clothing_r23_dslr desc",
                 "buyout": 0
             },
             "5227": {
                 "slug": "clothing_nftbluefloat",
-                "name": "Sky Blue Rubber Ring",
+                "name": "Ciambella Blu Cielo",
                 "description": "clothing_nftbluefloat desc",
                 "buyout": 0
             },
@@ -6942,12 +7044,12 @@
                 "slug": "clothing_unibackpack",
                 "name": "Zaino da Universitario",
                 "description": "clothing_unibackpack desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5145": null,
             "5136": {
                 "slug": "clothing_nftduckpack",
-                "name": "Zaino Anatraccolo",
+                "name": "Zaino Anatroccolo",
                 "description": "clothing_nftduckpack desc",
                 "buyout": 0
             },
@@ -7655,7 +7757,7 @@
                 "slug": "clothing_unijacket",
                 "name": "Giubbotto con Lettera",
                 "description": "clothing_unijacket desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5182": {
                 "slug": "clothing_unijacket5",
@@ -7691,7 +7793,7 @@
                 "slug": "clothing_unijacket",
                 "name": "Giubbotto con Lettera",
                 "description": "clothing_unijacket desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5150": null,
             "5144": null,
