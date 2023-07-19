@@ -19,7 +19,7 @@
             "9534": null,
             "5271": {
                 "slug": "clothing_sportsponytail",
-                "name": "clothing_sportsponytail name",
+                "name": "Sports Ponytail",
                 "description": "clothing_sportsponytail desc",
                 "buyout": 0
             },
@@ -1149,13 +1149,13 @@
             },
             "5246": {
                 "slug": "clothing_r23_hipoutfit",
-                "name": "Kes\u00e4 Streetwear",
+                "name": "Kes\u00e4inen Streetwear",
                 "description": "clothing_r23_hipoutfit desc",
                 "buyout": 0
             },
             "5245": {
                 "slug": "clothing_r23_hipoutfit",
-                "name": "Kes\u00e4 Streetwear",
+                "name": "Kes\u00e4inen Streetwear",
                 "description": "clothing_r23_hipoutfit desc",
                 "buyout": 0
             },
@@ -3192,7 +3192,7 @@
             },
             "5243": {
                 "slug": "clothing_r23_hipoutfit",
-                "name": "Kes\u00e4 Streetwear",
+                "name": "Kes\u00e4inen Streetwear",
                 "description": "clothing_r23_hipoutfit desc",
                 "buyout": 0
             },
@@ -3675,7 +3675,7 @@
         "sh": {
             "5274": {
                 "slug": "clothing_heeledboots",
-                "name": "clothing_heeledboots name",
+                "name": "Korkokeng\u00e4t",
                 "description": "clothing_heeledboots desc",
                 "buyout": 0
             },
@@ -5615,13 +5615,13 @@
         "he": {
             "5270": {
                 "slug": "clothing_footballboppers",
-                "name": "clothing_footballboppers name",
+                "name": "Football Boppers",
                 "description": "clothing_footballboppers desc",
                 "buyout": 0
             },
             "5244": {
                 "slug": "clothing_r23_hipoutfit",
-                "name": "Kes\u00e4 Streetwear",
+                "name": "Kes\u00e4inen Streetwear",
                 "description": "clothing_r23_hipoutfit desc",
                 "buyout": 0
             },

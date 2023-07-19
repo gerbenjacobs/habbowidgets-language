@@ -19,7 +19,7 @@
             "9534": null,
             "5271": {
                 "slug": "clothing_sportsponytail",
-                "name": "clothing_sportsponytail name",
+                "name": "Sports Ponytail",
                 "description": "clothing_sportsponytail desc",
                 "buyout": 0
             },
@@ -3675,7 +3675,7 @@
         "sh": {
             "5274": {
                 "slug": "clothing_heeledboots",
-                "name": "clothing_heeledboots name",
+                "name": "Heeled Boots",
                 "description": "clothing_heeledboots desc",
                 "buyout": 0
             },
@@ -5615,7 +5615,7 @@
         "he": {
             "5270": {
                 "slug": "clothing_footballboppers",
-                "name": "clothing_footballboppers name",
+                "name": "Football Boppers",
                 "description": "clothing_footballboppers desc",
                 "buyout": 0
             },
