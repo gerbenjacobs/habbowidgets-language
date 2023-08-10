@@ -17,6 +17,12 @@
     "clothing": {
         "hr": {
             "9534": null,
+            "5285": {
+                "slug": "clothing_headbandhair",
+                "name": "Chevelure plaqu\u00e9s en arri\u00e8re",
+                "description": "clothing_headbandhair desc",
+                "buyout": 0
+            },
             "5271": {
                 "slug": "clothing_sportsponytail",
                 "name": "Queue de cheval sportive",
@@ -3673,6 +3679,9 @@
             "270": null
         },
         "sh": {
+            "5297": null,
+            "5296": null,
+            "5295": null,
             "5274": {
                 "slug": "clothing_heeledboots",
                 "name": "Bottes \u00e0 talons",
@@ -3902,6 +3911,9 @@
             "290": null
         },
         "ha": {
+            "5294": null,
+            "5293": null,
+            "5292": null,
             "5269": {
                 "slug": "clothing_f1outfit",
                 "name": "Ensemble On Track F1",
@@ -7720,6 +7732,12 @@
         "cc": {
             "9865": null,
             "9563": null,
+            "5291": null,
+            "5290": null,
+            "5289": null,
+            "5288": null,
+            "5287": null,
+            "5286": null,
             "5237": null,
             "5235": null,
             "5233": null,
