@@ -17,6 +17,18 @@
     "clothing": {
         "hr": {
             "9534": null,
+            "5306": {
+                "slug": "clothing_r23_twotonehair",
+                "name": "clothing_r23_twotonehair name",
+                "description": "clothing_r23_twotonehair desc",
+                "buyout": 0
+            },
+            "5298": {
+                "slug": "clothing_r23_drillhair",
+                "name": "clothing_r23_drillhair name",
+                "description": "clothing_r23_drillhair desc",
+                "buyout": 0
+            },
             "5285": {
                 "slug": "clothing_headbandhair",
                 "name": "Taaksep\u00e4in vedetyt hiukset",
@@ -1099,6 +1111,18 @@
             "180": null
         },
         "ch": {
+            "5303": {
+                "slug": "clothing_pinaforedress",
+                "name": "clothing_pinaforedress name",
+                "description": "clothing_pinaforedress desc",
+                "buyout": 0
+            },
+            "5302": {
+                "slug": "clothing_pinaforedress",
+                "name": "clothing_pinaforedress name",
+                "description": "clothing_pinaforedress desc",
+                "buyout": 0
+            },
             "5268": {
                 "slug": "clothing_f1outfit",
                 "name": "On Track F1 Outfit",
@@ -3679,9 +3703,30 @@
             "270": null
         },
         "sh": {
-            "5297": null,
-            "5296": null,
-            "5295": null,
+            "5308": {
+                "slug": "clothing_docfranks",
+                "name": "clothing_docfranks name",
+                "description": "clothing_docfranks desc",
+                "buyout": 0
+            },
+            "5297": {
+                "slug": "clothing_nftunicornslippers",
+                "name": "Yksisarvistohvelit",
+                "description": "clothing_nftunicornslippers desc",
+                "buyout": 0
+            },
+            "5296": {
+                "slug": "clothing_nftdinoslippers",
+                "name": "Dinotohvelit",
+                "description": "clothing_nftdinoslippers desc",
+                "buyout": 0
+            },
+            "5295": {
+                "slug": "clothing_nftfrogslippers",
+                "name": "Sammakkotohvelit",
+                "description": "clothing_nftfrogslippers desc",
+                "buyout": 0
+            },
             "5274": {
                 "slug": "clothing_heeledboots",
                 "name": "Korkokeng\u00e4t",
@@ -3911,9 +3956,48 @@
             "290": null
         },
         "ha": {
-            "5294": null,
-            "5293": null,
-            "5292": null,
+            "5305": {
+                "slug": "clothing_habbobeanie",
+                "name": "clothing_habbobeanie name",
+                "description": "clothing_habbobeanie desc",
+                "buyout": 0
+            },
+            "5304": {
+                "slug": "clothing_headscarf",
+                "name": "clothing_headscarf name",
+                "description": "clothing_headscarf desc",
+                "buyout": 0
+            },
+            "5301": {
+                "slug": "clothing_fluffyhat",
+                "name": "clothing_fluffyhat name",
+                "description": "clothing_fluffyhat desc",
+                "buyout": 0
+            },
+            "5299": {
+                "slug": "clothing_knittedbunnybeanie",
+                "name": "clothing_knittedbunnybeanie name",
+                "description": "clothing_knittedbunnybeanie desc",
+                "buyout": 0
+            },
+            "5294": {
+                "slug": "clothing_nftunicornhoodie",
+                "name": "Yksisarvishuppari",
+                "description": "clothing_nftunicornhoodie desc",
+                "buyout": 0
+            },
+            "5293": {
+                "slug": "clothing_nftdinohoodie",
+                "name": "Dinohuppari",
+                "description": "clothing_nftdinohoodie desc",
+                "buyout": 0
+            },
+            "5292": {
+                "slug": "clothing_nftfroghoodie",
+                "name": "Sammakkohuppari",
+                "description": "clothing_nftfroghoodie desc",
+                "buyout": 0
+            },
             "5269": {
                 "slug": "clothing_f1outfit",
                 "name": "On Track F1 Outfit",
@@ -6950,6 +7034,12 @@
             "1201": null
         },
         "ca": {
+            "5300": {
+                "slug": "clothing_toastbackpack",
+                "name": "clothing_toastbackpack name",
+                "description": "clothing_toastbackpack desc",
+                "buyout": 0
+            },
             "5255": {
                 "slug": "clothing_nfticecreambag3",
                 "name": "Mansikkaj\u00e4tskireppu",
@@ -7732,12 +7822,48 @@
         "cc": {
             "9865": null,
             "9563": null,
-            "5291": null,
-            "5290": null,
-            "5289": null,
-            "5288": null,
-            "5287": null,
-            "5286": null,
+            "5307": {
+                "slug": "clothing_fluffyjacket",
+                "name": "clothing_fluffyjacket name",
+                "description": "clothing_fluffyjacket desc",
+                "buyout": 0
+            },
+            "5291": {
+                "slug": "clothing_nftunicornhoodie",
+                "name": "Yksisarvishuppari",
+                "description": "clothing_nftunicornhoodie desc",
+                "buyout": 0
+            },
+            "5290": {
+                "slug": "clothing_nftunicornhoodie",
+                "name": "Yksisarvishuppari",
+                "description": "clothing_nftunicornhoodie desc",
+                "buyout": 0
+            },
+            "5289": {
+                "slug": "clothing_nftdinohoodie",
+                "name": "Dinohuppari",
+                "description": "clothing_nftdinohoodie desc",
+                "buyout": 0
+            },
+            "5288": {
+                "slug": "clothing_nftdinohoodie",
+                "name": "Dinohuppari",
+                "description": "clothing_nftdinohoodie desc",
+                "buyout": 0
+            },
+            "5287": {
+                "slug": "clothing_nftfroghoodie",
+                "name": "Sammakkohuppari",
+                "description": "clothing_nftfroghoodie desc",
+                "buyout": 0
+            },
+            "5286": {
+                "slug": "clothing_nftfroghoodie",
+                "name": "Sammakkohuppari",
+                "description": "clothing_nftfroghoodie desc",
+                "buyout": 0
+            },
             "5237": null,
             "5235": null,
             "5233": null,
