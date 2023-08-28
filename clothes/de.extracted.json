@@ -19,13 +19,13 @@
             "9534": null,
             "5306": {
                 "slug": "clothing_r23_twotonehair",
-                "name": "clothing_r23_twotonehair name",
+                "name": "Zweifarbige Frisur",
                 "description": "clothing_r23_twotonehair desc",
                 "buyout": 0
             },
             "5298": {
                 "slug": "clothing_r23_drillhair",
-                "name": "clothing_r23_drillhair name",
+                "name": "Bohrer-Locken",
                 "description": "clothing_r23_drillhair desc",
                 "buyout": 0
             },
@@ -403,7 +403,7 @@
             },
             "3829": {
                 "slug": "clothing_nt_shortcut",
-                "name": "Kurze B\u00fcschel (NICHT handelbar)",
+                "name": "Kurze B\u00fcschel (NICHT tauschbar)",
                 "description": "clothing_nt_shortcut desc",
                 "buyout": 0
             },
@@ -1113,13 +1113,13 @@
         "ch": {
             "5303": {
                 "slug": "clothing_pinaforedress",
-                "name": "clothing_pinaforedress name",
+                "name": "Sch\u00fcrzenkleid",
                 "description": "clothing_pinaforedress desc",
                 "buyout": 0
             },
             "5302": {
                 "slug": "clothing_pinaforedress",
-                "name": "clothing_pinaforedress name",
+                "name": "Sch\u00fcrzenkleid",
                 "description": "clothing_pinaforedress desc",
                 "buyout": 0
             },
@@ -3464,13 +3464,13 @@
             },
             "3915": {
                 "slug": "clothing_nt_yogapants",
-                "name": "Yogahose (nicht handelbar) ",
+                "name": "Yogahose (nicht tauschbar)",
                 "description": "clothing_nt_yogapants desc",
                 "buyout": 0
             },
             "3864": {
                 "slug": "clothing_nt_snowmansuit",
-                "name": "Schneemannanzug (nicht handelbar)",
+                "name": "Schneemannanzug (nicht tauschbar)",
                 "description": "clothing_nt_snowmansuit desc",
                 "buyout": 0
             },
@@ -3705,7 +3705,7 @@
         "sh": {
             "5308": {
                 "slug": "clothing_docfranks",
-                "name": "clothing_docfranks name",
+                "name": "Doc Franks",
                 "description": "clothing_docfranks desc",
                 "buyout": 0
             },
@@ -3958,25 +3958,25 @@
         "ha": {
             "5305": {
                 "slug": "clothing_habbobeanie",
-                "name": "clothing_habbobeanie name",
+                "name": "Habbo-M\u00fctze",
                 "description": "clothing_habbobeanie desc",
                 "buyout": 0
             },
             "5304": {
                 "slug": "clothing_headscarf",
-                "name": "clothing_headscarf name",
+                "name": "Modisches Kopftuch",
                 "description": "clothing_headscarf desc",
                 "buyout": 0
             },
             "5301": {
                 "slug": "clothing_fluffyhat",
-                "name": "clothing_fluffyhat name",
+                "name": "Teddy-Hut",
                 "description": "clothing_fluffyhat desc",
                 "buyout": 0
             },
             "5299": {
                 "slug": "clothing_knittedbunnybeanie",
-                "name": "clothing_knittedbunnybeanie name",
+                "name": "Gestrickte Hasenm\u00fctze",
                 "description": "clothing_knittedbunnybeanie desc",
                 "buyout": 0
             },
@@ -4871,7 +4871,7 @@
             },
             "3862": {
                 "slug": "clothing_nt_snowmansuit",
-                "name": "Schneemannanzug (nicht handelbar)",
+                "name": "Schneemannanzug (nicht tauschbar)",
                 "description": "clothing_nt_snowmansuit desc",
                 "buyout": 0
             },
@@ -4883,7 +4883,7 @@
             },
             "3857": {
                 "slug": "clothing_nt_pompomhat",
-                "name": "Pompom Beanie M\u00fctze (nicht handelbar)",
+                "name": "Pompom Beanie M\u00fctze (nicht tauschbar)",
                 "description": "clothing_nt_pompomhat desc",
                 "buyout": 0
             },
@@ -6091,13 +6091,13 @@
             },
             "3833": {
                 "slug": "clothing_nt_leafearrings",
-                "name": "Bl\u00e4ttrige Ohrringe (NICHT handelbar)",
+                "name": "Bl\u00e4ttrige Ohrringe (NICHT tauschbar)",
                 "description": "clothing_nt_leafearrings desc",
                 "buyout": 0
             },
             "3821": {
                 "slug": "clothing_nt_sprout",
-                "name": "Sch\u00e4del Sprosse (NICHT handelbar)",
+                "name": "Sch\u00e4del Sprosse (NICHT tauschbar)",
                 "description": "clothing_nt_sprout desc",
                 "buyout": 0
             },
@@ -7036,7 +7036,7 @@
         "ca": {
             "5300": {
                 "slug": "clothing_toastbackpack",
-                "name": "clothing_toastbackpack name",
+                "name": "Niedlicher Toastbrotscheiben-Rucksack",
                 "description": "clothing_toastbackpack desc",
                 "buyout": 0
             },
@@ -7493,7 +7493,7 @@
             },
             "3919": {
                 "slug": "clothing_nt_binoculars",
-                "name": "Fernglas (nicht handelbar)",
+                "name": "Fernglas (nicht tauschbar)",
                 "description": "clothing_nt_binoculars desc",
                 "buyout": 0
             },
@@ -7529,7 +7529,7 @@
             },
             "3861": {
                 "slug": "clothing_nt_pompombag",
-                "name": "Pompon Tasche (nicht handelbar)",
+                "name": "Pompon Tasche (nicht tauschbar)",
                 "description": "clothing_nt_pompombag desc",
                 "buyout": 0
             },
@@ -7824,7 +7824,7 @@
             "9563": null,
             "5307": {
                 "slug": "clothing_fluffyjacket",
-                "name": "clothing_fluffyjacket name",
+                "name": "Teddy-Jacke",
                 "description": "clothing_fluffyjacket desc",
                 "buyout": 0
             },
@@ -8394,7 +8394,7 @@
             },
             "3917": {
                 "slug": "clothing_nt_puffyvest",
-                "name": "Rettungsweste (nicht handelbar)",
+                "name": "Rettungsweste (nicht tauschbar)",
                 "description": "clothing_nt_puffyvest desc",
                 "buyout": 0
             },
@@ -8526,7 +8526,7 @@
             },
             "3863": {
                 "slug": "clothing_nt_snowmansuit",
-                "name": "Schneemannanzug (nicht handelbar)",
+                "name": "Schneemannanzug (nicht tauschbar)",
                 "description": "clothing_nt_snowmansuit desc",
                 "buyout": 0
             },
@@ -8568,25 +8568,25 @@
             },
             "3827": {
                 "slug": "clothing_nt_loosekimono",
-                "name": "L\u00e4ssiger Kimono(NICHT handelbar)",
+                "name": "L\u00e4ssiger Kimono(NICHT tauschbar)",
                 "description": "clothing_nt_loosekimono desc",
                 "buyout": 0
             },
             "3826": {
                 "slug": "clothing_nt_loosekimono",
-                "name": "L\u00e4ssiger Kimono(NICHT handelbar)",
+                "name": "L\u00e4ssiger Kimono(NICHT tauschbar)",
                 "description": "clothing_nt_loosekimono desc",
                 "buyout": 0
             },
             "3825": {
                 "slug": "clothing_nt_gardenapron",
-                "name": "Gartensch\u00fcrze (NICHT handelbar)",
+                "name": "Gartensch\u00fcrze (NICHT tauschbar)",
                 "description": "clothing_nt_gardenapron desc",
                 "buyout": 0
             },
             "3824": {
                 "slug": "clothing_nt_gardenapron",
-                "name": "Gartensch\u00fcrze (NICHT handelbar)",
+                "name": "Gartensch\u00fcrze (NICHT tauschbar)",
                 "description": "clothing_nt_gardenapron desc",
                 "buyout": 0
             },

@@ -19,13 +19,13 @@
             "9534": null,
             "5306": {
                 "slug": "clothing_r23_twotonehair",
-                "name": "clothing_r23_twotonehair name",
+                "name": "Two Toned Hair",
                 "description": "clothing_r23_twotonehair desc",
                 "buyout": 0
             },
             "5298": {
                 "slug": "clothing_r23_drillhair",
-                "name": "clothing_r23_drillhair name",
+                "name": "Drill Curled Hair",
                 "description": "clothing_r23_drillhair desc",
                 "buyout": 0
             },
@@ -1113,13 +1113,13 @@
         "ch": {
             "5303": {
                 "slug": "clothing_pinaforedress",
-                "name": "clothing_pinaforedress name",
+                "name": "Pinafore Dress",
                 "description": "clothing_pinaforedress desc",
                 "buyout": 0
             },
             "5302": {
                 "slug": "clothing_pinaforedress",
-                "name": "clothing_pinaforedress name",
+                "name": "Pinafore Dress",
                 "description": "clothing_pinaforedress desc",
                 "buyout": 0
             },
@@ -3705,7 +3705,7 @@
         "sh": {
             "5308": {
                 "slug": "clothing_docfranks",
-                "name": "clothing_docfranks name",
+                "name": "Doc Franks",
                 "description": "clothing_docfranks desc",
                 "buyout": 0
             },
@@ -3958,25 +3958,25 @@
         "ha": {
             "5305": {
                 "slug": "clothing_habbobeanie",
-                "name": "clothing_habbobeanie name",
+                "name": "Habbo Beanie",
                 "description": "clothing_habbobeanie desc",
                 "buyout": 0
             },
             "5304": {
                 "slug": "clothing_headscarf",
-                "name": "clothing_headscarf name",
+                "name": "Fashion Headscarf",
                 "description": "clothing_headscarf desc",
                 "buyout": 0
             },
             "5301": {
                 "slug": "clothing_fluffyhat",
-                "name": "clothing_fluffyhat name",
+                "name": "Teddy Hat",
                 "description": "clothing_fluffyhat desc",
                 "buyout": 0
             },
             "5299": {
                 "slug": "clothing_knittedbunnybeanie",
-                "name": "clothing_knittedbunnybeanie name",
+                "name": "Knitted Bunny Beanie",
                 "description": "clothing_knittedbunnybeanie desc",
                 "buyout": 0
             },
@@ -7036,7 +7036,7 @@
         "ca": {
             "5300": {
                 "slug": "clothing_toastbackpack",
-                "name": "clothing_toastbackpack name",
+                "name": "Cute Toast Backpack",
                 "description": "clothing_toastbackpack desc",
                 "buyout": 0
             },
@@ -7824,7 +7824,7 @@
             "9563": null,
             "5307": {
                 "slug": "clothing_fluffyjacket",
-                "name": "clothing_fluffyjacket name",
+                "name": "Teddy Jacket",
                 "description": "clothing_fluffyjacket desc",
                 "buyout": 0
             },
