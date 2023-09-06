@@ -2979,16 +2979,16 @@
                 "buyout": 1
             },
             "3417": {
-                "slug": "clothing_camooutfit",
-                "name": "Acemi Er \u00dcniformas\u0131",
-                "description": "Haz\u0131rlan! Habbo Ordusu'nun SANA ihtiyac\u0131 var.",
-                "buyout": 1
+                "slug": "nft_clothing_camotank",
+                "name": "nft_clothing_camotank name",
+                "description": "nft_clothing_camotank desc",
+                "buyout": 0
             },
             "3416": {
-                "slug": "clothing_camooutfit",
-                "name": "Acemi Er \u00dcniformas\u0131",
-                "description": "Haz\u0131rlan! Habbo Ordusu'nun SANA ihtiyac\u0131 var.",
-                "buyout": 1
+                "slug": "nft_clothing_camotank",
+                "name": "nft_clothing_camotank name",
+                "description": "nft_clothing_camotank desc",
+                "buyout": 0
             },
             "3400": {
                 "slug": "clothing_swirltop",
@@ -3966,7 +3966,7 @@
                 "slug": "clothing_headscarf",
                 "name": "Moda Ba\u015f\u00f6rt\u00fcs\u00fc",
                 "description": "clothing_headscarf desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5301": {
                 "slug": "clothing_fluffyhat",
@@ -5711,7 +5711,7 @@
         "he": {
             "5270": {
                 "slug": "clothing_footballboppers",
-                "name": "Futbol \u00c7\u0131lg\u0131nlar\u0131",
+                "name": "Futbol Sa\u00e7 Band\u0131",
                 "description": "clothing_footballboppers desc",
                 "buyout": 0
             },

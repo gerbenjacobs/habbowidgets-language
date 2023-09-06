@@ -2979,16 +2979,16 @@
                 "buyout": 1
             },
             "3417": {
-                "slug": "clothing_camooutfit",
-                "name": "Wervings Uniform",
-                "description": "In de houding! Het Habbo leger heeft JOU nodig!",
-                "buyout": 1
+                "slug": "nft_clothing_camotank",
+                "name": "nft_clothing_camotank name",
+                "description": "nft_clothing_camotank desc",
+                "buyout": 0
             },
             "3416": {
-                "slug": "clothing_camooutfit",
-                "name": "Wervings Uniform",
-                "description": "In de houding! Het Habbo leger heeft JOU nodig!",
-                "buyout": 1
+                "slug": "nft_clothing_camotank",
+                "name": "nft_clothing_camotank name",
+                "description": "nft_clothing_camotank desc",
+                "buyout": 0
             },
             "3400": {
                 "slug": "clothing_swirltop",
@@ -3966,7 +3966,7 @@
                 "slug": "clothing_headscarf",
                 "name": "Modieuze Hoofddoek",
                 "description": "clothing_headscarf desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5301": {
                 "slug": "clothing_fluffyhat",

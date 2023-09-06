@@ -2979,16 +2979,16 @@
                 "buyout": 1
             },
             "3417": {
-                "slug": "clothing_camotank",
-                "name": "Camiseta de Camuflaje",
-                "description": "\u00a1Habbo! \u00a1El ej\u00e9rcito te necesita!",
-                "buyout": 1
+                "slug": "nft_clothing_camotank",
+                "name": "nft_clothing_camotank name",
+                "description": "nft_clothing_camotank desc",
+                "buyout": 0
             },
             "3416": {
-                "slug": "clothing_camotank",
-                "name": "Camiseta de Camuflaje",
-                "description": "\u00a1Habbo! \u00a1El ej\u00e9rcito te necesita!",
-                "buyout": 1
+                "slug": "nft_clothing_camotank",
+                "name": "nft_clothing_camotank name",
+                "description": "nft_clothing_camotank desc",
+                "buyout": 0
             },
             "3400": {
                 "slug": "clothing_swirltop",
@@ -3966,7 +3966,7 @@
                 "slug": "clothing_headscarf",
                 "name": "Velo Estiloso",
                 "description": "clothing_headscarf desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5301": {
                 "slug": "clothing_fluffyhat",
