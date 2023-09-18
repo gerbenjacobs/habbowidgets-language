@@ -17,6 +17,18 @@
     "clothing": {
         "hr": {
             "9534": null,
+            "5321": {
+                "slug": "clothing_nftshortdreads",
+                "name": "clothing_nftshortdreads name",
+                "description": "clothing_nftshortdreads desc",
+                "buyout": 0
+            },
+            "5320": {
+                "slug": "clothing_nftcurlers",
+                "name": "clothing_nftcurlers name",
+                "description": "clothing_nftcurlers desc",
+                "buyout": 0
+            },
             "5306": {
                 "slug": "clothing_r23_twotonehair",
                 "name": "Acconciatura Bicolore",
@@ -25,7 +37,7 @@
             },
             "5298": {
                 "slug": "clothing_r23_drillhair",
-                "name": "Capelli Arricciati con Bigodini",
+                "name": "Drill Curled Hair",
                 "description": "clothing_r23_drillhair desc",
                 "buyout": 0
             },
@@ -35,6 +47,7 @@
                 "description": "clothing_headbandhair desc",
                 "buyout": 0
             },
+            "5275": null,
             "5271": {
                 "slug": "clothing_sportsponytail",
                 "name": "Coda di Cavallo Sportiva",
@@ -878,6 +891,30 @@
             "100": null
         },
         "hd": {
+            "5319": {
+                "slug": "clothing_nftvivideyes",
+                "name": "clothing_nftvivideyes name",
+                "description": "clothing_nftvivideyes desc",
+                "buyout": 0
+            },
+            "5318": {
+                "slug": "clothing_nftvivideyes",
+                "name": "clothing_nftvivideyes name",
+                "description": "clothing_nftvivideyes desc",
+                "buyout": 0
+            },
+            "5317": {
+                "slug": "clothing_nftbrighteyes",
+                "name": "clothing_nftbrighteyes name",
+                "description": "clothing_nftbrighteyes desc",
+                "buyout": 0
+            },
+            "5316": {
+                "slug": "clothing_nftbrighteyes",
+                "name": "clothing_nftbrighteyes name",
+                "description": "clothing_nftbrighteyes desc",
+                "buyout": 0
+            },
             "5154": null,
             "5153": null,
             "5143": null,
@@ -3196,6 +3233,7 @@
             "210": null
         },
         "lg": {
+            "5332": null,
             "5266": {
                 "slug": "clothing_nftpinkswimshorts",
                 "name": "Boxer Rosa",
@@ -3703,6 +3741,24 @@
             "270": null
         },
         "sh": {
+            "5330": {
+                "slug": "clothing_nftpinkrainboots",
+                "name": "clothing_nftpinkrainboots name",
+                "description": "clothing_nftpinkrainboots desc",
+                "buyout": 0
+            },
+            "5329": {
+                "slug": "clothing_nftbluerainboots",
+                "name": "clothing_nftbluerainboots name",
+                "description": "clothing_nftbluerainboots desc",
+                "buyout": 0
+            },
+            "5328": {
+                "slug": "clothing_nftyellowrainboots",
+                "name": "clothing_nftyellowrainboots name",
+                "description": "clothing_nftyellowrainboots desc",
+                "buyout": 0
+            },
             "5308": {
                 "slug": "clothing_docfranks",
                 "name": "Doc Franks",
@@ -3956,6 +4012,72 @@
             "290": null
         },
         "ha": {
+            "5345": {
+                "slug": "clothing_nft23partyhat2",
+                "name": "clothing_nft23partyhat2 name",
+                "description": "clothing_nft23partyhat2 desc",
+                "buyout": 0
+            },
+            "5344": {
+                "slug": "clothing_nft23partyhat1",
+                "name": "clothing_nft23partyhat1 name",
+                "description": "clothing_nft23partyhat1 desc",
+                "buyout": 0
+            },
+            "5343": {
+                "slug": "clothing_nftballooncrown2",
+                "name": "clothing_nftballooncrown2 name",
+                "description": "clothing_nftballooncrown2 desc",
+                "buyout": 0
+            },
+            "5342": {
+                "slug": "clothing_nftballooncrown1",
+                "name": "clothing_nftballooncrown1 name",
+                "description": "clothing_nftballooncrown1 desc",
+                "buyout": 0
+            },
+            "5341": {
+                "slug": "clothing_nftorigamihat2",
+                "name": "clothing_nftorigamihat2 name",
+                "description": "clothing_nftorigamihat2 desc",
+                "buyout": 0
+            },
+            "5340": {
+                "slug": "clothing_nftorigamihat1",
+                "name": "clothing_nftorigamihat1 name",
+                "description": "clothing_nftorigamihat1 desc",
+                "buyout": 0
+            },
+            "5336": {
+                "slug": "clothing_nftfrostybucket",
+                "name": "clothing_nftfrostybucket name",
+                "description": "clothing_nftfrostybucket desc",
+                "buyout": 0
+            },
+            "5335": {
+                "slug": "clothing_nftcakehat",
+                "name": "clothing_nftcakehat name",
+                "description": "clothing_nftcakehat desc",
+                "buyout": 0
+            },
+            "5327": {
+                "slug": "clothing_nftpinkraincoat",
+                "name": "clothing_nftpinkraincoat name",
+                "description": "clothing_nftpinkraincoat desc",
+                "buyout": 0
+            },
+            "5326": {
+                "slug": "clothing_nftblueraincoat",
+                "name": "clothing_nftblueraincoat name",
+                "description": "clothing_nftblueraincoat desc",
+                "buyout": 0
+            },
+            "5325": {
+                "slug": "clothing_nftyellowraincoat",
+                "name": "clothing_nftyellowraincoat name",
+                "description": "clothing_nftyellowraincoat desc",
+                "buyout": 0
+            },
             "5305": {
                 "slug": "clothing_habbobeanie",
                 "name": "Berretto Habbo",
@@ -3998,6 +4120,11 @@
                 "description": "clothing_nftfroghoodie desc",
                 "buyout": 0
             },
+            "5284": null,
+            "5281": null,
+            "5277": null,
+            "5276": null,
+            "5272": null,
             "5269": {
                 "slug": "clothing_f1outfit",
                 "name": "Outfit On Track F1",
@@ -5709,6 +5836,13 @@
             "1001": null
         },
         "he": {
+            "5337": {
+                "slug": "clothing_nftcandle",
+                "name": "clothing_nftcandle name",
+                "description": "clothing_nftcandle desc",
+                "buyout": 0
+            },
+            "5279": null,
             "5270": {
                 "slug": "clothing_footballboppers",
                 "name": "Bopper Calcio",
@@ -6681,6 +6815,7 @@
             "1401": null
         },
         "fa": {
+            "5280": null,
             "5231": null,
             "5211": {
                 "slug": "clothing_stubblebeard",
@@ -7034,12 +7169,21 @@
             "1201": null
         },
         "ca": {
+            "5339": {
+                "slug": "clothing_nftbdayribbon",
+                "name": "clothing_nftbdayribbon name",
+                "description": "clothing_nftbdayribbon desc",
+                "buyout": 0
+            },
             "5300": {
                 "slug": "clothing_toastbackpack",
                 "name": "Zainetto Toast Carino",
                 "description": "clothing_toastbackpack desc",
                 "buyout": 0
             },
+            "5282": null,
+            "5278": null,
+            "5273": null,
             "5255": {
                 "slug": "clothing_nfticecreambag3",
                 "name": "Zainetto Gelato Fragola",
@@ -7822,6 +7966,24 @@
         "cc": {
             "9865": null,
             "9563": null,
+            "5324": {
+                "slug": "clothing_nftpinkraincoat",
+                "name": "clothing_nftpinkraincoat name",
+                "description": "clothing_nftpinkraincoat desc",
+                "buyout": 0
+            },
+            "5323": {
+                "slug": "clothing_nftblueraincoat",
+                "name": "clothing_nftblueraincoat name",
+                "description": "clothing_nftblueraincoat desc",
+                "buyout": 0
+            },
+            "5322": {
+                "slug": "clothing_nftyellowraincoat",
+                "name": "clothing_nftyellowraincoat name",
+                "description": "clothing_nftyellowraincoat desc",
+                "buyout": 0
+            },
             "5307": {
                 "slug": "clothing_fluffyjacket",
                 "name": "Giacchino Teddy",
@@ -7864,6 +8026,7 @@
                 "description": "clothing_nftfroghoodie desc",
                 "buyout": 0
             },
+            "5283": null,
             "5237": null,
             "5235": null,
             "5233": null,
@@ -8911,6 +9074,12 @@
             "260": null
         },
         "cp": {
+            "5338": {
+                "slug": "clothing_nftxlogo",
+                "name": "clothing_nftxlogo name",
+                "description": "clothing_nftxlogo desc",
+                "buyout": 0
+            },
             "3403": {
                 "slug": "clothing_cherrybomb",
                 "name": "Ciliegia Bomba",
