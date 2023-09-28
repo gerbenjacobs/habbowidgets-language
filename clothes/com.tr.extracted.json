@@ -47,7 +47,12 @@
                 "description": "clothing_headbandhair desc",
                 "buyout": 0
             },
-            "5275": null,
+            "5275": {
+                "slug": "clothing_herohair",
+                "name": "Kahraman Sa\u00e7\u0131",
+                "description": "clothing_herohair desc",
+                "buyout": 0
+            },
             "5271": {
                 "slug": "clothing_sportsponytail",
                 "name": "Sporcu At Kuyru\u011fu",
@@ -4120,11 +4125,36 @@
                 "description": "clothing_nftfroghoodie desc",
                 "buyout": 0
             },
-            "5284": null,
-            "5281": null,
-            "5277": null,
-            "5276": null,
-            "5272": null,
+            "5284": {
+                "slug": "clothing_egyptianheadband",
+                "name": "Kobra Tac\u0131",
+                "description": "clothing_egyptianheadband desc",
+                "buyout": 0
+            },
+            "5281": {
+                "slug": "clothing_pharoah",
+                "name": "Firavun Ba\u015fl\u0131\u011f\u0131",
+                "description": "clothing_pharoah desc",
+                "buyout": 0
+            },
+            "5277": {
+                "slug": "clothing_cathead",
+                "name": "Kedigil Surat",
+                "description": "clothing_cathead desc",
+                "buyout": 0
+            },
+            "5276": {
+                "slug": "clothing_candlehat",
+                "name": "Mum Kafa",
+                "description": "clothing_candlehat desc",
+                "buyout": 0
+            },
+            "5272": {
+                "slug": "clothing_ltd23_pyramideity",
+                "name": "Her \u015eeye Kadir Piramit \u0130lah",
+                "description": "clothing_ltd23_pyramideity desc",
+                "buyout": 0
+            },
             "5269": {
                 "slug": "clothing_f1outfit",
                 "name": "On Track F1 K\u0131yafeti",
@@ -5842,7 +5872,12 @@
                 "description": "clothing_nftcandle desc",
                 "buyout": 0
             },
-            "5279": null,
+            "5279": {
+                "slug": "clothing_ankhearrings",
+                "name": "Ya\u015fam \u00c7arm\u0131h\u0131 K\u00fcpeleri",
+                "description": "clothing_ankhearrings desc",
+                "buyout": 0
+            },
             "5270": {
                 "slug": "clothing_footballboppers",
                 "name": "Futbol Sa\u00e7 Band\u0131",
@@ -6815,7 +6850,12 @@
             "1401": null
         },
         "fa": {
-            "5280": null,
+            "5280": {
+                "slug": "clothing_catmask",
+                "name": "Antik Kedi Maskesi",
+                "description": "clothing_catmask desc",
+                "buyout": 0
+            },
             "5231": null,
             "5211": {
                 "slug": "clothing_stubblebeard",
@@ -7181,9 +7221,24 @@
                 "description": "clothing_toastbackpack desc",
                 "buyout": 0
             },
-            "5282": null,
-            "5278": null,
-            "5273": null,
+            "5282": {
+                "slug": "clothing_r23_anubisbackpack",
+                "name": "Pelu\u015f Anubis \u00c7antas\u0131",
+                "description": "clothing_r23_anubisbackpack desc",
+                "buyout": 0
+            },
+            "5278": {
+                "slug": "clothing_snakearoundneck",
+                "name": "clothing_snakearoundneck name",
+                "description": "clothing_snakearoundneck desc",
+                "buyout": 0
+            },
+            "5273": {
+                "slug": "clothing_ltd23_pyramideity",
+                "name": "Her \u015eeye Kadir Piramit \u0130lah",
+                "description": "clothing_ltd23_pyramideity desc",
+                "buyout": 0
+            },
             "5255": {
                 "slug": "clothing_nfticecreambag3",
                 "name": "\u00c7ilekli Dondurma S\u0131rt \u00c7antas\u0131",
@@ -8026,7 +8081,12 @@
                 "description": "clothing_nftfroghoodie desc",
                 "buyout": 0
             },
-            "5283": null,
+            "5283": {
+                "slug": "clothing_r23_wingarms",
+                "name": "Kanatl\u0131 Kollar",
+                "description": "clothing_r23_wingarms desc",
+                "buyout": 0
+            },
             "5237": null,
             "5235": null,
             "5233": null,

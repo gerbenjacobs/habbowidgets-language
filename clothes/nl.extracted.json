@@ -37,8 +37,8 @@
             },
             "5298": {
                 "slug": "clothing_r23_drillhair",
-                "name": "Drill Curled Hair",
-                "description": "clothing_r23_drillhair desc",
+                "name": "Boormachine Kapsel",
+                "description": "Boormachine Kapsel",
                 "buyout": 0
             },
             "5285": {
@@ -47,7 +47,12 @@
                 "description": "clothing_headbandhair desc",
                 "buyout": 0
             },
-            "5275": null,
+            "5275": {
+                "slug": "clothing_herohair",
+                "name": "Hero z'n Haar",
+                "description": "clothing_herohair desc",
+                "buyout": 0
+            },
             "5271": {
                 "slug": "clothing_sportsponytail",
                 "name": "Sports Ponytail",
@@ -4120,11 +4125,36 @@
                 "description": "clothing_nftfroghoodie desc",
                 "buyout": 0
             },
-            "5284": null,
-            "5281": null,
-            "5277": null,
-            "5276": null,
-            "5272": null,
+            "5284": {
+                "slug": "clothing_egyptianheadband",
+                "name": "Uraeus Hoofdband",
+                "description": "clothing_egyptianheadband desc",
+                "buyout": 0
+            },
+            "5281": {
+                "slug": "clothing_pharoah",
+                "name": "Farao Nemes",
+                "description": "clothing_pharoah desc",
+                "buyout": 0
+            },
+            "5277": {
+                "slug": "clothing_cathead",
+                "name": "Gezicht van een Feline ",
+                "description": "clothing_cathead desc",
+                "buyout": 0
+            },
+            "5276": {
+                "slug": "clothing_candlehat",
+                "name": "Kaarsen Hoed",
+                "description": "clothing_candlehat desc",
+                "buyout": 0
+            },
+            "5272": {
+                "slug": "clothing_ltd23_pyramideity",
+                "name": "Almachtige Piramide Godheid",
+                "description": "clothing_ltd23_pyramideity desc",
+                "buyout": 0
+            },
             "5269": {
                 "slug": "clothing_f1outfit",
                 "name": "On Track F1 Outfit",
@@ -5842,7 +5872,12 @@
                 "description": "clothing_nftcandle desc",
                 "buyout": 0
             },
-            "5279": null,
+            "5279": {
+                "slug": "clothing_ankhearrings",
+                "name": "Ankh Oorbellen",
+                "description": "clothing_ankhearrings desc",
+                "buyout": 0
+            },
             "5270": {
                 "slug": "clothing_footballboppers",
                 "name": "Football Boppers",
@@ -6815,7 +6850,12 @@
             "1401": null
         },
         "fa": {
-            "5280": null,
+            "5280": {
+                "slug": "clothing_catmask",
+                "name": "Antiek Katten Masker",
+                "description": "clothing_catmask desc",
+                "buyout": 0
+            },
             "5231": null,
             "5211": {
                 "slug": "clothing_stubblebeard",
@@ -7181,9 +7221,24 @@
                 "description": "clothing_toastbackpack desc",
                 "buyout": 0
             },
-            "5282": null,
-            "5278": null,
-            "5273": null,
+            "5282": {
+                "slug": "clothing_r23_anubisbackpack",
+                "name": "Anubis Zachte Rugzak",
+                "description": "clothing_r23_anubisbackpack desc",
+                "buyout": 0
+            },
+            "5278": {
+                "slug": "clothing_snakearoundneck",
+                "name": "clothing_snakearoundneck name",
+                "description": "clothing_snakearoundneck desc",
+                "buyout": 0
+            },
+            "5273": {
+                "slug": "clothing_ltd23_pyramideity",
+                "name": "Almachtige Piramide Godheid",
+                "description": "clothing_ltd23_pyramideity desc",
+                "buyout": 0
+            },
             "5255": {
                 "slug": "clothing_nfticecreambag3",
                 "name": "Strawberry Ice Cream Rucksack",
@@ -8026,7 +8081,12 @@
                 "description": "clothing_nftfroghoodie desc",
                 "buyout": 0
             },
-            "5283": null,
+            "5283": {
+                "slug": "clothing_r23_wingarms",
+                "name": "Gevleugelde Armen",
+                "description": "clothing_r23_wingarms desc",
+                "buyout": 0
+            },
             "5237": null,
             "5235": null,
             "5233": null,

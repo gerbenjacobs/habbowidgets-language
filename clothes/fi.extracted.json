@@ -47,7 +47,12 @@
                 "description": "clothing_headbandhair desc",
                 "buyout": 0
             },
-            "5275": null,
+            "5275": {
+                "slug": "clothing_herohair",
+                "name": "Sankarin kampaus",
+                "description": "clothing_herohair desc",
+                "buyout": 0
+            },
             "5271": {
                 "slug": "clothing_sportsponytail",
                 "name": "Sports Ponytail",
@@ -4120,11 +4125,36 @@
                 "description": "clothing_nftfroghoodie desc",
                 "buyout": 0
             },
-            "5284": null,
-            "5281": null,
-            "5277": null,
-            "5276": null,
-            "5272": null,
+            "5284": {
+                "slug": "clothing_egyptianheadband",
+                "name": "Uraeus-otsapanta",
+                "description": "clothing_egyptianheadband desc",
+                "buyout": 0
+            },
+            "5281": {
+                "slug": "clothing_pharoah",
+                "name": "Faaraon nemes",
+                "description": "clothing_pharoah desc",
+                "buyout": 0
+            },
+            "5277": {
+                "slug": "clothing_cathead",
+                "name": "Kissan kasvot",
+                "description": "clothing_cathead desc",
+                "buyout": 0
+            },
+            "5276": {
+                "slug": "clothing_candlehat",
+                "name": "Kynttil\u00e4p\u00e4\u00e4hine",
+                "description": "clothing_candlehat desc",
+                "buyout": 0
+            },
+            "5272": {
+                "slug": "clothing_ltd23_pyramideity",
+                "name": "Kaikkivaltias pyramidijumala",
+                "description": "clothing_ltd23_pyramideity desc",
+                "buyout": 0
+            },
             "5269": {
                 "slug": "clothing_f1outfit",
                 "name": "On Track F1 Outfit",
@@ -5842,7 +5872,12 @@
                 "description": "clothing_nftcandle desc",
                 "buyout": 0
             },
-            "5279": null,
+            "5279": {
+                "slug": "clothing_ankhearrings",
+                "name": "Ankh-korvikset",
+                "description": "clothing_ankhearrings desc",
+                "buyout": 0
+            },
             "5270": {
                 "slug": "clothing_footballboppers",
                 "name": "Football Boppers",
@@ -6815,7 +6850,12 @@
             "1401": null
         },
         "fa": {
-            "5280": null,
+            "5280": {
+                "slug": "clothing_catmask",
+                "name": "Muinainen kissanaamio",
+                "description": "clothing_catmask desc",
+                "buyout": 0
+            },
             "5231": null,
             "5211": {
                 "slug": "clothing_stubblebeard",
@@ -7181,9 +7221,24 @@
                 "description": "clothing_toastbackpack desc",
                 "buyout": 0
             },
-            "5282": null,
-            "5278": null,
-            "5273": null,
+            "5282": {
+                "slug": "clothing_r23_anubisbackpack",
+                "name": "Anubis-pehmolelureppu",
+                "description": "clothing_r23_anubisbackpack desc",
+                "buyout": 0
+            },
+            "5278": {
+                "slug": "clothing_snakearoundneck",
+                "name": "clothing_snakearoundneck name",
+                "description": "clothing_snakearoundneck desc",
+                "buyout": 0
+            },
+            "5273": {
+                "slug": "clothing_ltd23_pyramideity",
+                "name": "Kaikkivaltias pyramidijumala",
+                "description": "clothing_ltd23_pyramideity desc",
+                "buyout": 0
+            },
             "5255": {
                 "slug": "clothing_nfticecreambag3",
                 "name": "Mansikkaj\u00e4tskireppu",
@@ -8026,7 +8081,12 @@
                 "description": "clothing_nftfroghoodie desc",
                 "buyout": 0
             },
-            "5283": null,
+            "5283": {
+                "slug": "clothing_r23_wingarms",
+                "name": "Siipik\u00e4det",
+                "description": "clothing_r23_wingarms desc",
+                "buyout": 0
+            },
             "5237": null,
             "5235": null,
             "5233": null,

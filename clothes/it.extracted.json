@@ -37,7 +37,7 @@
             },
             "5298": {
                 "slug": "clothing_r23_drillhair",
-                "name": "Drill Curled Hair",
+                "name": "Capelli Arricciati con Bigodini",
                 "description": "clothing_r23_drillhair desc",
                 "buyout": 0
             },
@@ -47,7 +47,12 @@
                 "description": "clothing_headbandhair desc",
                 "buyout": 0
             },
-            "5275": null,
+            "5275": {
+                "slug": "clothing_herohair",
+                "name": "Capelli dell'Eroe",
+                "description": "clothing_herohair desc",
+                "buyout": 0
+            },
             "5271": {
                 "slug": "clothing_sportsponytail",
                 "name": "Coda di Cavallo Sportiva",
@@ -4120,11 +4125,36 @@
                 "description": "clothing_nftfroghoodie desc",
                 "buyout": 0
             },
-            "5284": null,
-            "5281": null,
-            "5277": null,
-            "5276": null,
-            "5272": null,
+            "5284": {
+                "slug": "clothing_egyptianheadband",
+                "name": "Fascia Cobra",
+                "description": "clothing_egyptianheadband desc",
+                "buyout": 0
+            },
+            "5281": {
+                "slug": "clothing_pharoah",
+                "name": "Copricapo del Faraone",
+                "description": "clothing_pharoah desc",
+                "buyout": 0
+            },
+            "5277": {
+                "slug": "clothing_cathead",
+                "name": "Faccia di un Felino",
+                "description": "clothing_cathead desc",
+                "buyout": 0
+            },
+            "5276": {
+                "slug": "clothing_candlehat",
+                "name": "Cappello Candela",
+                "description": "clothing_candlehat desc",
+                "buyout": 0
+            },
+            "5272": {
+                "slug": "clothing_ltd23_pyramideity",
+                "name": "Divinit\u00e0 Onnipotente delle Piramidi",
+                "description": "clothing_ltd23_pyramideity desc",
+                "buyout": 0
+            },
             "5269": {
                 "slug": "clothing_f1outfit",
                 "name": "Outfit On Track F1",
@@ -5842,7 +5872,12 @@
                 "description": "clothing_nftcandle desc",
                 "buyout": 0
             },
-            "5279": null,
+            "5279": {
+                "slug": "clothing_ankhearrings",
+                "name": "Orecchini Ankh",
+                "description": "clothing_ankhearrings desc",
+                "buyout": 0
+            },
             "5270": {
                 "slug": "clothing_footballboppers",
                 "name": "Bopper Calcio",
@@ -6815,7 +6850,12 @@
             "1401": null
         },
         "fa": {
-            "5280": null,
+            "5280": {
+                "slug": "clothing_catmask",
+                "name": "Antica Maschera da Gatto",
+                "description": "clothing_catmask desc",
+                "buyout": 0
+            },
             "5231": null,
             "5211": {
                 "slug": "clothing_stubblebeard",
@@ -7181,9 +7221,24 @@
                 "description": "clothing_toastbackpack desc",
                 "buyout": 0
             },
-            "5282": null,
-            "5278": null,
-            "5273": null,
+            "5282": {
+                "slug": "clothing_r23_anubisbackpack",
+                "name": "Zaino di Peluche di Anubis",
+                "description": "clothing_r23_anubisbackpack desc",
+                "buyout": 0
+            },
+            "5278": {
+                "slug": "clothing_snakearoundneck",
+                "name": "clothing_snakearoundneck name",
+                "description": "clothing_snakearoundneck desc",
+                "buyout": 0
+            },
+            "5273": {
+                "slug": "clothing_ltd23_pyramideity",
+                "name": "Divinit\u00e0 Onnipotente delle Piramidi",
+                "description": "clothing_ltd23_pyramideity desc",
+                "buyout": 0
+            },
             "5255": {
                 "slug": "clothing_nfticecreambag3",
                 "name": "Zainetto Gelato Fragola",
@@ -8026,7 +8081,12 @@
                 "description": "clothing_nftfroghoodie desc",
                 "buyout": 0
             },
-            "5283": null,
+            "5283": {
+                "slug": "clothing_r23_wingarms",
+                "name": "Braccia Alate",
+                "description": "clothing_r23_wingarms desc",
+                "buyout": 0
+            },
             "5237": null,
             "5235": null,
             "5233": null,
