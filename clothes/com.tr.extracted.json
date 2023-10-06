@@ -51,7 +51,7 @@
                 "slug": "clothing_herohair",
                 "name": "Kahraman Sa\u00e7\u0131",
                 "description": "clothing_herohair desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5271": {
                 "slug": "clothing_sportsponytail",
@@ -4141,7 +4141,7 @@
                 "slug": "clothing_cathead",
                 "name": "Kedigil Surat",
                 "description": "clothing_cathead desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5276": {
                 "slug": "clothing_candlehat",
@@ -4452,7 +4452,7 @@
             },
             "4972": {
                 "slug": "clothing_nfttophat",
-                "name": "Trippy \u015eapka",
+                "name": "Trip \u015eapka",
                 "description": "clothing_nfttophat desc",
                 "buyout": 0
             },
@@ -5876,7 +5876,7 @@
                 "slug": "clothing_ankhearrings",
                 "name": "Ya\u015fam \u00c7arm\u0131h\u0131 K\u00fcpeleri",
                 "description": "clothing_ankhearrings desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5270": {
                 "slug": "clothing_footballboppers",
@@ -7231,7 +7231,7 @@
                 "slug": "clothing_snakearoundneck",
                 "name": "clothing_snakearoundneck name",
                 "description": "clothing_snakearoundneck desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5273": {
                 "slug": "clothing_ltd23_pyramideity",
@@ -7398,7 +7398,7 @@
             },
             "5043": {
                 "slug": "clothing_nftpumpkinbag",
-                "name": "Trippy Kabak \u00c7anta",
+                "name": "Trip Kabak \u00c7anta",
                 "description": "clothing_nftpumpkinbag desc",
                 "buyout": 0
             },

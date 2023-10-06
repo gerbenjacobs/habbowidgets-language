@@ -51,7 +51,7 @@
                 "slug": "clothing_herohair",
                 "name": "Peinado de H\u00e9roe",
                 "description": "clothing_herohair desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5271": {
                 "slug": "clothing_sportsponytail",
@@ -4141,7 +4141,7 @@
                 "slug": "clothing_cathead",
                 "name": "Cara de Felino",
                 "description": "clothing_cathead desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5276": {
                 "slug": "clothing_candlehat",
@@ -5876,7 +5876,7 @@
                 "slug": "clothing_ankhearrings",
                 "name": "Pendientes Ankh",
                 "description": "clothing_ankhearrings desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5270": {
                 "slug": "clothing_footballboppers",
@@ -7231,7 +7231,7 @@
                 "slug": "clothing_snakearoundneck",
                 "name": "clothing_snakearoundneck name",
                 "description": "clothing_snakearoundneck desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5273": {
                 "slug": "clothing_ltd23_pyramideity",
