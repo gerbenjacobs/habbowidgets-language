@@ -17,6 +17,21 @@
     "clothing": {
         "hr": {
             "9534": null,
+            "5390": null,
+            "5389": null,
+            "5388": null,
+            "5383": {
+                "slug": "clothing_starbraidhair",
+                "name": "clothing_starbraidhair name",
+                "description": "clothing_starbraidhair desc",
+                "buyout": 0
+            },
+            "5372": {
+                "slug": "clothing_r23_galaxyhair",
+                "name": "clothing_r23_galaxyhair name",
+                "description": "clothing_r23_galaxyhair desc",
+                "buyout": 0
+            },
             "5321": {
                 "slug": "clothing_nftshortdreads",
                 "name": "clothing_nftshortdreads name",
@@ -1153,6 +1168,22 @@
             "180": null
         },
         "ch": {
+            "5397": null,
+            "5396": null,
+            "5395": null,
+            "5394": null,
+            "5374": {
+                "slug": "clothing_starryshirt",
+                "name": "clothing_starryshirt name",
+                "description": "clothing_starryshirt desc",
+                "buyout": 0
+            },
+            "5373": {
+                "slug": "clothing_starryshirt",
+                "name": "clothing_starryshirt name",
+                "description": "clothing_starryshirt desc",
+                "buyout": 0
+            },
             "5303": {
                 "slug": "clothing_pinaforedress",
                 "name": "Overgooier Jurk",
@@ -3238,6 +3269,8 @@
             "210": null
         },
         "lg": {
+            "5399": null,
+            "5398": null,
             "5332": null,
             "5266": {
                 "slug": "clothing_nftpinkswimshorts",
@@ -4017,6 +4050,30 @@
             "290": null
         },
         "ha": {
+            "5379": {
+                "slug": "clothing_lionmask",
+                "name": "clothing_lionmask name",
+                "description": "clothing_lionmask desc",
+                "buyout": 0
+            },
+            "5378": {
+                "slug": "clothing_arcadecap",
+                "name": "clothing_arcadecap name",
+                "description": "clothing_arcadecap desc",
+                "buyout": 0
+            },
+            "5377": {
+                "slug": "clothing_starwitchhat",
+                "name": "clothing_starwitchhat name",
+                "description": "clothing_starwitchhat desc",
+                "buyout": 0
+            },
+            "5371": {
+                "slug": "clothing_r23_dragonmask",
+                "name": "clothing_r23_dragonmask name",
+                "description": "clothing_r23_dragonmask desc",
+                "buyout": 0
+            },
             "5345": {
                 "slug": "clothing_nft23partyhat2",
                 "name": "clothing_nft23partyhat2 name",
@@ -5866,6 +5923,13 @@
             "1001": null
         },
         "he": {
+            "5393": null,
+            "5380": {
+                "slug": "clothing_ltd23_gemhorns",
+                "name": "clothing_ltd23_gemhorns name",
+                "description": "clothing_ltd23_gemhorns desc",
+                "buyout": 0
+            },
             "5337": {
                 "slug": "clothing_nftcandle",
                 "name": "clothing_nftcandle name",
@@ -6574,6 +6638,7 @@
             "1601": null
         },
         "ea": {
+            "5392": null,
             "5156": null,
             "5148": null,
             "5146": null,
@@ -6850,6 +6915,17 @@
             "1401": null
         },
         "fa": {
+            "5391": null,
+            "5387": null,
+            "5386": null,
+            "5385": null,
+            "5384": null,
+            "5369": {
+                "slug": "clothing_catmask2",
+                "name": "S\u00e3o Paulo Katten Masker",
+                "description": "clothing_catmask2 desc",
+                "buyout": 0
+            },
             "5280": {
                 "slug": "clothing_catmask",
                 "name": "Antiek Katten Masker",
@@ -7209,6 +7285,12 @@
             "1201": null
         },
         "ca": {
+            "5381": {
+                "slug": "clothing_astralnecklace",
+                "name": "clothing_astralnecklace name",
+                "description": "clothing_astralnecklace desc",
+                "buyout": 0
+            },
             "5339": {
                 "slug": "clothing_nftbdayribbon",
                 "name": "clothing_nftbdayribbon name",
@@ -7917,6 +7999,12 @@
             "1801": null
         },
         "wa": {
+            "5370": {
+                "slug": "clothing_starcompanion",
+                "name": "clothing_starcompanion name",
+                "description": "clothing_starcompanion desc",
+                "buyout": 0
+            },
             "5123": {
                 "slug": "clothing_r23_kitsuneoutfit",
                 "name": "Kitsune Set",
@@ -8021,6 +8109,13 @@
         "cc": {
             "9865": null,
             "9563": null,
+            "5400": null,
+            "5382": {
+                "slug": "clothing_spacecape",
+                "name": "clothing_spacecape name",
+                "description": "clothing_spacecape desc",
+                "buyout": 0
+            },
             "5324": {
                 "slug": "clothing_nftpinkraincoat",
                 "name": "clothing_nftpinkraincoat name",
