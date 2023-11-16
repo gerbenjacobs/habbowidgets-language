@@ -17,18 +17,33 @@
     "clothing": {
         "hr": {
             "9534": null,
-            "5390": null,
-            "5389": null,
-            "5388": null,
+            "5390": {
+                "slug": "clothing_nft23rock3hr",
+                "name": "Cabelo de Roqueiro com Len\u00e7o",
+                "description": "clothing_nft23rock3hr desc",
+                "buyout": 0
+            },
+            "5389": {
+                "slug": "clothing_nft23rock2hr",
+                "name": "Cabelo de Roqueiro Penteado",
+                "description": "clothing_nft23rock2hr desc",
+                "buyout": 0
+            },
+            "5388": {
+                "slug": "clothing_nft23rock1hr",
+                "name": "Cabelo de Roqueiro Ondulado",
+                "description": "clothing_nft23rock1hr desc",
+                "buyout": 0
+            },
             "5383": {
                 "slug": "clothing_starbraidhair",
-                "name": "clothing_starbraidhair name",
+                "name": "Tran\u00e7a da Estrela Celestial",
                 "description": "clothing_starbraidhair desc",
                 "buyout": 0
             },
             "5372": {
                 "slug": "clothing_r23_galaxyhair",
-                "name": "clothing_r23_galaxyhair name",
+                "name": "Penteado Encanto da Gal\u00e1xia",
                 "description": "clothing_r23_galaxyhair desc",
                 "buyout": 0
             },
@@ -1168,19 +1183,39 @@
             "180": null
         },
         "ch": {
-            "5397": null,
-            "5396": null,
-            "5395": null,
-            "5394": null,
+            "5397": {
+                "slug": "clothing_nftskullsnroses2",
+                "name": "Camiseta dos Skulls N' Roses",
+                "description": "clothing_nftskullsnroses2 desc",
+                "buyout": 0
+            },
+            "5396": {
+                "slug": "clothing_nftskullsnroses2",
+                "name": "Camiseta dos Skulls N' Roses",
+                "description": "clothing_nftskullsnroses2 desc",
+                "buyout": 0
+            },
+            "5395": {
+                "slug": "clothing_nftskullsnroses1",
+                "name": "Colete dos Skulls N' Roses",
+                "description": "clothing_nftskullsnroses1 desc",
+                "buyout": 0
+            },
+            "5394": {
+                "slug": "clothing_nftskullsnroses1",
+                "name": "Colete dos Skulls N' Roses",
+                "description": "clothing_nftskullsnroses1 desc",
+                "buyout": 0
+            },
             "5374": {
                 "slug": "clothing_starryshirt",
-                "name": "clothing_starryshirt name",
+                "name": "Camisa C\u00f3smica",
                 "description": "clothing_starryshirt desc",
                 "buyout": 0
             },
             "5373": {
                 "slug": "clothing_starryshirt",
-                "name": "clothing_starryshirt name",
+                "name": "Camisa C\u00f3smica",
                 "description": "clothing_starryshirt desc",
                 "buyout": 0
             },
@@ -3269,8 +3304,18 @@
             "210": null
         },
         "lg": {
-            "5399": null,
-            "5398": null,
+            "5399": {
+                "slug": "clothing_nftrippedshorts",
+                "name": "Shorts de Roqueiro Estripador",
+                "description": "clothing_nftrippedshorts desc",
+                "buyout": 0
+            },
+            "5398": {
+                "slug": "clothing_nftrippedjeans",
+                "name": "Jeans de Roqueiro Rasgados",
+                "description": "clothing_nftrippedjeans desc",
+                "buyout": 0
+            },
             "5332": null,
             "5266": {
                 "slug": "clothing_nftpinkswimshorts",
@@ -4052,25 +4097,25 @@
         "ha": {
             "5379": {
                 "slug": "clothing_lionmask",
-                "name": "clothing_lionmask name",
+                "name": "M\u00e1scara Eddie Animatr\u00f4nico",
                 "description": "clothing_lionmask desc",
                 "buyout": 0
             },
             "5378": {
                 "slug": "clothing_arcadecap",
-                "name": "clothing_arcadecap name",
+                "name": "Bon\u00e9 Player Arcade",
                 "description": "clothing_arcadecap desc",
                 "buyout": 0
             },
             "5377": {
                 "slug": "clothing_starwitchhat",
-                "name": "clothing_starwitchhat name",
+                "name": "Chap\u00e9u de Bruxa C\u00f3smico",
                 "description": "clothing_starwitchhat desc",
                 "buyout": 0
             },
             "5371": {
                 "slug": "clothing_r23_dragonmask",
-                "name": "clothing_r23_dragonmask name",
+                "name": "M\u00e1scara de Drag\u00e3o C\u00f3smica",
                 "description": "clothing_r23_dragonmask desc",
                 "buyout": 0
             },
@@ -5923,10 +5968,15 @@
             "1001": null
         },
         "he": {
-            "5393": null,
+            "5393": {
+                "slug": "clothing_nftpiercings",
+                "name": "Piercings de Roqueiro",
+                "description": "clothing_nftpiercings desc",
+                "buyout": 0
+            },
             "5380": {
                 "slug": "clothing_ltd23_gemhorns",
-                "name": "clothing_ltd23_gemhorns name",
+                "name": "Chifrinhos C\u00f3smicos",
                 "description": "clothing_ltd23_gemhorns desc",
                 "buyout": 0
             },
@@ -6638,7 +6688,12 @@
             "1601": null
         },
         "ea": {
-            "5392": null,
+            "5392": {
+                "slug": "clothing_nftpiercings",
+                "name": "Piercings de Roqueiro",
+                "description": "clothing_nftpiercings desc",
+                "buyout": 0
+            },
             "5156": null,
             "5148": null,
             "5146": null,
@@ -6915,11 +6970,36 @@
             "1401": null
         },
         "fa": {
-            "5391": null,
-            "5387": null,
-            "5386": null,
-            "5385": null,
-            "5384": null,
+            "5391": {
+                "slug": "clothing_nftpiercings",
+                "name": "Piercings de Roqueiro",
+                "description": "clothing_nftpiercings desc",
+                "buyout": 0
+            },
+            "5387": {
+                "slug": "clothing_nft23rock4fa",
+                "name": "Barba de Roqueiro",
+                "description": "clothing_nft23rock4fa desc",
+                "buyout": 0
+            },
+            "5386": {
+                "slug": "clothing_nft23rock3fa",
+                "name": "Barba de Roqueiro Pequena",
+                "description": "clothing_nft23rock3fa desc",
+                "buyout": 0
+            },
+            "5385": {
+                "slug": "clothing_nft23rock2fa",
+                "name": "Bigode de Roqueiro Pequeno",
+                "description": "clothing_nft23rock2fa desc",
+                "buyout": 0
+            },
+            "5384": {
+                "slug": "clothing_nft23rock1fa",
+                "name": "Barba de Roqueiro Grande",
+                "description": "clothing_nft23rock1fa desc",
+                "buyout": 0
+            },
             "5369": {
                 "slug": "clothing_catmask2",
                 "name": "M\u00e1scara de Gato de S\u00e3o Paulo",
@@ -7287,7 +7367,7 @@
         "ca": {
             "5381": {
                 "slug": "clothing_astralnecklace",
-                "name": "clothing_astralnecklace name",
+                "name": "Colar Astral",
                 "description": "clothing_astralnecklace desc",
                 "buyout": 0
             },
@@ -8001,7 +8081,7 @@
         "wa": {
             "5370": {
                 "slug": "clothing_starcompanion",
-                "name": "clothing_starcompanion name",
+                "name": "Estrela Exlcusiva do Cosmo",
                 "description": "clothing_starcompanion desc",
                 "buyout": 0
             },
@@ -8109,10 +8189,15 @@
         "cc": {
             "9865": null,
             "9563": null,
-            "5400": null,
+            "5400": {
+                "slug": "clothing_nftbobbajacket",
+                "name": "Jaqueta Bobba",
+                "description": "clothing_nftbobbajacket desc",
+                "buyout": 0
+            },
             "5382": {
                 "slug": "clothing_spacecape",
-                "name": "clothing_spacecape name",
+                "name": "Manto C\u00f3smico",
                 "description": "clothing_spacecape desc",
                 "buyout": 0
             },

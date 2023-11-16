@@ -17,18 +17,33 @@
     "clothing": {
         "hr": {
             "9534": null,
-            "5390": null,
-            "5389": null,
-            "5388": null,
+            "5390": {
+                "slug": "clothing_nft23rock3hr",
+                "name": "Rokkarin hikipantakampaus",
+                "description": "clothing_nft23rock3hr desc",
+                "buyout": 0
+            },
+            "5389": {
+                "slug": "clothing_nft23rock2hr",
+                "name": "Rokkarin sliipattu kampaus",
+                "description": "clothing_nft23rock2hr desc",
+                "buyout": 0
+            },
+            "5388": {
+                "slug": "clothing_nft23rock1hr",
+                "name": "Rokkarin laineet",
+                "description": "clothing_nft23rock1hr desc",
+                "buyout": 0
+            },
             "5383": {
                 "slug": "clothing_starbraidhair",
-                "name": "clothing_starbraidhair name",
+                "name": "T\u00e4htitaivaan lettikampaus",
                 "description": "clothing_starbraidhair desc",
                 "buyout": 0
             },
             "5372": {
                 "slug": "clothing_r23_galaxyhair",
-                "name": "clothing_r23_galaxyhair name",
+                "name": "Pitk\u00e4t linnunradan kutrit",
                 "description": "clothing_r23_galaxyhair desc",
                 "buyout": 0
             },
@@ -1168,19 +1183,39 @@
             "180": null
         },
         "ch": {
-            "5397": null,
-            "5396": null,
-            "5395": null,
-            "5394": null,
+            "5397": {
+                "slug": "clothing_nftskullsnroses2",
+                "name": "Skulls N' Roses- t-paita",
+                "description": "clothing_nftskullsnroses2 desc",
+                "buyout": 0
+            },
+            "5396": {
+                "slug": "clothing_nftskullsnroses2",
+                "name": "Skulls N' Roses- t-paita",
+                "description": "clothing_nftskullsnroses2 desc",
+                "buyout": 0
+            },
+            "5395": {
+                "slug": "clothing_nftskullsnroses1",
+                "name": "Skulls N' Roses-toppi",
+                "description": "clothing_nftskullsnroses1 desc",
+                "buyout": 0
+            },
+            "5394": {
+                "slug": "clothing_nftskullsnroses1",
+                "name": "Skulls N' Roses-toppi",
+                "description": "clothing_nftskullsnroses1 desc",
+                "buyout": 0
+            },
             "5374": {
                 "slug": "clothing_starryshirt",
-                "name": "clothing_starryshirt name",
+                "name": "Linnunradan r\u00f6yhel\u00f6paita",
                 "description": "clothing_starryshirt desc",
                 "buyout": 0
             },
             "5373": {
                 "slug": "clothing_starryshirt",
-                "name": "clothing_starryshirt name",
+                "name": "Linnunradan r\u00f6yhel\u00f6paita",
                 "description": "clothing_starryshirt desc",
                 "buyout": 0
             },
@@ -3269,8 +3304,18 @@
             "210": null
         },
         "lg": {
-            "5399": null,
-            "5398": null,
+            "5399": {
+                "slug": "clothing_nftrippedshorts",
+                "name": "Rokkarin revityt shortsit",
+                "description": "clothing_nftrippedshorts desc",
+                "buyout": 0
+            },
+            "5398": {
+                "slug": "clothing_nftrippedjeans",
+                "name": "Rokkarin revityt farkut",
+                "description": "clothing_nftrippedjeans desc",
+                "buyout": 0
+            },
             "5332": null,
             "5266": {
                 "slug": "clothing_nftpinkswimshorts",
@@ -4052,25 +4097,25 @@
         "ha": {
             "5379": {
                 "slug": "clothing_lionmask",
-                "name": "clothing_lionmask name",
+                "name": "Karmiva Eddie-naamio",
                 "description": "clothing_lionmask desc",
                 "buyout": 0
             },
             "5378": {
                 "slug": "clothing_arcadecap",
-                "name": "clothing_arcadecap name",
+                "name": "Peliluolalippis",
                 "description": "clothing_arcadecap desc",
                 "buyout": 0
             },
             "5377": {
                 "slug": "clothing_starwitchhat",
-                "name": "clothing_starwitchhat name",
+                "name": "Linnunradan noidan hattu",
                 "description": "clothing_starwitchhat desc",
                 "buyout": 0
             },
             "5371": {
                 "slug": "clothing_r23_dragonmask",
-                "name": "clothing_r23_dragonmask name",
+                "name": "Linnunradan lohik\u00e4\u00e4rmenaamio",
                 "description": "clothing_r23_dragonmask desc",
                 "buyout": 0
             },
@@ -5923,10 +5968,15 @@
             "1001": null
         },
         "he": {
-            "5393": null,
+            "5393": {
+                "slug": "clothing_nftpiercings",
+                "name": "Rokkarin l\u00e4vistykset",
+                "description": "clothing_nftpiercings desc",
+                "buyout": 0
+            },
             "5380": {
                 "slug": "clothing_ltd23_gemhorns",
-                "name": "clothing_ltd23_gemhorns name",
+                "name": "Linnunradan sarvet",
                 "description": "clothing_ltd23_gemhorns desc",
                 "buyout": 0
             },
@@ -6638,7 +6688,12 @@
             "1601": null
         },
         "ea": {
-            "5392": null,
+            "5392": {
+                "slug": "clothing_nftpiercings",
+                "name": "Rokkarin l\u00e4vistykset",
+                "description": "clothing_nftpiercings desc",
+                "buyout": 0
+            },
             "5156": null,
             "5148": null,
             "5146": null,
@@ -6915,11 +6970,36 @@
             "1401": null
         },
         "fa": {
-            "5391": null,
-            "5387": null,
-            "5386": null,
-            "5385": null,
-            "5384": null,
+            "5391": {
+                "slug": "clothing_nftpiercings",
+                "name": "Rokkarin l\u00e4vistykset",
+                "description": "clothing_nftpiercings desc",
+                "buyout": 0
+            },
+            "5387": {
+                "slug": "clothing_nft23rock4fa",
+                "name": "Rokkarin pukinparta",
+                "description": "clothing_nft23rock4fa desc",
+                "buyout": 0
+            },
+            "5386": {
+                "slug": "clothing_nft23rock3fa",
+                "name": "Pieni rokkarin parta",
+                "description": "clothing_nft23rock3fa desc",
+                "buyout": 0
+            },
+            "5385": {
+                "slug": "clothing_nft23rock2fa",
+                "name": "Pienet rokkarin viikset",
+                "description": "clothing_nft23rock2fa desc",
+                "buyout": 0
+            },
+            "5384": {
+                "slug": "clothing_nft23rock1fa",
+                "name": "Iso rokkarin parta",
+                "description": "clothing_nft23rock1fa desc",
+                "buyout": 0
+            },
             "5369": {
                 "slug": "clothing_catmask2",
                 "name": "S\u00e3o Paulo-kissanaamio",
@@ -7287,7 +7367,7 @@
         "ca": {
             "5381": {
                 "slug": "clothing_astralnecklace",
-                "name": "clothing_astralnecklace name",
+                "name": "T\u00e4htitaivaan kaulakoru",
                 "description": "clothing_astralnecklace desc",
                 "buyout": 0
             },
@@ -8001,7 +8081,7 @@
         "wa": {
             "5370": {
                 "slug": "clothing_starcompanion",
-                "name": "clothing_starcompanion name",
+                "name": "Linnunradan napattu t\u00e4hti",
                 "description": "clothing_starcompanion desc",
                 "buyout": 0
             },
@@ -8109,10 +8189,15 @@
         "cc": {
             "9865": null,
             "9563": null,
-            "5400": null,
+            "5400": {
+                "slug": "clothing_nftbobbajacket",
+                "name": "H\u00f6p\u00f6-takki",
+                "description": "clothing_nftbobbajacket desc",
+                "buyout": 0
+            },
             "5382": {
                 "slug": "clothing_spacecape",
-                "name": "clothing_spacecape name",
+                "name": "Linnunradan viitta",
                 "description": "clothing_spacecape desc",
                 "buyout": 0
             },
