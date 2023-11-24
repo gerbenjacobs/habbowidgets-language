@@ -47,6 +47,13 @@
                 "description": "clothing_r23_galaxyhair desc",
                 "buyout": 0
             },
+            "5360": {
+                "slug": "clothing_obbawobbaoutfit",
+                "name": "clothing_obbawobbaoutfit name",
+                "description": "clothing_obbawobbaoutfit desc",
+                "buyout": 0
+            },
+            "5331": null,
             "5321": {
                 "slug": "clothing_nftshortdreads",
                 "name": "clothing_nftshortdreads name",
@@ -1219,6 +1226,29 @@
                 "description": "clothing_starryshirt desc",
                 "buyout": 0
             },
+            "5368": {
+                "slug": "clothing_obbawobbaoutfit",
+                "name": "clothing_obbawobbaoutfit name",
+                "description": "clothing_obbawobbaoutfit desc",
+                "buyout": 0
+            },
+            "5367": {
+                "slug": "clothing_obbawobbaoutfit",
+                "name": "clothing_obbawobbaoutfit name",
+                "description": "clothing_obbawobbaoutfit desc",
+                "buyout": 0
+            },
+            "5362": null,
+            "5361": null,
+            "5359": null,
+            "5358": null,
+            "5351": null,
+            "5350": null,
+            "5349": null,
+            "5347": null,
+            "5346": null,
+            "5311": null,
+            "5310": null,
             "5303": {
                 "slug": "clothing_pinaforedress",
                 "name": "Sch\u00fcrzenkleid",
@@ -3316,7 +3346,9 @@
                 "description": "clothing_nftrippedjeans desc",
                 "buyout": 0
             },
+            "5363": null,
             "5332": null,
+            "5312": null,
             "5266": {
                 "slug": "clothing_nftpinkswimshorts",
                 "name": "Pinke Badehose",
@@ -3824,6 +3856,7 @@
             "270": null
         },
         "sh": {
+            "5355": null,
             "5330": {
                 "slug": "clothing_nftpinkrainboots",
                 "name": "clothing_nftpinkrainboots name",
@@ -4095,6 +4128,14 @@
             "290": null
         },
         "ha": {
+            "5428": null,
+            "5427": null,
+            "5426": null,
+            "5425": null,
+            "5424": null,
+            "5423": null,
+            "5422": null,
+            "5421": null,
             "5417": null,
             "5403": {
                 "slug": "clothing_23test_hat5",
@@ -4138,6 +4179,9 @@
                 "description": "clothing_r23_dragonmask desc",
                 "buyout": 0
             },
+            "5366": null,
+            "5364": null,
+            "5353": null,
             "5345": {
                 "slug": "clothing_nft23partyhat2",
                 "name": "clothing_nft23partyhat2 name",
@@ -5999,12 +6043,15 @@
                 "description": "clothing_ltd23_gemhorns desc",
                 "buyout": 0
             },
+            "5348": null,
             "5337": {
                 "slug": "clothing_nftcandle",
                 "name": "clothing_nftcandle name",
                 "description": "clothing_nftcandle desc",
                 "buyout": 0
             },
+            "5315": null,
+            "5314": null,
             "5279": {
                 "slug": "clothing_ankhearrings",
                 "name": "Anch-Ohrringe",
@@ -7390,12 +7437,16 @@
                 "description": "clothing_astralnecklace desc",
                 "buyout": 0
             },
+            "5365": null,
+            "5354": null,
             "5339": {
                 "slug": "clothing_nftbdayribbon",
                 "name": "clothing_nftbdayribbon name",
                 "description": "clothing_nftbdayribbon desc",
                 "buyout": 0
             },
+            "5313": null,
+            "5309": null,
             "5300": {
                 "slug": "clothing_toastbackpack",
                 "name": "Niedlicher Toastbrotscheiben-Rucksack",
@@ -8220,6 +8271,8 @@
                 "description": "clothing_spacecape desc",
                 "buyout": 0
             },
+            "5357": null,
+            "5356": null,
             "5324": {
                 "slug": "clothing_nftpinkraincoat",
                 "name": "clothing_nftpinkraincoat name",
