@@ -4095,6 +4095,19 @@
             "290": null
         },
         "ha": {
+            "5417": null,
+            "5403": {
+                "slug": "clothing_23test_hat5",
+                "name": "clothing_23test_hat5 name",
+                "description": "clothing_23test_hat5 desc",
+                "buyout": 0
+            },
+            "5402": {
+                "slug": "clothing_23test_hat4",
+                "name": "clothing_23test_hat4 name",
+                "description": "clothing_23test_hat4 desc",
+                "buyout": 0
+            },
             "5379": {
                 "slug": "clothing_lionmask",
                 "name": "M\u00e1scara Animatr\u00f3nico Eddie",
@@ -4111,6 +4124,12 @@
                 "slug": "clothing_starwitchhat",
                 "name": "Sombrero Bruja C\u00f3smica",
                 "description": "clothing_starwitchhat desc",
+                "buyout": 0
+            },
+            "5375": {
+                "slug": "clothing_23test_hat1",
+                "name": "clothing_23test_hat1 name",
+                "description": "clothing_23test_hat1 desc",
                 "buyout": 0
             },
             "5371": {
