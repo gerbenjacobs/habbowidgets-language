@@ -17,9 +17,24 @@
     "clothing": {
         "hr": {
             "9534": null,
-            "5439": null,
-            "5438": null,
-            "5437": null,
+            "5439": {
+                "slug": "clothing_nftfourtail",
+                "name": "Penteado Multi-Chiquinhas",
+                "description": "clothing_nftfourtail desc",
+                "buyout": 0
+            },
+            "5438": {
+                "slug": "clothing_nftfourtail",
+                "name": "Penteado Multi-Chiquinhas",
+                "description": "clothing_nftfourtail desc",
+                "buyout": 0
+            },
+            "5437": {
+                "slug": "clothing_nftholidaycut",
+                "name": "Penteado Natal Despojado",
+                "description": "clothing_nftholidaycut desc",
+                "buyout": 0
+            },
             "5390": {
                 "slug": "clothing_nft23rock3hr",
                 "name": "Cabelo de Roqueiro com Len\u00e7o",
@@ -60,7 +75,7 @@
                 "slug": "clothing_animalearshair",
                 "name": "Penteado Animalesco",
                 "description": "clothing_animalearshair desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5321": {
                 "slug": "clothing_nftshortdreads",
@@ -941,7 +956,12 @@
             "100": null
         },
         "hd": {
-            "5430": null,
+            "5430": {
+                "slug": "clothing_nftstatue",
+                "name": "clothing_nftstatue name",
+                "description": "clothing_nftstatue desc",
+                "buyout": 0
+            },
             "5319": {
                 "slug": "clothing_nftvivideyes",
                 "name": "Olhar V\u00edvido",
@@ -1251,13 +1271,13 @@
                 "slug": "clothing_gingerbreadoutfit",
                 "name": "Traje Biscoito Natalino",
                 "description": "clothing_gingerbreadoutfit desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5361": {
                 "slug": "clothing_gingerbreadoutfit",
                 "name": "Traje Biscoito Natalino",
                 "description": "clothing_gingerbreadoutfit desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5359": {
                 "slug": "clothing_r23_ribbontop",
@@ -1275,7 +1295,7 @@
                 "slug": "clothing_ribbonflowydress",
                 "name": "Vestidinho Rom\u00e2ntico",
                 "description": "clothing_ribbonflowydress desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5350": {
                 "slug": "clothing_ribbondress",
@@ -1301,8 +1321,18 @@
                 "description": "clothing_whackyjacket desc",
                 "buyout": 0
             },
-            "5334": null,
-            "5333": null,
+            "5334": {
+                "slug": "clothing_nftsnowoperadress",
+                "name": "Vestido \u00d3pera de Gelo",
+                "description": "clothing_nftsnowoperadress desc",
+                "buyout": 0
+            },
+            "5333": {
+                "slug": "clothing_nftsnowoperadress",
+                "name": "Vestido \u00d3pera de Gelo",
+                "description": "clothing_nftsnowoperadress desc",
+                "buyout": 0
+            },
             "5311": {
                 "slug": "clothing_misssantaoutfit",
                 "name": "Traje Mam\u00e3e Noel Tropical",
@@ -3416,7 +3446,7 @@
                 "slug": "clothing_gingerbreadoutfit",
                 "name": "Traje Biscoito Natalino",
                 "description": "clothing_gingerbreadoutfit desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5332": null,
             "5312": {
@@ -4257,7 +4287,12 @@
                 "description": "clothing_goldhatpack4 desc",
                 "buyout": 0
             },
-            "5417": null,
+            "5417": {
+                "slug": "clothing_nftcollectiblescap",
+                "name": "clothing_nftcollectiblescap name",
+                "description": "clothing_nftcollectiblescap desc",
+                "buyout": 0
+            },
             "5403": {
                 "slug": "clothing_23test_hat5",
                 "name": "clothing_23test_hat5 name",
@@ -6167,7 +6202,12 @@
             "1001": null
         },
         "he": {
-            "5436": null,
+            "5436": {
+                "slug": "clothing_nftchocolatepin",
+                "name": "Broche de Chocolate",
+                "description": "clothing_nftchocolatepin desc",
+                "buyout": 0
+            },
             "5393": {
                 "slug": "clothing_nftpiercings",
                 "name": "Piercings de Roqueiro",
@@ -6196,13 +6236,13 @@
                 "slug": "clothing_baubleearrings2",
                 "name": "Brinco Bola de Natal",
                 "description": "clothing_baubleearrings2 desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5314": {
                 "slug": "clothing_bigbowhairclip",
                 "name": "La\u00e7o XXG",
                 "description": "clothing_bigbowhairclip desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5279": {
                 "slug": "clothing_ankhearrings",
@@ -7188,9 +7228,24 @@
             "1401": null
         },
         "fa": {
-            "5435": null,
-            "5434": null,
-            "5433": null,
+            "5435": {
+                "slug": "clothing_nftyummy",
+                "name": "L\u00edngua de Fora",
+                "description": "clothing_nftyummy desc",
+                "buyout": 0
+            },
+            "5434": {
+                "slug": "clothing_nftlollipop2",
+                "name": "Pirulito de Chocolate",
+                "description": "clothing_nftlollipop2 desc",
+                "buyout": 0
+            },
+            "5433": {
+                "slug": "clothing_nftlollipop",
+                "name": "Pirulito",
+                "description": "clothing_nftlollipop desc",
+                "buyout": 0
+            },
             "5391": {
                 "slug": "clothing_nftpiercings",
                 "name": "Piercings de Roqueiro",
@@ -7586,7 +7641,12 @@
             "1201": null
         },
         "ca": {
-            "5431": null,
+            "5431": {
+                "slug": "clothing_nftcandycane",
+                "name": "Bengala Doce",
+                "description": "clothing_nftcandycane desc",
+                "buyout": 0
+            },
             "5381": {
                 "slug": "clothing_astralnecklace",
                 "name": "Colar Astral",
@@ -7597,7 +7657,7 @@
                 "slug": "clothing_chunkyknitscarf",
                 "name": "Cachecol Tric\u00f4 \u00e0 M\u00e3o",
                 "description": "clothing_chunkyknitscarf desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5354": {
                 "slug": "clothing_goldbookbag",
@@ -7605,7 +7665,12 @@
                 "description": "clothing_goldbookbag desc",
                 "buyout": 0
             },
-            "5352": null,
+            "5352": {
+                "slug": "clothing_nftsnowreindeerbackpack",
+                "name": "Mochila Rena Fofinha",
+                "description": "clothing_nftsnowreindeerbackpack desc",
+                "buyout": 0
+            },
             "5339": {
                 "slug": "clothing_nftbdayribbon",
                 "name": "La\u00e7o de Anivers\u00e1rio",
@@ -9573,7 +9638,12 @@
             "260": null
         },
         "cp": {
-            "5432": null,
+            "5432": {
+                "slug": "clothing_nftcocoaprint",
+                "name": "Estampa Cacau Natural",
+                "description": "clothing_nftcocoaprint desc",
+                "buyout": 0
+            },
             "5338": {
                 "slug": "clothing_nftxlogo",
                 "name": "Estampa Habbo X",
