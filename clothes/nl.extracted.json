@@ -35,6 +35,12 @@
                 "description": "clothing_nftholidaycut desc",
                 "buyout": 0
             },
+            "5408": {
+                "slug": "clothing_r24_fademanbun",
+                "name": "clothing_r24_fademanbun name",
+                "description": "clothing_r24_fademanbun desc",
+                "buyout": 0
+            },
             "5390": {
                 "slug": "clothing_nft23rock3hr",
                 "name": "Rockster Bandana Haar",
@@ -1337,13 +1343,13 @@
                 "slug": "clothing_misssantaoutfit",
                 "name": "Stoute Kerst Outfit",
                 "description": "clothing_misssantaoutfit desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5310": {
                 "slug": "clothing_misssantaoutfit",
                 "name": "Stoute Kerst Outfit",
                 "description": "clothing_misssantaoutfit desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5303": {
                 "slug": "clothing_pinaforedress",
@@ -3453,7 +3459,7 @@
                 "slug": "clothing_misssantaoutfit",
                 "name": "Stoute Kerst Outfit",
                 "description": "clothing_misssantaoutfit desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5266": {
                 "slug": "clothing_nftpinkswimshorts",
@@ -4339,7 +4345,7 @@
                 "slug": "clothing_misssantahat",
                 "name": "Stoute Kerstmuts",
                 "description": "clothing_misssantahat desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5364": {
                 "slug": "clothing_ltd23_crown",
@@ -6208,6 +6214,12 @@
                 "description": "clothing_nftchocolatepin desc",
                 "buyout": 0
             },
+            "5418": {
+                "slug": "clothing_cnydragon",
+                "name": "clothing_cnydragon name",
+                "description": "clothing_cnydragon desc",
+                "buyout": 0
+            },
             "5393": {
                 "slug": "clothing_nftpiercings",
                 "name": "Rockster Piercings",
@@ -7647,6 +7659,60 @@
                 "description": "clothing_nftcandycane desc",
                 "buyout": 0
             },
+            "5420": {
+                "slug": "clothing_r24_koalaharness",
+                "name": "clothing_r24_koalaharness name",
+                "description": "clothing_r24_koalaharness desc",
+                "buyout": 0
+            },
+            "5416": {
+                "slug": "clothing_r22_nytie8",
+                "name": "clothing_r22_nytie8 name",
+                "description": "clothing_r22_nytie8 desc",
+                "buyout": 0
+            },
+            "5415": {
+                "slug": "clothing_r22_nytie7",
+                "name": "clothing_r22_nytie7 name",
+                "description": "clothing_r22_nytie7 desc",
+                "buyout": 0
+            },
+            "5414": {
+                "slug": "clothing_r22_nytie6",
+                "name": "clothing_r22_nytie6 name",
+                "description": "clothing_r22_nytie6 desc",
+                "buyout": 0
+            },
+            "5413": {
+                "slug": "clothing_r22_nytie5",
+                "name": "clothing_r22_nytie5 name",
+                "description": "clothing_r22_nytie5 desc",
+                "buyout": 0
+            },
+            "5412": {
+                "slug": "clothing_r22_nytie4",
+                "name": "clothing_r22_nytie4 name",
+                "description": "clothing_r22_nytie4 desc",
+                "buyout": 0
+            },
+            "5411": {
+                "slug": "clothing_r22_nytie3",
+                "name": "clothing_r22_nytie3 name",
+                "description": "clothing_r22_nytie3 desc",
+                "buyout": 0
+            },
+            "5410": {
+                "slug": "clothing_r22_nytie2",
+                "name": "clothing_r22_nytie2 name",
+                "description": "clothing_r22_nytie2 desc",
+                "buyout": 0
+            },
+            "5409": {
+                "slug": "clothing_r22_nytie1",
+                "name": "clothing_r22_nytie1 name",
+                "description": "clothing_r22_nytie1 desc",
+                "buyout": 0
+            },
             "5381": {
                 "slug": "clothing_astralnecklace",
                 "name": "Astral Ketting",
@@ -7681,7 +7747,7 @@
                 "slug": "clothing_misssantaoutfit",
                 "name": "Stoute Kerst Outfit",
                 "description": "clothing_misssantaoutfit desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5309": {
                 "slug": "clothing_bowbag",
@@ -8391,6 +8457,12 @@
             "1801": null
         },
         "wa": {
+            "5419": {
+                "slug": "clothing_cnydragon",
+                "name": "clothing_cnydragon name",
+                "description": "clothing_cnydragon desc",
+                "buyout": 0
+            },
             "5370": {
                 "slug": "clothing_starcompanion",
                 "name": "Cosmo's Gevangen Ster",
