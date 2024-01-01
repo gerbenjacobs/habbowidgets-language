@@ -1225,6 +1225,18 @@
             "180": null
         },
         "ch": {
+            "5449": {
+                "slug": "clothing_nfthabboshirt23",
+                "name": "Habbo Ti\u015f\u00f6rt\u00fc 2023",
+                "description": "clothing_nfthabboshirt23 desc",
+                "buyout": 0
+            },
+            "5448": {
+                "slug": "clothing_nfthabboshirt23",
+                "name": "Habbo Ti\u015f\u00f6rt\u00fc 2023",
+                "description": "clothing_nfthabboshirt23 desc",
+                "buyout": 0
+            },
             "5397": {
                 "slug": "clothing_nftskullsnroses2",
                 "name": "Skulls N' Roses Ti\u015f\u00f6rt\u00fc",
@@ -4245,51 +4257,57 @@
             "290": null
         },
         "ha": {
+            "5450": {
+                "slug": "clothing_nfthabbocap23",
+                "name": "Habbo \u015eapkas\u0131 2023",
+                "description": "clothing_nfthabbocap23 desc",
+                "buyout": 0
+            },
             "5428": {
                 "slug": "clothing_goldhatpack4",
-                "name": "clothing_goldhatpack4 name",
+                "name": "Golden Hat Pack 4",
                 "description": "clothing_goldhatpack4 desc",
                 "buyout": 0
             },
             "5427": {
                 "slug": "clothing_goldhatpack4",
-                "name": "clothing_goldhatpack4 name",
+                "name": "Golden Hat Pack 4",
                 "description": "clothing_goldhatpack4 desc",
                 "buyout": 0
             },
             "5426": {
                 "slug": "clothing_goldhatpack4",
-                "name": "clothing_goldhatpack4 name",
+                "name": "Golden Hat Pack 4",
                 "description": "clothing_goldhatpack4 desc",
                 "buyout": 0
             },
             "5425": {
                 "slug": "clothing_goldhatpack4",
-                "name": "clothing_goldhatpack4 name",
+                "name": "Golden Hat Pack 4",
                 "description": "clothing_goldhatpack4 desc",
                 "buyout": 0
             },
             "5424": {
                 "slug": "clothing_goldhatpack4",
-                "name": "clothing_goldhatpack4 name",
+                "name": "Golden Hat Pack 4",
                 "description": "clothing_goldhatpack4 desc",
                 "buyout": 0
             },
             "5423": {
                 "slug": "clothing_goldhatpack4",
-                "name": "clothing_goldhatpack4 name",
+                "name": "Golden Hat Pack 4",
                 "description": "clothing_goldhatpack4 desc",
                 "buyout": 0
             },
             "5422": {
                 "slug": "clothing_goldhatpack4",
-                "name": "clothing_goldhatpack4 name",
+                "name": "Golden Hat Pack 4",
                 "description": "clothing_goldhatpack4 desc",
                 "buyout": 0
             },
             "5421": {
                 "slug": "clothing_goldhatpack4",
-                "name": "clothing_goldhatpack4 name",
+                "name": "Golden Hat Pack 4",
                 "description": "clothing_goldhatpack4 desc",
                 "buyout": 0
             },
@@ -6216,7 +6234,7 @@
             },
             "5418": {
                 "slug": "clothing_cnydragon",
-                "name": "clothing_cnydragon name",
+                "name": "Ay Ejderhas\u0131 K\u0131yafeti",
                 "description": "clothing_cnydragon desc",
                 "buyout": 0
             },
@@ -7667,49 +7685,49 @@
             },
             "5416": {
                 "slug": "clothing_r22_nytie8",
-                "name": "clothing_r22_nytie8 name",
+                "name": "Mor Kravat",
                 "description": "clothing_r22_nytie8 desc",
                 "buyout": 0
             },
             "5415": {
                 "slug": "clothing_r22_nytie7",
-                "name": "clothing_r22_nytie7 name",
+                "name": "\u00d6rdekba\u015f\u0131 Kravat",
                 "description": "clothing_r22_nytie7 desc",
                 "buyout": 0
             },
             "5414": {
                 "slug": "clothing_r22_nytie6",
-                "name": "clothing_r22_nytie6 name",
+                "name": "G\u00f6k Mavisi Kravat",
                 "description": "clothing_r22_nytie6 desc",
                 "buyout": 0
             },
             "5413": {
                 "slug": "clothing_r22_nytie5",
-                "name": "clothing_r22_nytie5 name",
+                "name": "Turuncu Kravat",
                 "description": "clothing_r22_nytie5 desc",
                 "buyout": 0
             },
             "5412": {
                 "slug": "clothing_r22_nytie4",
-                "name": "clothing_r22_nytie4 name",
+                "name": "Mavi Kravat",
                 "description": "clothing_r22_nytie4 desc",
                 "buyout": 0
             },
             "5411": {
                 "slug": "clothing_r22_nytie3",
-                "name": "clothing_r22_nytie3 name",
+                "name": "Alt\u0131n Kravat",
                 "description": "clothing_r22_nytie3 desc",
                 "buyout": 0
             },
             "5410": {
                 "slug": "clothing_r22_nytie2",
-                "name": "clothing_r22_nytie2 name",
+                "name": "K\u0131rm\u0131z\u0131 Kravat",
                 "description": "clothing_r22_nytie2 desc",
                 "buyout": 0
             },
             "5409": {
                 "slug": "clothing_r22_nytie1",
-                "name": "clothing_r22_nytie1 name",
+                "name": "Pembe Kravat",
                 "description": "clothing_r22_nytie1 desc",
                 "buyout": 0
             },
@@ -8459,7 +8477,7 @@
         "wa": {
             "5419": {
                 "slug": "clothing_cnydragon",
-                "name": "clothing_cnydragon name",
+                "name": "Ay Ejderhas\u0131 K\u0131yafeti",
                 "description": "clothing_cnydragon desc",
                 "buyout": 0
             },
@@ -8573,6 +8591,18 @@
         "cc": {
             "9865": null,
             "9563": null,
+            "5447": {
+                "slug": "clothing_nfthabbohoodie23",
+                "name": "Habbo Kap\u00fc\u015fonu 2023",
+                "description": "clothing_nfthabbohoodie23 desc",
+                "buyout": 0
+            },
+            "5446": {
+                "slug": "clothing_nfthabbohoodie23",
+                "name": "Habbo Kap\u00fc\u015fonu 2023",
+                "description": "clothing_nfthabbohoodie23 desc",
+                "buyout": 0
+            },
             "5400": {
                 "slug": "clothing_nftbobbajacket",
                 "name": "Bobba Ceketi",
@@ -9710,6 +9740,12 @@
             "260": null
         },
         "cp": {
+            "5462": {
+                "slug": "clothing_nft2024",
+                "name": "clothing_nft2024 name",
+                "description": "clothing_nft2024 desc",
+                "buyout": 0
+            },
             "5432": {
                 "slug": "clothing_nftcocoaprint",
                 "name": "Kakao \u00c7ekirde\u011fi Bask\u0131s\u0131",
