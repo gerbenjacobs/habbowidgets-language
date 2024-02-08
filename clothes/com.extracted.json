@@ -19,7 +19,7 @@
             "9534": null,
             "5465": {
                 "slug": "clothing_r24_hoodhair",
-                "name": "clothing_r24_hoodhair name",
+                "name": "Hooded Hair",
                 "description": "clothing_r24_hoodhair desc",
                 "buyout": 0
             },
@@ -43,7 +43,7 @@
             },
             "5408": {
                 "slug": "clothing_r24_fademanbun",
-                "name": "clothing_r24_fademanbun name",
+                "name": "Faded Bun",
                 "description": "clothing_r24_fademanbun desc",
                 "buyout": 0
             },
@@ -1231,6 +1231,18 @@
             "180": null
         },
         "ch": {
+            "5488": {
+                "slug": "clothing_r24_revealingswimsuit",
+                "name": "Revealing Swimsuit",
+                "description": "clothing_r24_revealingswimsuit desc",
+                "buyout": 0
+            },
+            "5487": {
+                "slug": "clothing_r24_revealingswimsuit",
+                "name": "Revealing Swimsuit",
+                "description": "clothing_r24_revealingswimsuit desc",
+                "buyout": 0
+            },
             "5449": {
                 "slug": "clothing_nfthabboshirt23",
                 "name": "Habbo T-Shirt 2023",
@@ -3988,9 +4000,9 @@
         "sh": {
             "5464": {
                 "slug": "clothing_cozysocks",
-                "name": "clothing_cozysocks name",
+                "name": "Cosy Socks",
                 "description": "clothing_cozysocks desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5355": {
                 "slug": "clothing_goldcladyshoes",
@@ -4269,51 +4281,57 @@
             "290": null
         },
         "ha": {
+            "5486": {
+                "slug": "clothing_r24_carnivalheadpiece",
+                "name": "Carnival Headpiece",
+                "description": "clothing_r24_carnivalheadpiece desc",
+                "buyout": 0
+            },
             "5484": {
                 "slug": "clothing_owlbeanie",
-                "name": "clothing_owlbeanie name",
+                "name": "Owl Beanie",
                 "description": "clothing_owlbeanie desc",
                 "buyout": 0
             },
             "5483": {
                 "slug": "clothing_fishbeanie",
-                "name": "clothing_fishbeanie name",
+                "name": "Fish Beanie",
                 "description": "clothing_fishbeanie desc",
                 "buyout": 0
             },
             "5476": {
                 "slug": "clothing_raccoonbeanie",
-                "name": "clothing_raccoonbeanie name",
+                "name": "Raccoon Trapper Hat",
                 "description": "clothing_raccoonbeanie desc",
                 "buyout": 0
             },
             "5475": {
                 "slug": "clothing_sealbeanie",
-                "name": "clothing_sealbeanie name",
+                "name": "Seal Trapper Hat",
                 "description": "clothing_sealbeanie desc",
                 "buyout": 0
             },
             "5471": {
                 "slug": "clothing_heartberet",
-                "name": "clothing_heartberet name",
+                "name": "Heart Beret",
                 "description": "clothing_heartberet desc",
                 "buyout": 0
             },
             "5470": {
                 "slug": "clothing_dogbeanie",
-                "name": "clothing_dogbeanie name",
+                "name": "Dog Trapper Hat",
                 "description": "clothing_dogbeanie desc",
                 "buyout": 0
             },
             "5469": {
                 "slug": "clothing_bearbeanie",
-                "name": "clothing_bearbeanie name",
+                "name": "Bear Bucket Hat",
                 "description": "clothing_bearbeanie desc",
                 "buyout": 0
             },
             "5468": {
                 "slug": "clothing_wintercatbeanie",
-                "name": "clothing_wintercatbeanie name",
+                "name": "Cat Beanie",
                 "description": "clothing_wintercatbeanie desc",
                 "buyout": 0
             },
@@ -6288,9 +6306,9 @@
         "he": {
             "5466": {
                 "slug": "clothing_snowday",
-                "name": "clothing_snowday name",
+                "name": "Snowday Look",
                 "description": "clothing_snowday desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5436": {
                 "slug": "clothing_nftchocolatepin",
@@ -7326,9 +7344,9 @@
         "fa": {
             "5467": {
                 "slug": "clothing_snowday",
-                "name": "clothing_snowday name",
+                "name": "Snowday Look",
                 "description": "clothing_snowday desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5435": {
                 "slug": "clothing_nftyummy",
@@ -7745,7 +7763,7 @@
         "ca": {
             "5472": {
                 "slug": "clothing_snowmanbackpack",
-                "name": "clothing_snowmanbackpack name",
+                "name": "Snowman Backpack",
                 "description": "clothing_snowmanbackpack desc",
                 "buyout": 0
             },
@@ -8671,7 +8689,7 @@
             "9563": null,
             "5485": {
                 "slug": "clothing_r24_pufferjacket",
-                "name": "clothing_r24_pufferjacket name",
+                "name": "Large Puffer Jacket",
                 "description": "clothing_r24_pufferjacket desc",
                 "buyout": 0
             },
@@ -9824,6 +9842,30 @@
             "260": null
         },
         "cp": {
+            "5497": {
+                "slug": "clothing_nftdragonyearmark4",
+                "name": "Green Dragon Chest Print",
+                "description": "clothing_nftdragonyearmark4 desc",
+                "buyout": 0
+            },
+            "5496": {
+                "slug": "clothing_nftdragonyearmark3",
+                "name": "Blue Dragon Chest Print",
+                "description": "clothing_nftdragonyearmark3 desc",
+                "buyout": 0
+            },
+            "5495": {
+                "slug": "clothing_nftdragonyearmark2",
+                "name": "Red Dragon Chest Print",
+                "description": "clothing_nftdragonyearmark2 desc",
+                "buyout": 0
+            },
+            "5494": {
+                "slug": "clothing_nftdragonyearmark1",
+                "name": "Black Dragon Chest Print",
+                "description": "clothing_nftdragonyearmark1 desc",
+                "buyout": 0
+            },
             "5462": {
                 "slug": "clothing_nft2024",
                 "name": "clothing_nft2024 name",
