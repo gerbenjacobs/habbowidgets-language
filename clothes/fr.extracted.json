@@ -4281,6 +4281,24 @@
             "290": null
         },
         "ha": {
+            "5512": {
+                "slug": "clothing_nftblackbeanie",
+                "name": "Bonnet de ski noir",
+                "description": "clothing_nftblackbeanie desc",
+                "buyout": 0
+            },
+            "5511": {
+                "slug": "clothing_nftpinkbeanie",
+                "name": "Bonnet de ski rose",
+                "description": "clothing_nftpinkbeanie desc",
+                "buyout": 0
+            },
+            "5510": {
+                "slug": "clothing_nftwhitebeanie",
+                "name": "Bonnet de ski blanc",
+                "description": "clothing_nftwhitebeanie desc",
+                "buyout": 0
+            },
             "5486": {
                 "slug": "clothing_r24_carnivalheadpiece",
                 "name": "Coiffe de Carnaval",
@@ -7060,6 +7078,12 @@
             "1601": null
         },
         "ea": {
+            "5490": {
+                "slug": "clothing_nfthearteyes",
+                "name": "Yeux de l'Amour",
+                "description": "clothing_nfthearteyes desc",
+                "buyout": 0
+            },
             "5392": {
                 "slug": "clothing_nftpiercings",
                 "name": "Piercings Rocker",
@@ -8687,6 +8711,42 @@
         "cc": {
             "9865": null,
             "9563": null,
+            "5509": {
+                "slug": "clothing_nftwinterpink",
+                "name": "Veste de ski rose",
+                "description": "clothing_nftwinterpink desc",
+                "buyout": 0
+            },
+            "5508": {
+                "slug": "clothing_nftwinterpink",
+                "name": "Veste de ski rose",
+                "description": "clothing_nftwinterpink desc",
+                "buyout": 0
+            },
+            "5507": {
+                "slug": "clothing_nftwinterblack",
+                "name": "Veste de ski jaune",
+                "description": "clothing_nftwinterblack desc",
+                "buyout": 0
+            },
+            "5506": {
+                "slug": "clothing_nftwinterblack",
+                "name": "Veste de ski jaune",
+                "description": "clothing_nftwinterblack desc",
+                "buyout": 0
+            },
+            "5505": {
+                "slug": "clothing_nftwintergreen",
+                "name": "Veste de ski noire",
+                "description": "clothing_nftwintergreen desc",
+                "buyout": 0
+            },
+            "5504": {
+                "slug": "clothing_nftwintergreen",
+                "name": "Veste de ski noire",
+                "description": "clothing_nftwintergreen desc",
+                "buyout": 0
+            },
             "5485": {
                 "slug": "clothing_r24_pufferjacket",
                 "name": "Grand manteau polaire",

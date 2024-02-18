@@ -4281,6 +4281,24 @@
             "290": null
         },
         "ha": {
+            "5512": {
+                "slug": "clothing_nftblackbeanie",
+                "name": "Berretto da Sci Nero",
+                "description": "clothing_nftblackbeanie desc",
+                "buyout": 0
+            },
+            "5511": {
+                "slug": "clothing_nftpinkbeanie",
+                "name": "Berretto da Sci Rosa",
+                "description": "clothing_nftpinkbeanie desc",
+                "buyout": 0
+            },
+            "5510": {
+                "slug": "clothing_nftwhitebeanie",
+                "name": "Berretto da Sci Bianco",
+                "description": "clothing_nftwhitebeanie desc",
+                "buyout": 0
+            },
             "5486": {
                 "slug": "clothing_r24_carnivalheadpiece",
                 "name": "Copricapo Carnevale",
@@ -7060,6 +7078,12 @@
             "1601": null
         },
         "ea": {
+            "5490": {
+                "slug": "clothing_nfthearteyes",
+                "name": "Occhi dell'Amore",
+                "description": "clothing_nfthearteyes desc",
+                "buyout": 0
+            },
             "5392": {
                 "slug": "clothing_nftpiercings",
                 "name": "Piercings Rocker",
@@ -8687,6 +8711,42 @@
         "cc": {
             "9865": null,
             "9563": null,
+            "5509": {
+                "slug": "clothing_nftwinterpink",
+                "name": "Giacca da Sci Rosa",
+                "description": "clothing_nftwinterpink desc",
+                "buyout": 0
+            },
+            "5508": {
+                "slug": "clothing_nftwinterpink",
+                "name": "Giacca da Sci Rosa",
+                "description": "clothing_nftwinterpink desc",
+                "buyout": 0
+            },
+            "5507": {
+                "slug": "clothing_nftwinterblack",
+                "name": "Giacca da Sci Gialla",
+                "description": "clothing_nftwinterblack desc",
+                "buyout": 0
+            },
+            "5506": {
+                "slug": "clothing_nftwinterblack",
+                "name": "Giacca da Sci Gialla",
+                "description": "clothing_nftwinterblack desc",
+                "buyout": 0
+            },
+            "5505": {
+                "slug": "clothing_nftwintergreen",
+                "name": "Giacca da Sci Nera",
+                "description": "clothing_nftwintergreen desc",
+                "buyout": 0
+            },
+            "5504": {
+                "slug": "clothing_nftwintergreen",
+                "name": "Giacca da Sci Nera",
+                "description": "clothing_nftwintergreen desc",
+                "buyout": 0
+            },
             "5485": {
                 "slug": "clothing_r24_pufferjacket",
                 "name": "Bomber Lungo",
