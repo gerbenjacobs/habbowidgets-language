@@ -17,10 +17,22 @@
     "clothing": {
         "hr": {
             "9534": null,
+            "5503": {
+                "slug": "clothing_nftlongflowyhair",
+                "name": "G\u00f6steri\u015fli Hollywood Sa\u00e7\u0131",
+                "description": "clothing_nftlongflowyhair desc",
+                "buyout": 0
+            },
             "5465": {
                 "slug": "clothing_r24_hoodhair",
                 "name": "Kap\u015fonlu Sa\u00e7",
                 "description": "clothing_r24_hoodhair desc",
+                "buyout": 0
+            },
+            "5445": {
+                "slug": "clothing_ltd24_etherealhairandaccessory",
+                "name": "Nurlu Sa\u00e7",
+                "description": "clothing_ltd24_etherealhairandaccessory desc",
                 "buyout": 0
             },
             "5439": {
@@ -968,6 +980,18 @@
             "100": null
         },
         "hd": {
+            "5525": {
+                "slug": "clothing_nftsleepless",
+                "name": "Uykusuz G\u00f6zler",
+                "description": "clothing_nftsleepless desc",
+                "buyout": 0
+            },
+            "5524": {
+                "slug": "clothing_nftsleepless",
+                "name": "Uykusuz G\u00f6zler",
+                "description": "clothing_nftsleepless desc",
+                "buyout": 0
+            },
             "5430": {
                 "slug": "clothing_nftstatue",
                 "name": "clothing_nftstatue name",
@@ -1243,6 +1267,18 @@
                 "description": "clothing_r24_revealingswimsuit desc",
                 "buyout": 0
             },
+            "5453": {
+                "slug": "clothing_bunnyoveralls",
+                "name": "Tav\u015fan Tulumu",
+                "description": "clothing_bunnyoveralls desc",
+                "buyout": 0
+            },
+            "5452": {
+                "slug": "clothing_bunnyoveralls",
+                "name": "Tav\u015fan Tulumu",
+                "description": "clothing_bunnyoveralls desc",
+                "buyout": 0
+            },
             "5449": {
                 "slug": "clothing_nfthabboshirt23",
                 "name": "Habbo Ti\u015f\u00f6rt\u00fc 2023",
@@ -1371,13 +1407,13 @@
             },
             "5311": {
                 "slug": "clothing_misssantaoutfit",
-                "name": "Ate\u015fli Noel Baba K\u0131yafeti",
+                "name": "Baharatl\u0131 Noel Baba K\u0131yafeti",
                 "description": "clothing_misssantaoutfit desc",
                 "buyout": 0
             },
             "5310": {
                 "slug": "clothing_misssantaoutfit",
-                "name": "Ate\u015fli Noel Baba K\u0131yafeti",
+                "name": "Baharatl\u0131 Noel Baba K\u0131yafeti",
                 "description": "clothing_misssantaoutfit desc",
                 "buyout": 0
             },
@@ -3487,7 +3523,7 @@
             "5332": null,
             "5312": {
                 "slug": "clothing_misssantaoutfit",
-                "name": "Ate\u015fli Noel Baba K\u0131yafeti",
+                "name": "Baharatl\u0131 Noel Baba K\u0131yafeti",
                 "description": "clothing_misssantaoutfit desc",
                 "buyout": 0
             },
@@ -4002,7 +4038,7 @@
                 "slug": "clothing_cozysocks",
                 "name": "Rahat \u00c7oraplar",
                 "description": "clothing_cozysocks desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5355": {
                 "slug": "clothing_goldcladyshoes",
@@ -4353,10 +4389,28 @@
                 "description": "clothing_wintercatbeanie desc",
                 "buyout": 0
             },
+            "5460": {
+                "slug": "clothing_farmstrawhat",
+                "name": "Has\u0131r \u015eapka",
+                "description": "clothing_farmstrawhat desc",
+                "buyout": 0
+            },
+            "5451": {
+                "slug": "clothing_bunnyflowerheadband",
+                "name": "Tav\u015fan \u00c7i\u00e7ek Tac\u0131",
+                "description": "clothing_bunnyflowerheadband desc",
+                "buyout": 0
+            },
             "5450": {
                 "slug": "clothing_nfthabbocap23",
                 "name": "Habbo \u015eapkas\u0131 2023",
                 "description": "clothing_nfthabbocap23 desc",
+                "buyout": 0
+            },
+            "5443": {
+                "slug": "clothing_nfttangeberet",
+                "name": "Mandalina Bere",
+                "description": "clothing_nfttangeberet desc",
                 "buyout": 0
             },
             "5428": {
@@ -4457,7 +4511,7 @@
             },
             "5366": {
                 "slug": "clothing_misssantahat",
-                "name": "Ate\u015fli Noel Baba \u015eapkas\u0131",
+                "name": "Baharatl\u0131 Noel Baba \u015eapkas\u0131",
                 "description": "clothing_misssantahat desc",
                 "buyout": 0
             },
@@ -6326,7 +6380,25 @@
                 "slug": "clothing_snowday",
                 "name": "K\u0131\u015f G\u00fcn\u00fc G\u00f6r\u00fcn\u00fcm\u00fc",
                 "description": "clothing_snowday desc",
-                "buyout": 1
+                "buyout": 0
+            },
+            "5458": {
+                "slug": "clothing_leafheadband",
+                "name": "Filizlenen Sa\u00e7 Band\u0131",
+                "description": "clothing_leafheadband desc",
+                "buyout": 0
+            },
+            "5457": {
+                "slug": "clothing_daisyheadaccessory",
+                "name": "Papatya Filizi",
+                "description": "clothing_daisyheadaccessory desc",
+                "buyout": 0
+            },
+            "5442": {
+                "slug": "clothing_ltd24_etherealhairandaccessory",
+                "name": "Nurlu Sa\u00e7",
+                "description": "clothing_ltd24_etherealhairandaccessory desc",
+                "buyout": 0
             },
             "5436": {
                 "slug": "clothing_nftchocolatepin",
@@ -6338,7 +6410,7 @@
                 "slug": "clothing_cnydragon",
                 "name": "Ay Ejderhas\u0131 K\u0131yafeti",
                 "description": "clothing_cnydragon desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5393": {
                 "slug": "clothing_nftpiercings",
@@ -7370,7 +7442,13 @@
                 "slug": "clothing_snowday",
                 "name": "K\u0131\u015f G\u00fcn\u00fc G\u00f6r\u00fcn\u00fcm\u00fc",
                 "description": "clothing_snowday desc",
-                "buyout": 1
+                "buyout": 0
+            },
+            "5456": {
+                "slug": "clothing_carrotbite",
+                "name": "Havu\u00e7 Is\u0131r\u0131\u011f\u0131",
+                "description": "clothing_carrotbite desc",
+                "buyout": 0
             },
             "5435": {
                 "slug": "clothing_nftyummy",
@@ -7785,10 +7863,58 @@
             "1201": null
         },
         "ca": {
+            "5534": {
+                "slug": "clothing_giantbunnytailgold",
+                "name": "clothing_giantbunnytailgold name",
+                "description": "clothing_giantbunnytailgold desc",
+                "buyout": 0
+            },
+            "5533": {
+                "slug": "clothing_giantbunnytail",
+                "name": "clothing_giantbunnytail name",
+                "description": "clothing_giantbunnytail desc",
+                "buyout": 0
+            },
+            "5502": {
+                "slug": "clothing_nftgiantbunnytail",
+                "name": "Habbo boyutu Tav\u015fan Kuyru\u011fu",
+                "description": "clothing_nftgiantbunnytail desc",
+                "buyout": 0
+            },
             "5472": {
                 "slug": "clothing_snowmanbackpack",
                 "name": "Kardan Adam S\u0131rt \u00c7antas\u0131",
                 "description": "clothing_snowmanbackpack desc",
+                "buyout": 0
+            },
+            "5463": {
+                "slug": "clothing_nftbabychickbackpack",
+                "name": "Civciv S\u0131rt \u00c7antas\u0131",
+                "description": "clothing_nftbabychickbackpack desc",
+                "buyout": 0
+            },
+            "5459": {
+                "slug": "clothing_bunnypurse",
+                "name": "Tav\u015fan \u00c7anta",
+                "description": "clothing_bunnypurse desc",
+                "buyout": 0
+            },
+            "5455": {
+                "slug": "clothing_pocketchick",
+                "name": "Cep Civcivi",
+                "description": "clothing_pocketchick desc",
+                "buyout": 0
+            },
+            "5454": {
+                "slug": "clothing_leafstrap",
+                "name": "Yaprak G\u00f6lgeli\u011fi",
+                "description": "clothing_leafstrap desc",
+                "buyout": 0
+            },
+            "5444": {
+                "slug": "clothing_r24_fairywings",
+                "name": "Peri Kanatlar\u0131",
+                "description": "clothing_r24_fairywings desc",
                 "buyout": 0
             },
             "5431": {
@@ -7883,7 +8009,7 @@
             },
             "5313": {
                 "slug": "clothing_misssantaoutfit",
-                "name": "Ate\u015fli Noel Baba K\u0131yafeti",
+                "name": "Baharatl\u0131 Noel Baba K\u0131yafeti",
                 "description": "clothing_misssantaoutfit desc",
                 "buyout": 0
             },
@@ -8599,7 +8725,7 @@
                 "slug": "clothing_cnydragon",
                 "name": "Ay Ejderhas\u0131 K\u0131yafeti",
                 "description": "clothing_cnydragon desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5370": {
                 "slug": "clothing_starcompanion",
@@ -8753,6 +8879,12 @@
                 "description": "clothing_r24_pufferjacket desc",
                 "buyout": 0
             },
+            "5461": {
+                "slug": "clothing_r24_bunnyplushie",
+                "name": "Pofuduk Tav\u015fan Pel\u00fc\u015f",
+                "description": "clothing_r24_bunnyplushie desc",
+                "buyout": 0
+            },
             "5447": {
                 "slug": "clothing_nfthabbohoodie23",
                 "name": "Habbo Kap\u00fc\u015fonu 2023",
@@ -8763,6 +8895,18 @@
                 "slug": "clothing_nfthabbohoodie23",
                 "name": "Habbo Kap\u00fc\u015fonu 2023",
                 "description": "clothing_nfthabbohoodie23 desc",
+                "buyout": 0
+            },
+            "5441": {
+                "slug": "clothing_bunnyhoodie",
+                "name": "Tav\u015fan Kap\u00fc\u015fonlu",
+                "description": "clothing_bunnyhoodie desc",
+                "buyout": 0
+            },
+            "5440": {
+                "slug": "clothing_bunnyhoodie",
+                "name": "Tav\u015fan Kap\u00fc\u015fonlu",
+                "description": "clothing_bunnyhoodie desc",
                 "buyout": 0
             },
             "5400": {

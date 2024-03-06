@@ -17,10 +17,22 @@
     "clothing": {
         "hr": {
             "9534": null,
+            "5503": {
+                "slug": "clothing_nftlongflowyhair",
+                "name": "Hollywood-Glamourfrisur",
+                "description": "clothing_nftlongflowyhair desc",
+                "buyout": 0
+            },
             "5465": {
                 "slug": "clothing_r24_hoodhair",
                 "name": "Kapuzenfrisur",
                 "description": "clothing_r24_hoodhair desc",
+                "buyout": 0
+            },
+            "5445": {
+                "slug": "clothing_ltd24_etherealhairandaccessory",
+                "name": "Himmlisches Haar",
+                "description": "clothing_ltd24_etherealhairandaccessory desc",
                 "buyout": 0
             },
             "5439": {
@@ -79,7 +91,7 @@
             },
             "5360": {
                 "slug": "clothing_obbawobbaoutfit",
-                "name": "clothing_obbawobbaoutfit name",
+                "name": "Obbah Wobbah Outfit",
                 "description": "clothing_obbawobbaoutfit desc",
                 "buyout": 0
             },
@@ -968,6 +980,18 @@
             "100": null
         },
         "hd": {
+            "5525": {
+                "slug": "clothing_nftsleepless",
+                "name": "\u00dcbern\u00e4chtigte Augen",
+                "description": "clothing_nftsleepless desc",
+                "buyout": 0
+            },
+            "5524": {
+                "slug": "clothing_nftsleepless",
+                "name": "\u00dcbern\u00e4chtigte Augen",
+                "description": "clothing_nftsleepless desc",
+                "buyout": 0
+            },
             "5430": {
                 "slug": "clothing_nftstatue",
                 "name": "clothing_nftstatue name",
@@ -1243,6 +1267,18 @@
                 "description": "clothing_r24_revealingswimsuit desc",
                 "buyout": 0
             },
+            "5453": {
+                "slug": "clothing_bunnyoveralls",
+                "name": "Hasen-Latzhose",
+                "description": "clothing_bunnyoveralls desc",
+                "buyout": 0
+            },
+            "5452": {
+                "slug": "clothing_bunnyoveralls",
+                "name": "Hasen-Latzhose",
+                "description": "clothing_bunnyoveralls desc",
+                "buyout": 0
+            },
             "5449": {
                 "slug": "clothing_nfthabboshirt23",
                 "name": "Habbo 2023 T-Shirt ",
@@ -1293,13 +1329,13 @@
             },
             "5368": {
                 "slug": "clothing_obbawobbaoutfit",
-                "name": "clothing_obbawobbaoutfit name",
+                "name": "Obbah Wobbah Outfit",
                 "description": "clothing_obbawobbaoutfit desc",
                 "buyout": 0
             },
             "5367": {
                 "slug": "clothing_obbawobbaoutfit",
-                "name": "clothing_obbawobbaoutfit name",
+                "name": "Obbah Wobbah Outfit",
                 "description": "clothing_obbawobbaoutfit desc",
                 "buyout": 0
             },
@@ -4002,7 +4038,7 @@
                 "slug": "clothing_cozysocks",
                 "name": "Kuschelsocken",
                 "description": "clothing_cozysocks desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5355": {
                 "slug": "clothing_goldcladyshoes",
@@ -4307,13 +4343,13 @@
             },
             "5484": {
                 "slug": "clothing_owlbeanie",
-                "name": "Eulen-Beanie",
+                "name": "Eulenm\u00fctze",
                 "description": "clothing_owlbeanie desc",
                 "buyout": 0
             },
             "5483": {
                 "slug": "clothing_fishbeanie",
-                "name": "Fisch-Beanie",
+                "name": "Fischm\u00fctze",
                 "description": "clothing_fishbeanie desc",
                 "buyout": 0
             },
@@ -4353,10 +4389,28 @@
                 "description": "clothing_wintercatbeanie desc",
                 "buyout": 0
             },
+            "5460": {
+                "slug": "clothing_farmstrawhat",
+                "name": "Strohhut",
+                "description": "clothing_farmstrawhat desc",
+                "buyout": 0
+            },
+            "5451": {
+                "slug": "clothing_bunnyflowerheadband",
+                "name": "Hasenblumenkranz",
+                "description": "clothing_bunnyflowerheadband desc",
+                "buyout": 0
+            },
             "5450": {
                 "slug": "clothing_nfthabbocap23",
                 "name": "Habbo 2023-K\u00e4ppi",
                 "description": "clothing_nfthabbocap23 desc",
+                "buyout": 0
+            },
+            "5443": {
+                "slug": "clothing_nfttangeberet",
+                "name": "Mandarinen-Baskenm\u00fctze",
+                "description": "clothing_nfttangeberet desc",
                 "buyout": 0
             },
             "5428": {
@@ -4409,7 +4463,7 @@
             },
             "5417": {
                 "slug": "clothing_nftcollectiblescap",
-                "name": "clothing_nftcollectiblescap name",
+                "name": "Collectibles-Kappe",
                 "description": "clothing_nftcollectiblescap desc",
                 "buyout": 0
             },
@@ -6326,7 +6380,25 @@
                 "slug": "clothing_snowday",
                 "name": "Schneetag-Look",
                 "description": "clothing_snowday desc",
-                "buyout": 1
+                "buyout": 0
+            },
+            "5458": {
+                "slug": "clothing_leafheadband",
+                "name": "Spriessendes Haarband",
+                "description": "clothing_leafheadband desc",
+                "buyout": 0
+            },
+            "5457": {
+                "slug": "clothing_daisyheadaccessory",
+                "name": "G\u00e4nsebl\u00fcmchenspross",
+                "description": "clothing_daisyheadaccessory desc",
+                "buyout": 0
+            },
+            "5442": {
+                "slug": "clothing_ltd24_etherealhairandaccessory",
+                "name": "Himmlisches Haar",
+                "description": "clothing_ltd24_etherealhairandaccessory desc",
+                "buyout": 0
             },
             "5436": {
                 "slug": "clothing_nftchocolatepin",
@@ -6338,7 +6410,7 @@
                 "slug": "clothing_cnydragon",
                 "name": "Monddrachen-Outfit",
                 "description": "clothing_cnydragon desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5393": {
                 "slug": "clothing_nftpiercings",
@@ -7370,7 +7442,13 @@
                 "slug": "clothing_snowday",
                 "name": "Schneetag-Look",
                 "description": "clothing_snowday desc",
-                "buyout": 1
+                "buyout": 0
+            },
+            "5456": {
+                "slug": "clothing_carrotbite",
+                "name": "M\u00f6hrenbiss",
+                "description": "clothing_carrotbite desc",
+                "buyout": 0
             },
             "5435": {
                 "slug": "clothing_nftyummy",
@@ -7785,10 +7863,58 @@
             "1201": null
         },
         "ca": {
+            "5534": {
+                "slug": "clothing_giantbunnytailgold",
+                "name": "clothing_giantbunnytailgold name",
+                "description": "clothing_giantbunnytailgold desc",
+                "buyout": 0
+            },
+            "5533": {
+                "slug": "clothing_giantbunnytail",
+                "name": "clothing_giantbunnytail name",
+                "description": "clothing_giantbunnytail desc",
+                "buyout": 0
+            },
+            "5502": {
+                "slug": "clothing_nftgiantbunnytail",
+                "name": "Hasenschwanz in Habbo-Gr\u00f6sse",
+                "description": "clothing_nftgiantbunnytail desc",
+                "buyout": 0
+            },
             "5472": {
                 "slug": "clothing_snowmanbackpack",
                 "name": "Schneemann-Rucksack",
                 "description": "clothing_snowmanbackpack desc",
+                "buyout": 0
+            },
+            "5463": {
+                "slug": "clothing_nftbabychickbackpack",
+                "name": "K\u00fckenrucksack",
+                "description": "clothing_nftbabychickbackpack desc",
+                "buyout": 0
+            },
+            "5459": {
+                "slug": "clothing_bunnypurse",
+                "name": "Hasentasche",
+                "description": "clothing_bunnypurse desc",
+                "buyout": 0
+            },
+            "5455": {
+                "slug": "clothing_pocketchick",
+                "name": "Taschenk\u00fcken",
+                "description": "clothing_pocketchick desc",
+                "buyout": 0
+            },
+            "5454": {
+                "slug": "clothing_leafstrap",
+                "name": "Blattschattenspender",
+                "description": "clothing_leafstrap desc",
+                "buyout": 0
+            },
+            "5444": {
+                "slug": "clothing_r24_fairywings",
+                "name": "Feenfl\u00fcgel",
+                "description": "clothing_r24_fairywings desc",
                 "buyout": 0
             },
             "5431": {
@@ -8599,7 +8725,7 @@
                 "slug": "clothing_cnydragon",
                 "name": "Monddrachen-Outfit",
                 "description": "clothing_cnydragon desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5370": {
                 "slug": "clothing_starcompanion",
@@ -8753,6 +8879,12 @@
                 "description": "clothing_r24_pufferjacket desc",
                 "buyout": 0
             },
+            "5461": {
+                "slug": "clothing_r24_bunnyplushie",
+                "name": "Tr\u00f6stender Pl\u00fcschhase",
+                "description": "clothing_r24_bunnyplushie desc",
+                "buyout": 0
+            },
             "5447": {
                 "slug": "clothing_nfthabbohoodie23",
                 "name": "Habbo 2023 Kapuzenjacke",
@@ -8763,6 +8895,18 @@
                 "slug": "clothing_nfthabbohoodie23",
                 "name": "Habbo 2023 Kapuzenjacke",
                 "description": "clothing_nfthabbohoodie23 desc",
+                "buyout": 0
+            },
+            "5441": {
+                "slug": "clothing_bunnyhoodie",
+                "name": "Hasen-Kapuzenjacke",
+                "description": "clothing_bunnyhoodie desc",
+                "buyout": 0
+            },
+            "5440": {
+                "slug": "clothing_bunnyhoodie",
+                "name": "Hasen-Kapuzenjacke",
+                "description": "clothing_bunnyhoodie desc",
                 "buyout": 0
             },
             "5400": {
@@ -9928,7 +10072,7 @@
             },
             "5462": {
                 "slug": "clothing_nft2024",
-                "name": "clothing_nft2024 name",
+                "name": "2024 Kette",
                 "description": "clothing_nft2024 desc",
                 "buyout": 0
             },

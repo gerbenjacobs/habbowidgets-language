@@ -17,10 +17,22 @@
     "clothing": {
         "hr": {
             "9534": null,
+            "5503": {
+                "slug": "clothing_nftlongflowyhair",
+                "name": "Hollywood Glamour Kapsel",
+                "description": "clothing_nftlongflowyhair desc",
+                "buyout": 0
+            },
             "5465": {
                 "slug": "clothing_r24_hoodhair",
                 "name": "Haar onder Capuchon",
                 "description": "clothing_r24_hoodhair desc",
+                "buyout": 0
+            },
+            "5445": {
+                "slug": "clothing_ltd24_etherealhairandaccessory",
+                "name": "Buitengewoon Haar",
+                "description": "clothing_ltd24_etherealhairandaccessory desc",
                 "buyout": 0
             },
             "5439": {
@@ -968,6 +980,18 @@
             "100": null
         },
         "hd": {
+            "5525": {
+                "slug": "clothing_nftsleepless",
+                "name": "Vermoeide Ogen",
+                "description": "clothing_nftsleepless desc",
+                "buyout": 0
+            },
+            "5524": {
+                "slug": "clothing_nftsleepless",
+                "name": "Vermoeide Ogen",
+                "description": "clothing_nftsleepless desc",
+                "buyout": 0
+            },
             "5430": {
                 "slug": "clothing_nftstatue",
                 "name": "clothing_nftstatue name",
@@ -1241,6 +1265,18 @@
                 "slug": "clothing_r24_revealingswimsuit",
                 "name": "Nietsverhullend Zwempak",
                 "description": "clothing_r24_revealingswimsuit desc",
+                "buyout": 0
+            },
+            "5453": {
+                "slug": "clothing_bunnyoveralls",
+                "name": "Konijnen Tuinbroek",
+                "description": "clothing_bunnyoveralls desc",
+                "buyout": 0
+            },
+            "5452": {
+                "slug": "clothing_bunnyoveralls",
+                "name": "Konijnen Tuinbroek",
+                "description": "clothing_bunnyoveralls desc",
                 "buyout": 0
             },
             "5449": {
@@ -4002,7 +4038,7 @@
                 "slug": "clothing_cozysocks",
                 "name": "Gezellige Sokken",
                 "description": "clothing_cozysocks desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5355": {
                 "slug": "clothing_goldcladyshoes",
@@ -4353,10 +4389,28 @@
                 "description": "clothing_wintercatbeanie desc",
                 "buyout": 0
             },
+            "5460": {
+                "slug": "clothing_farmstrawhat",
+                "name": "Rieten hoed",
+                "description": "clothing_farmstrawhat desc",
+                "buyout": 0
+            },
+            "5451": {
+                "slug": "clothing_bunnyflowerheadband",
+                "name": "Konijnen Bloemen Diadeem",
+                "description": "clothing_bunnyflowerheadband desc",
+                "buyout": 0
+            },
             "5450": {
                 "slug": "clothing_nfthabbocap23",
                 "name": "Habbo 2023 Cap ",
                 "description": "clothing_nfthabbocap23 desc",
+                "buyout": 0
+            },
+            "5443": {
+                "slug": "clothing_nfttangeberet",
+                "name": "Fruitige Baret",
+                "description": "clothing_nfttangeberet desc",
                 "buyout": 0
             },
             "5428": {
@@ -6326,7 +6380,25 @@
                 "slug": "clothing_snowday",
                 "name": "Sneeuwerige Look",
                 "description": "clothing_snowday desc",
-                "buyout": 1
+                "buyout": 0
+            },
+            "5458": {
+                "slug": "clothing_leafheadband",
+                "name": "Lente Haarband",
+                "description": "clothing_leafheadband desc",
+                "buyout": 0
+            },
+            "5457": {
+                "slug": "clothing_daisyheadaccessory",
+                "name": "Madeliefje Stekje",
+                "description": "clothing_daisyheadaccessory desc",
+                "buyout": 0
+            },
+            "5442": {
+                "slug": "clothing_ltd24_etherealhairandaccessory",
+                "name": "Buitengewoon Haar",
+                "description": "clothing_ltd24_etherealhairandaccessory desc",
+                "buyout": 0
             },
             "5436": {
                 "slug": "clothing_nftchocolatepin",
@@ -6338,7 +6410,7 @@
                 "slug": "clothing_cnydragon",
                 "name": "Maandraak Outfit",
                 "description": "clothing_cnydragon desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5393": {
                 "slug": "clothing_nftpiercings",
@@ -7370,7 +7442,13 @@
                 "slug": "clothing_snowday",
                 "name": "Sneeuwerige Look",
                 "description": "clothing_snowday desc",
-                "buyout": 1
+                "buyout": 0
+            },
+            "5456": {
+                "slug": "clothing_carrotbite",
+                "name": "Snoepworteltje",
+                "description": "clothing_carrotbite desc",
+                "buyout": 0
             },
             "5435": {
                 "slug": "clothing_nftyummy",
@@ -7785,10 +7863,58 @@
             "1201": null
         },
         "ca": {
+            "5534": {
+                "slug": "clothing_giantbunnytailgold",
+                "name": "clothing_giantbunnytailgold name",
+                "description": "clothing_giantbunnytailgold desc",
+                "buyout": 0
+            },
+            "5533": {
+                "slug": "clothing_giantbunnytail",
+                "name": "clothing_giantbunnytail name",
+                "description": "clothing_giantbunnytail desc",
+                "buyout": 0
+            },
+            "5502": {
+                "slug": "clothing_nftgiantbunnytail",
+                "name": "Konijnenstaart in Habbo-formaat",
+                "description": "clothing_nftgiantbunnytail desc",
+                "buyout": 0
+            },
             "5472": {
                 "slug": "clothing_snowmanbackpack",
                 "name": "Sneeuwpop Rugzak",
                 "description": "clothing_snowmanbackpack desc",
+                "buyout": 0
+            },
+            "5463": {
+                "slug": "clothing_nftbabychickbackpack",
+                "name": "Kuiken Rugzak",
+                "description": "clothing_nftbabychickbackpack desc",
+                "buyout": 0
+            },
+            "5459": {
+                "slug": "clothing_bunnypurse",
+                "name": "Konijnentas",
+                "description": "clothing_bunnypurse desc",
+                "buyout": 0
+            },
+            "5455": {
+                "slug": "clothing_pocketchick",
+                "name": "Schoot Kuikentje",
+                "description": "clothing_pocketchick desc",
+                "buyout": 0
+            },
+            "5454": {
+                "slug": "clothing_leafstrap",
+                "name": "Schaduw Blad",
+                "description": "clothing_leafstrap desc",
+                "buyout": 0
+            },
+            "5444": {
+                "slug": "clothing_r24_fairywings",
+                "name": "Toverfee Vleugels",
+                "description": "clothing_r24_fairywings desc",
                 "buyout": 0
             },
             "5431": {
@@ -8599,7 +8725,7 @@
                 "slug": "clothing_cnydragon",
                 "name": "Maandraak Outfit",
                 "description": "clothing_cnydragon desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5370": {
                 "slug": "clothing_starcompanion",
@@ -8753,6 +8879,12 @@
                 "description": "clothing_r24_pufferjacket desc",
                 "buyout": 0
             },
+            "5461": {
+                "slug": "clothing_r24_bunnyplushie",
+                "name": "Lievelings Konijnenknuffel",
+                "description": "clothing_r24_bunnyplushie desc",
+                "buyout": 0
+            },
             "5447": {
                 "slug": "clothing_nfthabbohoodie23",
                 "name": "Habbo 2023 Hoodie",
@@ -8763,6 +8895,18 @@
                 "slug": "clothing_nfthabbohoodie23",
                 "name": "Habbo 2023 Hoodie",
                 "description": "clothing_nfthabbohoodie23 desc",
+                "buyout": 0
+            },
+            "5441": {
+                "slug": "clothing_bunnyhoodie",
+                "name": "Konijnen Trui",
+                "description": "clothing_bunnyhoodie desc",
+                "buyout": 0
+            },
+            "5440": {
+                "slug": "clothing_bunnyhoodie",
+                "name": "Konijnen Trui",
+                "description": "clothing_bunnyhoodie desc",
                 "buyout": 0
             },
             "5400": {
