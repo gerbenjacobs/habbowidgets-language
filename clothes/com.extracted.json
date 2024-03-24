@@ -91,7 +91,7 @@
             },
             "5360": {
                 "slug": "clothing_obbawobbaoutfit",
-                "name": "clothing_obbawobbaoutfit name",
+                "name": "Obba Bobba Outfit",
                 "description": "clothing_obbawobbaoutfit desc",
                 "buyout": 0
             },
@@ -1255,6 +1255,42 @@
             "180": null
         },
         "ch": {
+            "5531": {
+                "slug": "clothing_nftstrawberryshirt",
+                "name": "Strawberry T-Shirt",
+                "description": "clothing_nftstrawberryshirt desc",
+                "buyout": 0
+            },
+            "5530": {
+                "slug": "clothing_nftblueberryshirt",
+                "name": "Blueberry T-Shirt",
+                "description": "clothing_nftblueberryshirt desc",
+                "buyout": 0
+            },
+            "5529": {
+                "slug": "clothing_nftraspberryshirt",
+                "name": "Raspberry T-Shirt",
+                "description": "clothing_nftraspberryshirt desc",
+                "buyout": 0
+            },
+            "5528": {
+                "slug": "clothing_nftstrawberryshirt",
+                "name": "Strawberry T-Shirt",
+                "description": "clothing_nftstrawberryshirt desc",
+                "buyout": 0
+            },
+            "5527": {
+                "slug": "clothing_nftblueberryshirt",
+                "name": "Blueberry T-Shirt",
+                "description": "clothing_nftblueberryshirt desc",
+                "buyout": 0
+            },
+            "5526": {
+                "slug": "clothing_nftraspberryshirt",
+                "name": "Raspberry T-Shirt",
+                "description": "clothing_nftraspberryshirt desc",
+                "buyout": 0
+            },
             "5488": {
                 "slug": "clothing_r24_revealingswimsuit",
                 "name": "Revealing Swimsuit",
@@ -1271,13 +1307,13 @@
                 "slug": "clothing_bunnyoveralls",
                 "name": "Bunny Overalls",
                 "description": "clothing_bunnyoveralls desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5452": {
                 "slug": "clothing_bunnyoveralls",
                 "name": "Bunny Overalls",
                 "description": "clothing_bunnyoveralls desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5449": {
                 "slug": "clothing_nfthabboshirt23",
@@ -1329,13 +1365,13 @@
             },
             "5368": {
                 "slug": "clothing_obbawobbaoutfit",
-                "name": "clothing_obbawobbaoutfit name",
+                "name": "Obba Bobba Outfit",
                 "description": "clothing_obbawobbaoutfit desc",
                 "buyout": 0
             },
             "5367": {
                 "slug": "clothing_obbawobbaoutfit",
-                "name": "clothing_obbawobbaoutfit name",
+                "name": "Obba Bobba Outfit",
                 "description": "clothing_obbawobbaoutfit desc",
                 "buyout": 0
             },
@@ -3502,6 +3538,24 @@
             "210": null
         },
         "lg": {
+            "5548": {
+                "slug": "clothing_nftstrawberryshirt",
+                "name": "Strawberry T-Shirt",
+                "description": "clothing_nftstrawberryshirt desc",
+                "buyout": 0
+            },
+            "5547": {
+                "slug": "clothing_nftblueberryshirt",
+                "name": "Blueberry T-Shirt",
+                "description": "clothing_nftblueberryshirt desc",
+                "buyout": 0
+            },
+            "5546": {
+                "slug": "clothing_nftraspberryshirt",
+                "name": "Raspberry T-Shirt",
+                "description": "clothing_nftraspberryshirt desc",
+                "buyout": 0
+            },
             "5399": {
                 "slug": "clothing_nftrippedshorts",
                 "name": "Ripper Rocker Shorts",
@@ -4034,6 +4088,24 @@
             "270": null
         },
         "sh": {
+            "5543": {
+                "slug": "clothing_nftstrawberryshoes",
+                "name": "Strawberry Shoes",
+                "description": "clothing_nftstrawberryshoes desc",
+                "buyout": 0
+            },
+            "5542": {
+                "slug": "clothing_nftblueberryshoes",
+                "name": "Blueberry Shoes",
+                "description": "clothing_nftblueberryshoes desc",
+                "buyout": 0
+            },
+            "5541": {
+                "slug": "clothing_nftraspberryshoes",
+                "name": "Raspberry Shoes",
+                "description": "clothing_nftraspberryshoes desc",
+                "buyout": 0
+            },
             "5464": {
                 "slug": "clothing_cozysocks",
                 "name": "Cosy Socks",
@@ -4317,6 +4389,30 @@
             "290": null
         },
         "ha": {
+            "5537": {
+                "slug": "clothing_nftstrawberrycap",
+                "name": "Strawberry Cap",
+                "description": "clothing_nftstrawberrycap desc",
+                "buyout": 0
+            },
+            "5536": {
+                "slug": "clothing_nftblueberrycap",
+                "name": "Blueberry Cap",
+                "description": "clothing_nftblueberrycap desc",
+                "buyout": 0
+            },
+            "5535": {
+                "slug": "clothing_nftraspberrycap",
+                "name": "Raspberry Cap",
+                "description": "clothing_nftraspberrycap desc",
+                "buyout": 0
+            },
+            "5532": {
+                "slug": "clothing_nftdragoncrown",
+                "name": "Year of the Dragon Crown",
+                "description": "clothing_nftdragoncrown desc",
+                "buyout": 0
+            },
             "5512": {
                 "slug": "clothing_nftblackbeanie",
                 "name": "Black Ski Beanie",
@@ -4393,13 +4489,13 @@
                 "slug": "clothing_farmstrawhat",
                 "name": "Straw Hat",
                 "description": "clothing_farmstrawhat desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5451": {
                 "slug": "clothing_bunnyflowerheadband",
                 "name": "Bunny Flower Crown",
                 "description": "clothing_bunnyflowerheadband desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5450": {
                 "slug": "clothing_nfthabbocap23",
@@ -6386,7 +6482,7 @@
                 "slug": "clothing_leafheadband",
                 "name": "Sprouting Hairband",
                 "description": "clothing_leafheadband desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5457": {
                 "slug": "clothing_daisyheadaccessory",
@@ -7863,6 +7959,24 @@
             "1201": null
         },
         "ca": {
+            "5540": {
+                "slug": "clothing_nftstrawberrybag",
+                "name": "Strawberry Backpack",
+                "description": "clothing_nftstrawberrybag desc",
+                "buyout": 0
+            },
+            "5539": {
+                "slug": "clothing_nftblueberrybag",
+                "name": "Blueberry Backpack",
+                "description": "clothing_nftblueberrybag desc",
+                "buyout": 0
+            },
+            "5538": {
+                "slug": "clothing_nftraspberrybag",
+                "name": "Raspberry Backpack",
+                "description": "clothing_nftraspberrybag desc",
+                "buyout": 0
+            },
             "5534": {
                 "slug": "clothing_giantbunnytailgold",
                 "name": "clothing_giantbunnytailgold name",
@@ -7873,6 +7987,12 @@
                 "slug": "clothing_giantbunnytail",
                 "name": "clothing_giantbunnytail name",
                 "description": "clothing_giantbunnytail desc",
+                "buyout": 0
+            },
+            "5523": {
+                "slug": "clothing_nftfloraradiance",
+                "name": "Floral Garland Wings",
+                "description": "clothing_nftfloraradiance desc",
                 "buyout": 0
             },
             "5502": {
@@ -7897,19 +8017,19 @@
                 "slug": "clothing_bunnypurse",
                 "name": "Bunny Purse",
                 "description": "clothing_bunnypurse desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5455": {
                 "slug": "clothing_pocketchick",
                 "name": "Pocket Chick",
                 "description": "clothing_pocketchick desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5454": {
                 "slug": "clothing_leafstrap",
                 "name": "Leaf Shade",
                 "description": "clothing_leafstrap desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5444": {
                 "slug": "clothing_r24_fairywings",
@@ -8901,13 +9021,13 @@
                 "slug": "clothing_bunnyhoodie",
                 "name": "Bunny Hoodie",
                 "description": "clothing_bunnyhoodie desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5440": {
                 "slug": "clothing_bunnyhoodie",
                 "name": "Bunny Hoodie",
                 "description": "clothing_bunnyhoodie desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5400": {
                 "slug": "clothing_nftbobbajacket",
