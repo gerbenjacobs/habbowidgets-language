@@ -19,13 +19,13 @@
             "9534": null,
             "5567": {
                 "slug": "clothing_yarnhair",
-                "name": "clothing_yarnhair name",
+                "name": "Haar van Garen",
                 "description": "clothing_yarnhair desc",
                 "buyout": 0
             },
             "5566": {
                 "slug": "clothing_nftmarshmallowhair",
-                "name": "clothing_nftmarshmallowhair name",
+                "name": "Spekkies Vlechten",
                 "description": "clothing_nftmarshmallowhair desc",
                 "buyout": 0
             },
@@ -33,11 +33,11 @@
                 "slug": "clothing_nftlongflowyhair",
                 "name": "Hollywood Glamour Kapsel",
                 "description": "clothing_nftlongflowyhair desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5481": {
                 "slug": "clothing_pencilhair",
-                "name": "clothing_pencilhair name",
+                "name": "Potlood in het haar",
                 "description": "clothing_pencilhair desc",
                 "buyout": 0
             },
@@ -1273,6 +1273,7 @@
             "180": null
         },
         "ch": {
+            "5561": null,
             "5531": {
                 "slug": "clothing_nftstrawberryshirt",
                 "name": "Aardbeien T-shirt",
@@ -1325,13 +1326,13 @@
                 "slug": "clothing_bunnyoveralls",
                 "name": "Konijnen Tuinbroek",
                 "description": "clothing_bunnyoveralls desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5452": {
                 "slug": "clothing_bunnyoveralls",
                 "name": "Konijnen Tuinbroek",
                 "description": "clothing_bunnyoveralls desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5449": {
                 "slug": "clothing_nfthabboshirt23",
@@ -4106,9 +4107,15 @@
             "270": null
         },
         "sh": {
+            "5568": {
+                "slug": "clothing_nftsbboosters",
+                "name": "clothing_nftsbboosters name",
+                "description": "clothing_nftsbboosters desc",
+                "buyout": 0
+            },
             "5551": {
                 "slug": "clothing_nftmarshmallowsocks",
-                "name": "clothing_nftmarshmallowsocks name",
+                "name": "Spekkies Sokken",
                 "description": "clothing_nftmarshmallowsocks desc",
                 "buyout": 0
             },
@@ -4413,6 +4420,7 @@
             "290": null
         },
         "ha": {
+            "5562": null,
             "5537": {
                 "slug": "clothing_nftstrawberrycap",
                 "name": "Aardbeien Pet",
@@ -4457,13 +4465,13 @@
             },
             "5493": {
                 "slug": "clothing_r24_tinyhat",
-                "name": "clothing_r24_tinyhat name",
+                "name": "Ienie-minie Hoed",
                 "description": "clothing_r24_tinyhat desc",
                 "buyout": 0
             },
             "5489": {
                 "slug": "clothing_r24_habbozillahead",
-                "name": "clothing_r24_habbozillahead name",
+                "name": "Habbozilla Masker",
                 "description": "clothing_r24_habbozillahead desc",
                 "buyout": 0
             },
@@ -4499,7 +4507,7 @@
             },
             "5473": {
                 "slug": "clothing_rosehat",
-                "name": "clothing_rosehat name",
+                "name": "Rozenhoed",
                 "description": "clothing_rosehat desc",
                 "buyout": 0
             },
@@ -4531,13 +4539,13 @@
                 "slug": "clothing_farmstrawhat",
                 "name": "Rieten hoed",
                 "description": "clothing_farmstrawhat desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5451": {
                 "slug": "clothing_bunnyflowerheadband",
                 "name": "Konijnen Bloemen Diadeem",
                 "description": "clothing_bunnyflowerheadband desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5450": {
                 "slug": "clothing_nfthabbocap23",
@@ -4549,7 +4557,7 @@
                 "slug": "clothing_nfttangeberet",
                 "name": "Fruitige Baret",
                 "description": "clothing_nfttangeberet desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5428": {
                 "slug": "clothing_goldhatpack4",
@@ -6516,13 +6524,13 @@
         "he": {
             "5553": {
                 "slug": "clothing_nftunicornhorn",
-                "name": "clothing_nftunicornhorn name",
+                "name": "Spekkies Eenhoorn Hoorn",
                 "description": "clothing_nftunicornhorn desc",
                 "buyout": 0
             },
             "5482": {
                 "slug": "clothing_keychain",
-                "name": "clothing_keychain name",
+                "name": "Sleutelhanger",
                 "description": "clothing_keychain desc",
                 "buyout": 0
             },
@@ -6536,7 +6544,7 @@
                 "slug": "clothing_leafheadband",
                 "name": "Lente Haarband",
                 "description": "clothing_leafheadband desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5457": {
                 "slug": "clothing_daisyheadaccessory",
@@ -7300,6 +7308,12 @@
             "1601": null
         },
         "ea": {
+            "5570": {
+                "slug": "clothing_nftsbvisor",
+                "name": "clothing_nftsbvisor name",
+                "description": "clothing_nftsbvisor desc",
+                "buyout": 0
+            },
             "5490": {
                 "slug": "clothing_nfthearteyes",
                 "name": "Verliefde Ogen",
@@ -8013,9 +8027,16 @@
             "1201": null
         },
         "ca": {
+            "5574": null,
+            "5571": {
+                "slug": "clothing_nftsbrocketpack",
+                "name": "clothing_nftsbrocketpack name",
+                "description": "clothing_nftsbrocketpack desc",
+                "buyout": 0
+            },
             "5550": {
                 "slug": "clothing_nftmarshmallowbag",
-                "name": "clothing_nftmarshmallowbag name",
+                "name": "Spekkies Rugzak",
                 "description": "clothing_nftmarshmallowbag desc",
                 "buyout": 0
             },
@@ -8059,29 +8080,29 @@
                 "slug": "clothing_nftgiantbunnytail",
                 "name": "Konijnenstaart in Habbo-formaat",
                 "description": "clothing_nftgiantbunnytail desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5480": {
                 "slug": "clothing_windupkey",
-                "name": "clothing_windupkey name",
+                "name": "Opwindsleutel",
                 "description": "clothing_windupkey desc",
                 "buyout": 0
             },
             "5479": {
                 "slug": "clothing_bigbutton",
-                "name": "clothing_bigbutton name",
+                "name": "Grote Knop",
                 "description": "clothing_bigbutton desc",
                 "buyout": 0
             },
             "5477": {
                 "slug": "clothing_inkbackpack",
-                "name": "clothing_inkbackpack name",
+                "name": "Inktpot Rugzak",
                 "description": "clothing_inkbackpack desc",
                 "buyout": 0
             },
             "5474": {
                 "slug": "clothing_bigzipper",
-                "name": "clothing_bigzipper name",
+                "name": "Grote Rits",
                 "description": "clothing_bigzipper desc",
                 "buyout": 0
             },
@@ -8095,25 +8116,25 @@
                 "slug": "clothing_nftbabychickbackpack",
                 "name": "Kuiken Rugzak",
                 "description": "clothing_nftbabychickbackpack desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5459": {
                 "slug": "clothing_bunnypurse",
                 "name": "Konijnentas",
                 "description": "clothing_bunnypurse desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5455": {
                 "slug": "clothing_pocketchick",
                 "name": "Schoot Kuikentje",
                 "description": "clothing_pocketchick desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5454": {
                 "slug": "clothing_leafstrap",
                 "name": "Schaduw Blad",
                 "description": "clothing_leafstrap desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5444": {
                 "slug": "clothing_r24_fairywings",
@@ -8927,7 +8948,7 @@
         "wa": {
             "5478": {
                 "slug": "clothing_quill",
-                "name": "clothing_quill name",
+                "name": "Veren Accessoire",
                 "description": "clothing_quill desc",
                 "buyout": 0
             },
@@ -9047,6 +9068,24 @@
         "cc": {
             "9865": null,
             "9563": null,
+            "5573": {
+                "slug": "clothing_nftsbrangerjacket",
+                "name": "clothing_nftsbrangerjacket name",
+                "description": "clothing_nftsbrangerjacket desc",
+                "buyout": 0
+            },
+            "5572": {
+                "slug": "clothing_nftsbrangerjacket",
+                "name": "clothing_nftsbrangerjacket name",
+                "description": "clothing_nftsbrangerjacket desc",
+                "buyout": 0
+            },
+            "5569": {
+                "slug": "clothing_nftsbraygun",
+                "name": "clothing_nftsbraygun name",
+                "description": "clothing_nftsbraygun desc",
+                "buyout": 0
+            },
             "5509": {
                 "slug": "clothing_nftwinterpink",
                 "name": "Roze Ski Jack",
@@ -9111,13 +9150,13 @@
                 "slug": "clothing_bunnyhoodie",
                 "name": "Konijnen Trui",
                 "description": "clothing_bunnyhoodie desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5440": {
                 "slug": "clothing_bunnyhoodie",
                 "name": "Konijnen Trui",
                 "description": "clothing_bunnyhoodie desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5400": {
                 "slug": "clothing_nftbobbajacket",
