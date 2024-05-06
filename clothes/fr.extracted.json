@@ -17,6 +17,18 @@
     "clothing": {
         "hr": {
             "9534": null,
+            "5590": {
+                "slug": "clothing_nftstreetboy",
+                "name": "Chevelure E-boy",
+                "description": "clothing_nftstreetboy desc",
+                "buyout": 0
+            },
+            "5589": {
+                "slug": "clothing_nftstreetgirl",
+                "name": "Chevelure E-girl",
+                "description": "clothing_nftstreetgirl desc",
+                "buyout": 0
+            },
             "5567": {
                 "slug": "clothing_yarnhair",
                 "name": "Chevelure en fil",
@@ -27,6 +39,24 @@
                 "slug": "clothing_nftmarshmallowhair",
                 "name": "Tresses Chamallow",
                 "description": "clothing_nftmarshmallowhair desc",
+                "buyout": 0
+            },
+            "5556": {
+                "slug": "clothing_pompadour",
+                "name": "Pompadour Color\u00e9e",
+                "description": "clothing_pompadour desc",
+                "buyout": 0
+            },
+            "5555": {
+                "slug": "clothing_nftbeetails",
+                "name": "Pain Abeille",
+                "description": "clothing_nftbeetails desc",
+                "buyout": 0
+            },
+            "5544": {
+                "slug": "clothing_r24_scenehair",
+                "name": "Chevelure de sc\u00e8ne",
+                "description": "clothing_r24_scenehair desc",
                 "buyout": 0
             },
             "5503": {
@@ -253,7 +283,7 @@
             },
             "4370": {
                 "slug": "clothing_r22_prideshorthair",
-                "name": "Cheveux Pride en pointes",
+                "name": "Chevelure \u00c9pis Pride",
                 "description": "clothing_r22_prideshorthair desc",
                 "buyout": 0
             },
@@ -1273,7 +1303,43 @@
             "180": null
         },
         "ch": {
+            "5588": {
+                "slug": "clothing_nftgraffiticroptop",
+                "name": "Veste Crop Graffiti",
+                "description": "clothing_nftgraffiticroptop desc",
+                "buyout": 0
+            },
+            "5587": {
+                "slug": "clothing_nftgraffiticroptop",
+                "name": "Veste Crop Graffiti",
+                "description": "clothing_nftgraffiticroptop desc",
+                "buyout": 0
+            },
+            "5586": {
+                "slug": "clothing_nftgraffititanktop",
+                "name": "D\u00e9bardeur Graffiti",
+                "description": "clothing_nftgraffititanktop desc",
+                "buyout": 0
+            },
+            "5585": {
+                "slug": "clothing_nftgraffititanktop",
+                "name": "D\u00e9bardeur Graffiti",
+                "description": "clothing_nftgraffititanktop desc",
+                "buyout": 0
+            },
             "5561": null,
+            "5560": {
+                "slug": "clothing_tattoobody",
+                "name": "Manche atou\u00e9eT",
+                "description": "clothing_tattoobody desc",
+                "buyout": 0
+            },
+            "5559": {
+                "slug": "clothing_tattoobody",
+                "name": "Manche atou\u00e9eT",
+                "description": "clothing_tattoobody desc",
+                "buyout": 0
+            },
             "5531": {
                 "slug": "clothing_nftstrawberryshirt",
                 "name": "T-Shirt Fraise",
@@ -1686,7 +1752,7 @@
             },
             "5189": {
                 "slug": "clothing_nt_graduationoutfit",
-                "name": "clothing_nt_graduationoutfit name",
+                "name": "Casquette et Toge de fin d'\u00e9tudes",
                 "description": "clothing_nt_graduationoutfit desc",
                 "buyout": 0
             },
@@ -3557,6 +3623,12 @@
             "210": null
         },
         "lg": {
+            "5584": {
+                "slug": "clothing_nftgraffitipants",
+                "name": "Jogging Graffiti",
+                "description": "clothing_nftgraffitipants desc",
+                "buyout": 0
+            },
             "5548": {
                 "slug": "clothing_nftstrawberryshirt",
                 "name": "T-Shirt Fraise",
@@ -3573,6 +3645,12 @@
                 "slug": "clothing_nftraspberryshirt",
                 "name": "T-Shirt Framboise",
                 "description": "clothing_nftraspberryshirt desc",
+                "buyout": 0
+            },
+            "5545": {
+                "slug": "clothing_techpants",
+                "name": "Pantalon Cargo",
+                "description": "clothing_techpants desc",
                 "buyout": 0
             },
             "5399": {
@@ -4420,7 +4498,19 @@
             "290": null
         },
         "ha": {
+            "5591": {
+                "slug": "clothing_nftqueenbee",
+                "name": "Reine Abeille",
+                "description": "clothing_nftqueenbee desc",
+                "buyout": 0
+            },
             "5562": null,
+            "5557": {
+                "slug": "clothing_r24_techjacket",
+                "name": "Veste Techwear Fashion",
+                "description": "clothing_r24_techjacket desc",
+                "buyout": 0
+            },
             "5537": {
                 "slug": "clothing_nftstrawberrycap",
                 "name": "Casquette Fraise",
@@ -4561,49 +4651,49 @@
             },
             "5428": {
                 "slug": "clothing_goldhatpack4",
-                "name": "Golden Hat Pack 4",
+                "name": "Pack Chapeau dor\u00e9 4",
                 "description": "clothing_goldhatpack4 desc",
                 "buyout": 0
             },
             "5427": {
                 "slug": "clothing_goldhatpack4",
-                "name": "Golden Hat Pack 4",
+                "name": "Pack Chapeau dor\u00e9 4",
                 "description": "clothing_goldhatpack4 desc",
                 "buyout": 0
             },
             "5426": {
                 "slug": "clothing_goldhatpack4",
-                "name": "Golden Hat Pack 4",
+                "name": "Pack Chapeau dor\u00e9 4",
                 "description": "clothing_goldhatpack4 desc",
                 "buyout": 0
             },
             "5425": {
                 "slug": "clothing_goldhatpack4",
-                "name": "Golden Hat Pack 4",
+                "name": "Pack Chapeau dor\u00e9 4",
                 "description": "clothing_goldhatpack4 desc",
                 "buyout": 0
             },
             "5424": {
                 "slug": "clothing_goldhatpack4",
-                "name": "Golden Hat Pack 4",
+                "name": "Pack Chapeau dor\u00e9 4",
                 "description": "clothing_goldhatpack4 desc",
                 "buyout": 0
             },
             "5423": {
                 "slug": "clothing_goldhatpack4",
-                "name": "Golden Hat Pack 4",
+                "name": "Pack Chapeau dor\u00e9 4",
                 "description": "clothing_goldhatpack4 desc",
                 "buyout": 0
             },
             "5422": {
                 "slug": "clothing_goldhatpack4",
-                "name": "Golden Hat Pack 4",
+                "name": "Pack Chapeau dor\u00e9 4",
                 "description": "clothing_goldhatpack4 desc",
                 "buyout": 0
             },
             "5421": {
                 "slug": "clothing_goldhatpack4",
-                "name": "Golden Hat Pack 4",
+                "name": "Pack Chapeau dor\u00e9 4",
                 "description": "clothing_goldhatpack4 desc",
                 "buyout": 0
             },
@@ -4874,7 +4964,7 @@
             "5149": null,
             "5141": {
                 "slug": "clothing_nt_graduationoutfit",
-                "name": "clothing_nt_graduationoutfit name",
+                "name": "Casquette et Toge de fin d'\u00e9tudes",
                 "description": "clothing_nt_graduationoutfit desc",
                 "buyout": 0
             },
@@ -5156,7 +5246,7 @@
             },
             "4371": {
                 "slug": "clothing_r22_gathat",
-                "name": "Gat cor\u00e9en",
+                "name": "Gat Cor\u00e9en",
                 "description": "clothing_r22_gathat desc",
                 "buyout": 0
             },
@@ -6522,6 +6612,12 @@
             "1001": null
         },
         "he": {
+            "5554": {
+                "slug": "clothing_skullhairclip",
+                "name": "Pince \u00e0 Cheveux T\u00eate de Mort",
+                "description": "clothing_skullhairclip desc",
+                "buyout": 0
+            },
             "5553": {
                 "slug": "clothing_nftunicornhorn",
                 "name": "Corne de Licorne Chamallow",
@@ -7602,6 +7698,18 @@
             "1401": null
         },
         "fa": {
+            "5552": {
+                "slug": "clothing_paintedmask",
+                "name": "Masque \u00e0 Gaz Peint",
+                "description": "clothing_paintedmask desc",
+                "buyout": 0
+            },
+            "5492": {
+                "slug": "clothing_splattermask",
+                "name": "Masque \u00c9clabouss\u00e9",
+                "description": "clothing_splattermask desc",
+                "buyout": 0
+            },
             "5467": {
                 "slug": "clothing_snowday",
                 "name": "Look Jour de neige",
@@ -7664,7 +7772,7 @@
             },
             "5369": {
                 "slug": "clothing_catmask2",
-                "name": "Masque de chat de Sao Paulo",
+                "name": "Masque de chat Sao Paulo",
                 "description": "clothing_catmask2 desc",
                 "buyout": 0
             },
@@ -8027,7 +8135,24 @@
             "1201": null
         },
         "ca": {
-            "5574": null,
+            "5583": {
+                "slug": "clothing_nfthoneyjar",
+                "name": "Sac Pot de miel",
+                "description": "clothing_nfthoneyjar desc",
+                "buyout": 0
+            },
+            "5575": {
+                "slug": "clothing_nftbeebackpack",
+                "name": "clothing_nftbeebackpack name",
+                "description": "clothing_nftbeebackpack desc",
+                "buyout": 0
+            },
+            "5574": {
+                "slug": "clothing_nftsnowboard",
+                "name": "clothing_nftsnowboard name",
+                "description": "clothing_nftsnowboard desc",
+                "buyout": 0
+            },
             "5571": {
                 "slug": "clothing_nftsbrocketpack",
                 "name": "clothing_nftsbrocketpack name",
@@ -8038,6 +8163,12 @@
                 "slug": "clothing_nftmarshmallowbag",
                 "name": "Sac \u00e0 dos Chamallow",
                 "description": "clothing_nftmarshmallowbag desc",
+                "buyout": 0
+            },
+            "5549": {
+                "slug": "clothing_techbag",
+                "name": "Sac \u00e0 bandouli\u00e8re Tech",
+                "description": "clothing_techbag desc",
                 "buyout": 0
             },
             "5540": {
@@ -8258,7 +8389,7 @@
             },
             "5278": {
                 "slug": "clothing_snakearoundneck",
-                "name": "clothing_snakearoundneck name",
+                "name": "Compagnon de route",
                 "description": "clothing_snakearoundneck desc",
                 "buyout": 1
             },
@@ -8571,7 +8702,7 @@
             },
             "4372": {
                 "slug": "clothing_r22_gathat",
-                "name": "Gat cor\u00e9en",
+                "name": "Gat Cor\u00e9en",
                 "description": "clothing_r22_gathat desc",
                 "buyout": 0
             },
@@ -9084,6 +9215,12 @@
                 "slug": "clothing_nftsbraygun",
                 "name": "clothing_nftsbraygun name",
                 "description": "clothing_nftsbraygun desc",
+                "buyout": 0
+            },
+            "5558": {
+                "slug": "clothing_r24_techjacket",
+                "name": "Veste Techwear Fashion",
+                "description": "clothing_r24_techjacket desc",
                 "buyout": 0
             },
             "5509": {

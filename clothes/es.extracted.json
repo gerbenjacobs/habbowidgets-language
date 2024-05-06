@@ -17,6 +17,18 @@
     "clothing": {
         "hr": {
             "9534": null,
+            "5590": {
+                "slug": "clothing_nftstreetboy",
+                "name": "Peinado E-boy",
+                "description": "clothing_nftstreetboy desc",
+                "buyout": 0
+            },
+            "5589": {
+                "slug": "clothing_nftstreetgirl",
+                "name": "Peinado E-girl",
+                "description": "clothing_nftstreetgirl desc",
+                "buyout": 0
+            },
             "5567": {
                 "slug": "clothing_yarnhair",
                 "name": "Cabello de Lana",
@@ -27,6 +39,24 @@
                 "slug": "clothing_nftmarshmallowhair",
                 "name": "Trenzas Malvavisco",
                 "description": "clothing_nftmarshmallowhair desc",
+                "buyout": 0
+            },
+            "5556": {
+                "slug": "clothing_pompadour",
+                "name": "Gran Tup\u00e9 Te\u00f1ido",
+                "description": "clothing_pompadour desc",
+                "buyout": 0
+            },
+            "5555": {
+                "slug": "clothing_nftbeetails",
+                "name": "Mo\u00f1itos de Abeja",
+                "description": "clothing_nftbeetails desc",
+                "buyout": 0
+            },
+            "5544": {
+                "slug": "clothing_r24_scenehair",
+                "name": "Peinado New Age",
+                "description": "clothing_r24_scenehair desc",
                 "buyout": 0
             },
             "5503": {
@@ -1273,7 +1303,43 @@
             "180": null
         },
         "ch": {
+            "5588": {
+                "slug": "clothing_nftgraffiticroptop",
+                "name": "Chaleco Cortado Grafiti",
+                "description": "clothing_nftgraffiticroptop desc",
+                "buyout": 0
+            },
+            "5587": {
+                "slug": "clothing_nftgraffiticroptop",
+                "name": "Chaleco Cortado Grafiti",
+                "description": "clothing_nftgraffiticroptop desc",
+                "buyout": 0
+            },
+            "5586": {
+                "slug": "clothing_nftgraffititanktop",
+                "name": "Camiseta Grafiti",
+                "description": "clothing_nftgraffititanktop desc",
+                "buyout": 0
+            },
+            "5585": {
+                "slug": "clothing_nftgraffititanktop",
+                "name": "Camiseta Grafiti",
+                "description": "clothing_nftgraffititanktop desc",
+                "buyout": 0
+            },
             "5561": null,
+            "5560": {
+                "slug": "clothing_tattoobody",
+                "name": "Brazo Tatuado",
+                "description": "clothing_tattoobody desc",
+                "buyout": 0
+            },
+            "5559": {
+                "slug": "clothing_tattoobody",
+                "name": "Brazo Tatuado",
+                "description": "clothing_tattoobody desc",
+                "buyout": 0
+            },
             "5531": {
                 "slug": "clothing_nftstrawberryshirt",
                 "name": "Camiseta de fresa",
@@ -1686,7 +1752,7 @@
             },
             "5189": {
                 "slug": "clothing_nt_graduationoutfit",
-                "name": "clothing_nt_graduationoutfit name",
+                "name": "Toga y Birrete de Graduaci\u00f3n",
                 "description": "clothing_nt_graduationoutfit desc",
                 "buyout": 0
             },
@@ -3557,6 +3623,12 @@
             "210": null
         },
         "lg": {
+            "5584": {
+                "slug": "clothing_nftgraffitipants",
+                "name": "Ch\u00e1ndal Grafiti",
+                "description": "clothing_nftgraffitipants desc",
+                "buyout": 0
+            },
             "5548": {
                 "slug": "clothing_nftstrawberryshirt",
                 "name": "Camiseta de fresa",
@@ -3573,6 +3645,12 @@
                 "slug": "clothing_nftraspberryshirt",
                 "name": "Camiseta de frambuesa",
                 "description": "clothing_nftraspberryshirt desc",
+                "buyout": 0
+            },
+            "5545": {
+                "slug": "clothing_techpants",
+                "name": "Pantal\u00f3n Cargo",
+                "description": "clothing_techpants desc",
                 "buyout": 0
             },
             "5399": {
@@ -4420,7 +4498,19 @@
             "290": null
         },
         "ha": {
+            "5591": {
+                "slug": "clothing_nftqueenbee",
+                "name": "Abeja Reina",
+                "description": "clothing_nftqueenbee desc",
+                "buyout": 0
+            },
             "5562": null,
+            "5557": {
+                "slug": "clothing_r24_techjacket",
+                "name": "Chaqueta Tech",
+                "description": "clothing_r24_techjacket desc",
+                "buyout": 0
+            },
             "5537": {
                 "slug": "clothing_nftstrawberrycap",
                 "name": "Gorra de fresa",
@@ -4561,49 +4651,49 @@
             },
             "5428": {
                 "slug": "clothing_goldhatpack4",
-                "name": "Golden Hat Pack 4",
+                "name": "Pack Sombrero Dorado 4",
                 "description": "clothing_goldhatpack4 desc",
                 "buyout": 0
             },
             "5427": {
                 "slug": "clothing_goldhatpack4",
-                "name": "Golden Hat Pack 4",
+                "name": "Pack Sombrero Dorado 4",
                 "description": "clothing_goldhatpack4 desc",
                 "buyout": 0
             },
             "5426": {
                 "slug": "clothing_goldhatpack4",
-                "name": "Golden Hat Pack 4",
+                "name": "Pack Sombrero Dorado 4",
                 "description": "clothing_goldhatpack4 desc",
                 "buyout": 0
             },
             "5425": {
                 "slug": "clothing_goldhatpack4",
-                "name": "Golden Hat Pack 4",
+                "name": "Pack Sombrero Dorado 4",
                 "description": "clothing_goldhatpack4 desc",
                 "buyout": 0
             },
             "5424": {
                 "slug": "clothing_goldhatpack4",
-                "name": "Golden Hat Pack 4",
+                "name": "Pack Sombrero Dorado 4",
                 "description": "clothing_goldhatpack4 desc",
                 "buyout": 0
             },
             "5423": {
                 "slug": "clothing_goldhatpack4",
-                "name": "Golden Hat Pack 4",
+                "name": "Pack Sombrero Dorado 4",
                 "description": "clothing_goldhatpack4 desc",
                 "buyout": 0
             },
             "5422": {
                 "slug": "clothing_goldhatpack4",
-                "name": "Golden Hat Pack 4",
+                "name": "Pack Sombrero Dorado 4",
                 "description": "clothing_goldhatpack4 desc",
                 "buyout": 0
             },
             "5421": {
                 "slug": "clothing_goldhatpack4",
-                "name": "Golden Hat Pack 4",
+                "name": "Pack Sombrero Dorado 4",
                 "description": "clothing_goldhatpack4 desc",
                 "buyout": 0
             },
@@ -4874,7 +4964,7 @@
             "5149": null,
             "5141": {
                 "slug": "clothing_nt_graduationoutfit",
-                "name": "clothing_nt_graduationoutfit name",
+                "name": "Toga y Birrete de Graduaci\u00f3n",
                 "description": "clothing_nt_graduationoutfit desc",
                 "buyout": 0
             },
@@ -5174,13 +5264,13 @@
             },
             "4349": {
                 "slug": "clothing_snailfriend2",
-                "name": "Caracol Amigo Azul",
+                "name": "Mi Amigo Caracol Azul",
                 "description": "clothing_snailfriend2 desc",
                 "buyout": 0
             },
             "4348": {
                 "slug": "clothing_snailfriend",
-                "name": "Caracol Amigo",
+                "name": "Mi Amigo Caracol",
                 "description": "clothing_snailfriend desc",
                 "buyout": 0
             },
@@ -6522,6 +6612,12 @@
             "1001": null
         },
         "he": {
+            "5554": {
+                "slug": "clothing_skullhairclip",
+                "name": "Clip Calavera",
+                "description": "clothing_skullhairclip desc",
+                "buyout": 0
+            },
             "5553": {
                 "slug": "clothing_nftunicornhorn",
                 "name": "Cuerno de Unicornio de Malvavisco",
@@ -7602,6 +7698,18 @@
             "1401": null
         },
         "fa": {
+            "5552": {
+                "slug": "clothing_paintedmask",
+                "name": "M\u00e1scara de Gas Pintada",
+                "description": "clothing_paintedmask desc",
+                "buyout": 0
+            },
+            "5492": {
+                "slug": "clothing_splattermask",
+                "name": "M\u00e1scara Manchada",
+                "description": "clothing_splattermask desc",
+                "buyout": 0
+            },
             "5467": {
                 "slug": "clothing_snowday",
                 "name": "Look d\u00eda de nieve",
@@ -7664,7 +7772,7 @@
             },
             "5369": {
                 "slug": "clothing_catmask2",
-                "name": "M\u00e1scara de Gato Sao Paolo",
+                "name": "M\u00e1scara de Gato de S\u00e3o Paulo",
                 "description": "clothing_catmask2 desc",
                 "buyout": 0
             },
@@ -8027,7 +8135,24 @@
             "1201": null
         },
         "ca": {
-            "5574": null,
+            "5583": {
+                "slug": "clothing_nfthoneyjar",
+                "name": "Bolso de Miel",
+                "description": "clothing_nfthoneyjar desc",
+                "buyout": 0
+            },
+            "5575": {
+                "slug": "clothing_nftbeebackpack",
+                "name": "clothing_nftbeebackpack name",
+                "description": "clothing_nftbeebackpack desc",
+                "buyout": 0
+            },
+            "5574": {
+                "slug": "clothing_nftsnowboard",
+                "name": "clothing_nftsnowboard name",
+                "description": "clothing_nftsnowboard desc",
+                "buyout": 0
+            },
             "5571": {
                 "slug": "clothing_nftsbrocketpack",
                 "name": "clothing_nftsbrocketpack name",
@@ -8038,6 +8163,12 @@
                 "slug": "clothing_nftmarshmallowbag",
                 "name": "Mochila Malvavisco",
                 "description": "clothing_nftmarshmallowbag desc",
+                "buyout": 0
+            },
+            "5549": {
+                "slug": "clothing_techbag",
+                "name": "Ri\u00f1onera Tech",
+                "description": "clothing_techbag desc",
                 "buyout": 0
             },
             "5540": {
@@ -8258,7 +8389,7 @@
             },
             "5278": {
                 "slug": "clothing_snakearoundneck",
-                "name": "clothing_snakearoundneck name",
+                "name": "Compa\u00f1ero Culebroso",
                 "description": "clothing_snakearoundneck desc",
                 "buyout": 1
             },
@@ -9084,6 +9215,12 @@
                 "slug": "clothing_nftsbraygun",
                 "name": "clothing_nftsbraygun name",
                 "description": "clothing_nftsbraygun desc",
+                "buyout": 0
+            },
+            "5558": {
+                "slug": "clothing_r24_techjacket",
+                "name": "Chaqueta Tech",
+                "description": "clothing_r24_techjacket desc",
                 "buyout": 0
             },
             "5509": {

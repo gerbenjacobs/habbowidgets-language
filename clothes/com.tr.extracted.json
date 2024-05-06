@@ -17,6 +17,18 @@
     "clothing": {
         "hr": {
             "9534": null,
+            "5590": {
+                "slug": "clothing_nftstreetboy",
+                "name": "Emo \u00c7ocuk Sa\u00e7",
+                "description": "clothing_nftstreetboy desc",
+                "buyout": 0
+            },
+            "5589": {
+                "slug": "clothing_nftstreetgirl",
+                "name": "Emo K\u0131z Sa\u00e7",
+                "description": "clothing_nftstreetgirl desc",
+                "buyout": 0
+            },
             "5567": {
                 "slug": "clothing_yarnhair",
                 "name": "\u0130plik Sa\u00e7",
@@ -27,6 +39,24 @@
                 "slug": "clothing_nftmarshmallowhair",
                 "name": "Mar\u015fmelov \u00d6rg\u00fc",
                 "description": "clothing_nftmarshmallowhair desc",
+                "buyout": 0
+            },
+            "5556": {
+                "slug": "clothing_pompadour",
+                "name": "Renkli Kabar\u0131k Sa\u00e7",
+                "description": "clothing_pompadour desc",
+                "buyout": 0
+            },
+            "5555": {
+                "slug": "clothing_nftbeetails",
+                "name": "Ar\u0131 Topuzlar\u0131",
+                "description": "clothing_nftbeetails desc",
+                "buyout": 0
+            },
+            "5544": {
+                "slug": "clothing_r24_scenehair",
+                "name": "Emo Sa\u00e7",
+                "description": "clothing_r24_scenehair desc",
                 "buyout": 0
             },
             "5503": {
@@ -253,7 +283,7 @@
             },
             "4370": {
                 "slug": "clothing_r22_prideshorthair",
-                "name": "Dikenli Onur Sa\u00e7",
+                "name": "Onur Sa\u00e7\u0131",
                 "description": "clothing_r22_prideshorthair desc",
                 "buyout": 0
             },
@@ -1273,7 +1303,43 @@
             "180": null
         },
         "ch": {
+            "5588": {
+                "slug": "clothing_nftgraffiticroptop",
+                "name": "Grafiti Crop Yelek",
+                "description": "clothing_nftgraffiticroptop desc",
+                "buyout": 0
+            },
+            "5587": {
+                "slug": "clothing_nftgraffiticroptop",
+                "name": "Grafiti Crop Yelek",
+                "description": "clothing_nftgraffiticroptop desc",
+                "buyout": 0
+            },
+            "5586": {
+                "slug": "clothing_nftgraffititanktop",
+                "name": "Grafiti Atlet",
+                "description": "clothing_nftgraffititanktop desc",
+                "buyout": 0
+            },
+            "5585": {
+                "slug": "clothing_nftgraffititanktop",
+                "name": "Grafiti Atlet",
+                "description": "clothing_nftgraffititanktop desc",
+                "buyout": 0
+            },
             "5561": null,
+            "5560": {
+                "slug": "clothing_tattoobody",
+                "name": "D\u00f6vmeli Kol",
+                "description": "clothing_tattoobody desc",
+                "buyout": 0
+            },
+            "5559": {
+                "slug": "clothing_tattoobody",
+                "name": "D\u00f6vmeli Kol",
+                "description": "clothing_tattoobody desc",
+                "buyout": 0
+            },
             "5531": {
                 "slug": "clothing_nftstrawberryshirt",
                 "name": "\u00c7ilek Ti\u015f\u00f6rt",
@@ -1686,7 +1752,7 @@
             },
             "5189": {
                 "slug": "clothing_nt_graduationoutfit",
-                "name": "clothing_nt_graduationoutfit name",
+                "name": "Mezuniyet Kep ve C\u00fcppesi",
                 "description": "clothing_nt_graduationoutfit desc",
                 "buyout": 0
             },
@@ -3557,6 +3623,12 @@
             "210": null
         },
         "lg": {
+            "5584": {
+                "slug": "clothing_nftgraffitipants",
+                "name": "Grafiti E\u015fofman Alt\u0131",
+                "description": "clothing_nftgraffitipants desc",
+                "buyout": 0
+            },
             "5548": {
                 "slug": "clothing_nftstrawberryshirt",
                 "name": "\u00c7ilek Ti\u015f\u00f6rt",
@@ -3573,6 +3645,12 @@
                 "slug": "clothing_nftraspberryshirt",
                 "name": "Ahududu Ti\u015f\u00f6rt",
                 "description": "clothing_nftraspberryshirt desc",
+                "buyout": 0
+            },
+            "5545": {
+                "slug": "clothing_techpants",
+                "name": "Kargo Pantolon",
+                "description": "clothing_techpants desc",
                 "buyout": 0
             },
             "5399": {
@@ -4420,7 +4498,19 @@
             "290": null
         },
         "ha": {
+            "5591": {
+                "slug": "clothing_nftqueenbee",
+                "name": "Krali\u00e7e Ar\u0131",
+                "description": "clothing_nftqueenbee desc",
+                "buyout": 0
+            },
             "5562": null,
+            "5557": {
+                "slug": "clothing_r24_techjacket",
+                "name": "Tekno Modas\u0131 Ceket",
+                "description": "clothing_r24_techjacket desc",
+                "buyout": 0
+            },
             "5537": {
                 "slug": "clothing_nftstrawberrycap",
                 "name": "\u00c7ilek \u015eapka",
@@ -4561,49 +4651,49 @@
             },
             "5428": {
                 "slug": "clothing_goldhatpack4",
-                "name": "Golden Hat Pack 4",
+                "name": "Alt\u0131n \u015eapka Paketi 4",
                 "description": "clothing_goldhatpack4 desc",
                 "buyout": 0
             },
             "5427": {
                 "slug": "clothing_goldhatpack4",
-                "name": "Golden Hat Pack 4",
+                "name": "Alt\u0131n \u015eapka Paketi 4",
                 "description": "clothing_goldhatpack4 desc",
                 "buyout": 0
             },
             "5426": {
                 "slug": "clothing_goldhatpack4",
-                "name": "Golden Hat Pack 4",
+                "name": "Alt\u0131n \u015eapka Paketi 4",
                 "description": "clothing_goldhatpack4 desc",
                 "buyout": 0
             },
             "5425": {
                 "slug": "clothing_goldhatpack4",
-                "name": "Golden Hat Pack 4",
+                "name": "Alt\u0131n \u015eapka Paketi 4",
                 "description": "clothing_goldhatpack4 desc",
                 "buyout": 0
             },
             "5424": {
                 "slug": "clothing_goldhatpack4",
-                "name": "Golden Hat Pack 4",
+                "name": "Alt\u0131n \u015eapka Paketi 4",
                 "description": "clothing_goldhatpack4 desc",
                 "buyout": 0
             },
             "5423": {
                 "slug": "clothing_goldhatpack4",
-                "name": "Golden Hat Pack 4",
+                "name": "Alt\u0131n \u015eapka Paketi 4",
                 "description": "clothing_goldhatpack4 desc",
                 "buyout": 0
             },
             "5422": {
                 "slug": "clothing_goldhatpack4",
-                "name": "Golden Hat Pack 4",
+                "name": "Alt\u0131n \u015eapka Paketi 4",
                 "description": "clothing_goldhatpack4 desc",
                 "buyout": 0
             },
             "5421": {
                 "slug": "clothing_goldhatpack4",
-                "name": "Golden Hat Pack 4",
+                "name": "Alt\u0131n \u015eapka Paketi 4",
                 "description": "clothing_goldhatpack4 desc",
                 "buyout": 0
             },
@@ -4874,7 +4964,7 @@
             "5149": null,
             "5141": {
                 "slug": "clothing_nt_graduationoutfit",
-                "name": "clothing_nt_graduationoutfit name",
+                "name": "Mezuniyet Kep ve C\u00fcppesi",
                 "description": "clothing_nt_graduationoutfit desc",
                 "buyout": 0
             },
@@ -5156,7 +5246,7 @@
             },
             "4371": {
                 "slug": "clothing_r22_gathat",
-                "name": "Kore Gat",
+                "name": "Kote Gat",
                 "description": "clothing_r22_gathat desc",
                 "buyout": 0
             },
@@ -5174,13 +5264,13 @@
             },
             "4349": {
                 "slug": "clothing_snailfriend2",
-                "name": "Mavi S\u00fcm\u00fckl\u00fc B\u00f6cek Kafas\u0131",
+                "name": "Mavi Salyangoz Arkada\u015f",
                 "description": "clothing_snailfriend2 desc",
                 "buyout": 0
             },
             "4348": {
                 "slug": "clothing_snailfriend",
-                "name": "S\u00fcm\u00fckl\u00fc B\u00f6cek Kafas\u0131",
+                "name": "Salyangoz Arkada\u015f",
                 "description": "clothing_snailfriend desc",
                 "buyout": 0
             },
@@ -6522,6 +6612,12 @@
             "1001": null
         },
         "he": {
+            "5554": {
+                "slug": "clothing_skullhairclip",
+                "name": "Kuru Kafal\u0131 Sa\u00e7 Tokas\u0131",
+                "description": "clothing_skullhairclip desc",
+                "buyout": 0
+            },
             "5553": {
                 "slug": "clothing_nftunicornhorn",
                 "name": "Mar\u015fmelov Tek Boynuz",
@@ -7602,6 +7698,18 @@
             "1401": null
         },
         "fa": {
+            "5552": {
+                "slug": "clothing_paintedmask",
+                "name": "Boyal\u0131 Gaz Maskesi",
+                "description": "clothing_paintedmask desc",
+                "buyout": 0
+            },
+            "5492": {
+                "slug": "clothing_splattermask",
+                "name": "Boyal\u0131 Maske",
+                "description": "clothing_splattermask desc",
+                "buyout": 0
+            },
             "5467": {
                 "slug": "clothing_snowday",
                 "name": "K\u0131\u015f G\u00fcn\u00fc G\u00f6r\u00fcn\u00fcm\u00fc",
@@ -8027,7 +8135,24 @@
             "1201": null
         },
         "ca": {
-            "5574": null,
+            "5583": {
+                "slug": "clothing_nfthoneyjar",
+                "name": "Bal K\u00fcp\u00fc \u00c7anta",
+                "description": "clothing_nfthoneyjar desc",
+                "buyout": 0
+            },
+            "5575": {
+                "slug": "clothing_nftbeebackpack",
+                "name": "clothing_nftbeebackpack name",
+                "description": "clothing_nftbeebackpack desc",
+                "buyout": 0
+            },
+            "5574": {
+                "slug": "clothing_nftsnowboard",
+                "name": "clothing_nftsnowboard name",
+                "description": "clothing_nftsnowboard desc",
+                "buyout": 0
+            },
             "5571": {
                 "slug": "clothing_nftsbrocketpack",
                 "name": "clothing_nftsbrocketpack name",
@@ -8038,6 +8163,12 @@
                 "slug": "clothing_nftmarshmallowbag",
                 "name": "Mar\u015fmelov S\u0131rt \u00c7antas\u0131",
                 "description": "clothing_nftmarshmallowbag desc",
+                "buyout": 0
+            },
+            "5549": {
+                "slug": "clothing_techbag",
+                "name": "Tekno \u00c7apraz \u00c7anta",
+                "description": "clothing_techbag desc",
                 "buyout": 0
             },
             "5540": {
@@ -8258,7 +8389,7 @@
             },
             "5278": {
                 "slug": "clothing_snakearoundneck",
-                "name": "Y\u0131lan Kolye veya Y\u0131lan Boyunluk",
+                "name": "T\u0131slayan Yolda\u015f",
                 "description": "clothing_snakearoundneck desc",
                 "buyout": 1
             },
@@ -8571,7 +8702,7 @@
             },
             "4372": {
                 "slug": "clothing_r22_gathat",
-                "name": "Kore Gat",
+                "name": "Kote Gat",
                 "description": "clothing_r22_gathat desc",
                 "buyout": 0
             },
@@ -9084,6 +9215,12 @@
                 "slug": "clothing_nftsbraygun",
                 "name": "clothing_nftsbraygun name",
                 "description": "clothing_nftsbraygun desc",
+                "buyout": 0
+            },
+            "5558": {
+                "slug": "clothing_r24_techjacket",
+                "name": "Tekno Modas\u0131 Ceket",
+                "description": "clothing_r24_techjacket desc",
                 "buyout": 0
             },
             "5509": {

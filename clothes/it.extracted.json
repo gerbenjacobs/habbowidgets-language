@@ -17,6 +17,18 @@
     "clothing": {
         "hr": {
             "9534": null,
+            "5590": {
+                "slug": "clothing_nftstreetboy",
+                "name": "Acconciatura Eboy",
+                "description": "clothing_nftstreetboy desc",
+                "buyout": 0
+            },
+            "5589": {
+                "slug": "clothing_nftstreetgirl",
+                "name": "Acconciatura Egirl",
+                "description": "clothing_nftstreetgirl desc",
+                "buyout": 0
+            },
             "5567": {
                 "slug": "clothing_yarnhair",
                 "name": "Acconciatura di Tessuto",
@@ -27,6 +39,24 @@
                 "slug": "clothing_nftmarshmallowhair",
                 "name": "Trecce Marshmallow",
                 "description": "clothing_nftmarshmallowhair desc",
+                "buyout": 0
+            },
+            "5556": {
+                "slug": "clothing_pompadour",
+                "name": "Acconciatura Pompadour con Sfumature di Colore",
+                "description": "clothing_pompadour desc",
+                "buyout": 0
+            },
+            "5555": {
+                "slug": "clothing_nftbeetails",
+                "name": "Panino Ape",
+                "description": "clothing_nftbeetails desc",
+                "buyout": 0
+            },
+            "5544": {
+                "slug": "clothing_r24_scenehair",
+                "name": "Acconciatura di Scena",
+                "description": "clothing_r24_scenehair desc",
                 "buyout": 0
             },
             "5503": {
@@ -109,7 +139,7 @@
             },
             "5360": {
                 "slug": "clothing_obbawobbaoutfit",
-                "name": "Outfit Obbah Wobbah",
+                "name": "Vestito Obbah Wobbah",
                 "description": "clothing_obbawobbaoutfit desc",
                 "buyout": 0
             },
@@ -253,7 +283,7 @@
             },
             "4370": {
                 "slug": "clothing_r22_prideshorthair",
-                "name": "Capelli a punta Arcobaleno",
+                "name": "Capelli a Punta Arcobaleno",
                 "description": "clothing_r22_prideshorthair desc",
                 "buyout": 0
             },
@@ -265,7 +295,7 @@
             },
             "4360": {
                 "slug": "clothing_idolhairshort",
-                "name": "Accanciatura Performance Idol",
+                "name": "Acconciatura Performance Idol",
                 "description": "clothing_idolhairshort desc",
                 "buyout": 0
             },
@@ -1273,7 +1303,43 @@
             "180": null
         },
         "ch": {
+            "5588": {
+                "slug": "clothing_nftgraffiticroptop",
+                "name": "Gilet Corto con Graffiti",
+                "description": "clothing_nftgraffiticroptop desc",
+                "buyout": 0
+            },
+            "5587": {
+                "slug": "clothing_nftgraffiticroptop",
+                "name": "Gilet Corto con Graffiti",
+                "description": "clothing_nftgraffiticroptop desc",
+                "buyout": 0
+            },
+            "5586": {
+                "slug": "clothing_nftgraffititanktop",
+                "name": "Canottiera con Graffiti",
+                "description": "clothing_nftgraffititanktop desc",
+                "buyout": 0
+            },
+            "5585": {
+                "slug": "clothing_nftgraffititanktop",
+                "name": "Canottiera con Graffiti",
+                "description": "clothing_nftgraffititanktop desc",
+                "buyout": 0
+            },
             "5561": null,
+            "5560": {
+                "slug": "clothing_tattoobody",
+                "name": "Braccio Tatuato",
+                "description": "clothing_tattoobody desc",
+                "buyout": 0
+            },
+            "5559": {
+                "slug": "clothing_tattoobody",
+                "name": "Braccio Tatuato",
+                "description": "clothing_tattoobody desc",
+                "buyout": 0
+            },
             "5531": {
                 "slug": "clothing_nftstrawberryshirt",
                 "name": "T-Shirt Fragola",
@@ -1384,13 +1450,13 @@
             },
             "5368": {
                 "slug": "clothing_obbawobbaoutfit",
-                "name": "Outfit Obbah Wobbah",
+                "name": "Vestito Obbah Wobbah",
                 "description": "clothing_obbawobbaoutfit desc",
                 "buyout": 0
             },
             "5367": {
                 "slug": "clothing_obbawobbaoutfit",
-                "name": "Outfit Obbah Wobbah",
+                "name": "Vestito Obbah Wobbah",
                 "description": "clothing_obbawobbaoutfit desc",
                 "buyout": 0
             },
@@ -1686,7 +1752,7 @@
             },
             "5189": {
                 "slug": "clothing_nt_graduationoutfit",
-                "name": "clothing_nt_graduationoutfit name",
+                "name": "Cappello e Toga da Laurea",
                 "description": "clothing_nt_graduationoutfit desc",
                 "buyout": 0
             },
@@ -3557,6 +3623,12 @@
             "210": null
         },
         "lg": {
+            "5584": {
+                "slug": "clothing_nftgraffitipants",
+                "name": "Jogger con Graffiti",
+                "description": "clothing_nftgraffitipants desc",
+                "buyout": 0
+            },
             "5548": {
                 "slug": "clothing_nftstrawberryshirt",
                 "name": "T-Shirt Fragola",
@@ -3573,6 +3645,12 @@
                 "slug": "clothing_nftraspberryshirt",
                 "name": "T-Shirt Lampone",
                 "description": "clothing_nftraspberryshirt desc",
+                "buyout": 0
+            },
+            "5545": {
+                "slug": "clothing_techpants",
+                "name": "Pantaloni Cargo",
+                "description": "clothing_techpants desc",
                 "buyout": 0
             },
             "5399": {
@@ -3947,7 +4025,7 @@
             },
             "3449": {
                 "slug": "clothing_knighttrousers",
-                "name": "Coprigambe sacri.",
+                "name": "Coprigambe sacri",
                 "description": "Tieni le gambe al sicuro e al caldo.",
                 "buyout": 1
             },
@@ -4420,7 +4498,19 @@
             "290": null
         },
         "ha": {
+            "5591": {
+                "slug": "clothing_nftqueenbee",
+                "name": "Ape Regina",
+                "description": "clothing_nftqueenbee desc",
+                "buyout": 0
+            },
             "5562": null,
+            "5557": {
+                "slug": "clothing_r24_techjacket",
+                "name": "Giacca Techwear alla Moda",
+                "description": "clothing_r24_techjacket desc",
+                "buyout": 0
+            },
             "5537": {
                 "slug": "clothing_nftstrawberrycap",
                 "name": "Berretto Fragola",
@@ -4561,49 +4651,49 @@
             },
             "5428": {
                 "slug": "clothing_goldhatpack4",
-                "name": "Golden Hat Pack 4",
+                "name": "Pack Cappelli d'Oro 4",
                 "description": "clothing_goldhatpack4 desc",
                 "buyout": 0
             },
             "5427": {
                 "slug": "clothing_goldhatpack4",
-                "name": "Golden Hat Pack 4",
+                "name": "Pack Cappelli d'Oro 4",
                 "description": "clothing_goldhatpack4 desc",
                 "buyout": 0
             },
             "5426": {
                 "slug": "clothing_goldhatpack4",
-                "name": "Golden Hat Pack 4",
+                "name": "Pack Cappelli d'Oro 4",
                 "description": "clothing_goldhatpack4 desc",
                 "buyout": 0
             },
             "5425": {
                 "slug": "clothing_goldhatpack4",
-                "name": "Golden Hat Pack 4",
+                "name": "Pack Cappelli d'Oro 4",
                 "description": "clothing_goldhatpack4 desc",
                 "buyout": 0
             },
             "5424": {
                 "slug": "clothing_goldhatpack4",
-                "name": "Golden Hat Pack 4",
+                "name": "Pack Cappelli d'Oro 4",
                 "description": "clothing_goldhatpack4 desc",
                 "buyout": 0
             },
             "5423": {
                 "slug": "clothing_goldhatpack4",
-                "name": "Golden Hat Pack 4",
+                "name": "Pack Cappelli d'Oro 4",
                 "description": "clothing_goldhatpack4 desc",
                 "buyout": 0
             },
             "5422": {
                 "slug": "clothing_goldhatpack4",
-                "name": "Golden Hat Pack 4",
+                "name": "Pack Cappelli d'Oro 4",
                 "description": "clothing_goldhatpack4 desc",
                 "buyout": 0
             },
             "5421": {
                 "slug": "clothing_goldhatpack4",
-                "name": "Golden Hat Pack 4",
+                "name": "Pack Cappelli d'Oro 4",
                 "description": "clothing_goldhatpack4 desc",
                 "buyout": 0
             },
@@ -4729,13 +4819,13 @@
             },
             "5326": {
                 "slug": "clothing_nftblueraincoat",
-                "name": "Anorak BluTraslucido",
+                "name": "Anorak Blu Traslucido",
                 "description": "clothing_nftblueraincoat desc",
                 "buyout": 0
             },
             "5325": {
                 "slug": "clothing_nftyellowraincoat",
-                "name": "Anorak GialloTraslucido",
+                "name": "Anorak Giallo Traslucido",
                 "description": "clothing_nftyellowraincoat desc",
                 "buyout": 0
             },
@@ -4874,7 +4964,7 @@
             "5149": null,
             "5141": {
                 "slug": "clothing_nt_graduationoutfit",
-                "name": "clothing_nt_graduationoutfit name",
+                "name": "Cappello e Toga da Laurea",
                 "description": "clothing_nt_graduationoutfit desc",
                 "buyout": 0
             },
@@ -5174,13 +5264,13 @@
             },
             "4349": {
                 "slug": "clothing_snailfriend2",
-                "name": "Lumaca Copricapo Blu",
+                "name": "Amico delle Lumache Blu",
                 "description": "clothing_snailfriend2 desc",
                 "buyout": 0
             },
             "4348": {
                 "slug": "clothing_snailfriend",
-                "name": "Lumaca Copricapo",
+                "name": "Amico delle Lumache",
                 "description": "clothing_snailfriend desc",
                 "buyout": 0
             },
@@ -6416,13 +6506,13 @@
             },
             "3363": {
                 "slug": "clothing_party2",
-                "name": "Cappelino da Festa a Strisce",
+                "name": "Cappellino da Festa a Strisce",
                 "description": "Mettilo un po' storto, \u00e8 pi\u00f9 divertente!",
                 "buyout": 1
             },
             "3362": {
                 "slug": "clothing_party1",
-                "name": "Cappelino da Party Blu",
+                "name": "Cappellino da Party Blu",
                 "description": "Mettilo un po' storto, \u00e8 pi\u00f9 divertente!",
                 "buyout": 1
             },
@@ -6522,6 +6612,12 @@
             "1001": null
         },
         "he": {
+            "5554": {
+                "slug": "clothing_skullhairclip",
+                "name": "Fermaglio con Teschio",
+                "description": "clothing_skullhairclip desc",
+                "buyout": 0
+            },
             "5553": {
                 "slug": "clothing_nftunicornhorn",
                 "name": "Corno di Unicorno Marshmallow",
@@ -7602,6 +7698,18 @@
             "1401": null
         },
         "fa": {
+            "5552": {
+                "slug": "clothing_paintedmask",
+                "name": "Maschera Antigas Colorata",
+                "description": "clothing_paintedmask desc",
+                "buyout": 0
+            },
+            "5492": {
+                "slug": "clothing_splattermask",
+                "name": "Maschera Schizzata",
+                "description": "clothing_splattermask desc",
+                "buyout": 0
+            },
             "5467": {
                 "slug": "clothing_snowday",
                 "name": "Indumento Giornata di Neve",
@@ -7664,7 +7772,7 @@
             },
             "5369": {
                 "slug": "clothing_catmask2",
-                "name": "Maschera Gatto S\u00e3o Paulo",
+                "name": "Maschera Gatto S\u00e3o Paulo!",
                 "description": "clothing_catmask2 desc",
                 "buyout": 0
             },
@@ -8027,7 +8135,24 @@
             "1201": null
         },
         "ca": {
-            "5574": null,
+            "5583": {
+                "slug": "clothing_nfthoneyjar",
+                "name": "Borsa Barattolo di Miele",
+                "description": "clothing_nfthoneyjar desc",
+                "buyout": 0
+            },
+            "5575": {
+                "slug": "clothing_nftbeebackpack",
+                "name": "clothing_nftbeebackpack name",
+                "description": "clothing_nftbeebackpack desc",
+                "buyout": 0
+            },
+            "5574": {
+                "slug": "clothing_nftsnowboard",
+                "name": "clothing_nftsnowboard name",
+                "description": "clothing_nftsnowboard desc",
+                "buyout": 0
+            },
             "5571": {
                 "slug": "clothing_nftsbrocketpack",
                 "name": "clothing_nftsbrocketpack name",
@@ -8038,6 +8163,12 @@
                 "slug": "clothing_nftmarshmallowbag",
                 "name": "Zaino Marshmallow",
                 "description": "clothing_nftmarshmallowbag desc",
+                "buyout": 0
+            },
+            "5549": {
+                "slug": "clothing_techbag",
+                "name": "Borsa a Tracolla Tecnica",
+                "description": "clothing_techbag desc",
                 "buyout": 0
             },
             "5540": {
@@ -8258,7 +8389,7 @@
             },
             "5278": {
                 "slug": "clothing_snakearoundneck",
-                "name": "clothing_snakearoundneck name",
+                "name": "Compagno Strisciante",
                 "description": "clothing_snakearoundneck desc",
                 "buyout": 1
             },
@@ -9086,6 +9217,12 @@
                 "description": "clothing_nftsbraygun desc",
                 "buyout": 0
             },
+            "5558": {
+                "slug": "clothing_r24_techjacket",
+                "name": "Giacca Techwear alla Moda",
+                "description": "clothing_r24_techjacket desc",
+                "buyout": 0
+            },
             "5509": {
                 "slug": "clothing_nftwinterpink",
                 "name": "Giacca da Sci Rosa",
@@ -9190,13 +9327,13 @@
             },
             "5323": {
                 "slug": "clothing_nftblueraincoat",
-                "name": "Anorak BluTraslucido",
+                "name": "Anorak Blu Traslucido",
                 "description": "clothing_nftblueraincoat desc",
                 "buyout": 0
             },
             "5322": {
                 "slug": "clothing_nftyellowraincoat",
-                "name": "Anorak GialloTraslucido",
+                "name": "Anorak Giallo Traslucido",
                 "description": "clothing_nftyellowraincoat desc",
                 "buyout": 0
             },
@@ -9664,7 +9801,7 @@
             },
             "4079": {
                 "slug": "clothing_darkhoodie",
-                "name": "Felpa con cappuccio Tie-dye Scura",
+                "name": "Felpa con cappuccio Tie-Dye Scura",
                 "description": "clothing_darkhoodie desc",
                 "buyout": 0
             },
@@ -9682,7 +9819,7 @@
             },
             "4076": {
                 "slug": "clothing_darkhoodie",
-                "name": "Felpa con cappuccio Tie-dye Scura",
+                "name": "Felpa con cappuccio Tie-Dye Scura",
                 "description": "clothing_darkhoodie desc",
                 "buyout": 0
             },
@@ -10138,13 +10275,13 @@
             },
             "3513": {
                 "slug": "clothing_sportsjckt",
-                "name": "Giubottino Sportivo",
+                "name": "Giubbottino Sportivo",
                 "description": "Pronto a sudare.",
                 "buyout": 1
             },
             "3512": {
                 "slug": "clothing_sportsjckt",
-                "name": "Giubottino Sportivo",
+                "name": "Giubbottino Sportivo",
                 "description": "Pronto a sudare.",
                 "buyout": 1
             },
