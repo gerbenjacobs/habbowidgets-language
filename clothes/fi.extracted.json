@@ -17,6 +17,60 @@
     "clothing": {
         "hr": {
             "9534": null,
+            "5681": {
+                "slug": "clothing_bratzyasminhair",
+                "name": "Bratz Yasminin kampaus",
+                "description": "clothing_bratzyasminhair desc",
+                "buyout": 0
+            },
+            "5680": {
+                "slug": "clothing_bratzsashahair",
+                "name": "Bratz Sashan kampaus",
+                "description": "clothing_bratzsashahair desc",
+                "buyout": 0
+            },
+            "5679": {
+                "slug": "clothing_bratzjadehair",
+                "name": "Bratz Jaden kampaus",
+                "description": "clothing_bratzjadehair desc",
+                "buyout": 0
+            },
+            "5619": {
+                "slug": "clothing_bratzchloehair",
+                "name": "Bratz Cloen kampaus",
+                "description": "clothing_bratzchloehair desc",
+                "buyout": 0
+            },
+            "5617": {
+                "slug": "clothing_plaitedbunhair",
+                "name": "Palmikkonutturat",
+                "description": "clothing_plaitedbunhair desc",
+                "buyout": 1
+            },
+            "5606": {
+                "slug": "clothing_spikeybunhair",
+                "name": "Liehunutturat",
+                "description": "clothing_spikeybunhair desc",
+                "buyout": 1
+            },
+            "5605": {
+                "slug": "clothing_butterflycliphair",
+                "name": "Perhoshiusklipit",
+                "description": "clothing_butterflycliphair desc",
+                "buyout": 0
+            },
+            "5602": {
+                "slug": "clothing_shaggyswepthair",
+                "name": "Liehuletti",
+                "description": "clothing_shaggyswepthair desc",
+                "buyout": 1
+            },
+            "5598": {
+                "slug": "clothing_frostedtipshair",
+                "name": "Blondattu piikkikampaus",
+                "description": "clothing_frostedtipshair desc",
+                "buyout": 0
+            },
             "5590": {
                 "slug": "clothing_nftstreetboy",
                 "name": "Eboy-hiukset",
@@ -28,6 +82,12 @@
                 "name": "Egirl-hiukset",
                 "description": "clothing_nftstreetgirl desc",
                 "buyout": 0
+            },
+            "5579": {
+                "slug": "clothing_oldschoollongpigtails",
+                "name": "Ylipitk\u00e4t saparoletit",
+                "description": "clothing_oldschoollongpigtails desc",
+                "buyout": 1
             },
             "5567": {
                 "slug": "clothing_yarnhair",
@@ -57,6 +117,12 @@
                 "slug": "clothing_r24_scenehair",
                 "name": "Scene-hiukset",
                 "description": "clothing_r24_scenehair desc",
+                "buyout": 0
+            },
+            "5517": {
+                "slug": "clothing_balloonpigtails",
+                "name": "clothing_balloonpigtails name",
+                "description": "clothing_balloonpigtails desc",
                 "buyout": 0
             },
             "5503": {
@@ -1028,6 +1094,36 @@
             "100": null
         },
         "hd": {
+            "5696": {
+                "slug": "clothing_heartmakeup",
+                "name": "clothing_heartmakeup name",
+                "description": "clothing_heartmakeup desc",
+                "buyout": 0
+            },
+            "5685": {
+                "slug": "clothing_bratzyasminface",
+                "name": "Bratz Yasminin meikki",
+                "description": "clothing_bratzyasminface desc",
+                "buyout": 0
+            },
+            "5684": {
+                "slug": "clothing_bratzsashaface",
+                "name": "Bratz Sashan meikki",
+                "description": "clothing_bratzsashaface desc",
+                "buyout": 0
+            },
+            "5683": {
+                "slug": "clothing_bratzjadeface",
+                "name": "Bratz Jaden meikki",
+                "description": "clothing_bratzjadeface desc",
+                "buyout": 0
+            },
+            "5682": {
+                "slug": "clothing_bratzchloeface",
+                "name": "Bratz Cloen meikki",
+                "description": "clothing_bratzchloeface desc",
+                "buyout": 0
+            },
             "5525": {
                 "slug": "clothing_nftsleepless",
                 "name": "Unettomien \u00f6iden silm\u00e4t",
@@ -1038,6 +1134,12 @@
                 "slug": "clothing_nftsleepless",
                 "name": "Unettomien \u00f6iden silm\u00e4t",
                 "description": "clothing_nftsleepless desc",
+                "buyout": 0
+            },
+            "5522": {
+                "slug": "clothing_clownface",
+                "name": "clothing_clownface name",
+                "description": "clothing_clownface desc",
                 "buyout": 0
             },
             "5430": {
@@ -1303,6 +1405,54 @@
             "180": null
         },
         "ch": {
+            "5695": {
+                "slug": "clothing_clowntop",
+                "name": "clothing_clowntop name",
+                "description": "clothing_clowntop desc",
+                "buyout": 0
+            },
+            "5694": {
+                "slug": "clothing_clowntop",
+                "name": "clothing_clowntop name",
+                "description": "clothing_clowntop desc",
+                "buyout": 0
+            },
+            "5631": {
+                "slug": "clothing_mercuryoutfit",
+                "name": "Keulahahmon asu",
+                "description": "clothing_mercuryoutfit desc",
+                "buyout": 0
+            },
+            "5630": {
+                "slug": "clothing_mercuryoutfit",
+                "name": "Keulahahmon asu",
+                "description": "clothing_mercuryoutfit desc",
+                "buyout": 0
+            },
+            "5608": {
+                "slug": "clothing_megaoversizedtshirt",
+                "name": "Superlerpattava t-paita",
+                "description": "clothing_megaoversizedtshirt desc",
+                "buyout": 1
+            },
+            "5607": {
+                "slug": "clothing_megaoversizedtshirt",
+                "name": "Superlerpattava t-paita",
+                "description": "clothing_megaoversizedtshirt desc",
+                "buyout": 1
+            },
+            "5596": {
+                "slug": "clothing_onewolfmoontshirt",
+                "name": "Yksin\u00e4inen susi t-paita",
+                "description": "clothing_onewolfmoontshirt desc",
+                "buyout": 1
+            },
+            "5595": {
+                "slug": "clothing_onewolfmoontshirt",
+                "name": "Yksin\u00e4inen susi t-paita",
+                "description": "clothing_onewolfmoontshirt desc",
+                "buyout": 1
+            },
             "5588": {
                 "slug": "clothing_nftgraffiticroptop",
                 "name": "Graffiti-liivi",
@@ -1374,6 +1524,24 @@
                 "slug": "clothing_nftraspberryshirt",
                 "name": "Vattu t-paita",
                 "description": "clothing_nftraspberryshirt desc",
+                "buyout": 0
+            },
+            "5516": {
+                "slug": "clothing_featheroutfit",
+                "name": "clothing_featheroutfit name",
+                "description": "clothing_featheroutfit desc",
+                "buyout": 0
+            },
+            "5515": {
+                "slug": "clothing_ltd24_ladybeard",
+                "name": "clothing_ltd24_ladybeard name",
+                "description": "clothing_ltd24_ladybeard desc",
+                "buyout": 0
+            },
+            "5514": {
+                "slug": "clothing_ltd24_ladybeard",
+                "name": "clothing_ltd24_ladybeard name",
+                "description": "clothing_ltd24_ladybeard desc",
                 "buyout": 0
             },
             "5488": {
@@ -3623,10 +3791,29 @@
             "210": null
         },
         "lg": {
+            "5632": {
+                "slug": "clothing_mercuryoutfit",
+                "name": "Keulahahmon asu",
+                "description": "clothing_mercuryoutfit desc",
+                "buyout": 0
+            },
+            "5623": null,
+            "5594": {
+                "slug": "clothing_cargopants",
+                "name": "L\u00f6k\u00e4p\u00f6ksyt",
+                "description": "clothing_cargopants desc",
+                "buyout": 0
+            },
             "5584": {
                 "slug": "clothing_nftgraffitipants",
                 "name": "Graffiti-p\u00f6k\u00e4t",
                 "description": "clothing_nftgraffitipants desc",
+                "buyout": 0
+            },
+            "5582": {
+                "slug": "clothing_couturetracksuit",
+                "name": "Habbo Couture-verryttelyasu",
+                "description": "clothing_couturetracksuit desc",
                 "buyout": 0
             },
             "5548": {
@@ -4185,6 +4372,18 @@
             "270": null
         },
         "sh": {
+            "5671": {
+                "slug": "clothing_bratzheels",
+                "name": "Bratz-korkkarit",
+                "description": "clothing_bratzheels desc",
+                "buyout": 0
+            },
+            "5670": {
+                "slug": "clothing_bratzboots",
+                "name": "Bratz-saappaat",
+                "description": "clothing_bratzboots desc",
+                "buyout": 0
+            },
             "5568": {
                 "slug": "clothing_nftsbboosters",
                 "name": "clothing_nftsbboosters name",
@@ -4498,6 +4697,55 @@
             "290": null
         },
         "ha": {
+            "5710": {
+                "slug": "clothing_bratzjadebeanie",
+                "name": "Bratz Jaden pipo",
+                "description": "clothing_bratzjadebeanie desc",
+                "buyout": 0
+            },
+            "5709": {
+                "slug": "clothing_bratzyasminscarf",
+                "name": "Bratz Yasminin p\u00e4\u00e4huivi",
+                "description": "clothing_bratzyasminscarf desc",
+                "buyout": 0
+            },
+            "5697": null,
+            "5693": {
+                "slug": "clothing_clownhat",
+                "name": "clothing_clownhat name",
+                "description": "clothing_clownhat desc",
+                "buyout": 0
+            },
+            "5677": {
+                "slug": "clothing_bratzsashabeanie",
+                "name": "Bratz Sashan pipo",
+                "description": "clothing_bratzsashabeanie desc",
+                "buyout": 0
+            },
+            "5627": {
+                "slug": "clothing_mercuryoutfit",
+                "name": "Keulahahmon asu",
+                "description": "clothing_mercuryoutfit desc",
+                "buyout": 0
+            },
+            "5620": {
+                "slug": "clothing_bratzchloeheadband",
+                "name": "Bratz Cloen hiuspanta",
+                "description": "clothing_bratzchloeheadband desc",
+                "buyout": 0
+            },
+            "5597": {
+                "slug": "clothing_fluffybuckethat",
+                "name": "P\u00f6rr\u00f6inen kalastajanhattu",
+                "description": "clothing_fluffybuckethat desc",
+                "buyout": 0
+            },
+            "5593": {
+                "slug": "clothing_r24_steampunkhat",
+                "name": "clothing_r24_steampunkhat name",
+                "description": "clothing_r24_steampunkhat desc",
+                "buyout": 0
+            },
             "5591": {
                 "slug": "clothing_nftqueenbee",
                 "name": "Mehil\u00e4iskuningatarp\u00e4\u00e4hine",
@@ -4533,6 +4781,12 @@
                 "slug": "clothing_nftdragoncrown",
                 "name": "Lohik\u00e4\u00e4rmeen vuoden kruunu",
                 "description": "clothing_nftdragoncrown desc",
+                "buyout": 0
+            },
+            "5520": {
+                "slug": "clothing_r24_magicianshat",
+                "name": "clothing_r24_magicianshat name",
+                "description": "clothing_r24_magicianshat desc",
                 "buyout": 0
             },
             "5512": {
@@ -6612,6 +6866,18 @@
             "1001": null
         },
         "he": {
+            "5578": {
+                "slug": "clothing_emoearrings",
+                "name": "Emo-korvikset",
+                "description": "clothing_emoearrings desc",
+                "buyout": 0
+            },
+            "5577": {
+                "slug": "clothing_theoneset",
+                "name": "Neon asusteet",
+                "description": "clothing_theoneset desc",
+                "buyout": 0
+            },
             "5554": {
                 "slug": "clothing_skullhairclip",
                 "name": "P\u00e4\u00e4kallohiusklippi",
@@ -7404,6 +7670,36 @@
             "1601": null
         },
         "ea": {
+            "5626": {
+                "slug": "clothing_mercuryoutfit",
+                "name": "Keulahahmon asu",
+                "description": "clothing_mercuryoutfit desc",
+                "buyout": 0
+            },
+            "5614": {
+                "slug": "clothing_nftberryshades",
+                "name": "clothing_nftberryshades name",
+                "description": "clothing_nftberryshades desc",
+                "buyout": 0
+            },
+            "5613": {
+                "slug": "clothing_nftberryshades",
+                "name": "clothing_nftberryshades name",
+                "description": "clothing_nftberryshades desc",
+                "buyout": 0
+            },
+            "5612": {
+                "slug": "clothing_nftberryshades",
+                "name": "clothing_nftberryshades name",
+                "description": "clothing_nftberryshades desc",
+                "buyout": 0
+            },
+            "5576": {
+                "slug": "clothing_theoneset",
+                "name": "Neon asusteet",
+                "description": "clothing_theoneset desc",
+                "buyout": 0
+            },
             "5570": {
                 "slug": "clothing_nftsbvisor",
                 "name": "clothing_nftsbvisor name",
@@ -7698,10 +7994,40 @@
             "1401": null
         },
         "fa": {
+            "5692": {
+                "slug": "clothing_happysadmask",
+                "name": "clothing_happysadmask name",
+                "description": "clothing_happysadmask desc",
+                "buyout": 0
+            },
+            "5691": {
+                "slug": "clothing_happysadmask",
+                "name": "clothing_happysadmask name",
+                "description": "clothing_happysadmask desc",
+                "buyout": 0
+            },
+            "5601": {
+                "slug": "clothing_nosebandage",
+                "name": "Nen\u00e4laastari",
+                "description": "clothing_nosebandage desc",
+                "buyout": 0
+            },
+            "5600": {
+                "slug": "clothing_cheekbandage",
+                "name": "Poskilaastari",
+                "description": "clothing_cheekbandage desc",
+                "buyout": 0
+            },
             "5552": {
                 "slug": "clothing_paintedmask",
                 "name": "Maalattu kaasunaamari",
                 "description": "clothing_paintedmask desc",
+                "buyout": 0
+            },
+            "5513": {
+                "slug": "clothing_ltd24_ladybeard",
+                "name": "clothing_ltd24_ladybeard name",
+                "description": "clothing_ltd24_ladybeard desc",
                 "buyout": 0
             },
             "5492": {
@@ -8135,6 +8461,42 @@
             "1201": null
         },
         "ca": {
+            "5625": {
+                "slug": "clothing_winnerwinner",
+                "name": "Maailmanmestarin mitalit",
+                "description": "clothing_winnerwinner desc",
+                "buyout": 0
+            },
+            "5616": {
+                "slug": "clothing_nftpurse",
+                "name": "Kukkarolaukku",
+                "description": "clothing_nftpurse desc",
+                "buyout": 0
+            },
+            "5615": {
+                "slug": "clothing_nftconsole",
+                "name": "Konsolireppu",
+                "description": "clothing_nftconsole desc",
+                "buyout": 0
+            },
+            "5604": {
+                "slug": "clothing_r24_doggiebag",
+                "name": "Koirakassi",
+                "description": "clothing_r24_doggiebag desc",
+                "buyout": 0
+            },
+            "5603": {
+                "slug": "clothing_digipetnecklace",
+                "name": "Digilemmikkikaulakoru",
+                "description": "clothing_digipetnecklace desc",
+                "buyout": 0
+            },
+            "5592": {
+                "slug": "clothing_ltd24_digipetbackpack",
+                "name": "Digi-lemmikkireppu",
+                "description": "clothing_ltd24_digipetbackpack desc",
+                "buyout": 0
+            },
             "5583": {
                 "slug": "clothing_nfthoneyjar",
                 "name": "Hunajapurnukkalaukku",
@@ -8143,7 +8505,7 @@
             },
             "5575": {
                 "slug": "clothing_nftbeebackpack",
-                "name": "clothing_nftbeebackpack name",
+                "name": "Mehil\u00e4isreppu",
                 "description": "clothing_nftbeebackpack desc",
                 "buyout": 0
             },
@@ -8205,6 +8567,18 @@
                 "slug": "clothing_nftfloraradiance",
                 "name": "Kukkak\u00f6ynn\u00f6yssiivet",
                 "description": "clothing_nftfloraradiance desc",
+                "buyout": 0
+            },
+            "5521": {
+                "slug": "clothing_popcornbox",
+                "name": "clothing_popcornbox name",
+                "description": "clothing_popcornbox desc",
+                "buyout": 0
+            },
+            "5519": {
+                "slug": "clothing_bigdrum",
+                "name": "clothing_bigdrum name",
+                "description": "clothing_bigdrum desc",
                 "buyout": 0
             },
             "5502": {
@@ -9077,6 +9451,12 @@
             "1801": null
         },
         "wa": {
+            "5599": {
+                "slug": "clothing_emobelt",
+                "name": "Emo-vy\u00f6",
+                "description": "clothing_emobelt desc",
+                "buyout": 0
+            },
             "5478": {
                 "slug": "clothing_quill",
                 "name": "Sulkakyn\u00e4",
@@ -9199,6 +9579,50 @@
         "cc": {
             "9865": null,
             "9563": null,
+            "5629": {
+                "slug": "clothing_mercuryoutfit",
+                "name": "Keulahahmon asu",
+                "description": "clothing_mercuryoutfit desc",
+                "buyout": 0
+            },
+            "5628": {
+                "slug": "clothing_mercuryoutfit",
+                "name": "Keulahahmon asu",
+                "description": "clothing_mercuryoutfit desc",
+                "buyout": 0
+            },
+            "5622": null,
+            "5621": null,
+            "5611": {
+                "slug": "clothing_nftshiba",
+                "name": "Uskollinen shiba inu ",
+                "description": "clothing_nftshiba desc",
+                "buyout": 0
+            },
+            "5610": {
+                "slug": "clothing_nftshiba",
+                "name": "Uskollinen shiba inu ",
+                "description": "clothing_nftshiba desc",
+                "buyout": 0
+            },
+            "5609": {
+                "slug": "clothing_nftshiba",
+                "name": "Uskollinen shiba inu ",
+                "description": "clothing_nftshiba desc",
+                "buyout": 0
+            },
+            "5581": {
+                "slug": "clothing_couturetracksuit",
+                "name": "Habbo Couture-verryttelyasu",
+                "description": "clothing_couturetracksuit desc",
+                "buyout": 0
+            },
+            "5580": {
+                "slug": "clothing_couturetracksuit",
+                "name": "Habbo Couture-verryttelyasu",
+                "description": "clothing_couturetracksuit desc",
+                "buyout": 0
+            },
             "5573": {
                 "slug": "clothing_nftsbrangerjacket",
                 "name": "clothing_nftsbrangerjacket name",
@@ -9221,6 +9645,12 @@
                 "slug": "clothing_r24_techjacket",
                 "name": "Techwear-takki",
                 "description": "clothing_r24_techjacket desc",
+                "buyout": 0
+            },
+            "5518": {
+                "slug": "clothing_r24_python",
+                "name": "clothing_r24_python name",
+                "description": "clothing_r24_python desc",
                 "buyout": 0
             },
             "5509": {
