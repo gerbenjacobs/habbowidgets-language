@@ -1136,6 +1136,18 @@
             "100": null
         },
         "hd": {
+            "5799": {
+                "slug": "clothing_nftbloody",
+                "name": "clothing_nftbloody name",
+                "description": "clothing_nftbloody desc",
+                "buyout": 0
+            },
+            "5798": {
+                "slug": "clothing_nftbloody",
+                "name": "clothing_nftbloody name",
+                "description": "clothing_nftbloody desc",
+                "buyout": 0
+            },
             "5741": {
                 "slug": "clothing_nftdummy",
                 "name": "Vatsastapuhujan nuken kasvot",
@@ -1461,15 +1473,15 @@
         "ch": {
             "5736": {
                 "slug": "clothing_bloodypromdress",
-                "name": "clothing_bloodypromdress name",
+                "name": "Verinen tanssiaismekko",
                 "description": "clothing_bloodypromdress desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5735": {
                 "slug": "clothing_bloodypromdress",
-                "name": "clothing_bloodypromdress name",
+                "name": "Verinen tanssiaismekko",
                 "description": "clothing_bloodypromdress desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5716": {
                 "slug": "clothing_nfttoga",
@@ -4009,9 +4021,9 @@
             },
             "5732": {
                 "slug": "clothing_bloodypromtux",
-                "name": "clothing_bloodypromtux name",
+                "name": "Verinen tanssiaissmokki",
                 "description": "clothing_bloodypromtux desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5632": {
                 "slug": "clothing_mercuryoutfit",
@@ -4601,9 +4613,9 @@
         "sh": {
             "5729": {
                 "slug": "clothing_batboots",
-                "name": "clothing_batboots name",
+                "name": "Lepakkosaappaat",
                 "description": "clothing_batboots desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5718": {
                 "slug": "clothing_nftsummeranklet4",
@@ -4966,6 +4978,12 @@
             "290": null
         },
         "ha": {
+            "5797": {
+                "slug": "clothing_nftrobotikcrown",
+                "name": "Robottikruunu",
+                "description": "clothing_nftrobotikcrown desc",
+                "buyout": 0
+            },
             "5744": {
                 "slug": "clothing_classicsombrero",
                 "name": "Iso sombrero",
@@ -4974,7 +4992,7 @@
             },
             "5730": {
                 "slug": "clothing_neonpartyhat",
-                "name": "clothing_neonpartyhat name",
+                "name": "Neon-bilehattu",
                 "description": "clothing_neonpartyhat desc",
                 "buyout": 0
             },
@@ -5028,9 +5046,9 @@
             },
             "5704": {
                 "slug": "clothing_nftbloodycrown",
-                "name": "clothing_nftbloodycrown name",
+                "name": "Verinen kruunu",
                 "description": "clothing_nftbloodycrown desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5697": {
                 "slug": "clothing_nftjestermask",
@@ -7212,17 +7230,35 @@
             "1001": null
         },
         "he": {
+            "5790": {
+                "slug": "clothing_nftminidonnie2",
+                "name": "Santini-toveri",
+                "description": "clothing_nftminidonnie2 desc",
+                "buyout": 0
+            },
+            "5789": {
+                "slug": "clothing_nftminimaude2",
+                "name": "Maude-toveri",
+                "description": "clothing_nftminimaude2 desc",
+                "buyout": 0
+            },
+            "5788": {
+                "slug": "clothing_nftminifrank2",
+                "name": "Frank-toveri",
+                "description": "clothing_nftminifrank2 desc",
+                "buyout": 0
+            },
             "5758": {
                 "slug": "clothing_nfteyebow",
-                "name": "clothing_nfteyebow name",
+                "name": "Tarkkaileva rusetti",
                 "description": "clothing_nfteyebow desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5750": {
                 "slug": "clothing_neonpartyacc",
-                "name": "clothing_neonpartyacc name",
+                "name": "Neon bileasusteet",
                 "description": "clothing_neonpartyacc desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5721": {
                 "slug": "clothing_r24_beautifulbraid",
@@ -8102,9 +8138,9 @@
         "ea": {
             "5749": {
                 "slug": "clothing_neonpartyacc",
-                "name": "clothing_neonpartyacc name",
+                "name": "Neon bileasusteet",
                 "description": "clothing_neonpartyacc desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5743": {
                 "slug": "clothing_nftbonusshades",
@@ -8480,9 +8516,9 @@
             },
             "5703": {
                 "slug": "clothing_nftneondevilmask",
-                "name": "clothing_nftneondevilmask name",
+                "name": "Neon pirunaamio",
                 "description": "clothing_nftneondevilmask desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5692": {
                 "slug": "clothing_happysadmask",
@@ -8963,23 +8999,65 @@
             "1201": null
         },
         "ca": {
+            "5787": {
+                "slug": "clothing_nftminihank",
+                "name": "Hank-avaimenper\u00e4",
+                "description": "clothing_nftminihank desc",
+                "buyout": 0
+            },
+            "5785": {
+                "slug": "clothing_nftminimuumio",
+                "name": "Muumiopappa-avaimenper\u00e4",
+                "description": "clothing_nftminimuumio desc",
+                "buyout": 0
+            },
+            "5783": {
+                "slug": "clothing_nftminimyrtle",
+                "name": "Myrtti-avaimenper\u00e4",
+                "description": "clothing_nftminimyrtle desc",
+                "buyout": 0
+            },
+            "5781": {
+                "slug": "clothing_nftminidonnie",
+                "name": "Santini-avaimenper\u00e4",
+                "description": "clothing_nftminidonnie desc",
+                "buyout": 0
+            },
+            "5779": {
+                "slug": "clothing_nftminimaude",
+                "name": "Maude-avaimenper\u00e4",
+                "description": "clothing_nftminimaude desc",
+                "buyout": 0
+            },
+            "5776": {
+                "slug": "clothing_nftminibonnie",
+                "name": "Bonnie-avaimenper\u00e4",
+                "description": "clothing_nftminibonnie desc",
+                "buyout": 0
+            },
             "5771": {
                 "slug": "clothing_nftdragonwings",
-                "name": "clothing_nftdragonwings name",
+                "name": "Lohik\u00e4\u00e4rmeen siivet",
                 "description": "clothing_nftdragonwings desc",
                 "buyout": 0
             },
             "5770": {
                 "slug": "clothing_jamtoastbackpack",
-                "name": "clothing_jamtoastbackpack name",
+                "name": "Paahtisreppu hillolla",
                 "description": "clothing_jamtoastbackpack desc",
+                "buyout": 0
+            },
+            "5757": {
+                "slug": "clothing_nftskullpendant",
+                "name": "Mystinen kalloriipus",
+                "description": "clothing_nftskullpendant desc",
                 "buyout": 0
             },
             "5748": {
                 "slug": "clothing_neonpartyacc",
-                "name": "clothing_neonpartyacc name",
+                "name": "Neon bileasusteet",
                 "description": "clothing_neonpartyacc desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5739": {
                 "slug": "clothing_acousticguitar",
@@ -8989,15 +9067,15 @@
             },
             "5738": {
                 "slug": "clothing_r24_ghostfriend",
-                "name": "clothing_r24_ghostfriend name",
+                "name": "Haamuyst\u00e4v\u00e4t",
                 "description": "clothing_r24_ghostfriend desc",
                 "buyout": 0
             },
             "5737": {
                 "slug": "clothing_leatherbackpack",
-                "name": "clothing_leatherbackpack name",
+                "name": "Koulureppu",
                 "description": "clothing_leatherbackpack desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5708": {
                 "slug": "clothing_prizedguitar",
@@ -9025,8 +9103,26 @@
             },
             "5702": {
                 "slug": "clothing_r24_spider",
-                "name": "clothing_r24_spider name",
+                "name": "Selk\u00e4h\u00e4mis",
                 "description": "clothing_r24_spider desc",
+                "buyout": 0
+            },
+            "5678": {
+                "slug": "clothing_nftminiduck",
+                "name": "Ankka-avaimenper\u00e4",
+                "description": "clothing_nftminiduck desc",
+                "buyout": 0
+            },
+            "5675": {
+                "slug": "clothing_nftminifrank",
+                "name": "Frank-avaimenper\u00e4",
+                "description": "clothing_nftminifrank desc",
+                "buyout": 0
+            },
+            "5673": {
+                "slug": "clothing_nftmininoob",
+                "name": "Noob-avaimenper\u00e4",
+                "description": "clothing_nftmininoob desc",
                 "buyout": 0
             },
             "5635": {
@@ -10025,6 +10121,60 @@
             "1801": null
         },
         "wa": {
+            "5786": {
+                "slug": "clothing_nftminihank",
+                "name": "Hank-avaimenper\u00e4",
+                "description": "clothing_nftminihank desc",
+                "buyout": 0
+            },
+            "5784": {
+                "slug": "clothing_nftminimuumio",
+                "name": "Muumiopappa-avaimenper\u00e4",
+                "description": "clothing_nftminimuumio desc",
+                "buyout": 0
+            },
+            "5782": {
+                "slug": "clothing_nftminimyrtle",
+                "name": "Myrtti-avaimenper\u00e4",
+                "description": "clothing_nftminimyrtle desc",
+                "buyout": 0
+            },
+            "5780": {
+                "slug": "clothing_nftminidonnie",
+                "name": "Santini-avaimenper\u00e4",
+                "description": "clothing_nftminidonnie desc",
+                "buyout": 0
+            },
+            "5778": {
+                "slug": "clothing_nftminimaude",
+                "name": "Maude-avaimenper\u00e4",
+                "description": "clothing_nftminimaude desc",
+                "buyout": 0
+            },
+            "5775": {
+                "slug": "clothing_nftminibonnie",
+                "name": "Bonnie-avaimenper\u00e4",
+                "description": "clothing_nftminibonnie desc",
+                "buyout": 0
+            },
+            "5719": {
+                "slug": "clothing_nftmininoob",
+                "name": "Noob-avaimenper\u00e4",
+                "description": "clothing_nftmininoob desc",
+                "buyout": 0
+            },
+            "5676": {
+                "slug": "clothing_nftminiduck",
+                "name": "Ankka-avaimenper\u00e4",
+                "description": "clothing_nftminiduck desc",
+                "buyout": 0
+            },
+            "5674": {
+                "slug": "clothing_nftminifrank",
+                "name": "Frank-avaimenper\u00e4",
+                "description": "clothing_nftminifrank desc",
+                "buyout": 0
+            },
             "5599": {
                 "slug": "clothing_emobelt",
                 "name": "Emo-vy\u00f6",
@@ -10153,6 +10303,12 @@
         "cc": {
             "9865": null,
             "9563": null,
+            "5796": {
+                "slug": "clothing_nftsuitcase",
+                "name": "Setelisalkku",
+                "description": "clothing_nftsuitcase desc",
+                "buyout": 0
+            },
             "5747": {
                 "slug": "clothing_mariachioutfit",
                 "name": "Mariachi-asu",
@@ -10173,19 +10329,19 @@
             },
             "5734": {
                 "slug": "clothing_bloodypromtux",
-                "name": "clothing_bloodypromtux name",
+                "name": "Verinen tanssiaissmokki",
                 "description": "clothing_bloodypromtux desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5733": {
                 "slug": "clothing_bloodypromtux",
-                "name": "clothing_bloodypromtux name",
+                "name": "Verinen tanssiaissmokki",
                 "description": "clothing_bloodypromtux desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5690": {
                 "slug": "clothing_r24_ghostfriend",
-                "name": "clothing_r24_ghostfriend name",
+                "name": "Haamuyst\u00e4v\u00e4t",
                 "description": "clothing_r24_ghostfriend desc",
                 "buyout": 0
             },
