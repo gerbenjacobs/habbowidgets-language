@@ -291,7 +291,7 @@
                 "slug": "clothing_animalearshair",
                 "name": "Hayvan Kulakl\u0131 Sa\u00e7",
                 "description": "clothing_animalearshair desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5321": {
                 "slug": "clothing_nftshortdreads",
@@ -969,7 +969,7 @@
                 "slug": "clothing_cladyoutfit",
                 "name": "Bayan Noel K\u0131yafeti",
                 "description": "Habbo Modas\u0131: Yeni Y\u0131l K\u0131yafetleri",
-                "buyout": 1
+                "buyout": 0
             },
             "3436": {
                 "slug": "clothing_cavehair",
@@ -1531,16 +1531,40 @@
             "180": null
         },
         "ch": {
+            "5964": {
+                "slug": "clothing_r25_valentinesbride",
+                "name": "clothing_r25_valentinesbride name",
+                "description": "clothing_r25_valentinesbride desc",
+                "buyout": 0
+            },
+            "5963": {
+                "slug": "clothing_r25_valentinesbride",
+                "name": "clothing_r25_valentinesbride name",
+                "description": "clothing_r25_valentinesbride desc",
+                "buyout": 0
+            },
             "5834": {
                 "slug": "clothing_r25_poshwaistcoat",
-                "name": "clothing_r25_poshwaistcoat name",
+                "name": "Haval\u0131 Yelek",
                 "description": "clothing_r25_poshwaistcoat desc",
                 "buyout": 0
             },
             "5833": {
                 "slug": "clothing_r25_poshwaistcoat",
-                "name": "clothing_r25_poshwaistcoat name",
+                "name": "Haval\u0131 Yelek",
                 "description": "clothing_r25_poshwaistcoat desc",
+                "buyout": 0
+            },
+            "5831": {
+                "slug": "clothing_ducketshirt",
+                "name": "\u00d6rdek Avc\u0131s\u0131 Ti\u015f\u00f6rt\u00fc ",
+                "description": "clothing_ducketshirt desc",
+                "buyout": 0
+            },
+            "5830": {
+                "slug": "clothing_ducketshirt",
+                "name": "\u00d6rdek Avc\u0131s\u0131 Ti\u015f\u00f6rt\u00fc ",
+                "description": "clothing_ducketshirt desc",
                 "buyout": 0
             },
             "5806": {
@@ -1571,13 +1595,13 @@
                 "slug": "clothing_longwinterdress",
                 "name": "Pofuduk K\u0131\u015f Elbisesi",
                 "description": "clothing_longwinterdress desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5762": {
                 "slug": "clothing_longwinterdress",
                 "name": "Pofuduk K\u0131\u015f Elbisesi",
                 "description": "clothing_longwinterdress desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5736": {
                 "slug": "clothing_bloodypromdress",
@@ -1962,13 +1986,13 @@
                 "slug": "clothing_gingerbreadoutfit",
                 "name": "Kurabiye K\u0131yafeti",
                 "description": "clothing_gingerbreadoutfit desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5361": {
                 "slug": "clothing_gingerbreadoutfit",
                 "name": "Kurabiye K\u0131yafeti",
                 "description": "clothing_gingerbreadoutfit desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5359": {
                 "slug": "clothing_r23_ribbontop",
@@ -1986,7 +2010,7 @@
                 "slug": "clothing_ribbonflowydress",
                 "name": "D\u00f6k\u00fcml\u00fc Fiyonk Elbise",
                 "description": "clothing_ribbonflowydress desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5350": {
                 "slug": "clothing_ribbondress",
@@ -2028,13 +2052,13 @@
                 "slug": "clothing_misssantaoutfit",
                 "name": "Baharatl\u0131 Noel Baba K\u0131yafeti",
                 "description": "clothing_misssantaoutfit desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5310": {
                 "slug": "clothing_misssantaoutfit",
                 "name": "Baharatl\u0131 Noel Baba K\u0131yafeti",
                 "description": "clothing_misssantaoutfit desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5303": {
                 "slug": "clothing_pinaforedress",
@@ -3847,13 +3871,13 @@
                 "slug": "clothing_santaoutfit",
                 "name": "Noel Baba K\u0131yafeti",
                 "description": "Habbo Modas\u0131: Yeni Y\u0131l K\u0131yafetleri",
-                "buyout": 1
+                "buyout": 0
             },
             "3446": {
                 "slug": "clothing_cladydress",
                 "name": "Yeni Y\u0131l Elbisesi",
                 "description": "Habbo Modas\u0131: Yeni Y\u0131l K\u0131yafetleri",
-                "buyout": 1
+                "buyout": 0
             },
             "3443": {
                 "slug": "clothing_demoncloak",
@@ -4203,14 +4227,14 @@
                 "slug": "clothing_gingerbreadoutfit",
                 "name": "Kurabiye K\u0131yafeti",
                 "description": "clothing_gingerbreadoutfit desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5332": null,
             "5312": {
                 "slug": "clothing_misssantaoutfit",
                 "name": "Baharatl\u0131 Noel Baba K\u0131yafeti",
                 "description": "clothing_misssantaoutfit desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5266": {
                 "slug": "clothing_nftpinkswimshorts",
@@ -4555,7 +4579,7 @@
                 "slug": "clothing_santapants",
                 "name": "Noel Baba Pantolonu",
                 "description": "Habbo Modas\u0131: Yeni Y\u0131l K\u0131yafetleri",
-                "buyout": 1
+                "buyout": 0
             },
             "3449": {
                 "slug": "clothing_knighttrousers",
@@ -4787,7 +4811,7 @@
             },
             "5568": {
                 "slug": "clothing_nftsbboosters",
-                "name": "clothing_nftsbboosters name",
+                "name": "Uzay Ayakkab\u0131s\u0131",
                 "description": "clothing_nftsbboosters desc",
                 "buyout": 0
             },
@@ -5026,7 +5050,7 @@
                 "slug": "clothing_cladyshoes",
                 "name": "Yeni Y\u0131l Ayakkab\u0131s\u0131",
                 "description": "Habbo Modas\u0131: Yeni Y\u0131l K\u0131yafetleri",
-                "buyout": 1
+                "buyout": 0
             },
             "3435": {
                 "slug": "clothing_dino",
@@ -5098,24 +5122,82 @@
             "290": null
         },
         "ha": {
-            "5854": null,
-            "5853": null,
-            "5852": null,
-            "5851": null,
-            "5850": null,
-            "5849": null,
-            "5848": null,
-            "5847": null,
+            "5968": {
+                "slug": "clothing_r25_valentinesgroom",
+                "name": "clothing_r25_valentinesgroom name",
+                "description": "clothing_r25_valentinesgroom desc",
+                "buyout": 0
+            },
+            "5947": {
+                "slug": "clothing_nftartistset",
+                "name": "\u015e\u00f6vale Ressam\u0131 K\u0131yafeti",
+                "description": "clothing_nftartistset desc",
+                "buyout": 0
+            },
+            "5854": {
+                "slug": "clothing_goldhatpack5",
+                "name": "Alt\u0131n \u015eapka Paketi 5",
+                "description": "clothing_goldhatpack5 desc",
+                "buyout": 0
+            },
+            "5853": {
+                "slug": "clothing_goldhatpack5",
+                "name": "Alt\u0131n \u015eapka Paketi 5",
+                "description": "clothing_goldhatpack5 desc",
+                "buyout": 0
+            },
+            "5852": {
+                "slug": "clothing_goldhatpack5",
+                "name": "Alt\u0131n \u015eapka Paketi 5",
+                "description": "clothing_goldhatpack5 desc",
+                "buyout": 0
+            },
+            "5851": {
+                "slug": "clothing_goldhatpack5",
+                "name": "Alt\u0131n \u015eapka Paketi 5",
+                "description": "clothing_goldhatpack5 desc",
+                "buyout": 0
+            },
+            "5850": {
+                "slug": "clothing_goldhatpack5",
+                "name": "Alt\u0131n \u015eapka Paketi 5",
+                "description": "clothing_goldhatpack5 desc",
+                "buyout": 0
+            },
+            "5849": {
+                "slug": "clothing_goldhatpack5",
+                "name": "Alt\u0131n \u015eapka Paketi 5",
+                "description": "clothing_goldhatpack5 desc",
+                "buyout": 0
+            },
+            "5848": {
+                "slug": "clothing_goldhatpack5",
+                "name": "Alt\u0131n \u015eapka Paketi 5",
+                "description": "clothing_goldhatpack5 desc",
+                "buyout": 0
+            },
+            "5847": {
+                "slug": "clothing_goldhatpack5",
+                "name": "Alt\u0131n \u015eapka Paketi 5",
+                "description": "clothing_goldhatpack5 desc",
+                "buyout": 0
+            },
             "5846": {
                 "slug": "clothing_diasparkleparty",
-                "name": "clothing_diasparkleparty name",
+                "name": "Elmas Cracker \u015eapka",
                 "description": "clothing_diasparkleparty desc",
+                "buyout": 0
+            },
+            "5832": {
+                "slug": "clothing_duckethat",
+                "name": "\u00d6rdek Avc\u0131s\u0131 \u015eapkas\u0131 ",
+                "description": "clothing_duckethat desc",
                 "buyout": 0
             },
             "5814": {
                 "slug": "clothing_littlesnowman",
                 "name": "Kardan Adam Sa\u00e7 Band\u0131",
-                "description": "clothing_littlesnowman desc",
+                "description": "",
                 "buyout": 0
             },
             "5809": {
@@ -5134,7 +5216,7 @@
                 "slug": "clothing_flippedxmashat",
                 "name": "B\u00fcy\u00fck Noel \u015eapkas\u0131",
                 "description": "clothing_flippedxmashat desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5744": {
                 "slug": "clothing_classicsombrero",
@@ -5519,7 +5601,7 @@
                 "slug": "clothing_misssantahat",
                 "name": "Baharatl\u0131 Noel Baba \u015eapkas\u0131",
                 "description": "clothing_misssantahat desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5364": {
                 "slug": "clothing_ltd23_crown",
@@ -7146,7 +7228,7 @@
                 "slug": "clothing_santaoutfit",
                 "name": "Noel Baba K\u0131yafeti",
                 "description": "Habbo Modas\u0131: Yeni Y\u0131l K\u0131yafetleri",
-                "buyout": 1
+                "buyout": 0
             },
             "3457": {
                 "slug": "clothing_deathmask",
@@ -7382,15 +7464,21 @@
             "1001": null
         },
         "he": {
+            "5965": {
+                "slug": "clothing_r25_valentinesbride",
+                "name": "clothing_r25_valentinesbride name",
+                "description": "clothing_r25_valentinesbride desc",
+                "buyout": 0
+            },
             "5845": {
                 "slug": "clothing_diastar",
-                "name": "clothing_diastar name",
+                "name": "Elmas Y\u0131ld\u0131zl\u0131 Toka",
                 "description": "clothing_diastar desc",
                 "buyout": 0
             },
             "5844": {
                 "slug": "clothing_diaplume",
-                "name": "clothing_diaplume name",
+                "name": "Elmas T\u00fcy",
                 "description": "clothing_diaplume desc",
                 "buyout": 0
             },
@@ -7408,49 +7496,49 @@
             },
             "5823": {
                 "slug": "clothing_r24_starboppers8",
-                "name": "clothing_r24_starboppers8 name",
+                "name": "Mor Y\u0131ld\u0131z Ta\u00e7",
                 "description": "clothing_r24_starboppers8 desc",
                 "buyout": 0
             },
             "5822": {
                 "slug": "clothing_r24_starboppers7",
-                "name": "clothing_r24_starboppers7 name",
+                "name": "Ye\u015fil Y\u0131ld\u0131z Ta\u00e7",
                 "description": "clothing_r24_starboppers7 desc",
                 "buyout": 0
             },
             "5821": {
                 "slug": "clothing_r24_starboppers6",
-                "name": "clothing_r24_starboppers6 name",
+                "name": "A\u00e7\u0131k Mavi Y\u0131ld\u0131z Ta\u00e7",
                 "description": "clothing_r24_starboppers6 desc",
                 "buyout": 0
             },
             "5820": {
                 "slug": "clothing_r24_starboppers5",
-                "name": "clothing_r24_starboppers5 name",
+                "name": "Turuncu Y\u0131ld\u0131z Ta\u00e7",
                 "description": "clothing_r24_starboppers5 desc",
                 "buyout": 0
             },
             "5819": {
                 "slug": "clothing_r24_starboppers4",
-                "name": "clothing_r24_starboppers4 name",
+                "name": "Koyu Mavi Y\u0131ld\u0131z Ta\u00e7",
                 "description": "clothing_r24_starboppers4 desc",
                 "buyout": 0
             },
             "5818": {
                 "slug": "clothing_r24_starboppers3",
-                "name": "clothing_r24_starboppers3 name",
+                "name": "Alt\u0131n Y\u0131ld\u0131z Ta\u00e7",
                 "description": "clothing_r24_starboppers3 desc",
                 "buyout": 0
             },
             "5817": {
                 "slug": "clothing_r24_starboppers2",
-                "name": "clothing_r24_starboppers2 name",
+                "name": "K\u0131rm\u0131z\u0131 Y\u0131ld\u0131z Ta\u00e7",
                 "description": "clothing_r24_starboppers2 desc",
                 "buyout": 0
             },
             "5816": {
                 "slug": "clothing_r24_starboppers1",
-                "name": "clothing_r24_starboppers1 name",
+                "name": "Pembe Y\u0131ld\u0131z Ta\u00e7",
                 "description": "clothing_r24_starboppers1 desc",
                 "buyout": 0
             },
@@ -7512,7 +7600,7 @@
                 "slug": "clothing_frozenelfears",
                 "name": "Donmu\u015f Elf Kulaklar\u0131",
                 "description": "clothing_frozenelfears desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5764": {
                 "slug": "clothing_chainedearrings",
@@ -7698,13 +7786,13 @@
                 "slug": "clothing_baubleearrings2",
                 "name": "Tekli S\u00fcs K\u00fcpe",
                 "description": "clothing_baubleearrings2 desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5314": {
                 "slug": "clothing_bigbowhairclip",
                 "name": "XL Fiyonklu Sa\u00e7 Tokas\u0131",
                 "description": "clothing_bigbowhairclip desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5279": {
                 "slug": "clothing_ankhearrings",
@@ -8464,7 +8552,7 @@
             },
             "5570": {
                 "slug": "clothing_nftsbvisor",
-                "name": "clothing_nftsbvisor name",
+                "name": "Radyasyon G\u00f6zl\u00fck",
                 "description": "clothing_nftsbvisor desc",
                 "buyout": 0
             },
@@ -8756,9 +8844,15 @@
             "1401": null
         },
         "fa": {
+            "5948": {
+                "slug": "clothing_nftartistset",
+                "name": "\u015e\u00f6vale Ressam\u0131 K\u0131yafeti",
+                "description": "clothing_nftartistset desc",
+                "buyout": 0
+            },
             "5835": {
                 "slug": "clothing_cnysnake",
-                "name": "clothing_cnysnake name",
+                "name": "Y\u0131lan Aksesuarlar\u0131",
                 "description": "clothing_cnysnake desc",
                 "buyout": 0
             },
@@ -8766,13 +8860,13 @@
                 "slug": "clothing_bigbushybeard",
                 "name": "G\u00fcr Sakal",
                 "description": "clothing_bigbushybeard desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5760": {
                 "slug": "clothing_nftfrozenface",
                 "name": "Donmu\u015f Y\u00fcz",
                 "description": "clothing_nftfrozenface desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5754": {
                 "slug": "clothing_nftchili3",
@@ -9289,6 +9383,18 @@
             "1201": null
         },
         "ca": {
+            "5950": {
+                "slug": "clothing_nftartistset",
+                "name": "\u015e\u00f6vale Ressam\u0131 K\u0131yafeti",
+                "description": "clothing_nftartistset desc",
+                "buyout": 0
+            },
+            "5949": {
+                "slug": "clothing_nftartistset",
+                "name": "\u015e\u00f6vale Ressam\u0131 K\u0131yafeti",
+                "description": "clothing_nftartistset desc",
+                "buyout": 0
+            },
             "5894": {
                 "slug": "clothing_nftbaubles2",
                 "name": "G\u00fcm\u00fc\u015f S\u00fcs Kemeri",
@@ -9389,7 +9495,7 @@
                 "slug": "clothing_nftfrozenscarf",
                 "name": "Donmu\u015f Atk\u0131",
                 "description": "clothing_nftfrozenscarf desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5757": {
                 "slug": "clothing_nftskullpendant",
@@ -9531,7 +9637,7 @@
             },
             "5571": {
                 "slug": "clothing_nftsbrocketpack",
-                "name": "clothing_nftsbrocketpack name",
+                "name": "Habbo-not Roket Paketi",
                 "description": "clothing_nftsbrocketpack desc",
                 "buyout": 0
             },
@@ -9731,7 +9837,7 @@
                 "slug": "clothing_chunkyknitscarf",
                 "name": "\u00d6rg\u00fc Atk\u0131",
                 "description": "clothing_chunkyknitscarf desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5354": {
                 "slug": "clothing_goldbookbag",
@@ -9755,7 +9861,7 @@
                 "slug": "clothing_misssantaoutfit",
                 "name": "Baharatl\u0131 Noel Baba K\u0131yafeti",
                 "description": "clothing_misssantaoutfit desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5309": {
                 "slug": "clothing_bowbag",
@@ -10467,7 +10573,7 @@
         "wa": {
             "5836": {
                 "slug": "clothing_cnysnake",
-                "name": "clothing_cnysnake name",
+                "name": "Y\u0131lan Aksesuarlar\u0131",
                 "description": "clothing_cnysnake desc",
                 "buyout": 0
             },
@@ -10653,6 +10759,18 @@
         "cc": {
             "9865": null,
             "9563": null,
+            "5967": {
+                "slug": "clothing_r25_valentinesgroom",
+                "name": "clothing_r25_valentinesgroom name",
+                "description": "clothing_r25_valentinesgroom desc",
+                "buyout": 0
+            },
+            "5966": {
+                "slug": "clothing_r25_valentinesgroom",
+                "name": "clothing_r25_valentinesgroom name",
+                "description": "clothing_r25_valentinesgroom desc",
+                "buyout": 0
+            },
             "5895": {
                 "slug": "clothing_nftsack",
                 "name": "Rastal\u0131 Noel Baba'n\u0131n \u00c7uval\u0131",
@@ -10691,7 +10809,7 @@
             },
             "5826": {
                 "slug": "clothing_r25_goosefriend",
-                "name": "clothing_r25_goosefriend name",
+                "name": "Kaz Arkada\u015f",
                 "description": "clothing_r25_goosefriend desc",
                 "buyout": 0
             },
@@ -10817,19 +10935,19 @@
             },
             "5573": {
                 "slug": "clothing_nftsbrangerjacket",
-                "name": "clothing_nftsbrangerjacket name",
+                "name": "Uzay Komutan\u0131 Ceketi",
                 "description": "clothing_nftsbrangerjacket desc",
                 "buyout": 0
             },
             "5572": {
                 "slug": "clothing_nftsbrangerjacket",
-                "name": "clothing_nftsbrangerjacket name",
+                "name": "Uzay Komutan\u0131 Ceketi",
                 "description": "clothing_nftsbrangerjacket desc",
                 "buyout": 0
             },
             "5569": {
                 "slug": "clothing_nftsbraygun",
-                "name": "clothing_nftsbraygun name",
+                "name": "Lazer Patlat\u0131c\u0131",
                 "description": "clothing_nftsbraygun desc",
                 "buyout": 0
             },
@@ -12066,6 +12184,12 @@
             "260": null
         },
         "cp": {
+            "5946": {
+                "slug": "clothing_nft2025",
+                "name": "2025 Yeni Y\u0131l Kolyesi",
+                "description": "clothing_nft2025 desc",
+                "buyout": 0
+            },
             "5497": {
                 "slug": "clothing_nftdragonyearmark4",
                 "name": "Ye\u015fil Ejderha Bask\u0131s\u0131",

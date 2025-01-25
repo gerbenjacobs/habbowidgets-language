@@ -291,7 +291,7 @@
                 "slug": "clothing_animalearshair",
                 "name": "Pelo Orejudo",
                 "description": "clothing_animalearshair desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5321": {
                 "slug": "clothing_nftshortdreads",
@@ -1531,16 +1531,40 @@
             "180": null
         },
         "ch": {
+            "5964": {
+                "slug": "clothing_r25_valentinesbride",
+                "name": "clothing_r25_valentinesbride name",
+                "description": "clothing_r25_valentinesbride desc",
+                "buyout": 0
+            },
+            "5963": {
+                "slug": "clothing_r25_valentinesbride",
+                "name": "clothing_r25_valentinesbride name",
+                "description": "clothing_r25_valentinesbride desc",
+                "buyout": 0
+            },
             "5834": {
                 "slug": "clothing_r25_poshwaistcoat",
-                "name": "clothing_r25_poshwaistcoat name",
+                "name": "Chaleco Elegante",
                 "description": "clothing_r25_poshwaistcoat desc",
                 "buyout": 0
             },
             "5833": {
                 "slug": "clothing_r25_poshwaistcoat",
-                "name": "clothing_r25_poshwaistcoat name",
+                "name": "Chaleco Elegante",
                 "description": "clothing_r25_poshwaistcoat desc",
+                "buyout": 0
+            },
+            "5831": {
+                "slug": "clothing_ducketshirt",
+                "name": "Camiseta de Expedici\u00f3n Patito ",
+                "description": "clothing_ducketshirt desc",
+                "buyout": 0
+            },
+            "5830": {
+                "slug": "clothing_ducketshirt",
+                "name": "Camiseta de Expedici\u00f3n Patito ",
+                "description": "clothing_ducketshirt desc",
                 "buyout": 0
             },
             "5806": {
@@ -1571,13 +1595,13 @@
                 "slug": "clothing_longwinterdress",
                 "name": "Vestido esponjoso de invierno",
                 "description": "clothing_longwinterdress desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5762": {
                 "slug": "clothing_longwinterdress",
                 "name": "Vestido esponjoso de invierno",
                 "description": "clothing_longwinterdress desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5736": {
                 "slug": "clothing_bloodypromdress",
@@ -1962,13 +1986,13 @@
                 "slug": "clothing_gingerbreadoutfit",
                 "name": "Outfit de Jengibre",
                 "description": "clothing_gingerbreadoutfit desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5361": {
                 "slug": "clothing_gingerbreadoutfit",
                 "name": "Outfit de Jengibre",
                 "description": "clothing_gingerbreadoutfit desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5359": {
                 "slug": "clothing_r23_ribbontop",
@@ -1986,7 +2010,7 @@
                 "slug": "clothing_ribbonflowydress",
                 "name": "Vestido de Volantes",
                 "description": "clothing_ribbonflowydress desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5350": {
                 "slug": "clothing_ribbondress",
@@ -2028,13 +2052,13 @@
                 "slug": "clothing_misssantaoutfit",
                 "name": "Vestido de Santa Mini",
                 "description": "clothing_misssantaoutfit desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5310": {
                 "slug": "clothing_misssantaoutfit",
                 "name": "Vestido de Santa Mini",
                 "description": "clothing_misssantaoutfit desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5303": {
                 "slug": "clothing_pinaforedress",
@@ -3847,13 +3871,13 @@
                 "slug": "clothing_santatop",
                 "name": "Su\u00e9ter de Santa",
                 "description": "Habbo Couture: Navidad 2015",
-                "buyout": 1
+                "buyout": 0
             },
             "3446": {
                 "slug": "clothing_cladydress",
                 "name": "Vestido Navide\u00f1o",
                 "description": "Habbo Couture: Navidad 2015",
-                "buyout": 1
+                "buyout": 0
             },
             "3443": {
                 "slug": "clothing_demoncloak",
@@ -4203,14 +4227,14 @@
                 "slug": "clothing_gingerbreadoutfit",
                 "name": "Outfit de Jengibre",
                 "description": "clothing_gingerbreadoutfit desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5332": null,
             "5312": {
                 "slug": "clothing_misssantaoutfit",
                 "name": "Vestido de Santa Mini",
                 "description": "clothing_misssantaoutfit desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5266": {
                 "slug": "clothing_nftpinkswimshorts",
@@ -4555,7 +4579,7 @@
                 "slug": "clothing_santaoutfit",
                 "name": "Traje de Santa",
                 "description": "Habbo Couture: Navidad 2015",
-                "buyout": 1
+                "buyout": 0
             },
             "3449": {
                 "slug": "clothing_knighttrousers",
@@ -4787,7 +4811,7 @@
             },
             "5568": {
                 "slug": "clothing_nftsbboosters",
-                "name": "clothing_nftsbboosters name",
+                "name": "Botas Espaciales",
                 "description": "clothing_nftsbboosters desc",
                 "buyout": 0
             },
@@ -5026,7 +5050,7 @@
                 "slug": "clothing_cladyshoes",
                 "name": "Zapatos Navide\u00f1os",
                 "description": "Habbo Couture: Navidad 2015",
-                "buyout": 1
+                "buyout": 0
             },
             "3435": {
                 "slug": "clothing_dino",
@@ -5098,18 +5122,76 @@
             "290": null
         },
         "ha": {
-            "5854": null,
-            "5853": null,
-            "5852": null,
-            "5851": null,
-            "5850": null,
-            "5849": null,
-            "5848": null,
-            "5847": null,
+            "5968": {
+                "slug": "clothing_r25_valentinesgroom",
+                "name": "clothing_r25_valentinesgroom name",
+                "description": "clothing_r25_valentinesgroom desc",
+                "buyout": 0
+            },
+            "5947": {
+                "slug": "clothing_nftartistset",
+                "name": "Conjunto Pintor de Lienzo",
+                "description": "clothing_nftartistset desc",
+                "buyout": 0
+            },
+            "5854": {
+                "slug": "clothing_goldhatpack5",
+                "name": "Pack Sombrero Dorado 5",
+                "description": "clothing_goldhatpack5 desc",
+                "buyout": 0
+            },
+            "5853": {
+                "slug": "clothing_goldhatpack5",
+                "name": "Pack Sombrero Dorado 5",
+                "description": "clothing_goldhatpack5 desc",
+                "buyout": 0
+            },
+            "5852": {
+                "slug": "clothing_goldhatpack5",
+                "name": "Pack Sombrero Dorado 5",
+                "description": "clothing_goldhatpack5 desc",
+                "buyout": 0
+            },
+            "5851": {
+                "slug": "clothing_goldhatpack5",
+                "name": "Pack Sombrero Dorado 5",
+                "description": "clothing_goldhatpack5 desc",
+                "buyout": 0
+            },
+            "5850": {
+                "slug": "clothing_goldhatpack5",
+                "name": "Pack Sombrero Dorado 5",
+                "description": "clothing_goldhatpack5 desc",
+                "buyout": 0
+            },
+            "5849": {
+                "slug": "clothing_goldhatpack5",
+                "name": "Pack Sombrero Dorado 5",
+                "description": "clothing_goldhatpack5 desc",
+                "buyout": 0
+            },
+            "5848": {
+                "slug": "clothing_goldhatpack5",
+                "name": "Pack Sombrero Dorado 5",
+                "description": "clothing_goldhatpack5 desc",
+                "buyout": 0
+            },
+            "5847": {
+                "slug": "clothing_goldhatpack5",
+                "name": "Pack Sombrero Dorado 5",
+                "description": "clothing_goldhatpack5 desc",
+                "buyout": 0
+            },
             "5846": {
                 "slug": "clothing_diasparkleparty",
-                "name": "clothing_diasparkleparty name",
+                "name": "Sombrero Troquelado de Diamante",
                 "description": "clothing_diasparkleparty desc",
+                "buyout": 0
+            },
+            "5832": {
+                "slug": "clothing_duckethat",
+                "name": "Sombrero de Expedici\u00f3n Patito ",
+                "description": "clothing_duckethat desc",
                 "buyout": 0
             },
             "5814": {
@@ -5134,7 +5216,7 @@
                 "slug": "clothing_flippedxmashat",
                 "name": "Sombrero de Pap\u00e1 Noel extra grande",
                 "description": "clothing_flippedxmashat desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5744": {
                 "slug": "clothing_classicsombrero",
@@ -5519,7 +5601,7 @@
                 "slug": "clothing_misssantahat",
                 "name": "Gorro de Santa Mini",
                 "description": "clothing_misssantahat desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5364": {
                 "slug": "clothing_ltd23_crown",
@@ -7146,7 +7228,7 @@
                 "slug": "clothing_santahat",
                 "name": "Gorro de Santa",
                 "description": "Habbo Couture: Navidad 2015",
-                "buyout": 1
+                "buyout": 0
             },
             "3457": {
                 "slug": "clothing_deathmask",
@@ -7382,15 +7464,21 @@
             "1001": null
         },
         "he": {
+            "5965": {
+                "slug": "clothing_r25_valentinesbride",
+                "name": "clothing_r25_valentinesbride name",
+                "description": "clothing_r25_valentinesbride desc",
+                "buyout": 0
+            },
             "5845": {
                 "slug": "clothing_diastar",
-                "name": "clothing_diastar name",
+                "name": "Clip Diamante 5 puntas",
                 "description": "clothing_diastar desc",
                 "buyout": 0
             },
             "5844": {
                 "slug": "clothing_diaplume",
-                "name": "clothing_diaplume name",
+                "name": "Pluma Diamante",
                 "description": "clothing_diaplume desc",
                 "buyout": 0
             },
@@ -7408,49 +7496,49 @@
             },
             "5823": {
                 "slug": "clothing_r24_starboppers8",
-                "name": "clothing_r24_starboppers8 name",
+                "name": "Diadema de Estrellas P\u00farpura",
                 "description": "clothing_r24_starboppers8 desc",
                 "buyout": 0
             },
             "5822": {
                 "slug": "clothing_r24_starboppers7",
-                "name": "clothing_r24_starboppers7 name",
+                "name": "Diadema de Estrellas Verde Menta",
                 "description": "clothing_r24_starboppers7 desc",
                 "buyout": 0
             },
             "5821": {
                 "slug": "clothing_r24_starboppers6",
-                "name": "clothing_r24_starboppers6 name",
+                "name": "Diadema de Estrellas Azul Cielo",
                 "description": "clothing_r24_starboppers6 desc",
                 "buyout": 0
             },
             "5820": {
                 "slug": "clothing_r24_starboppers5",
-                "name": "clothing_r24_starboppers5 name",
+                "name": "Diadema de Estrellas Naranja",
                 "description": "clothing_r24_starboppers5 desc",
                 "buyout": 0
             },
             "5819": {
                 "slug": "clothing_r24_starboppers4",
-                "name": "clothing_r24_starboppers4 name",
+                "name": "Diadema de Estrellas Azul Oscuro",
                 "description": "clothing_r24_starboppers4 desc",
                 "buyout": 0
             },
             "5818": {
                 "slug": "clothing_r24_starboppers3",
-                "name": "clothing_r24_starboppers3 name",
+                "name": "Diadema de Estrellas Dorada",
                 "description": "clothing_r24_starboppers3 desc",
                 "buyout": 0
             },
             "5817": {
                 "slug": "clothing_r24_starboppers2",
-                "name": "clothing_r24_starboppers2 name",
+                "name": "Diadema de Estrellas Roja",
                 "description": "clothing_r24_starboppers2 desc",
                 "buyout": 0
             },
             "5816": {
                 "slug": "clothing_r24_starboppers1",
-                "name": "clothing_r24_starboppers1 name",
+                "name": "Diadema de Estrellas Rosa",
                 "description": "clothing_r24_starboppers1 desc",
                 "buyout": 0
             },
@@ -7512,7 +7600,7 @@
                 "slug": "clothing_frozenelfears",
                 "name": "Orejas de Elfo congeladas",
                 "description": "clothing_frozenelfears desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5764": {
                 "slug": "clothing_chainedearrings",
@@ -7698,13 +7786,13 @@
                 "slug": "clothing_baubleearrings2",
                 "name": "Pendiente Bola Navide\u00f1a",
                 "description": "clothing_baubleearrings2 desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5314": {
                 "slug": "clothing_bigbowhairclip",
                 "name": "Lazo Cabello XL",
                 "description": "clothing_bigbowhairclip desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5279": {
                 "slug": "clothing_ankhearrings",
@@ -8464,7 +8552,7 @@
             },
             "5570": {
                 "slug": "clothing_nftsbvisor",
-                "name": "clothing_nftsbvisor name",
+                "name": "Detector de Radiaci\u00f3n",
                 "description": "clothing_nftsbvisor desc",
                 "buyout": 0
             },
@@ -8756,9 +8844,15 @@
             "1401": null
         },
         "fa": {
+            "5948": {
+                "slug": "clothing_nftartistset",
+                "name": "Conjunto Pintor de Lienzo",
+                "description": "clothing_nftartistset desc",
+                "buyout": 0
+            },
             "5835": {
                 "slug": "clothing_cnysnake",
-                "name": "clothing_cnysnake name",
+                "name": "Accesorios Serpiente",
                 "description": "clothing_cnysnake desc",
                 "buyout": 0
             },
@@ -8766,13 +8860,13 @@
                 "slug": "clothing_bigbushybeard",
                 "name": "Barba Frondosa",
                 "description": "clothing_bigbushybeard desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5760": {
                 "slug": "clothing_nftfrozenface",
                 "name": "Cara Helada",
                 "description": "clothing_nftfrozenface desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5754": {
                 "slug": "clothing_nftchili3",
@@ -9289,6 +9383,18 @@
             "1201": null
         },
         "ca": {
+            "5950": {
+                "slug": "clothing_nftartistset",
+                "name": "Conjunto Pintor de Lienzo",
+                "description": "clothing_nftartistset desc",
+                "buyout": 0
+            },
+            "5949": {
+                "slug": "clothing_nftartistset",
+                "name": "Conjunto Pintor de Lienzo",
+                "description": "clothing_nftartistset desc",
+                "buyout": 0
+            },
             "5894": {
                 "slug": "clothing_nftbaubles2",
                 "name": "Cintur\u00f3n de Adornos Plateados",
@@ -9389,7 +9495,7 @@
                 "slug": "clothing_nftfrozenscarf",
                 "name": "Bufanda Congelada",
                 "description": "clothing_nftfrozenscarf desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5757": {
                 "slug": "clothing_nftskullpendant",
@@ -9531,7 +9637,7 @@
             },
             "5571": {
                 "slug": "clothing_nftsbrocketpack",
-                "name": "clothing_nftsbrocketpack name",
+                "name": "Propulsor Habstronauta",
                 "description": "clothing_nftsbrocketpack desc",
                 "buyout": 0
             },
@@ -9731,7 +9837,7 @@
                 "slug": "clothing_chunkyknitscarf",
                 "name": "Bufanda con Bola",
                 "description": "clothing_chunkyknitscarf desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5354": {
                 "slug": "clothing_goldbookbag",
@@ -9755,7 +9861,7 @@
                 "slug": "clothing_misssantaoutfit",
                 "name": "Vestido de Santa Mini",
                 "description": "clothing_misssantaoutfit desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5309": {
                 "slug": "clothing_bowbag",
@@ -10363,7 +10469,7 @@
                 "slug": "clothing_cladyoutfit",
                 "name": "Outfit Sra Claus",
                 "description": "Habbo Couture: Navidad 2015",
-                "buyout": 1
+                "buyout": 0
             },
             "3444": {
                 "slug": "clothing_skullnecklace",
@@ -10467,7 +10573,7 @@
         "wa": {
             "5836": {
                 "slug": "clothing_cnysnake",
-                "name": "clothing_cnysnake name",
+                "name": "Accesorios Serpiente",
                 "description": "clothing_cnysnake desc",
                 "buyout": 0
             },
@@ -10653,6 +10759,18 @@
         "cc": {
             "9865": null,
             "9563": null,
+            "5967": {
+                "slug": "clothing_r25_valentinesgroom",
+                "name": "clothing_r25_valentinesgroom name",
+                "description": "clothing_r25_valentinesgroom desc",
+                "buyout": 0
+            },
+            "5966": {
+                "slug": "clothing_r25_valentinesgroom",
+                "name": "clothing_r25_valentinesgroom name",
+                "description": "clothing_r25_valentinesgroom desc",
+                "buyout": 0
+            },
             "5895": {
                 "slug": "clothing_nftsack",
                 "name": "Saco de Santa Rastafari",
@@ -10691,7 +10809,7 @@
             },
             "5826": {
                 "slug": "clothing_r25_goosefriend",
-                "name": "clothing_r25_goosefriend name",
+                "name": "Ganso de Compa\u00f1\u00eda",
                 "description": "clothing_r25_goosefriend desc",
                 "buyout": 0
             },
@@ -10817,19 +10935,19 @@
             },
             "5573": {
                 "slug": "clothing_nftsbrangerjacket",
-                "name": "clothing_nftsbrangerjacket name",
+                "name": "Chaqueta Comandante C\u00f3smico",
                 "description": "clothing_nftsbrangerjacket desc",
                 "buyout": 0
             },
             "5572": {
                 "slug": "clothing_nftsbrangerjacket",
-                "name": "clothing_nftsbrangerjacket name",
+                "name": "Chaqueta Comandante C\u00f3smico",
                 "description": "clothing_nftsbrangerjacket desc",
                 "buyout": 0
             },
             "5569": {
                 "slug": "clothing_nftsbraygun",
-                "name": "clothing_nftsbraygun name",
+                "name": "Pistola L\u00e1ser",
                 "description": "clothing_nftsbraygun desc",
                 "buyout": 0
             },
@@ -12066,6 +12184,12 @@
             "260": null
         },
         "cp": {
+            "5946": {
+                "slug": "clothing_nft2025",
+                "name": "Collar A\u00f1o Nuevo 2025",
+                "description": "clothing_nft2025 desc",
+                "buyout": 0
+            },
             "5497": {
                 "slug": "clothing_nftdragonyearmark4",
                 "name": "Print Drag\u00f3n verde",
