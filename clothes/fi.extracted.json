@@ -17,6 +17,90 @@
     "clothing": {
         "hr": {
             "9534": null,
+            "6078": {
+                "slug": "clothing_nftmop",
+                "name": "Moppikampaus",
+                "description": "clothing_nftmop desc",
+                "buyout": 0
+            },
+            "6055": {
+                "slug": "clothing_alicehair",
+                "name": "clothing_alicehair name",
+                "description": "clothing_alicehair desc",
+                "buyout": 0
+            },
+            "6035": {
+                "slug": "clothing_nftyumekawa",
+                "name": "Yume Kawaii-kampaus",
+                "description": "clothing_nftyumekawa desc",
+                "buyout": 0
+            },
+            "6034": {
+                "slug": "clothing_nftakaiakuma",
+                "name": "Akai Akuma-kampaus",
+                "description": "clothing_nftakaiakuma desc",
+                "buyout": 0
+            },
+            "5973": {
+                "slug": "clothing_r25_curlyponytail",
+                "name": "Fiftariponnari ",
+                "description": "clothing_r25_curlyponytail desc",
+                "buyout": 0
+            },
+            "5971": {
+                "slug": "clothing_bratzcameronhair",
+                "name": "Bratz Cameronin kampaus",
+                "description": "clothing_bratzcameronhair desc",
+                "buyout": 0
+            },
+            "5969": {
+                "slug": "clothing_bratzsashahair2",
+                "name": "Bratz Sashan kutrit",
+                "description": "clothing_bratzsashahair2 desc",
+                "buyout": 0
+            },
+            "5962": {
+                "slug": "clothing_slickedbackhair2",
+                "name": "Geelikampaus",
+                "description": "clothing_slickedbackhair2 desc",
+                "buyout": 0
+            },
+            "5933": {
+                "slug": "clothing_casualshorthair",
+                "name": "Ylikasvaneet hiukset",
+                "description": "clothing_casualshorthair desc",
+                "buyout": 1
+            },
+            "5924": {
+                "slug": "clothing_slickedpartedhair",
+                "name": "Pitk\u00e4t etuhiukset",
+                "description": "clothing_slickedpartedhair desc",
+                "buyout": 0
+            },
+            "5914": {
+                "slug": "clothing_r25_twotonedlonghair",
+                "name": "Kaksiv\u00e4riset mallin kutrit",
+                "description": "clothing_r25_twotonedlonghair desc",
+                "buyout": 0
+            },
+            "5912": {
+                "slug": "clothing_halfmanbunhair",
+                "name": "Rento puoliponnari",
+                "description": "clothing_halfmanbunhair desc",
+                "buyout": 0
+            },
+            "5898": {
+                "slug": "clothing_twotonedplaitedwavehair",
+                "name": "Ufo-lettikampaus",
+                "description": "clothing_twotonedplaitedwavehair desc",
+                "buyout": 1
+            },
+            "5887": {
+                "slug": "clothing_nftmythichair",
+                "name": "Myyttinen t\u00f6yht\u00f6",
+                "description": "clothing_nftmythichair desc",
+                "buyout": 0
+            },
             "5841": {
                 "slug": "clothing_nftmessycut",
                 "name": "Villi t\u00f6yht\u00f6",
@@ -1172,6 +1256,138 @@
             "100": null
         },
         "hd": {
+            "6072": {
+                "slug": "clothing_bratzkobyface",
+                "name": "Bratz Kobyn kasvot",
+                "description": "clothing_bratzkobyface desc",
+                "buyout": 0
+            },
+            "6048": {
+                "slug": "clothing_nftscarface",
+                "name": "Arpinaama",
+                "description": "clothing_nftscarface desc",
+                "buyout": 0
+            },
+            "6047": {
+                "slug": "clothing_nftscarface",
+                "name": "Arpinaama",
+                "description": "clothing_nftscarface desc",
+                "buyout": 0
+            },
+            "6046": {
+                "slug": "clothing_nftscarface",
+                "name": "Arpinaama",
+                "description": "clothing_nftscarface desc",
+                "buyout": 0
+            },
+            "6045": {
+                "slug": "clothing_nftscarface",
+                "name": "Arpinaama",
+                "description": "clothing_nftscarface desc",
+                "buyout": 0
+            },
+            "6027": {
+                "slug": "clothing_nftbluehearteyes",
+                "name": "S\u00e4hk\u00f6nsiniset syd\u00e4nsilm\u00e4t",
+                "description": "clothing_nftbluehearteyes desc",
+                "buyout": 0
+            },
+            "6026": {
+                "slug": "clothing_nftbluehearteyes",
+                "name": "S\u00e4hk\u00f6nsiniset syd\u00e4nsilm\u00e4t",
+                "description": "clothing_nftbluehearteyes desc",
+                "buyout": 0
+            },
+            "6025": {
+                "slug": "clothing_nftpinkhearteyes",
+                "name": "Helakanpinkit syd\u00e4nsilm\u00e4t",
+                "description": "clothing_nftpinkhearteyes desc",
+                "buyout": 0
+            },
+            "6024": {
+                "slug": "clothing_nftpinkhearteyes",
+                "name": "Helakanpinkit syd\u00e4nsilm\u00e4t",
+                "description": "clothing_nftpinkhearteyes desc",
+                "buyout": 0
+            },
+            "6009": {
+                "slug": "clothing_nftantagonist",
+                "name": "Kelmin kasvot",
+                "description": "clothing_nftantagonist desc",
+                "buyout": 0
+            },
+            "6008": {
+                "slug": "clothing_nftcartoonheroine",
+                "name": "Sarjakuvasankarittaren kasvot",
+                "description": "clothing_nftcartoonheroine desc",
+                "buyout": 0
+            },
+            "6007": {
+                "slug": "clothing_nftcartoonhero",
+                "name": "Sarjakuvasankarin kasvot",
+                "description": "clothing_nftcartoonhero desc",
+                "buyout": 0
+            },
+            "6006": {
+                "slug": "clothing_nftgoldskin",
+                "name": "Kultainen iho",
+                "description": "clothing_nftgoldskin desc",
+                "buyout": 0
+            },
+            "6005": {
+                "slug": "clothing_nftgoldskin",
+                "name": "Kultainen iho",
+                "description": "clothing_nftgoldskin desc",
+                "buyout": 0
+            },
+            "6004": {
+                "slug": "clothing_nftsilverskin",
+                "name": "Hopeinen iho",
+                "description": "clothing_nftsilverskin desc",
+                "buyout": 0
+            },
+            "6003": {
+                "slug": "clothing_nftsilverskin",
+                "name": "Hopeinen iho",
+                "description": "clothing_nftsilverskin desc",
+                "buyout": 0
+            },
+            "6002": {
+                "slug": "clothing_nftbronzeskin",
+                "name": "Pronssinen iho",
+                "description": "clothing_nftbronzeskin desc",
+                "buyout": 0
+            },
+            "6001": {
+                "slug": "clothing_nftbronzeskin",
+                "name": "Pronssinen iho",
+                "description": "clothing_nftbronzeskin desc",
+                "buyout": 0
+            },
+            "5913": {
+                "slug": "clothing_bunnyface",
+                "name": "Pupun naama",
+                "description": "clothing_bunnyface desc",
+                "buyout": 0
+            },
+            "5890": {
+                "slug": "clothing_nftantagonist",
+                "name": "Kelmin kasvot",
+                "description": "clothing_nftantagonist desc",
+                "buyout": 0
+            },
+            "5889": {
+                "slug": "clothing_nftcartoonheroine",
+                "name": "Sarjakuvasankarittaren kasvot",
+                "description": "clothing_nftcartoonheroine desc",
+                "buyout": 0
+            },
+            "5888": {
+                "slug": "clothing_nftcartoonhero",
+                "name": "Sarjakuvasankarin kasvot",
+                "description": "clothing_nftcartoonhero desc",
+                "buyout": 0
+            },
             "5840": {
                 "slug": "clothing_nftfreckles2",
                 "name": "Pisamanaama B",
@@ -1531,16 +1747,256 @@
             "180": null
         },
         "ch": {
+            "6060": {
+                "slug": "clothing_alicedress",
+                "name": "clothing_alicedress name",
+                "description": "clothing_alicedress desc",
+                "buyout": 0
+            },
+            "6059": {
+                "slug": "clothing_r25_heartqueendress",
+                "name": "clothing_r25_heartqueendress name",
+                "description": "clothing_r25_heartqueendress desc",
+                "buyout": 0
+            },
+            "6058": {
+                "slug": "clothing_r25_heartqueendress",
+                "name": "clothing_r25_heartqueendress name",
+                "description": "clothing_r25_heartqueendress desc",
+                "buyout": 0
+            },
+            "6051": {
+                "slug": "clothing_r25_knightarmor",
+                "name": "clothing_r25_knightarmor name",
+                "description": "clothing_r25_knightarmor desc",
+                "buyout": 0
+            },
+            "6039": {
+                "slug": "clothing_nftcatmaiddress2",
+                "name": "Dark Neko-mekko",
+                "description": "clothing_nftcatmaiddress2 desc",
+                "buyout": 0
+            },
+            "6038": {
+                "slug": "clothing_nftcatmaiddress",
+                "name": "Pink Neko-mekko",
+                "description": "clothing_nftcatmaiddress desc",
+                "buyout": 0
+            },
             "5964": {
                 "slug": "clothing_r25_valentinesbride",
-                "name": "clothing_r25_valentinesbride name",
+                "name": "Rakastavaisen h\u00e4\u00e4mekko",
                 "description": "clothing_r25_valentinesbride desc",
                 "buyout": 0
             },
             "5963": {
                 "slug": "clothing_r25_valentinesbride",
-                "name": "clothing_r25_valentinesbride name",
+                "name": "Rakastavaisen h\u00e4\u00e4mekko",
                 "description": "clothing_r25_valentinesbride desc",
+                "buyout": 0
+            },
+            "5959": {
+                "slug": "clothing_stripeyshortsleevedshirt",
+                "name": "Raidallinen kauluspaita",
+                "description": "clothing_stripeyshortsleevedshirt desc",
+                "buyout": 0
+            },
+            "5958": {
+                "slug": "clothing_stripeyshortsleevedshirt",
+                "name": "Raidallinen kauluspaita",
+                "description": "clothing_stripeyshortsleevedshirt desc",
+                "buyout": 0
+            },
+            "5957": {
+                "slug": "clothing_animalprintshortsleevedshirt",
+                "name": "Gepardikuvioinen kauluspaita",
+                "description": "clothing_animalprintshortsleevedshirt desc",
+                "buyout": 0
+            },
+            "5956": {
+                "slug": "clothing_animalprintshortsleevedshirt",
+                "name": "Gepardikuvioinen kauluspaita",
+                "description": "clothing_animalprintshortsleevedshirt desc",
+                "buyout": 0
+            },
+            "5955": {
+                "slug": "clothing_floralkshortsleevedshirt",
+                "name": "Kukallinen kauluspaita",
+                "description": "clothing_floralkshortsleevedshirt desc",
+                "buyout": 0
+            },
+            "5954": {
+                "slug": "clothing_floralkshortsleevedshirt",
+                "name": "Kukallinen kauluspaita",
+                "description": "clothing_floralkshortsleevedshirt desc",
+                "buyout": 0
+            },
+            "5953": {
+                "slug": "clothing_shortsleeveshirt",
+                "name": "Prototyyppikauluspaita",
+                "description": "clothing_shortsleeveshirt desc",
+                "buyout": 1
+            },
+            "5952": {
+                "slug": "clothing_shortsleeveshirt",
+                "name": "Prototyyppikauluspaita",
+                "description": "clothing_shortsleeveshirt desc",
+                "buyout": 1
+            },
+            "5930": {
+                "slug": "clothing_floraltubetop",
+                "name": "Kukkatoppi",
+                "description": "clothing_floraltubetop desc",
+                "buyout": 0
+            },
+            "5923": {
+                "slug": "clothing_floraltubetop",
+                "name": "Kukkatoppi",
+                "description": "clothing_floraltubetop desc",
+                "buyout": 0
+            },
+            "5922": {
+                "slug": "clothing_buttontubetop",
+                "name": "Napitettu toppi",
+                "description": "clothing_buttontubetop desc",
+                "buyout": 0
+            },
+            "5921": {
+                "slug": "clothing_buttontubetop",
+                "name": "Napitettu toppi",
+                "description": "clothing_buttontubetop desc",
+                "buyout": 0
+            },
+            "5920": {
+                "slug": "clothing_denimtubetop",
+                "name": "Farkkutoppi",
+                "description": "clothing_denimtubetop desc",
+                "buyout": 0
+            },
+            "5919": {
+                "slug": "clothing_denimtubetop",
+                "name": "Farkkutoppi",
+                "description": "clothing_denimtubetop desc",
+                "buyout": 0
+            },
+            "5918": {
+                "slug": "clothing_tubetop",
+                "name": "Prototyyppitoppi",
+                "description": "clothing_tubetop desc",
+                "buyout": 1
+            },
+            "5917": {
+                "slug": "clothing_tubetop",
+                "name": "Prototyyppitoppi",
+                "description": "clothing_tubetop desc",
+                "buyout": 1
+            },
+            "5908": {
+                "slug": "clothing_knittedbikini",
+                "name": "Virkatut bikinit",
+                "description": "clothing_knittedbikini desc",
+                "buyout": 1
+            },
+            "5907": {
+                "slug": "clothing_knittedbikini",
+                "name": "Virkatut bikinit",
+                "description": "clothing_knittedbikini desc",
+                "buyout": 1
+            },
+            "5906": {
+                "slug": "clothing_strappysatindress",
+                "name": "Satiini-iltapuku",
+                "description": "clothing_strappysatindress desc",
+                "buyout": 0
+            },
+            "5905": {
+                "slug": "clothing_strappysatindress",
+                "name": "Satiini-iltapuku",
+                "description": "clothing_strappysatindress desc",
+                "buyout": 0
+            },
+            "5904": {
+                "slug": "clothing_floraldress",
+                "name": "Siro kukkamekko",
+                "description": "clothing_floraldress desc",
+                "buyout": 0
+            },
+            "5903": {
+                "slug": "clothing_floraldress",
+                "name": "Siro kukkamekko",
+                "description": "clothing_floraldress desc",
+                "buyout": 0
+            },
+            "5902": {
+                "slug": "clothing_polkaheartcutdress",
+                "name": "Syd\u00e4naukkomekko",
+                "description": "clothing_polkaheartcutdress desc",
+                "buyout": 0
+            },
+            "5901": {
+                "slug": "clothing_polkaheartcutdress",
+                "name": "Syd\u00e4naukkomekko",
+                "description": "clothing_polkaheartcutdress desc",
+                "buyout": 0
+            },
+            "5900": {
+                "slug": "clothing_longdress",
+                "name": "Prototyypimekko",
+                "description": "clothing_longdress desc",
+                "buyout": 1
+            },
+            "5899": {
+                "slug": "clothing_longdress",
+                "name": "Prototyypimekko",
+                "description": "clothing_longdress desc",
+                "buyout": 1
+            },
+            "5863": {
+                "slug": "clothing_nftcolorshirtribbon",
+                "name": "V\u00e4rj\u00e4tt\u00e4v\u00e4 puuvillapaita ja ranneke",
+                "description": "clothing_nftcolorshirtribbon desc",
+                "buyout": 0
+            },
+            "5862": {
+                "slug": "clothing_nftcolorshirtribbon",
+                "name": "V\u00e4rj\u00e4tt\u00e4v\u00e4 puuvillapaita ja ranneke",
+                "description": "clothing_nftcolorshirtribbon desc",
+                "buyout": 0
+            },
+            "5861": {
+                "slug": "clothing_nftcolorshirtwatch",
+                "name": "V\u00e4rj\u00e4tt\u00e4v\u00e4 puuvillapaita ja kello",
+                "description": "clothing_nftcolorshirtwatch desc",
+                "buyout": 0
+            },
+            "5860": {
+                "slug": "clothing_nftcolorshirtwatch",
+                "name": "V\u00e4rj\u00e4tt\u00e4v\u00e4 puuvillapaita ja kello",
+                "description": "clothing_nftcolorshirtwatch desc",
+                "buyout": 0
+            },
+            "5859": {
+                "slug": "clothing_nftcolorshirt",
+                "name": "V\u00e4rj\u00e4tt\u00e4v\u00e4 puuvillapaita",
+                "description": "clothing_nftcolorshirt desc",
+                "buyout": 0
+            },
+            "5858": {
+                "slug": "clothing_nftcolorshirt",
+                "name": "V\u00e4rj\u00e4tt\u00e4v\u00e4 puuvillapaita",
+                "description": "clothing_nftcolorshirt desc",
+                "buyout": 0
+            },
+            "5857": {
+                "slug": "clothing_nftplainshirt",
+                "name": "Tavallinen puuvillapaita",
+                "description": "clothing_nftplainshirt desc",
+                "buyout": 0
+            },
+            "5856": {
+                "slug": "clothing_nftplainshirt",
+                "name": "Tavallinen puuvillapaita",
+                "description": "clothing_nftplainshirt desc",
                 "buyout": 0
             },
             "5834": {
@@ -1559,13 +2015,13 @@
                 "slug": "clothing_ducketshirt",
                 "name": "Ankanmets\u00e4st\u00e4j\u00e4n t-paita ",
                 "description": "clothing_ducketshirt desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5830": {
                 "slug": "clothing_ducketshirt",
                 "name": "Ankanmets\u00e4st\u00e4j\u00e4n t-paita ",
                 "description": "clothing_ducketshirt desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5806": {
                 "slug": "clothing_dressinggown",
@@ -3598,13 +4054,13 @@
             },
             "3686": {
                 "slug": "clothing_c18_cutething",
-                "name": "clothing_c18_cutething name",
+                "name": "Warper-t-paita",
                 "description": "clothing_c18_cutething desc",
                 "buyout": 0
             },
             "3685": {
                 "slug": "clothing_c18_cutething",
-                "name": "clothing_c18_cutething name",
+                "name": "Warper-t-paita",
                 "description": "clothing_c18_cutething desc",
                 "buyout": 0
             },
@@ -4145,6 +4601,30 @@
             "210": null
         },
         "lg": {
+            "5974": {
+                "slug": "clothing_bratzjadeskirt",
+                "name": "Bratz Jaden minihame",
+                "description": "clothing_bratzjadeskirt desc",
+                "buyout": 0
+            },
+            "5970": {
+                "slug": "clothing_bratzeitantrousers",
+                "name": "Bratz Eitanin l\u00f6k\u00e4p\u00f6ksyt",
+                "description": "clothing_bratzeitantrousers desc",
+                "buyout": 0
+            },
+            "5927": {
+                "slug": "clothing_bunnyclipshorts",
+                "name": "Shortsit pupuhenkseleill\u00e4",
+                "description": "clothing_bunnyclipshorts desc",
+                "buyout": 1
+            },
+            "5909": {
+                "slug": "clothing_knittedbikini",
+                "name": "Virkatut bikinit",
+                "description": "clothing_knittedbikini desc",
+                "buyout": 1
+            },
             "5745": {
                 "slug": "clothing_mariachioutfit",
                 "name": "Mariachi-asu",
@@ -4743,10 +5223,58 @@
             "270": null
         },
         "sh": {
+            "6043": {
+                "slug": "clothing_nftcatslippers2",
+                "name": "Mustat kissatohvelit",
+                "description": "clothing_nftcatslippers2 desc",
+                "buyout": 0
+            },
+            "6042": {
+                "slug": "clothing_nftcatslippers",
+                "name": "Valkoiset kissatohvelit",
+                "description": "clothing_nftcatslippers desc",
+                "buyout": 0
+            },
+            "5943": {
+                "slug": "clothing_fashionboots",
+                "name": "Trendikk\u00e4\u00e4t nilkkurit",
+                "description": "clothing_fashionboots desc",
+                "buyout": 1
+            },
+            "5931": {
+                "slug": "clothing_nftsneakers2",
+                "name": "Lenkkarit nro 2",
+                "description": "clothing_nftsneakers2 desc",
+                "buyout": 0
+            },
+            "5928": {
+                "slug": "clothing_nftbunnyshoes",
+                "name": "Pupulenkkarit",
+                "description": "clothing_nftbunnyshoes desc",
+                "buyout": 1
+            },
             "5896": {
                 "slug": "clothing_nftxmassocks",
                 "name": "Jouluiset polvisukat",
                 "description": "clothing_nftxmassocks desc",
+                "buyout": 0
+            },
+            "5871": {
+                "slug": "clothing_nftcolorsneakers2",
+                "name": "V\u00e4rj\u00e4tt\u00e4v\u00e4t lenkkarit nro 2",
+                "description": "clothing_nftcolorsneakers2 desc",
+                "buyout": 0
+            },
+            "5869": {
+                "slug": "clothing_nftcolorsneakers",
+                "name": "V\u00e4rj\u00e4tt\u00e4v\u00e4t lenkkarit nro 1",
+                "description": "clothing_nftcolorsneakers desc",
+                "buyout": 0
+            },
+            "5868": {
+                "slug": "clothing_nftsneakers",
+                "name": "Lenkkarit nro 1",
+                "description": "clothing_nftsneakers desc",
                 "buyout": 0
             },
             "5803": {
@@ -5122,9 +5650,87 @@
             "290": null
         },
         "ha": {
+            "6080": {
+                "slug": "clothing_nfttallcrown",
+                "name": "Pitkulainen kruunu",
+                "description": "clothing_nfttallcrown desc",
+                "buyout": 0
+            },
+            "6076": {
+                "slug": "clothing_nftthebigcap",
+                "name": "J\u00e4ttilippis",
+                "description": "clothing_nftthebigcap desc",
+                "buyout": 0
+            },
+            "6057": {
+                "slug": "clothing_teacuphat",
+                "name": "clothing_teacuphat name",
+                "description": "clothing_teacuphat desc",
+                "buyout": 0
+            },
+            "6056": {
+                "slug": "clothing_chesscrown",
+                "name": "clothing_chesscrown name",
+                "description": "clothing_chesscrown desc",
+                "buyout": 0
+            },
+            "6052": {
+                "slug": "clothing_r25_knightarmor",
+                "name": "clothing_r25_knightarmor name",
+                "description": "clothing_r25_knightarmor desc",
+                "buyout": 0
+            },
+            "6037": {
+                "slug": "clothing_nftcatheadband2",
+                "name": "Dark Neko-panta",
+                "description": "clothing_nftcatheadband2 desc",
+                "buyout": 0
+            },
+            "6036": {
+                "slug": "clothing_nftcatheadband",
+                "name": "Pink Neko-panta",
+                "description": "clothing_nftcatheadband desc",
+                "buyout": 0
+            },
+            "5991": {
+                "slug": "clothing_nftwinter3",
+                "name": "Ruskeat pakkasasusteet",
+                "description": "clothing_nftwinter3 desc",
+                "buyout": 0
+            },
+            "5990": {
+                "slug": "clothing_nftwinter2",
+                "name": "Punaiset pakkasasusteet",
+                "description": "clothing_nftwinter2 desc",
+                "buyout": 0
+            },
+            "5989": {
+                "slug": "clothing_nftwinter1",
+                "name": "Vihre\u00e4t pakkasasusteet",
+                "description": "clothing_nftwinter1 desc",
+                "buyout": 0
+            },
+            "5988": {
+                "slug": "clothing_nftwinter",
+                "name": "Siniset pakkasasusteet",
+                "description": "clothing_nftwinter desc",
+                "buyout": 0
+            },
+            "5987": {
+                "slug": "clothing_nftcfbeaniecol",
+                "name": "clothing_nftcfbeaniecol name",
+                "description": "clothing_nftcfbeaniecol desc",
+                "buyout": 0
+            },
+            "5980": {
+                "slug": "clothing_nftsnakecrown",
+                "name": "K\u00e4\u00e4rmeen vuoden kruunu",
+                "description": "clothing_nftsnakecrown desc",
+                "buyout": 0
+            },
             "5968": {
                 "slug": "clothing_r25_valentinesgroom",
-                "name": "clothing_r25_valentinesgroom name",
+                "name": "Rakastavaisen h\u00e4\u00e4puku",
                 "description": "clothing_r25_valentinesgroom desc",
                 "buyout": 0
             },
@@ -5132,6 +5738,42 @@
                 "slug": "clothing_nftartistset",
                 "name": "Taidemaalarin asu",
                 "description": "clothing_nftartistset desc",
+                "buyout": 0
+            },
+            "5944": {
+                "slug": "clothing_nftbunnycapeoutfit",
+                "name": "Pupuviitta",
+                "description": "clothing_nftbunnycapeoutfit desc",
+                "buyout": 0
+            },
+            "5929": {
+                "slug": "clothing_nftcfbeanie",
+                "name": "Tavallinen puuvillapipo",
+                "description": "clothing_nftcfbeanie desc",
+                "buyout": 0
+            },
+            "5867": {
+                "slug": "clothing_nftcolorbandana",
+                "name": "V\u00e4rj\u00e4tt\u00e4v\u00e4 p\u00e4\u00e4huivi",
+                "description": "clothing_nftcolorbandana desc",
+                "buyout": 0
+            },
+            "5866": {
+                "slug": "clothing_nftsilkbandana",
+                "name": "Silkkinen p\u00e4\u00e4huivi",
+                "description": "clothing_nftsilkbandana desc",
+                "buyout": 0
+            },
+            "5865": {
+                "slug": "clothing_nftcolorwidebrim",
+                "name": "V\u00e4rillinen lierihattu",
+                "description": "clothing_nftcolorwidebrim desc",
+                "buyout": 0
+            },
+            "5864": {
+                "slug": "clothing_nftleatherwidebrim",
+                "name": "Nahkainen lierihattu",
+                "description": "clothing_nftleatherwidebrim desc",
                 "buyout": 0
             },
             "5854": {
@@ -5192,7 +5834,7 @@
                 "slug": "clothing_duckethat",
                 "name": "Ankanmets\u00e4st\u00e4j\u00e4n hattu ",
                 "description": "clothing_duckethat desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5814": {
                 "slug": "clothing_littlesnowman",
@@ -7464,10 +8106,64 @@
             "1001": null
         },
         "he": {
+            "6068": {
+                "slug": "clothing_clubclip",
+                "name": "clothing_clubclip name",
+                "description": "clothing_clubclip desc",
+                "buyout": 0
+            },
+            "6067": {
+                "slug": "clothing_spadeclip",
+                "name": "clothing_spadeclip name",
+                "description": "clothing_spadeclip desc",
+                "buyout": 0
+            },
+            "6066": {
+                "slug": "clothing_heartclip",
+                "name": "clothing_heartclip name",
+                "description": "clothing_heartclip desc",
+                "buyout": 0
+            },
+            "6065": {
+                "slug": "clothing_diamondclip",
+                "name": "clothing_diamondclip name",
+                "description": "clothing_diamondclip desc",
+                "buyout": 0
+            },
+            "6033": {
+                "slug": "clothing_nftflowerfairy",
+                "name": "Kukkakeiju yst\u00e4v\u00e4",
+                "description": "clothing_nftflowerfairy desc",
+                "buyout": 0
+            },
+            "6028": {
+                "slug": "clothing_nftflowerfairy",
+                "name": "Kukkakeiju yst\u00e4v\u00e4",
+                "description": "clothing_nftflowerfairy desc",
+                "buyout": 0
+            },
+            "5997": {
+                "slug": "clothing_r25_valentinesbride",
+                "name": "Rakastavaisen h\u00e4\u00e4mekko",
+                "description": "clothing_r25_valentinesbride desc",
+                "buyout": 0
+            },
             "5965": {
                 "slug": "clothing_r25_valentinesbride",
-                "name": "clothing_r25_valentinesbride name",
+                "name": "Rakastavaisen h\u00e4\u00e4mekko",
                 "description": "clothing_r25_valentinesbride desc",
+                "buyout": 0
+            },
+            "5915": {
+                "slug": "clothing_nfteastereggcrown",
+                "name": "P\u00e4\u00e4si\u00e4ismunaseppele",
+                "description": "clothing_nfteastereggcrown desc",
+                "buyout": 1
+            },
+            "5911": {
+                "slug": "clothing_bunnyearrings",
+                "name": "Pupukorvikset",
+                "description": "clothing_bunnyearrings desc",
                 "buyout": 0
             },
             "5845": {
@@ -8496,6 +9192,30 @@
             "1601": null
         },
         "ea": {
+            "6074": {
+                "slug": "clothing_nftbunnyshades2",
+                "name": "Tummennetut pupulasit",
+                "description": "clothing_nftbunnyshades2 desc",
+                "buyout": 0
+            },
+            "6073": {
+                "slug": "clothing_nftbunnyshades1",
+                "name": "Vaaleanpunaiset pupulasit",
+                "description": "clothing_nftbunnyshades1 desc",
+                "buyout": 0
+            },
+            "5910": {
+                "slug": "clothing_bunnyeyepatch",
+                "name": "Muodikas pupusilm\u00e4lappu",
+                "description": "clothing_bunnyeyepatch desc",
+                "buyout": 0
+            },
+            "5897": {
+                "slug": "clothing_fashionsunglasses",
+                "name": "Tummennetut aurinkolasit",
+                "description": "clothing_fashionsunglasses desc",
+                "buyout": 0
+            },
             "5749": {
                 "slug": "clothing_neonpartyacc",
                 "name": "Neon bileasusteet",
@@ -8844,6 +9564,18 @@
             "1401": null
         },
         "fa": {
+            "5982": {
+                "slug": "clothing_bratzyasminmole",
+                "name": "Bratz Yasminin kauneuspilkku",
+                "description": "clothing_bratzyasminmole desc",
+                "buyout": 0
+            },
+            "5975": {
+                "slug": "clothing_nftsnaketeeth",
+                "name": "K\u00e4\u00e4rmeen hampaat",
+                "description": "clothing_nftsnaketeeth desc",
+                "buyout": 0
+            },
             "5948": {
                 "slug": "clothing_nftartistset",
                 "name": "Taidemaalarin asu",
@@ -9383,6 +10115,60 @@
             "1201": null
         },
         "ca": {
+            "6075": {
+                "slug": "clothing_nftblingnecklace",
+                "name": "H-kultaketju",
+                "description": "clothing_nftblingnecklace desc",
+                "buyout": 0
+            },
+            "6054": {
+                "slug": "clothing_clocknecklace",
+                "name": "clothing_clocknecklace name",
+                "description": "clothing_clocknecklace desc",
+                "buyout": 0
+            },
+            "6044": {
+                "slug": "clothing_nftbigsword",
+                "name": "J\u00e4ttimiekka",
+                "description": "clothing_nftbigsword desc",
+                "buyout": 0
+            },
+            "6041": {
+                "slug": "clothing_nftcatmaiddress2",
+                "name": "Dark Neko-mekko",
+                "description": "clothing_nftcatmaiddress2 desc",
+                "buyout": 0
+            },
+            "6040": {
+                "slug": "clothing_nftcatmaiddress",
+                "name": "Pink Neko-mekko",
+                "description": "clothing_nftcatmaiddress desc",
+                "buyout": 0
+            },
+            "5984": {
+                "slug": "clothing_bratzcloebag",
+                "name": "Bratz Cloen k\u00e4silaukku",
+                "description": "clothing_bratzcloebag desc",
+                "buyout": 0
+            },
+            "5983": {
+                "slug": "clothing_bratzyasminpearls",
+                "name": "Bratz Yasminin helmikaulakoru",
+                "description": "clothing_bratzyasminpearls desc",
+                "buyout": 0
+            },
+            "5981": {
+                "slug": "clothing_r25_redpandabag",
+                "name": "Kultapandalaukku",
+                "description": "clothing_r25_redpandabag desc",
+                "buyout": 0
+            },
+            "5960": {
+                "slug": "clothing_r25_froggybackpack",
+                "name": "Sammakkoreppu",
+                "description": "clothing_r25_froggybackpack desc",
+                "buyout": 0
+            },
             "5950": {
                 "slug": "clothing_nftartistset",
                 "name": "Taidemaalarin asu",
@@ -9393,6 +10179,60 @@
                 "slug": "clothing_nftartistset",
                 "name": "Taidemaalarin asu",
                 "description": "clothing_nftartistset desc",
+                "buyout": 0
+            },
+            "5941": {
+                "slug": "clothing_knittedcanvasbag",
+                "name": "Virkattu kassi",
+                "description": "clothing_knittedcanvasbag desc",
+                "buyout": 0
+            },
+            "5940": {
+                "slug": "clothing_floralcanvasbag",
+                "name": "Kukkakassi",
+                "description": "clothing_floralcanvasbag desc",
+                "buyout": 0
+            },
+            "5939": {
+                "slug": "clothing_rainbowcanvasbag",
+                "name": "Sateenkaarikassi",
+                "description": "clothing_rainbowcanvasbag desc",
+                "buyout": 0
+            },
+            "5938": {
+                "slug": "clothing_canvasbag",
+                "name": "Prototyyppikangaskassi",
+                "description": "clothing_canvasbag desc",
+                "buyout": 1
+            },
+            "5937": {
+                "slug": "clothing_tribalnecklace",
+                "name": "Sapelihammaskaulakoru",
+                "description": "clothing_tribalnecklace desc",
+                "buyout": 0
+            },
+            "5936": {
+                "slug": "clothing_simplechainnecklace",
+                "name": "Ketjukaulakoru",
+                "description": "clothing_simplechainnecklace desc",
+                "buyout": 0
+            },
+            "5935": {
+                "slug": "clothing_crystalnecklace",
+                "name": "Kristallikaulakoru",
+                "description": "clothing_crystalnecklace desc",
+                "buyout": 0
+            },
+            "5934": {
+                "slug": "clothing_coinnecklace",
+                "name": "Onnenamulettikaulakoru",
+                "description": "clothing_coinnecklace desc",
+                "buyout": 1
+            },
+            "5916": {
+                "slug": "clothing_thinscarf",
+                "name": "Kapea raitahuivi",
+                "description": "clothing_thinscarf desc",
                 "buyout": 0
             },
             "5894": {
@@ -9673,13 +10513,13 @@
             },
             "5534": {
                 "slug": "clothing_giantbunnytailgold",
-                "name": "clothing_giantbunnytailgold name",
+                "name": "Kultainen j\u00e4ttipupunh\u00e4nt\u00e4",
                 "description": "clothing_giantbunnytailgold desc",
                 "buyout": 0
             },
             "5533": {
                 "slug": "clothing_giantbunnytail",
-                "name": "clothing_giantbunnytail name",
+                "name": "J\u00e4ttim\u00e4inen pupunh\u00e4nt\u00e4",
                 "description": "clothing_giantbunnytail desc",
                 "buyout": 0
             },
@@ -10571,6 +11411,18 @@
             "1801": null
         },
         "wa": {
+            "6071": {
+                "slug": "clothing_woodensword",
+                "name": "clothing_woodensword name",
+                "description": "clothing_woodensword desc",
+                "buyout": 0
+            },
+            "5986": {
+                "slug": "clothing_bratzdylanbelt",
+                "name": "Bratz Dylanin vy\u00f6ketju",
+                "description": "clothing_bratzdylanbelt desc",
+                "buyout": 0
+            },
             "5836": {
                 "slug": "clothing_cnysnake",
                 "name": "K\u00e4\u00e4rmeasusteet",
@@ -10759,16 +11611,112 @@
         "cc": {
             "9865": null,
             "9563": null,
+            "6079": {
+                "slug": "clothing_nfttrench",
+                "name": "Avonainen trenssi",
+                "description": "clothing_nfttrench desc",
+                "buyout": 0
+            },
+            "6077": {
+                "slug": "clothing_r25_bunnycompanion",
+                "name": "Pupukaveri",
+                "description": "clothing_r25_bunnycompanion desc",
+                "buyout": 0
+            },
+            "6070": {
+                "slug": "clothing_nftcat",
+                "name": "Kattikahvilan kissakaveri",
+                "description": "clothing_nftcat desc",
+                "buyout": 0
+            },
+            "6069": {
+                "slug": "clothing_nftcat",
+                "name": "Kattikahvilan kissakaveri",
+                "description": "clothing_nftcat desc",
+                "buyout": 0
+            },
+            "6050": {
+                "slug": "clothing_hearttrumpet",
+                "name": "clothing_hearttrumpet name",
+                "description": "clothing_hearttrumpet desc",
+                "buyout": 0
+            },
+            "5996": {
+                "slug": "clothing_nftvalentinesrose",
+                "name": "Rakastavaisen ruusu",
+                "description": "clothing_nftvalentinesrose desc",
+                "buyout": 0
+            },
+            "5995": {
+                "slug": "clothing_nftwinter3",
+                "name": "Ruskeat pakkasasusteet",
+                "description": "clothing_nftwinter3 desc",
+                "buyout": 0
+            },
+            "5994": {
+                "slug": "clothing_nftwinter2",
+                "name": "Punaiset pakkasasusteet",
+                "description": "clothing_nftwinter2 desc",
+                "buyout": 0
+            },
+            "5993": {
+                "slug": "clothing_nftwinter1",
+                "name": "Vihre\u00e4t pakkasasusteet",
+                "description": "clothing_nftwinter1 desc",
+                "buyout": 0
+            },
+            "5992": {
+                "slug": "clothing_nftwinter",
+                "name": "Siniset pakkasasusteet",
+                "description": "clothing_nftwinter desc",
+                "buyout": 0
+            },
             "5967": {
                 "slug": "clothing_r25_valentinesgroom",
-                "name": "clothing_r25_valentinesgroom name",
+                "name": "Rakastavaisen h\u00e4\u00e4puku",
                 "description": "clothing_r25_valentinesgroom desc",
                 "buyout": 0
             },
             "5966": {
                 "slug": "clothing_r25_valentinesgroom",
-                "name": "clothing_r25_valentinesgroom name",
+                "name": "Rakastavaisen h\u00e4\u00e4puku",
                 "description": "clothing_r25_valentinesgroom desc",
+                "buyout": 0
+            },
+            "5961": {
+                "slug": "clothing_teddycompanion",
+                "name": "Habbington nalle",
+                "description": "clothing_teddycompanion desc",
+                "buyout": 0
+            },
+            "5951": {
+                "slug": "clothing_r25_bosscoat",
+                "name": "Pomon jakku",
+                "description": "clothing_r25_bosscoat desc",
+                "buyout": 0
+            },
+            "5945": {
+                "slug": "clothing_nftbunnycapeoutfit",
+                "name": "Pupuviitta",
+                "description": "clothing_nftbunnycapeoutfit desc",
+                "buyout": 0
+            },
+            "5942": {
+                "slug": "clothing_umbrella",
+                "name": "Suuri sateenvarjo",
+                "description": "clothing_umbrella desc",
+                "buyout": 1
+            },
+            "5926": {
+                "slug": "clothing_offshoulderjacket",
+                "name": "Hartiat paljastava takki",
+                "description": "clothing_offshoulderjacket desc",
+                "buyout": 1
+            },
+            "5925": {
+                "slug": "clothing_sharkplushie",
+                "name": "Haipehmolelu",
+                "description": "clothing_sharkplushie desc",
                 "buyout": 0
             },
             "5895": {
@@ -12184,10 +13132,124 @@
             "260": null
         },
         "cp": {
+            "5979": {
+                "slug": "clothing_nftsnakeyearmark4",
+                "name": "Vihre\u00e4 k\u00e4\u00e4rmerintaprintti",
+                "description": "clothing_nftsnakeyearmark4 desc",
+                "buyout": 0
+            },
+            "5978": {
+                "slug": "clothing_nftsnakeyearmark3",
+                "name": "Sininen k\u00e4\u00e4rmerintaprintti",
+                "description": "clothing_nftsnakeyearmark3 desc",
+                "buyout": 0
+            },
+            "5977": {
+                "slug": "clothing_nftsnakeyearmark2",
+                "name": "Punainen k\u00e4\u00e4rmerintaprintti",
+                "description": "clothing_nftsnakeyearmark2 desc",
+                "buyout": 0
+            },
+            "5976": {
+                "slug": "clothing_nftsnakeyearmark1",
+                "name": "Musta k\u00e4\u00e4rmerintaprintti",
+                "description": "clothing_nftsnakeyearmark1 desc",
+                "buyout": 0
+            },
             "5946": {
                 "slug": "clothing_nft2025",
                 "name": "2025 uudenvuoden kaulakoru",
                 "description": "clothing_nft2025 desc",
+                "buyout": 0
+            },
+            "5932": {
+                "slug": "clothing_nftabcd",
+                "name": "ABCD-printti",
+                "description": "clothing_nftabcd desc",
+                "buyout": 0
+            },
+            "5886": {
+                "slug": "clothing_nftqueen",
+                "name": "Queen-printti",
+                "description": "clothing_nftqueen desc",
+                "buyout": 0
+            },
+            "5885": {
+                "slug": "clothing_nftking",
+                "name": "King-printti",
+                "description": "clothing_nftking desc",
+                "buyout": 0
+            },
+            "5884": {
+                "slug": "clothing_nftafk",
+                "name": "AFK-printti",
+                "description": "clothing_nftafk desc",
+                "buyout": 0
+            },
+            "5883": {
+                "slug": "clothing_nftnpc",
+                "name": "NPC-printti",
+                "description": "clothing_nftnpc desc",
+                "buyout": 0
+            },
+            "5882": {
+                "slug": "clothing_nftbrat",
+                "name": "Brat-printti",
+                "description": "clothing_nftbrat desc",
+                "buyout": 0
+            },
+            "5881": {
+                "slug": "clothing_nftnoob",
+                "name": "Noob-printti",
+                "description": "clothing_nftnoob desc",
+                "buyout": 0
+            },
+            "5880": {
+                "slug": "clothing_nftgameover",
+                "name": "Game Over-printti",
+                "description": "clothing_nftgameover desc",
+                "buyout": 0
+            },
+            "5879": {
+                "slug": "clothing_nfthiphop",
+                "name": "Hip Hop-printti",
+                "description": "clothing_nfthiphop desc",
+                "buyout": 0
+            },
+            "5878": {
+                "slug": "clothing_nfthiphop",
+                "name": "Hip Hop-printti",
+                "description": "clothing_nfthiphop desc",
+                "buyout": 0
+            },
+            "5877": {
+                "slug": "clothing_nftkpop",
+                "name": "K-pop-printti",
+                "description": "clothing_nftkpop desc",
+                "buyout": 0
+            },
+            "5876": {
+                "slug": "clothing_nftkpop",
+                "name": "K-pop-printti",
+                "description": "clothing_nftkpop desc",
+                "buyout": 0
+            },
+            "5875": {
+                "slug": "clothing_nftanime",
+                "name": "Anime-printti",
+                "description": "clothing_nftanime desc",
+                "buyout": 0
+            },
+            "5874": {
+                "slug": "clothing_nftanime",
+                "name": "Anime-printti",
+                "description": "clothing_nftanime desc",
+                "buyout": 0
+            },
+            "5873": {
+                "slug": "clothing_nfthaha",
+                "name": "HAHA-printti",
+                "description": "clothing_nfthaha desc",
                 "buyout": 0
             },
             "5497": {

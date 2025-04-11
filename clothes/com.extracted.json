@@ -17,6 +17,90 @@
     "clothing": {
         "hr": {
             "9534": null,
+            "6078": {
+                "slug": "clothing_nftmop",
+                "name": "Mop Hair",
+                "description": "clothing_nftmop desc",
+                "buyout": 0
+            },
+            "6055": {
+                "slug": "clothing_alicehair",
+                "name": "clothing_alicehair name",
+                "description": "clothing_alicehair desc",
+                "buyout": 0
+            },
+            "6035": {
+                "slug": "clothing_nftyumekawa",
+                "name": "Yume Kawaii Hair",
+                "description": "clothing_nftyumekawa desc",
+                "buyout": 0
+            },
+            "6034": {
+                "slug": "clothing_nftakaiakuma",
+                "name": "Akai Akuma Hair",
+                "description": "clothing_nftakaiakuma desc",
+                "buyout": 0
+            },
+            "5973": {
+                "slug": "clothing_r25_curlyponytail",
+                "name": "50s Ponytail ",
+                "description": "clothing_r25_curlyponytail desc",
+                "buyout": 0
+            },
+            "5971": {
+                "slug": "clothing_bratzcameronhair",
+                "name": "Bratz Cameron\u2019s Hair",
+                "description": "clothing_bratzcameronhair desc",
+                "buyout": 0
+            },
+            "5969": {
+                "slug": "clothing_bratzsashahair2",
+                "name": "Bratz Sasha\u2019s Waves",
+                "description": "clothing_bratzsashahair2 desc",
+                "buyout": 0
+            },
+            "5962": {
+                "slug": "clothing_slickedbackhair2",
+                "name": "Gelled Short Hair",
+                "description": "clothing_slickedbackhair2 desc",
+                "buyout": 0
+            },
+            "5933": {
+                "slug": "clothing_casualshorthair",
+                "name": "Outgrown Hair",
+                "description": "clothing_casualshorthair desc",
+                "buyout": 1
+            },
+            "5924": {
+                "slug": "clothing_slickedpartedhair",
+                "name": "Long Fringe Cut",
+                "description": "clothing_slickedpartedhair desc",
+                "buyout": 0
+            },
+            "5914": {
+                "slug": "clothing_r25_twotonedlonghair",
+                "name": "Split-Dye Model Locks",
+                "description": "clothing_r25_twotonedlonghair desc",
+                "buyout": 0
+            },
+            "5912": {
+                "slug": "clothing_halfmanbunhair",
+                "name": "Loose Half Bun",
+                "description": "clothing_halfmanbunhair desc",
+                "buyout": 0
+            },
+            "5898": {
+                "slug": "clothing_twotonedplaitedwavehair",
+                "name": "Alien Braid Waves",
+                "description": "clothing_twotonedplaitedwavehair desc",
+                "buyout": 1
+            },
+            "5887": {
+                "slug": "clothing_nftmythichair",
+                "name": "Mythic Tufts",
+                "description": "clothing_nftmythichair desc",
+                "buyout": 0
+            },
             "5841": {
                 "slug": "clothing_nftmessycut",
                 "name": "Wild Tufts",
@@ -1172,6 +1256,138 @@
             "100": null
         },
         "hd": {
+            "6072": {
+                "slug": "clothing_bratzkobyface",
+                "name": "Bratz Koby\u2019s Face",
+                "description": "clothing_bratzkobyface desc",
+                "buyout": 0
+            },
+            "6048": {
+                "slug": "clothing_nftscarface",
+                "name": "Scar Face",
+                "description": "clothing_nftscarface desc",
+                "buyout": 0
+            },
+            "6047": {
+                "slug": "clothing_nftscarface",
+                "name": "Scar Face",
+                "description": "clothing_nftscarface desc",
+                "buyout": 0
+            },
+            "6046": {
+                "slug": "clothing_nftscarface",
+                "name": "Scar Face",
+                "description": "clothing_nftscarface desc",
+                "buyout": 0
+            },
+            "6045": {
+                "slug": "clothing_nftscarface",
+                "name": "Scar Face",
+                "description": "clothing_nftscarface desc",
+                "buyout": 0
+            },
+            "6027": {
+                "slug": "clothing_nftbluehearteyes",
+                "name": "Electric Blue Heart Eyes",
+                "description": "clothing_nftbluehearteyes desc",
+                "buyout": 0
+            },
+            "6026": {
+                "slug": "clothing_nftbluehearteyes",
+                "name": "Electric Blue Heart Eyes",
+                "description": "clothing_nftbluehearteyes desc",
+                "buyout": 0
+            },
+            "6025": {
+                "slug": "clothing_nftpinkhearteyes",
+                "name": "Electric Pink Heart Eyes",
+                "description": "clothing_nftpinkhearteyes desc",
+                "buyout": 0
+            },
+            "6024": {
+                "slug": "clothing_nftpinkhearteyes",
+                "name": "Electric Pink Heart Eyes",
+                "description": "clothing_nftpinkhearteyes desc",
+                "buyout": 0
+            },
+            "6009": {
+                "slug": "clothing_nftantagonist",
+                "name": "Antagonist Face",
+                "description": "clothing_nftantagonist desc",
+                "buyout": 0
+            },
+            "6008": {
+                "slug": "clothing_nftcartoonheroine",
+                "name": "Cartoon Heroine Face",
+                "description": "clothing_nftcartoonheroine desc",
+                "buyout": 0
+            },
+            "6007": {
+                "slug": "clothing_nftcartoonhero",
+                "name": "Cartoon Hero Face",
+                "description": "clothing_nftcartoonhero desc",
+                "buyout": 0
+            },
+            "6006": {
+                "slug": "clothing_nftgoldskin",
+                "name": "Gold Skin",
+                "description": "clothing_nftgoldskin desc",
+                "buyout": 0
+            },
+            "6005": {
+                "slug": "clothing_nftgoldskin",
+                "name": "Gold Skin",
+                "description": "clothing_nftgoldskin desc",
+                "buyout": 0
+            },
+            "6004": {
+                "slug": "clothing_nftsilverskin",
+                "name": "Silver Skin",
+                "description": "clothing_nftsilverskin desc",
+                "buyout": 0
+            },
+            "6003": {
+                "slug": "clothing_nftsilverskin",
+                "name": "Silver Skin",
+                "description": "clothing_nftsilverskin desc",
+                "buyout": 0
+            },
+            "6002": {
+                "slug": "clothing_nftbronzeskin",
+                "name": "Bronze Skin",
+                "description": "clothing_nftbronzeskin desc",
+                "buyout": 0
+            },
+            "6001": {
+                "slug": "clothing_nftbronzeskin",
+                "name": "Bronze Skin",
+                "description": "clothing_nftbronzeskin desc",
+                "buyout": 0
+            },
+            "5913": {
+                "slug": "clothing_bunnyface",
+                "name": "Bunny Face",
+                "description": "clothing_bunnyface desc",
+                "buyout": 0
+            },
+            "5890": {
+                "slug": "clothing_nftantagonist",
+                "name": "Antagonist Face",
+                "description": "clothing_nftantagonist desc",
+                "buyout": 0
+            },
+            "5889": {
+                "slug": "clothing_nftcartoonheroine",
+                "name": "Cartoon Heroine Face",
+                "description": "clothing_nftcartoonheroine desc",
+                "buyout": 0
+            },
+            "5888": {
+                "slug": "clothing_nftcartoonhero",
+                "name": "Cartoon Hero Face",
+                "description": "clothing_nftcartoonhero desc",
+                "buyout": 0
+            },
             "5840": {
                 "slug": "clothing_nftfreckles2",
                 "name": "Freckled Face B",
@@ -1531,16 +1747,256 @@
             "180": null
         },
         "ch": {
+            "6060": {
+                "slug": "clothing_alicedress",
+                "name": "clothing_alicedress name",
+                "description": "clothing_alicedress desc",
+                "buyout": 0
+            },
+            "6059": {
+                "slug": "clothing_r25_heartqueendress",
+                "name": "clothing_r25_heartqueendress name",
+                "description": "clothing_r25_heartqueendress desc",
+                "buyout": 0
+            },
+            "6058": {
+                "slug": "clothing_r25_heartqueendress",
+                "name": "clothing_r25_heartqueendress name",
+                "description": "clothing_r25_heartqueendress desc",
+                "buyout": 0
+            },
+            "6051": {
+                "slug": "clothing_r25_knightarmor",
+                "name": "clothing_r25_knightarmor name",
+                "description": "clothing_r25_knightarmor desc",
+                "buyout": 0
+            },
+            "6039": {
+                "slug": "clothing_nftcatmaiddress2",
+                "name": "Dark Neko Dress",
+                "description": "clothing_nftcatmaiddress2 desc",
+                "buyout": 0
+            },
+            "6038": {
+                "slug": "clothing_nftcatmaiddress",
+                "name": "Pink Neko Dress",
+                "description": "clothing_nftcatmaiddress desc",
+                "buyout": 0
+            },
             "5964": {
                 "slug": "clothing_r25_valentinesbride",
-                "name": "clothing_r25_valentinesbride name",
+                "name": "Valentines Bride",
                 "description": "clothing_r25_valentinesbride desc",
                 "buyout": 0
             },
             "5963": {
                 "slug": "clothing_r25_valentinesbride",
-                "name": "clothing_r25_valentinesbride name",
+                "name": "Valentines Bride",
                 "description": "clothing_r25_valentinesbride desc",
+                "buyout": 0
+            },
+            "5959": {
+                "slug": "clothing_stripeyshortsleevedshirt",
+                "name": "Striped Collared Shirt",
+                "description": "clothing_stripeyshortsleevedshirt desc",
+                "buyout": 0
+            },
+            "5958": {
+                "slug": "clothing_stripeyshortsleevedshirt",
+                "name": "Striped Collared Shirt",
+                "description": "clothing_stripeyshortsleevedshirt desc",
+                "buyout": 0
+            },
+            "5957": {
+                "slug": "clothing_animalprintshortsleevedshirt",
+                "name": "Cheetah Print Collared Shirt",
+                "description": "clothing_animalprintshortsleevedshirt desc",
+                "buyout": 0
+            },
+            "5956": {
+                "slug": "clothing_animalprintshortsleevedshirt",
+                "name": "Cheetah Print Collared Shirt",
+                "description": "clothing_animalprintshortsleevedshirt desc",
+                "buyout": 0
+            },
+            "5955": {
+                "slug": "clothing_floralkshortsleevedshirt",
+                "name": "Flowery Collared Shirt",
+                "description": "clothing_floralkshortsleevedshirt desc",
+                "buyout": 0
+            },
+            "5954": {
+                "slug": "clothing_floralkshortsleevedshirt",
+                "name": "Flowery Collared Shirt",
+                "description": "clothing_floralkshortsleevedshirt desc",
+                "buyout": 0
+            },
+            "5953": {
+                "slug": "clothing_shortsleeveshirt",
+                "name": "Basic Collared Shirt",
+                "description": "clothing_shortsleeveshirt desc",
+                "buyout": 1
+            },
+            "5952": {
+                "slug": "clothing_shortsleeveshirt",
+                "name": "Basic Collared Shirt",
+                "description": "clothing_shortsleeveshirt desc",
+                "buyout": 1
+            },
+            "5930": {
+                "slug": "clothing_floraltubetop",
+                "name": "Floral Tube Top",
+                "description": "clothing_floraltubetop desc",
+                "buyout": 0
+            },
+            "5923": {
+                "slug": "clothing_floraltubetop",
+                "name": "Floral Tube Top",
+                "description": "clothing_floraltubetop desc",
+                "buyout": 0
+            },
+            "5922": {
+                "slug": "clothing_buttontubetop",
+                "name": "Button-up Tube Top",
+                "description": "clothing_buttontubetop desc",
+                "buyout": 0
+            },
+            "5921": {
+                "slug": "clothing_buttontubetop",
+                "name": "Button-up Tube Top",
+                "description": "clothing_buttontubetop desc",
+                "buyout": 0
+            },
+            "5920": {
+                "slug": "clothing_denimtubetop",
+                "name": "Denim Detail Tube Top",
+                "description": "clothing_denimtubetop desc",
+                "buyout": 0
+            },
+            "5919": {
+                "slug": "clothing_denimtubetop",
+                "name": "Denim Detail Tube Top",
+                "description": "clothing_denimtubetop desc",
+                "buyout": 0
+            },
+            "5918": {
+                "slug": "clothing_tubetop",
+                "name": "Basic Tube Top",
+                "description": "clothing_tubetop desc",
+                "buyout": 1
+            },
+            "5917": {
+                "slug": "clothing_tubetop",
+                "name": "Basic Tube Top",
+                "description": "clothing_tubetop desc",
+                "buyout": 1
+            },
+            "5908": {
+                "slug": "clothing_knittedbikini",
+                "name": "Crochet Bikini",
+                "description": "clothing_knittedbikini desc",
+                "buyout": 1
+            },
+            "5907": {
+                "slug": "clothing_knittedbikini",
+                "name": "Crochet Bikini",
+                "description": "clothing_knittedbikini desc",
+                "buyout": 1
+            },
+            "5906": {
+                "slug": "clothing_strappysatindress",
+                "name": "Satin Evening Dress",
+                "description": "clothing_strappysatindress desc",
+                "buyout": 0
+            },
+            "5905": {
+                "slug": "clothing_strappysatindress",
+                "name": "Satin Evening Dress",
+                "description": "clothing_strappysatindress desc",
+                "buyout": 0
+            },
+            "5904": {
+                "slug": "clothing_floraldress",
+                "name": "Dainty Floral Dress",
+                "description": "clothing_floraldress desc",
+                "buyout": 0
+            },
+            "5903": {
+                "slug": "clothing_floraldress",
+                "name": "Dainty Floral Dress",
+                "description": "clothing_floraldress desc",
+                "buyout": 0
+            },
+            "5902": {
+                "slug": "clothing_polkaheartcutdress",
+                "name": "Heart Cut-Out Dress",
+                "description": "clothing_polkaheartcutdress desc",
+                "buyout": 0
+            },
+            "5901": {
+                "slug": "clothing_polkaheartcutdress",
+                "name": "Heart Cut-Out Dress",
+                "description": "clothing_polkaheartcutdress desc",
+                "buyout": 0
+            },
+            "5900": {
+                "slug": "clothing_longdress",
+                "name": "Basic Bodycon Dress",
+                "description": "clothing_longdress desc",
+                "buyout": 1
+            },
+            "5899": {
+                "slug": "clothing_longdress",
+                "name": "Basic Bodycon Dress",
+                "description": "clothing_longdress desc",
+                "buyout": 1
+            },
+            "5863": {
+                "slug": "clothing_nftcolorshirtribbon",
+                "name": "Colourable Cotton Shirt with Ribbon",
+                "description": "clothing_nftcolorshirtribbon desc",
+                "buyout": 0
+            },
+            "5862": {
+                "slug": "clothing_nftcolorshirtribbon",
+                "name": "Colourable Cotton Shirt with Ribbon",
+                "description": "clothing_nftcolorshirtribbon desc",
+                "buyout": 0
+            },
+            "5861": {
+                "slug": "clothing_nftcolorshirtwatch",
+                "name": "Colourable Cotton Shirt with Watch",
+                "description": "clothing_nftcolorshirtwatch desc",
+                "buyout": 0
+            },
+            "5860": {
+                "slug": "clothing_nftcolorshirtwatch",
+                "name": "Colourable Cotton Shirt with Watch",
+                "description": "clothing_nftcolorshirtwatch desc",
+                "buyout": 0
+            },
+            "5859": {
+                "slug": "clothing_nftcolorshirt",
+                "name": "Colourable Cotton Shirt",
+                "description": "clothing_nftcolorshirt desc",
+                "buyout": 0
+            },
+            "5858": {
+                "slug": "clothing_nftcolorshirt",
+                "name": "Colourable Cotton Shirt",
+                "description": "clothing_nftcolorshirt desc",
+                "buyout": 0
+            },
+            "5857": {
+                "slug": "clothing_nftplainshirt",
+                "name": "Plain Cotton Shirt",
+                "description": "clothing_nftplainshirt desc",
+                "buyout": 0
+            },
+            "5856": {
+                "slug": "clothing_nftplainshirt",
+                "name": "Plain Cotton Shirt",
+                "description": "clothing_nftplainshirt desc",
                 "buyout": 0
             },
             "5834": {
@@ -1559,13 +2015,13 @@
                 "slug": "clothing_ducketshirt",
                 "name": "Ducket Hunter\u2019s T-Shirt ",
                 "description": "clothing_ducketshirt desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5830": {
                 "slug": "clothing_ducketshirt",
                 "name": "Ducket Hunter\u2019s T-Shirt ",
                 "description": "clothing_ducketshirt desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5806": {
                 "slug": "clothing_dressinggown",
@@ -4145,6 +4601,30 @@
             "210": null
         },
         "lg": {
+            "5974": {
+                "slug": "clothing_bratzjadeskirt",
+                "name": "Bratz Jade\u2019s Skirt",
+                "description": "clothing_bratzjadeskirt desc",
+                "buyout": 0
+            },
+            "5970": {
+                "slug": "clothing_bratzeitantrousers",
+                "name": "Bratz Eitan\u2019s Trousers",
+                "description": "clothing_bratzeitantrousers desc",
+                "buyout": 0
+            },
+            "5927": {
+                "slug": "clothing_bunnyclipshorts",
+                "name": "Bunny Suspender Shorts",
+                "description": "clothing_bunnyclipshorts desc",
+                "buyout": 1
+            },
+            "5909": {
+                "slug": "clothing_knittedbikini",
+                "name": "Crochet Bikini",
+                "description": "clothing_knittedbikini desc",
+                "buyout": 1
+            },
             "5745": {
                 "slug": "clothing_mariachioutfit",
                 "name": "Mariachi Outfit",
@@ -4743,10 +5223,58 @@
             "270": null
         },
         "sh": {
+            "6043": {
+                "slug": "clothing_nftcatslippers2",
+                "name": "Black Cat Slippers",
+                "description": "clothing_nftcatslippers2 desc",
+                "buyout": 0
+            },
+            "6042": {
+                "slug": "clothing_nftcatslippers",
+                "name": "White Cat Slippers",
+                "description": "clothing_nftcatslippers desc",
+                "buyout": 0
+            },
+            "5943": {
+                "slug": "clothing_fashionboots",
+                "name": "Fashion Ankle Boots",
+                "description": "clothing_fashionboots desc",
+                "buyout": 1
+            },
+            "5931": {
+                "slug": "clothing_nftsneakers2",
+                "name": "Sneakers #2",
+                "description": "clothing_nftsneakers2 desc",
+                "buyout": 0
+            },
+            "5928": {
+                "slug": "clothing_nftbunnyshoes",
+                "name": "Bunny Sneakers",
+                "description": "clothing_nftbunnyshoes desc",
+                "buyout": 1
+            },
             "5896": {
                 "slug": "clothing_nftxmassocks",
                 "name": "Holly Thigh Highs",
                 "description": "clothing_nftxmassocks desc",
+                "buyout": 0
+            },
+            "5871": {
+                "slug": "clothing_nftcolorsneakers2",
+                "name": "Colourable Sneakers #2",
+                "description": "clothing_nftcolorsneakers2 desc",
+                "buyout": 0
+            },
+            "5869": {
+                "slug": "clothing_nftcolorsneakers",
+                "name": "Colourable Sneakers #1",
+                "description": "clothing_nftcolorsneakers desc",
+                "buyout": 0
+            },
+            "5868": {
+                "slug": "clothing_nftsneakers",
+                "name": "Sneakers #1",
+                "description": "clothing_nftsneakers desc",
                 "buyout": 0
             },
             "5803": {
@@ -5122,9 +5650,87 @@
             "290": null
         },
         "ha": {
+            "6080": {
+                "slug": "clothing_nfttallcrown",
+                "name": "Tall Crown",
+                "description": "clothing_nfttallcrown desc",
+                "buyout": 0
+            },
+            "6076": {
+                "slug": "clothing_nftthebigcap",
+                "name": "The Big Cap",
+                "description": "clothing_nftthebigcap desc",
+                "buyout": 0
+            },
+            "6057": {
+                "slug": "clothing_teacuphat",
+                "name": "clothing_teacuphat name",
+                "description": "clothing_teacuphat desc",
+                "buyout": 0
+            },
+            "6056": {
+                "slug": "clothing_chesscrown",
+                "name": "clothing_chesscrown name",
+                "description": "clothing_chesscrown desc",
+                "buyout": 0
+            },
+            "6052": {
+                "slug": "clothing_r25_knightarmor",
+                "name": "clothing_r25_knightarmor name",
+                "description": "clothing_r25_knightarmor desc",
+                "buyout": 0
+            },
+            "6037": {
+                "slug": "clothing_nftcatheadband2",
+                "name": "Dark Neko Headband",
+                "description": "clothing_nftcatheadband2 desc",
+                "buyout": 0
+            },
+            "6036": {
+                "slug": "clothing_nftcatheadband",
+                "name": "Pink Neko Headband",
+                "description": "clothing_nftcatheadband desc",
+                "buyout": 0
+            },
+            "5991": {
+                "slug": "clothing_nftwinter3",
+                "name": "Brown Subzero Gear",
+                "description": "clothing_nftwinter3 desc",
+                "buyout": 0
+            },
+            "5990": {
+                "slug": "clothing_nftwinter2",
+                "name": "Red Subzero Gear",
+                "description": "clothing_nftwinter2 desc",
+                "buyout": 0
+            },
+            "5989": {
+                "slug": "clothing_nftwinter1",
+                "name": "Green Subzero Gear",
+                "description": "clothing_nftwinter1 desc",
+                "buyout": 0
+            },
+            "5988": {
+                "slug": "clothing_nftwinter",
+                "name": "Blue Subzero Gear",
+                "description": "clothing_nftwinter desc",
+                "buyout": 0
+            },
+            "5987": {
+                "slug": "clothing_nftcfbeaniecol",
+                "name": "clothing_nftcfbeaniecol name",
+                "description": "clothing_nftcfbeaniecol desc",
+                "buyout": 0
+            },
+            "5980": {
+                "slug": "clothing_nftsnakecrown",
+                "name": "Year of the Snake Crown",
+                "description": "clothing_nftsnakecrown desc",
+                "buyout": 0
+            },
             "5968": {
                 "slug": "clothing_r25_valentinesgroom",
-                "name": "clothing_r25_valentinesgroom name",
+                "name": "Valentines Groom",
                 "description": "clothing_r25_valentinesgroom desc",
                 "buyout": 0
             },
@@ -5132,6 +5738,42 @@
                 "slug": "clothing_nftartistset",
                 "name": "Easel Painter\u2019s Outfit",
                 "description": "clothing_nftartistset desc",
+                "buyout": 0
+            },
+            "5944": {
+                "slug": "clothing_nftbunnycapeoutfit",
+                "name": "Bunny Cape",
+                "description": "clothing_nftbunnycapeoutfit desc",
+                "buyout": 0
+            },
+            "5929": {
+                "slug": "clothing_nftcfbeanie",
+                "name": "Plain Cotton Beanie",
+                "description": "clothing_nftcfbeanie desc",
+                "buyout": 0
+            },
+            "5867": {
+                "slug": "clothing_nftcolorbandana",
+                "name": "Colourable Silk Bandana",
+                "description": "clothing_nftcolorbandana desc",
+                "buyout": 0
+            },
+            "5866": {
+                "slug": "clothing_nftsilkbandana",
+                "name": "Silk Bandana",
+                "description": "clothing_nftsilkbandana desc",
+                "buyout": 0
+            },
+            "5865": {
+                "slug": "clothing_nftcolorwidebrim",
+                "name": "Colourable wide-brim hat",
+                "description": "clothing_nftcolorwidebrim desc",
+                "buyout": 0
+            },
+            "5864": {
+                "slug": "clothing_nftleatherwidebrim",
+                "name": "Leather wide-brim hat",
+                "description": "clothing_nftleatherwidebrim desc",
                 "buyout": 0
             },
             "5854": {
@@ -5192,7 +5834,7 @@
                 "slug": "clothing_duckethat",
                 "name": "Ducket Hunter\u2019s Hat ",
                 "description": "clothing_duckethat desc",
-                "buyout": 0
+                "buyout": 1
             },
             "5814": {
                 "slug": "clothing_littlesnowman",
@@ -7464,10 +8106,64 @@
             "1001": null
         },
         "he": {
+            "6068": {
+                "slug": "clothing_clubclip",
+                "name": "clothing_clubclip name",
+                "description": "clothing_clubclip desc",
+                "buyout": 0
+            },
+            "6067": {
+                "slug": "clothing_spadeclip",
+                "name": "clothing_spadeclip name",
+                "description": "clothing_spadeclip desc",
+                "buyout": 0
+            },
+            "6066": {
+                "slug": "clothing_heartclip",
+                "name": "clothing_heartclip name",
+                "description": "clothing_heartclip desc",
+                "buyout": 0
+            },
+            "6065": {
+                "slug": "clothing_diamondclip",
+                "name": "clothing_diamondclip name",
+                "description": "clothing_diamondclip desc",
+                "buyout": 0
+            },
+            "6033": {
+                "slug": "clothing_nftflowerfairy",
+                "name": "Valentines Flower Fairy",
+                "description": "clothing_nftflowerfairy desc",
+                "buyout": 0
+            },
+            "6028": {
+                "slug": "clothing_nftflowerfairy",
+                "name": "Valentines Flower Fairy",
+                "description": "clothing_nftflowerfairy desc",
+                "buyout": 0
+            },
+            "5997": {
+                "slug": "clothing_r25_valentinesbride",
+                "name": "Valentines Bride",
+                "description": "clothing_r25_valentinesbride desc",
+                "buyout": 0
+            },
             "5965": {
                 "slug": "clothing_r25_valentinesbride",
-                "name": "clothing_r25_valentinesbride name",
+                "name": "Valentines Bride",
                 "description": "clothing_r25_valentinesbride desc",
+                "buyout": 0
+            },
+            "5915": {
+                "slug": "clothing_nfteastereggcrown",
+                "name": "Painted Egg Crown",
+                "description": "clothing_nfteastereggcrown desc",
+                "buyout": 1
+            },
+            "5911": {
+                "slug": "clothing_bunnyearrings",
+                "name": "Bunny Studs",
+                "description": "clothing_bunnyearrings desc",
                 "buyout": 0
             },
             "5845": {
@@ -8496,6 +9192,30 @@
             "1601": null
         },
         "ea": {
+            "6074": {
+                "slug": "clothing_nftbunnyshades2",
+                "name": "Dark Bunny Shades",
+                "description": "clothing_nftbunnyshades2 desc",
+                "buyout": 0
+            },
+            "6073": {
+                "slug": "clothing_nftbunnyshades1",
+                "name": "Pink Bunny Shades",
+                "description": "clothing_nftbunnyshades1 desc",
+                "buyout": 0
+            },
+            "5910": {
+                "slug": "clothing_bunnyeyepatch",
+                "name": "Bunny Fashion Eyepatch",
+                "description": "clothing_bunnyeyepatch desc",
+                "buyout": 0
+            },
+            "5897": {
+                "slug": "clothing_fashionsunglasses",
+                "name": "Tinted Sunglasses",
+                "description": "clothing_fashionsunglasses desc",
+                "buyout": 0
+            },
             "5749": {
                 "slug": "clothing_neonpartyacc",
                 "name": "Neon Rave Accessories",
@@ -8844,6 +9564,18 @@
             "1401": null
         },
         "fa": {
+            "5982": {
+                "slug": "clothing_bratzyasminmole",
+                "name": "Bratz Yasmin's Beauty Mark",
+                "description": "clothing_bratzyasminmole desc",
+                "buyout": 0
+            },
+            "5975": {
+                "slug": "clothing_nftsnaketeeth",
+                "name": "Snake Fangs",
+                "description": "clothing_nftsnaketeeth desc",
+                "buyout": 0
+            },
             "5948": {
                 "slug": "clothing_nftartistset",
                 "name": "Easel Painter\u2019s Outfit",
@@ -9383,6 +10115,60 @@
             "1201": null
         },
         "ca": {
+            "6075": {
+                "slug": "clothing_nftblingnecklace",
+                "name": "Gold H Necklace",
+                "description": "clothing_nftblingnecklace desc",
+                "buyout": 0
+            },
+            "6054": {
+                "slug": "clothing_clocknecklace",
+                "name": "clothing_clocknecklace name",
+                "description": "clothing_clocknecklace desc",
+                "buyout": 0
+            },
+            "6044": {
+                "slug": "clothing_nftbigsword",
+                "name": "Huge Sword",
+                "description": "clothing_nftbigsword desc",
+                "buyout": 0
+            },
+            "6041": {
+                "slug": "clothing_nftcatmaiddress2",
+                "name": "Dark Neko Dress",
+                "description": "clothing_nftcatmaiddress2 desc",
+                "buyout": 0
+            },
+            "6040": {
+                "slug": "clothing_nftcatmaiddress",
+                "name": "Pink Neko Dress",
+                "description": "clothing_nftcatmaiddress desc",
+                "buyout": 0
+            },
+            "5984": {
+                "slug": "clothing_bratzcloebag",
+                "name": "Bratz Cloe\u2019s Bag",
+                "description": "clothing_bratzcloebag desc",
+                "buyout": 0
+            },
+            "5983": {
+                "slug": "clothing_bratzyasminpearls",
+                "name": "Bratz Yasmin\u2019s Pearls",
+                "description": "clothing_bratzyasminpearls desc",
+                "buyout": 0
+            },
+            "5981": {
+                "slug": "clothing_r25_redpandabag",
+                "name": "Red Panda Bag",
+                "description": "clothing_r25_redpandabag desc",
+                "buyout": 0
+            },
+            "5960": {
+                "slug": "clothing_r25_froggybackpack",
+                "name": "Froggy Backpack",
+                "description": "clothing_r25_froggybackpack desc",
+                "buyout": 0
+            },
             "5950": {
                 "slug": "clothing_nftartistset",
                 "name": "Easel Painter\u2019s Outfit",
@@ -9393,6 +10179,60 @@
                 "slug": "clothing_nftartistset",
                 "name": "Easel Painter\u2019s Outfit",
                 "description": "clothing_nftartistset desc",
+                "buyout": 0
+            },
+            "5941": {
+                "slug": "clothing_knittedcanvasbag",
+                "name": "Knit Canvas Bag",
+                "description": "clothing_knittedcanvasbag desc",
+                "buyout": 0
+            },
+            "5940": {
+                "slug": "clothing_floralcanvasbag",
+                "name": "Floral Canvas Bag",
+                "description": "clothing_floralcanvasbag desc",
+                "buyout": 0
+            },
+            "5939": {
+                "slug": "clothing_rainbowcanvasbag",
+                "name": "Rainbow Canvas Bag",
+                "description": "clothing_rainbowcanvasbag desc",
+                "buyout": 0
+            },
+            "5938": {
+                "slug": "clothing_canvasbag",
+                "name": "Basic Canvas Bag",
+                "description": "clothing_canvasbag desc",
+                "buyout": 1
+            },
+            "5937": {
+                "slug": "clothing_tribalnecklace",
+                "name": "Sabertooth Necklace",
+                "description": "clothing_tribalnecklace desc",
+                "buyout": 0
+            },
+            "5936": {
+                "slug": "clothing_simplechainnecklace",
+                "name": "Link Chain Necklace",
+                "description": "clothing_simplechainnecklace desc",
+                "buyout": 0
+            },
+            "5935": {
+                "slug": "clothing_crystalnecklace",
+                "name": "Crystal Drop Necklace",
+                "description": "clothing_crystalnecklace desc",
+                "buyout": 0
+            },
+            "5934": {
+                "slug": "clothing_coinnecklace",
+                "name": "Lucky Coin Necklace",
+                "description": "clothing_coinnecklace desc",
+                "buyout": 1
+            },
+            "5916": {
+                "slug": "clothing_thinscarf",
+                "name": "Striped Skinny Scarf",
+                "description": "clothing_thinscarf desc",
                 "buyout": 0
             },
             "5894": {
@@ -10571,6 +11411,18 @@
             "1801": null
         },
         "wa": {
+            "6071": {
+                "slug": "clothing_woodensword",
+                "name": "clothing_woodensword name",
+                "description": "clothing_woodensword desc",
+                "buyout": 0
+            },
+            "5986": {
+                "slug": "clothing_bratzdylanbelt",
+                "name": "Bratz Dylan\u2019s Belt",
+                "description": "clothing_bratzdylanbelt desc",
+                "buyout": 0
+            },
             "5836": {
                 "slug": "clothing_cnysnake",
                 "name": "Snake Accessories",
@@ -10759,16 +11611,112 @@
         "cc": {
             "9865": null,
             "9563": null,
+            "6079": {
+                "slug": "clothing_nfttrench",
+                "name": "Open Trench Coat",
+                "description": "clothing_nfttrench desc",
+                "buyout": 0
+            },
+            "6077": {
+                "slug": "clothing_r25_bunnycompanion",
+                "name": "Bunny Companion",
+                "description": "clothing_r25_bunnycompanion desc",
+                "buyout": 0
+            },
+            "6070": {
+                "slug": "clothing_nftcat",
+                "name": "Cat Cafe Cat",
+                "description": "clothing_nftcat desc",
+                "buyout": 0
+            },
+            "6069": {
+                "slug": "clothing_nftcat",
+                "name": "Cat Cafe Cat",
+                "description": "clothing_nftcat desc",
+                "buyout": 0
+            },
+            "6050": {
+                "slug": "clothing_hearttrumpet",
+                "name": "clothing_hearttrumpet name",
+                "description": "clothing_hearttrumpet desc",
+                "buyout": 0
+            },
+            "5996": {
+                "slug": "clothing_nftvalentinesrose",
+                "name": "Valentines Rose",
+                "description": "clothing_nftvalentinesrose desc",
+                "buyout": 0
+            },
+            "5995": {
+                "slug": "clothing_nftwinter3",
+                "name": "Brown Subzero Gear",
+                "description": "clothing_nftwinter3 desc",
+                "buyout": 0
+            },
+            "5994": {
+                "slug": "clothing_nftwinter2",
+                "name": "Red Subzero Gear",
+                "description": "clothing_nftwinter2 desc",
+                "buyout": 0
+            },
+            "5993": {
+                "slug": "clothing_nftwinter1",
+                "name": "Green Subzero Gear",
+                "description": "clothing_nftwinter1 desc",
+                "buyout": 0
+            },
+            "5992": {
+                "slug": "clothing_nftwinter",
+                "name": "Blue Subzero Gear",
+                "description": "clothing_nftwinter desc",
+                "buyout": 0
+            },
             "5967": {
                 "slug": "clothing_r25_valentinesgroom",
-                "name": "clothing_r25_valentinesgroom name",
+                "name": "Valentines Groom",
                 "description": "clothing_r25_valentinesgroom desc",
                 "buyout": 0
             },
             "5966": {
                 "slug": "clothing_r25_valentinesgroom",
-                "name": "clothing_r25_valentinesgroom name",
+                "name": "Valentines Groom",
                 "description": "clothing_r25_valentinesgroom desc",
+                "buyout": 0
+            },
+            "5961": {
+                "slug": "clothing_teddycompanion",
+                "name": "Habbington Bear",
+                "description": "clothing_teddycompanion desc",
+                "buyout": 0
+            },
+            "5951": {
+                "slug": "clothing_r25_bosscoat",
+                "name": "Boss Coat",
+                "description": "clothing_r25_bosscoat desc",
+                "buyout": 0
+            },
+            "5945": {
+                "slug": "clothing_nftbunnycapeoutfit",
+                "name": "Bunny Cape",
+                "description": "clothing_nftbunnycapeoutfit desc",
+                "buyout": 0
+            },
+            "5942": {
+                "slug": "clothing_umbrella",
+                "name": "Large Umbrella",
+                "description": "clothing_umbrella desc",
+                "buyout": 1
+            },
+            "5926": {
+                "slug": "clothing_offshoulderjacket",
+                "name": "Exposed Shoulder Jacket",
+                "description": "clothing_offshoulderjacket desc",
+                "buyout": 1
+            },
+            "5925": {
+                "slug": "clothing_sharkplushie",
+                "name": "Shark Plushie",
+                "description": "clothing_sharkplushie desc",
                 "buyout": 0
             },
             "5895": {
@@ -12184,10 +13132,124 @@
             "260": null
         },
         "cp": {
+            "5979": {
+                "slug": "clothing_nftsnakeyearmark4",
+                "name": "Green Snake Chest Print",
+                "description": "clothing_nftsnakeyearmark4 desc",
+                "buyout": 0
+            },
+            "5978": {
+                "slug": "clothing_nftsnakeyearmark3",
+                "name": "Blue Snake Chest Print",
+                "description": "clothing_nftsnakeyearmark3 desc",
+                "buyout": 0
+            },
+            "5977": {
+                "slug": "clothing_nftsnakeyearmark2",
+                "name": "Red Snake Chest Print",
+                "description": "clothing_nftsnakeyearmark2 desc",
+                "buyout": 0
+            },
+            "5976": {
+                "slug": "clothing_nftsnakeyearmark1",
+                "name": "Black Snake Chest Print",
+                "description": "clothing_nftsnakeyearmark1 desc",
+                "buyout": 0
+            },
             "5946": {
                 "slug": "clothing_nft2025",
                 "name": "2025 New Year Necklace",
                 "description": "clothing_nft2025 desc",
+                "buyout": 0
+            },
+            "5932": {
+                "slug": "clothing_nftabcd",
+                "name": "ABCD Print",
+                "description": "clothing_nftabcd desc",
+                "buyout": 0
+            },
+            "5886": {
+                "slug": "clothing_nftqueen",
+                "name": "Queen Print",
+                "description": "clothing_nftqueen desc",
+                "buyout": 0
+            },
+            "5885": {
+                "slug": "clothing_nftking",
+                "name": "King Print",
+                "description": "clothing_nftking desc",
+                "buyout": 0
+            },
+            "5884": {
+                "slug": "clothing_nftafk",
+                "name": "AFK Print",
+                "description": "clothing_nftafk desc",
+                "buyout": 0
+            },
+            "5883": {
+                "slug": "clothing_nftnpc",
+                "name": "NPC Print",
+                "description": "clothing_nftnpc desc",
+                "buyout": 0
+            },
+            "5882": {
+                "slug": "clothing_nftbrat",
+                "name": "Brat Print",
+                "description": "clothing_nftbrat desc",
+                "buyout": 0
+            },
+            "5881": {
+                "slug": "clothing_nftnoob",
+                "name": "Noob Print",
+                "description": "clothing_nftnoob desc",
+                "buyout": 0
+            },
+            "5880": {
+                "slug": "clothing_nftgameover",
+                "name": "Game Over Print",
+                "description": "clothing_nftgameover desc",
+                "buyout": 0
+            },
+            "5879": {
+                "slug": "clothing_nfthiphop",
+                "name": "Hip Hop Print",
+                "description": "clothing_nfthiphop desc",
+                "buyout": 0
+            },
+            "5878": {
+                "slug": "clothing_nfthiphop",
+                "name": "Hip Hop Print",
+                "description": "clothing_nfthiphop desc",
+                "buyout": 0
+            },
+            "5877": {
+                "slug": "clothing_nftkpop",
+                "name": "K-pop Print",
+                "description": "clothing_nftkpop desc",
+                "buyout": 0
+            },
+            "5876": {
+                "slug": "clothing_nftkpop",
+                "name": "K-pop Print",
+                "description": "clothing_nftkpop desc",
+                "buyout": 0
+            },
+            "5875": {
+                "slug": "clothing_nftanime",
+                "name": "Anime Print",
+                "description": "clothing_nftanime desc",
+                "buyout": 0
+            },
+            "5874": {
+                "slug": "clothing_nftanime",
+                "name": "Anime Print",
+                "description": "clothing_nftanime desc",
+                "buyout": 0
+            },
+            "5873": {
+                "slug": "clothing_nfthaha",
+                "name": "HAHA Print",
+                "description": "clothing_nfthaha desc",
                 "buyout": 0
             },
             "5497": {
