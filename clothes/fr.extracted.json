@@ -25,7 +25,7 @@
             },
             "6055": {
                 "slug": "clothing_alicehair",
-                "name": "clothing_alicehair name",
+                "name": "Chevelure d'Alice",
                 "description": "clothing_alicehair desc",
                 "buyout": 0
             },
@@ -69,7 +69,7 @@
                 "slug": "clothing_casualshorthair",
                 "name": "Cheveux trop longs",
                 "description": "clothing_casualshorthair desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5924": {
                 "slug": "clothing_slickedpartedhair",
@@ -1747,27 +1747,31 @@
             "180": null
         },
         "ch": {
+            "6100": null,
+            "6099": null,
+            "6098": null,
+            "6097": null,
             "6060": {
                 "slug": "clothing_alicedress",
-                "name": "clothing_alicedress name",
+                "name": "Robe d'Alice",
                 "description": "clothing_alicedress desc",
                 "buyout": 0
             },
             "6059": {
                 "slug": "clothing_r25_heartqueendress",
-                "name": "clothing_r25_heartqueendress name",
+                "name": "Robe Reine de C\u0153ur",
                 "description": "clothing_r25_heartqueendress desc",
                 "buyout": 0
             },
             "6058": {
                 "slug": "clothing_r25_heartqueendress",
-                "name": "clothing_r25_heartqueendress name",
+                "name": "Robe Reine de C\u0153ur",
                 "description": "clothing_r25_heartqueendress desc",
                 "buyout": 0
             },
             "6051": {
                 "slug": "clothing_r25_knightarmor",
-                "name": "clothing_r25_knightarmor name",
+                "name": "Armure de chevalier",
                 "description": "clothing_r25_knightarmor desc",
                 "buyout": 0
             },
@@ -1835,13 +1839,13 @@
                 "slug": "clothing_shortsleeveshirt",
                 "name": "Chemise \u00e0 col basique",
                 "description": "clothing_shortsleeveshirt desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5952": {
                 "slug": "clothing_shortsleeveshirt",
                 "name": "Chemise \u00e0 col basique",
                 "description": "clothing_shortsleeveshirt desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5930": {
                 "slug": "clothing_floraltubetop",
@@ -1883,13 +1887,13 @@
                 "slug": "clothing_tubetop",
                 "name": "Top bustier basique",
                 "description": "clothing_tubetop desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5917": {
                 "slug": "clothing_tubetop",
                 "name": "Top bustier basique",
                 "description": "clothing_tubetop desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5908": {
                 "slug": "clothing_knittedbikini",
@@ -1943,13 +1947,13 @@
                 "slug": "clothing_longdress",
                 "name": "Robe Bodicon Basique",
                 "description": "clothing_longdress desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5899": {
                 "slug": "clothing_longdress",
                 "name": "Robe Bodicon Basique",
                 "description": "clothing_longdress desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5863": {
                 "slug": "clothing_nftcolorshirtribbon",
@@ -2015,13 +2019,13 @@
                 "slug": "clothing_ducketshirt",
                 "name": "T-shirt de chasseur de Ducket ",
                 "description": "clothing_ducketshirt desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5830": {
                 "slug": "clothing_ducketshirt",
                 "name": "T-shirt de chasseur de Ducket ",
                 "description": "clothing_ducketshirt desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5806": {
                 "slug": "clothing_dressinggown",
@@ -5664,19 +5668,19 @@
             },
             "6057": {
                 "slug": "clothing_teacuphat",
-                "name": "clothing_teacuphat name",
+                "name": "Chapeau tasse",
                 "description": "clothing_teacuphat desc",
                 "buyout": 0
             },
             "6056": {
                 "slug": "clothing_chesscrown",
-                "name": "clothing_chesscrown name",
+                "name": "Couronne d'\u00e9checs",
                 "description": "clothing_chesscrown desc",
                 "buyout": 0
             },
             "6052": {
                 "slug": "clothing_r25_knightarmor",
-                "name": "clothing_r25_knightarmor name",
+                "name": "Armure de chevalier",
                 "description": "clothing_r25_knightarmor desc",
                 "buyout": 0
             },
@@ -5834,7 +5838,7 @@
                 "slug": "clothing_duckethat",
                 "name": "Chapeau chasseur de Ducket ",
                 "description": "clothing_duckethat desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5814": {
                 "slug": "clothing_littlesnowman",
@@ -8106,27 +8110,33 @@
             "1001": null
         },
         "he": {
+            "6103": {
+                "slug": "clothing_alicehair",
+                "name": "Chevelure d'Alice",
+                "description": "clothing_alicehair desc",
+                "buyout": 0
+            },
             "6068": {
                 "slug": "clothing_clubclip",
-                "name": "clothing_clubclip name",
+                "name": "Clip tr\u00e8fle",
                 "description": "clothing_clubclip desc",
                 "buyout": 0
             },
             "6067": {
                 "slug": "clothing_spadeclip",
-                "name": "clothing_spadeclip name",
+                "name": "Clip pique",
                 "description": "clothing_spadeclip desc",
                 "buyout": 0
             },
             "6066": {
                 "slug": "clothing_heartclip",
-                "name": "clothing_heartclip name",
+                "name": "Clip c\u0153ur",
                 "description": "clothing_heartclip desc",
                 "buyout": 0
             },
             "6065": {
                 "slug": "clothing_diamondclip",
-                "name": "clothing_diamondclip name",
+                "name": "Clip diamant",
                 "description": "clothing_diamondclip desc",
                 "buyout": 0
             },
@@ -9564,6 +9574,7 @@
             "1401": null
         },
         "fa": {
+            "6095": null,
             "5982": {
                 "slug": "clothing_bratzyasminmole",
                 "name": "Grain de beaut\u00e9 de Yasmin Bratz",
@@ -10123,7 +10134,7 @@
             },
             "6054": {
                 "slug": "clothing_clocknecklace",
-                "name": "clothing_clocknecklace name",
+                "name": "Collier horloge",
                 "description": "clothing_clocknecklace desc",
                 "buyout": 0
             },
@@ -10203,7 +10214,7 @@
                 "slug": "clothing_canvasbag",
                 "name": "Sac en toile basique",
                 "description": "clothing_canvasbag desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5937": {
                 "slug": "clothing_tribalnecklace",
@@ -10227,7 +10238,7 @@
                 "slug": "clothing_coinnecklace",
                 "name": "Collier pi\u00e8ce porte-bonheur",
                 "description": "clothing_coinnecklace desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5916": {
                 "slug": "clothing_thinscarf",
@@ -11413,7 +11424,7 @@
         "wa": {
             "6071": {
                 "slug": "clothing_woodensword",
-                "name": "clothing_woodensword name",
+                "name": "\u00c9p\u00e9e en bois",
                 "description": "clothing_woodensword desc",
                 "buyout": 0
             },
@@ -11637,7 +11648,7 @@
             },
             "6050": {
                 "slug": "clothing_hearttrumpet",
-                "name": "clothing_hearttrumpet name",
+                "name": "Trompette des c\u0153urs",
                 "description": "clothing_hearttrumpet desc",
                 "buyout": 0
             },
@@ -13132,6 +13143,7 @@
             "260": null
         },
         "cp": {
+            "6096": null,
             "5979": {
                 "slug": "clothing_nftsnakeyearmark4",
                 "name": "T-shirt Serpent Vert",

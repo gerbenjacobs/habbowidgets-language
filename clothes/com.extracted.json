@@ -25,7 +25,7 @@
             },
             "6055": {
                 "slug": "clothing_alicehair",
-                "name": "clothing_alicehair name",
+                "name": "Alice's Hair",
                 "description": "clothing_alicehair desc",
                 "buyout": 0
             },
@@ -69,7 +69,7 @@
                 "slug": "clothing_casualshorthair",
                 "name": "Outgrown Hair",
                 "description": "clothing_casualshorthair desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5924": {
                 "slug": "clothing_slickedpartedhair",
@@ -1747,27 +1747,31 @@
             "180": null
         },
         "ch": {
+            "6100": null,
+            "6099": null,
+            "6098": null,
+            "6097": null,
             "6060": {
                 "slug": "clothing_alicedress",
-                "name": "clothing_alicedress name",
+                "name": "Alice's Dress",
                 "description": "clothing_alicedress desc",
                 "buyout": 0
             },
             "6059": {
                 "slug": "clothing_r25_heartqueendress",
-                "name": "clothing_r25_heartqueendress name",
+                "name": "Queen of Hearts Dress",
                 "description": "clothing_r25_heartqueendress desc",
                 "buyout": 0
             },
             "6058": {
                 "slug": "clothing_r25_heartqueendress",
-                "name": "clothing_r25_heartqueendress name",
+                "name": "Queen of Hearts Dress",
                 "description": "clothing_r25_heartqueendress desc",
                 "buyout": 0
             },
             "6051": {
                 "slug": "clothing_r25_knightarmor",
-                "name": "clothing_r25_knightarmor name",
+                "name": "Knight's Armour",
                 "description": "clothing_r25_knightarmor desc",
                 "buyout": 0
             },
@@ -1835,13 +1839,13 @@
                 "slug": "clothing_shortsleeveshirt",
                 "name": "Basic Collared Shirt",
                 "description": "clothing_shortsleeveshirt desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5952": {
                 "slug": "clothing_shortsleeveshirt",
                 "name": "Basic Collared Shirt",
                 "description": "clothing_shortsleeveshirt desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5930": {
                 "slug": "clothing_floraltubetop",
@@ -1883,13 +1887,13 @@
                 "slug": "clothing_tubetop",
                 "name": "Basic Tube Top",
                 "description": "clothing_tubetop desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5917": {
                 "slug": "clothing_tubetop",
                 "name": "Basic Tube Top",
                 "description": "clothing_tubetop desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5908": {
                 "slug": "clothing_knittedbikini",
@@ -1943,13 +1947,13 @@
                 "slug": "clothing_longdress",
                 "name": "Basic Bodycon Dress",
                 "description": "clothing_longdress desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5899": {
                 "slug": "clothing_longdress",
                 "name": "Basic Bodycon Dress",
                 "description": "clothing_longdress desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5863": {
                 "slug": "clothing_nftcolorshirtribbon",
@@ -2015,13 +2019,13 @@
                 "slug": "clothing_ducketshirt",
                 "name": "Ducket Hunter\u2019s T-Shirt ",
                 "description": "clothing_ducketshirt desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5830": {
                 "slug": "clothing_ducketshirt",
                 "name": "Ducket Hunter\u2019s T-Shirt ",
                 "description": "clothing_ducketshirt desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5806": {
                 "slug": "clothing_dressinggown",
@@ -3088,13 +3092,13 @@
             },
             "4368": {
                 "slug": "clothing_glittertop",
-                "name": "clothing_glittertop name",
+                "name": "Idol Glitter Top",
                 "description": "clothing_glittertop desc",
                 "buyout": 0
             },
             "4367": {
                 "slug": "clothing_glittertop",
-                "name": "clothing_glittertop name",
+                "name": "Idol Glitter Top",
                 "description": "clothing_glittertop desc",
                 "buyout": 0
             },
@@ -3112,13 +3116,13 @@
             },
             "4362": {
                 "slug": "clothing_2layeredshirt",
-                "name": "clothing_2layeredshirt name",
+                "name": "Idol Layered Shirt",
                 "description": "clothing_2layeredshirt desc",
                 "buyout": 0
             },
             "4361": {
                 "slug": "clothing_2layeredshirt",
-                "name": "clothing_2layeredshirt name",
+                "name": "Idol Layered Shirt",
                 "description": "clothing_2layeredshirt desc",
                 "buyout": 0
             },
@@ -4804,13 +4808,13 @@
             },
             "4373": {
                 "slug": "clothing_grungetrousers",
-                "name": "clothing_grungetrousers name",
+                "name": "Idol Grunge Trousers",
                 "description": "clothing_grungetrousers desc",
                 "buyout": 0
             },
             "4369": {
                 "slug": "clothing_cutepunkskirt",
-                "name": "clothing_cutepunkskirt name",
+                "name": "Idol Punk Skirt",
                 "description": "clothing_cutepunkskirt desc",
                 "buyout": 0
             },
@@ -5664,19 +5668,19 @@
             },
             "6057": {
                 "slug": "clothing_teacuphat",
-                "name": "clothing_teacuphat name",
+                "name": "Teacup Hat",
                 "description": "clothing_teacuphat desc",
                 "buyout": 0
             },
             "6056": {
                 "slug": "clothing_chesscrown",
-                "name": "clothing_chesscrown name",
+                "name": "Chess Crown",
                 "description": "clothing_chesscrown desc",
                 "buyout": 0
             },
             "6052": {
                 "slug": "clothing_r25_knightarmor",
-                "name": "clothing_r25_knightarmor name",
+                "name": "Knight's Armour",
                 "description": "clothing_r25_knightarmor desc",
                 "buyout": 0
             },
@@ -5834,7 +5838,7 @@
                 "slug": "clothing_duckethat",
                 "name": "Ducket Hunter\u2019s Hat ",
                 "description": "clothing_duckethat desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5814": {
                 "slug": "clothing_littlesnowman",
@@ -5970,7 +5974,7 @@
             },
             "5593": {
                 "slug": "clothing_r24_steampunkhat",
-                "name": "clothing_r24_steampunkhat name",
+                "name": "Steampunk Accessories",
                 "description": "clothing_r24_steampunkhat desc",
                 "buyout": 0
             },
@@ -8106,27 +8110,33 @@
             "1001": null
         },
         "he": {
+            "6103": {
+                "slug": "clothing_alicehair",
+                "name": "Alice's Hair",
+                "description": "clothing_alicehair desc",
+                "buyout": 0
+            },
             "6068": {
                 "slug": "clothing_clubclip",
-                "name": "clothing_clubclip name",
+                "name": "Club Clip",
                 "description": "clothing_clubclip desc",
                 "buyout": 0
             },
             "6067": {
                 "slug": "clothing_spadeclip",
-                "name": "clothing_spadeclip name",
+                "name": "Spade Clip",
                 "description": "clothing_spadeclip desc",
                 "buyout": 0
             },
             "6066": {
                 "slug": "clothing_heartclip",
-                "name": "clothing_heartclip name",
+                "name": "Heart Clip",
                 "description": "clothing_heartclip desc",
                 "buyout": 0
             },
             "6065": {
                 "slug": "clothing_diamondclip",
-                "name": "clothing_diamondclip name",
+                "name": "Diamond Clip",
                 "description": "clothing_diamondclip desc",
                 "buyout": 0
             },
@@ -9564,6 +9574,7 @@
             "1401": null
         },
         "fa": {
+            "6095": null,
             "5982": {
                 "slug": "clothing_bratzyasminmole",
                 "name": "Bratz Yasmin's Beauty Mark",
@@ -10123,7 +10134,7 @@
             },
             "6054": {
                 "slug": "clothing_clocknecklace",
-                "name": "clothing_clocknecklace name",
+                "name": "Clock Necklace",
                 "description": "clothing_clocknecklace desc",
                 "buyout": 0
             },
@@ -10203,7 +10214,7 @@
                 "slug": "clothing_canvasbag",
                 "name": "Basic Canvas Bag",
                 "description": "clothing_canvasbag desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5937": {
                 "slug": "clothing_tribalnecklace",
@@ -10227,7 +10238,7 @@
                 "slug": "clothing_coinnecklace",
                 "name": "Lucky Coin Necklace",
                 "description": "clothing_coinnecklace desc",
-                "buyout": 1
+                "buyout": 0
             },
             "5916": {
                 "slug": "clothing_thinscarf",
@@ -10513,13 +10524,13 @@
             },
             "5534": {
                 "slug": "clothing_giantbunnytailgold",
-                "name": "clothing_giantbunnytailgold name",
+                "name": "Gold Bunny Tail",
                 "description": "clothing_giantbunnytailgold desc",
                 "buyout": 0
             },
             "5533": {
                 "slug": "clothing_giantbunnytail",
-                "name": "clothing_giantbunnytail name",
+                "name": "Habbo-sized Bunny Tail",
                 "description": "clothing_giantbunnytail desc",
                 "buyout": 0
             },
@@ -11413,7 +11424,7 @@
         "wa": {
             "6071": {
                 "slug": "clothing_woodensword",
-                "name": "clothing_woodensword name",
+                "name": "Wooden Sword",
                 "description": "clothing_woodensword desc",
                 "buyout": 0
             },
@@ -11637,7 +11648,7 @@
             },
             "6050": {
                 "slug": "clothing_hearttrumpet",
-                "name": "clothing_hearttrumpet name",
+                "name": "Trumpet of Hearts",
                 "description": "clothing_hearttrumpet desc",
                 "buyout": 0
             },
@@ -13132,6 +13143,7 @@
             "260": null
         },
         "cp": {
+            "6096": null,
             "5979": {
                 "slug": "clothing_nftsnakeyearmark4",
                 "name": "Green Snake Chest Print",
