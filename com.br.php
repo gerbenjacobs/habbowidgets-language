@@ -143,7 +143,7 @@ return [
     "Find out which Habbos own a specific badge!" => "Descubra qual Habbo possui um emblema específico",
     "Only 1 Habbo in Habbo.%s owns the %s badge" => "Apenas 1 Habbo no Habbo.%s possui o emblema %s", // Leave the %s intact
     "%d Habbos in Habbo.%s own the %s badge" => "%d Habbos no Habbo.%s possuem o emblema %s", // Leave the %s and %d intact -- "15 Habbos in Habbo.com own the ADM badge"
-    "Sorry, we don't know anyone who has this badge" => "Sinceras desculpas, mas o Telecourte não conhece ninguém que tenha este emblema.",
+    "Sorry, we don't know anyone who has this badge" => "Desculpe, não conhecemos ninguém que tenha este emblema.",
     "Only one Habbo has this badge.." => "Apenas um Habbo tem este emblema...",
     "Habbos have this badge.." => "Habbos tem este emblema...", // ":number: Habbos have this badge.."
     "A lot of Habbos have this badge.." => "Muitos Habbos tem este emblema...",
