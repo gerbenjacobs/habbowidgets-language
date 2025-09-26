@@ -125,7 +125,7 @@ return [
     "Maintenance.." => "Bakım Arası..",
     "maintenance_paragraph_one" => "Selam Habbo! Sayfaya bir kaç yenilik katıyoruz.",
     "maintenance_paragraph_two" => "Bizimle kal! Yakınde geri döneceğiz!",
-    "Follow us on Twitter for updates" => "Bizi Twitter da takip et!",
+    "Follow us on Twitter for updates" => "Bizi X de takip et!",
 
     // 404
     "Oops, page not found" => "Uups, sayfa bulunamadı",
@@ -137,9 +137,9 @@ return [
     "Achievement top x for" => "Toplam Başarı top %d", // "Achievement top x for :hotel:"
     "Last updated" => "Son güncelleme",
     "Badge top x for" => "Toplam Rozet top %d",
-    "Unique badge top x for" => "Unique badge top %d for",
+    "Unique badge top x for" => "Toplam nadir rozet top %d",
     "All x badges in" => "Tüm Rozetler %s bu Otelde", // Leave the %s intact; "All :number: badges in :hotel:"
-    "First discovered" => "keşfedilen gün",
+    "First discovered" => "Keşfedilen gün",
     "Find out which Habbos own a specific badge!" => "Nadir rozet sahibi olanlara bak!",
     "Only 1 Habbo in Habbo.%s owns the %s badge" => "Tek bir Habboda bulunuyor bu rozet %s", // Leave the %s intact
     "%d Habbos in Habbo.%s own the %s badge" => "%d Habbolarda Otelinde.%s bu rozete sahipler %s ", // Leave the %s and %d intact -- "15 Habbos in Habbo.com own the ADM badge"
@@ -151,8 +151,8 @@ return [
     "Find Habbos who own.." => "Hangi Habbolarda bulunan Rozetleri bul..",
     "Badge code" => "Rozet kodu",
     "Why don't you check out.." => "Buraya neden bakmıyorsun..",
-    "unique badges in" => "nadir rozet", // ":number: unique badges in :hotel:"
-    "owners" => "sahipleri",
+    "unique badges in" => "Benzersiz nadir rozetler", // ":number: unique badges in :hotel:"
+    "owners" => "Sahipleri",
     "There are no unique badges in this hotel.." => "Bu Otelde nadir rozet bulunmuyor..",
 
     // Time
