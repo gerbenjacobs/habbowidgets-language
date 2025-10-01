@@ -17,6 +17,18 @@
     "clothing": {
         "hr": {
             "9534": null,
+            "6221": {
+                "slug": "clothing_nftombrecut2",
+                "name": "Corte Ombre Colorido B",
+                "description": "clothing_nftombrecut2 desc",
+                "buyout": 0
+            },
+            "6220": {
+                "slug": "clothing_nftombrecut1",
+                "name": "Corte Ombre Colorido A",
+                "description": "clothing_nftombrecut1 desc",
+                "buyout": 0
+            },
             "6174": {
                 "slug": "clothing_r25_aphroditehair",
                 "name": "Penteado de V\u00eanus",
@@ -1310,6 +1322,24 @@
             "100": null
         },
         "hd": {
+            "6248": {
+                "slug": "clothing_nftskeletonskin",
+                "name": "Fantasia de Esqueleto",
+                "description": "clothing_nftskeletonskin desc",
+                "buyout": 0
+            },
+            "6219": {
+                "slug": "clothing_nftsilvereyes",
+                "name": "Olhos Prateados",
+                "description": "clothing_nftsilvereyes desc",
+                "buyout": 1
+            },
+            "6218": {
+                "slug": "clothing_nftsilvereyes",
+                "name": "Olhos Prateados",
+                "description": "clothing_nftsilvereyes desc",
+                "buyout": 1
+            },
             "6216": {
                 "slug": "clothing_goddesseyes",
                 "name": "Olhos da Deusa",
@@ -1837,6 +1867,18 @@
             "180": null
         },
         "ch": {
+            "6223": {
+                "slug": "clothing_scruffyplaidshirt",
+                "name": "Camisa Xadrez Desgastada",
+                "description": "clothing_scruffyplaidshirt desc",
+                "buyout": 0
+            },
+            "6222": {
+                "slug": "clothing_scruffyplaidshirt",
+                "name": "Camisa Xadrez Desgastada",
+                "description": "clothing_scruffyplaidshirt desc",
+                "buyout": 0
+            },
             "6202": {
                 "slug": "clothing_footlocker_shirt",
                 "name": "Camisa da Foot Locker",
@@ -4859,6 +4901,12 @@
             "210": null
         },
         "lg": {
+            "6161": {
+                "slug": "clothing_scruffyjeans",
+                "name": "Jeans Desgastados",
+                "description": "clothing_scruffyjeans desc",
+                "buyout": 0
+            },
             "6137": {
                 "slug": "clothing_nftdenimshorts",
                 "name": "Short Jeans",
@@ -5533,7 +5581,13 @@
                 "slug": "clothing_olympiansandals",
                 "name": "Sand\u00e1lias Ol\u00edmpicas",
                 "description": "clothing_olympiansandals desc",
-                "buyout": 1
+                "buyout": 0
+            },
+            "6156": {
+                "slug": "clothing_muddyfeet",
+                "name": "P\u00e9s Lamacentos",
+                "description": "clothing_muddyfeet desc",
+                "buyout": 0
             },
             "6064": {
                 "slug": "clothing_nftbonnieshoestights",
@@ -5980,6 +6034,12 @@
                 "description": "clothing_r25_nemeanlion desc",
                 "buyout": 0
             },
+            "6203": {
+                "slug": "clothing_autumnberet",
+                "name": "clothing_autumnberet name",
+                "description": "clothing_autumnberet desc",
+                "buyout": 0
+            },
             "6198": {
                 "slug": "clothing_r25_cathat2",
                 "name": "Meu Gato Laranja",
@@ -6156,7 +6216,7 @@
             },
             "5987": {
                 "slug": "clothing_nftcfbeaniecol",
-                "name": "clothing_nftcfbeaniecol name",
+                "name": "Gorro de Algod\u00e3o Colorido",
                 "description": "clothing_nftcfbeaniecol desc",
                 "buyout": 0
             },
@@ -8562,6 +8622,18 @@
                 "description": "clothing_blessingofaphrodite desc",
                 "buyout": 0
             },
+            "6171": {
+                "slug": "clothing_bandagedhead",
+                "name": "Les\u00e3o na Cabe\u00e7a",
+                "description": "clothing_bandagedhead desc",
+                "buyout": 0
+            },
+            "6155": {
+                "slug": "clothing_fungushead",
+                "name": "Cogumelos Crescentes",
+                "description": "clothing_fungushead desc",
+                "buyout": 0
+            },
             "6148": {
                 "slug": "clothing_nftbubblebath",
                 "name": "Traje de Bolhas",
@@ -9732,6 +9804,12 @@
             "1601": null
         },
         "ea": {
+            "6231": {
+                "slug": "clothing_nftfungalinfection",
+                "name": "Infec\u00e7\u00e3o F\u00fangica",
+                "description": "clothing_nftfungalinfection desc",
+                "buyout": 0
+            },
             "6196": {
                 "slug": "clothing_nftbrokenglasses",
                 "name": "\u00d3culos Quebrados",
@@ -10128,6 +10206,24 @@
             "1401": null
         },
         "fa": {
+            "6245": {
+                "slug": "clothing_nftwarpaint",
+                "name": "Pintura de Guerra",
+                "description": "clothing_nftwarpaint desc",
+                "buyout": 0
+            },
+            "6232": {
+                "slug": "clothing_nftwarpaint",
+                "name": "Pintura de Guerra",
+                "description": "clothing_nftwarpaint desc",
+                "buyout": 0
+            },
+            "6170": {
+                "slug": "clothing_respirator",
+                "name": "Respirador Apocal\u00edptico",
+                "description": "clothing_respirator desc",
+                "buyout": 0
+            },
             "6132": {
                 "slug": "clothing_nftchocoicecream",
                 "name": "Picol\u00e9 de Chocolate",
@@ -10709,6 +10805,36 @@
             "1201": null
         },
         "ca": {
+            "6229": {
+                "slug": "clothing_nfthobbyhorse3",
+                "name": "Unic\u00f3rnio de Brinquedo ",
+                "description": "clothing_nfthobbyhorse3 desc",
+                "buyout": 0
+            },
+            "6228": {
+                "slug": "clothing_nfthobbyhorse2",
+                "name": "Cavalo de Brinquedo Marrom",
+                "description": "clothing_nfthobbyhorse2 desc",
+                "buyout": 0
+            },
+            "6227": {
+                "slug": "clothing_nfthobbyhorse1",
+                "name": "Cavalo de Brinquedo Loiro",
+                "description": "clothing_nfthobbyhorse1 desc",
+                "buyout": 0
+            },
+            "6214": {
+                "slug": "clothing_nftbowandquiver",
+                "name": "Arco e Aljava Dourados",
+                "description": "clothing_nftbowandquiver desc",
+                "buyout": 0
+            },
+            "6213": {
+                "slug": "clothing_nftbowandquiver",
+                "name": "Arco e Aljava Dourados",
+                "description": "clothing_nftbowandquiver desc",
+                "buyout": 0
+            },
             "6208": {
                 "slug": "clothing_blessingofdionysus",
                 "name": "Uvas de Dion\u00edsio",
@@ -10761,6 +10887,30 @@
                 "slug": "clothing_nftseashellp1",
                 "name": "Colar Concha Laranja",
                 "description": "clothing_nftseashellp1 desc",
+                "buyout": 0
+            },
+            "6169": {
+                "slug": "clothing_survivalbackpack",
+                "name": "Mochila de Sobreviv\u00eancia",
+                "description": "clothing_survivalbackpack desc",
+                "buyout": 0
+            },
+            "6168": {
+                "slug": "clothing_mouldytoastbackpack",
+                "name": "Mochila de Torrada Envelhecida",
+                "description": "clothing_mouldytoastbackpack desc",
+                "buyout": 0
+            },
+            "6167": {
+                "slug": "clothing_backkatana",
+                "name": "Katana de Sobreviv\u00eancia",
+                "description": "clothing_backkatana desc",
+                "buyout": 0
+            },
+            "6162": {
+                "slug": "clothing_medbackpack",
+                "name": "Mochila M\u00e9dica",
+                "description": "clothing_medbackpack desc",
                 "buyout": 0
             },
             "6149": {
@@ -12089,6 +12239,12 @@
             "1801": null
         },
         "wa": {
+            "6234": {
+                "slug": "clothing_nftflashlight",
+                "name": "Lanterna do Apocalipse",
+                "description": "clothing_nftflashlight desc",
+                "buyout": 0
+            },
             "6192": {
                 "slug": "clothing_nft25balloonred",
                 "name": "Bal\u00e3o 25 Anos Vermelho",
@@ -12101,10 +12257,22 @@
                 "description": "clothing_nft25balloonblue desc",
                 "buyout": 0
             },
+            "6172": {
+                "slug": "clothing_bandagedtorso",
+                "name": "Bandagem para o corpo",
+                "description": "clothing_bandagedtorso desc",
+                "buyout": 0
+            },
             "6165": {
                 "slug": "clothing_r25_balloon",
                 "name": "Bal\u00e3o de Estrelas Habbo 25",
                 "description": "clothing_r25_balloon desc",
+                "buyout": 0
+            },
+            "6154": {
+                "slug": "clothing_knifeultility",
+                "name": "Cinto de Utilidades",
+                "description": "clothing_knifeultility desc",
                 "buyout": 0
             },
             "6071": {
@@ -12307,6 +12475,30 @@
         "cc": {
             "9865": null,
             "9563": null,
+            "6233": {
+                "slug": "clothing_nftbiohazardjacket",
+                "name": "Jaqueta de Risco Biol\u00f3gico",
+                "description": "clothing_nftbiohazardjacket desc",
+                "buyout": 0
+            },
+            "6230": {
+                "slug": "clothing_nftcakeoutfit",
+                "name": "Traje de Bolo Grande",
+                "description": "clothing_nftcakeoutfit desc",
+                "buyout": 0
+            },
+            "6205": {
+                "slug": "clothing_autumnjacket",
+                "name": "Jaqueta Bomber de Outono",
+                "description": "clothing_autumnjacket desc",
+                "buyout": 0
+            },
+            "6204": {
+                "slug": "clothing_autumnjacket",
+                "name": "Jaqueta Bomber de Outono",
+                "description": "clothing_autumnjacket desc",
+                "buyout": 0
+            },
             "6200": {
                 "slug": "clothing_nftbionic",
                 "name": "Bra\u00e7o Habbi\u00f4nico",
@@ -12331,6 +12523,12 @@
                 "description": "clothing_olympiantoga desc",
                 "buyout": 0
             },
+            "6166": {
+                "slug": "clothing_r25_shroomie",
+                "name": "Companheirinho Cogumelo",
+                "description": "clothing_r25_shroomie desc",
+                "buyout": 0
+            },
             "6164": {
                 "slug": "clothing_r25_rainbowpatchjacket",
                 "name": "Jaqueta Bandeira Arco-\u00edris",
@@ -12341,6 +12539,12 @@
                 "slug": "clothing_r25_rainbowpatchjacket",
                 "name": "Jaqueta Bandeira Arco-\u00edris",
                 "description": "clothing_r25_rainbowpatchjacket desc",
+                "buyout": 0
+            },
+            "6160": {
+                "slug": "clothing_r25_mushroomcape",
+                "name": "Capa de Cogumelos",
+                "description": "clothing_r25_mushroomcape desc",
                 "buyout": 0
             },
             "6150": {
