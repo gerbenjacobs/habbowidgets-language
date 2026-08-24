@@ -31,6 +31,9 @@ function getCategories($country): array
             $categories[$k[2]] = $value;
         }
     }
+    // Hardcoded for now
+    $categories['pt'] = "Pets";
+    $categories['mc'] = "Carrying";
 
     return $categories;
 }
@@ -84,7 +87,6 @@ function getClothingNames($country)
                 'buyout' => (int)$furni->buyout,
             ];
         }
-
     }
 
     return $clothing;

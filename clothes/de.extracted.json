@@ -12,11 +12,139 @@
         "hr": "Haare",
         "lg": "Hosen",
         "sh": "Schuhe",
-        "wa": "G\u00fcrtel"
+        "wa": "G\u00fcrtel",
+        "pt": "Pets",
+        "mc": "Carrying"
     },
     "clothing": {
         "hr": {
             "9534": null,
+            "6533": {
+                "slug": "clothing_tattoohead",
+                "name": "T\u00e4ttowierte Glatze",
+                "description": "clothing_tattoohead desc",
+                "buyout": 1
+            },
+            "6508": {
+                "slug": "clothing_npc_roxie_test",
+                "name": "clothing_npc_roxie_test name",
+                "description": "clothing_npc_roxie_test desc",
+                "buyout": 0
+            },
+            "6505": {
+                "slug": "clothing_letitgrow",
+                "name": "Let It Grow",
+                "description": "clothing_letitgrow desc",
+                "buyout": 0
+            },
+            "6500": {
+                "slug": "clothing_r26_jellyfishcut",
+                "name": "Quallen-Haarschnitt",
+                "description": "clothing_r26_jellyfishcut desc",
+                "buyout": 0
+            },
+            "6496": {
+                "slug": "clothing_nftbeachboy",
+                "name": "Strandbereite Frisur",
+                "description": "clothing_nftbeachboy desc",
+                "buyout": 0
+            },
+            "6495": {
+                "slug": "clothing_nftpalmbraid",
+                "name": "Palmenzopf",
+                "description": "clothing_nftpalmbraid desc",
+                "buyout": 0
+            },
+            "6467": {
+                "slug": "clothing_nftmayhair3",
+                "name": "Kleine Locken",
+                "description": "clothing_nftmayhair3 desc",
+                "buyout": 0
+            },
+            "6466": {
+                "slug": "clothing_nftmayhair2",
+                "name": "Stacheliger Vokuhila",
+                "description": "clothing_nftmayhair2 desc",
+                "buyout": 0
+            },
+            "6465": {
+                "slug": "clothing_nftmayhair1",
+                "name": "Hochtoupierte Frisur",
+                "description": "clothing_nftmayhair1 desc",
+                "buyout": 0
+            },
+            "6453": {
+                "slug": "clothing_femmefatalehair",
+                "name": "Femme Fatale-Wellen",
+                "description": "clothing_femmefatalehair desc",
+                "buyout": 1
+            },
+            "6434": {
+                "slug": "clothing_heartbuns",
+                "name": "Herzf\u00f6rmige Haarknoten",
+                "description": "clothing_heartbuns desc",
+                "buyout": 0
+            },
+            "6421": {
+                "slug": "clothing_hockeycut",
+                "name": "Hockeyspieler-Frisur",
+                "description": "clothing_hockeycut desc",
+                "buyout": 0
+            },
+            "6420": {
+                "slug": "clothing_80safro",
+                "name": "Extravaganter Afro",
+                "description": "clothing_80safro desc",
+                "buyout": 0
+            },
+            "6397": {
+                "slug": "clothing_scruffystyle",
+                "name": "Dschungel-Schiffbr\u00fcchiger",
+                "description": "clothing_scruffystyle desc",
+                "buyout": 1
+            },
+            "6374": {
+                "slug": "clothing_r26_flowerpothair",
+                "name": "Topfhaar",
+                "description": "clothing_r26_flowerpothair desc",
+                "buyout": 0
+            },
+            "6345": {
+                "slug": "clothing_sleepytimebun",
+                "name": "Deluxe SleepBand",
+                "description": "clothing_sleepytimebun desc",
+                "buyout": 0
+            },
+            "6323": {
+                "slug": "clothing_longelvenhair",
+                "name": "Majest\u00e4tische Elfen-Looks",
+                "description": "clothing_longelvenhair desc",
+                "buyout": 0
+            },
+            "6318": {
+                "slug": "clothing_nftsnowmanbun",
+                "name": "Schneemann-Haarknoten",
+                "description": "clothing_nftsnowmanbun desc",
+                "buyout": 0
+            },
+            "6314": {
+                "slug": "clothing_longbraidedelvenhair",
+                "name": "Langer Elfenzopf",
+                "description": "clothing_longbraidedelvenhair desc",
+                "buyout": 0
+            },
+            "6313": {
+                "slug": "clothing_shortelvenhair",
+                "name": "L\u00e4ndlicher Haarschnitt",
+                "description": "clothing_shortelvenhair desc",
+                "buyout": 0
+            },
+            "6269": {
+                "slug": "clothing_nftwizardshaircut",
+                "name": "Zauberer-Frisur",
+                "description": "clothing_nftwizardshaircut desc",
+                "buyout": 0
+            },
             "6221": {
                 "slug": "clothing_nftombrecut2",
                 "name": "Bunte Ombr\u00e9-Frisur B",
@@ -27,6 +155,12 @@
                 "slug": "clothing_nftombrecut1",
                 "name": "Bunte Ombr\u00e9-Frisur A",
                 "description": "clothing_nftombrecut1 desc",
+                "buyout": 0
+            },
+            "6211": {
+                "slug": "clothing_r25_icetiplonghair",
+                "name": "Eisglitzer-Pferdeschwanz",
+                "description": "clothing_r25_icetiplonghair desc",
                 "buyout": 0
             },
             "6174": {
@@ -115,13 +249,13 @@
             },
             "5971": {
                 "slug": "clothing_bratzcameronhair",
-                "name": "Bratz Cameron\u2019s Haar",
+                "name": "Bratz Camerons Haar",
                 "description": "clothing_bratzcameronhair desc",
                 "buyout": 0
             },
             "5969": {
                 "slug": "clothing_bratzsashahair2",
-                "name": "Bratz Sasha\u2019s Locken",
+                "name": "Bratz Sashas Locken",
                 "description": "clothing_bratzsashahair2 desc",
                 "buyout": 0
             },
@@ -1117,7 +1251,7 @@
             },
             "3468": {
                 "slug": "clothing_cladyoutfit",
-                "name": "Weihnachtsfrau Outfit",
+                "name": "Weihnachtsfrau-Outfit",
                 "description": "Habbo Couture: Weihnachten 2015",
                 "buyout": 0
             },
@@ -1322,6 +1456,67 @@
             "100": null
         },
         "hd": {
+            "6507": {
+                "slug": "clothing_npc_roxie_test",
+                "name": "clothing_npc_roxie_test name",
+                "description": "clothing_npc_roxie_test desc",
+                "buyout": 0
+            },
+            "6456": {
+                "slug": "clothing_r26_scarface",
+                "name": "Vernarbtes Gesicht",
+                "description": "clothing_r26_scarface desc",
+                "buyout": 0
+            },
+            "6441": {
+                "slug": "clothing_nftelvenface2",
+                "name": "Elfen-Makeup",
+                "description": "clothing_nftelvenface2 desc",
+                "buyout": 0
+            },
+            "6440": {
+                "slug": "clothing_nftelvenface",
+                "name": "Elfengesicht",
+                "description": "clothing_nftelvenface desc",
+                "buyout": 0
+            },
+            "6439": {
+                "slug": "clothing_nftelvenface2",
+                "name": "Elfen-Makeup",
+                "description": "clothing_nftelvenface2 desc",
+                "buyout": 0
+            },
+            "6438": {
+                "slug": "clothing_nftelvenface",
+                "name": "Elfengesicht",
+                "description": "clothing_nftelvenface desc",
+                "buyout": 0
+            },
+            "6436": {
+                "slug": "clothing_ltd26_iridescentskin",
+                "name": "Schillernde Haut",
+                "description": "clothing_ltd26_iridescentskin desc",
+                "buyout": 0
+            },
+            "6435": {
+                "slug": "clothing_ltd26_iridescentskin",
+                "name": "Schillernde Haut",
+                "description": "clothing_ltd26_iridescentskin desc",
+                "buyout": 0
+            },
+            "6361": {
+                "slug": "clothing_r26_mannequinskin",
+                "name": "Schneiderpuppen-Look",
+                "description": "clothing_r26_mannequinskin desc",
+                "buyout": 0
+            },
+            "6295": null,
+            "6289": {
+                "slug": "clothing_nftpolarnight",
+                "name": "Polarnacht-Haut",
+                "description": "clothing_nftpolarnight desc",
+                "buyout": 0
+            },
             "6248": {
                 "slug": "clothing_nftskeletonskin",
                 "name": "Skelett-Outfit",
@@ -1366,7 +1561,7 @@
             },
             "6072": {
                 "slug": "clothing_bratzkobyface",
-                "name": "Bratz Koby\u2019s Gesicht",
+                "name": "Bratz Kobys Gesicht",
                 "description": "clothing_bratzkobyface desc",
                 "buyout": 0
             },
@@ -1867,6 +2062,348 @@
             "180": null
         },
         "ch": {
+            "6542": {
+                "slug": "clothing_nftwesternshirt",
+                "name": "clothing_nftwesternshirt name",
+                "description": "clothing_nftwesternshirt desc",
+                "buyout": 0
+            },
+            "6541": {
+                "slug": "clothing_nftwesternshirt",
+                "name": "clothing_nftwesternshirt name",
+                "description": "clothing_nftwesternshirt desc",
+                "buyout": 0
+            },
+            "6538": {
+                "slug": "clothing_cowonesie",
+                "name": "clothing_cowonesie name",
+                "description": "clothing_cowonesie desc",
+                "buyout": 0
+            },
+            "6531": {
+                "slug": "clothing_nftwesternvest",
+                "name": "clothing_nftwesternvest name",
+                "description": "clothing_nftwesternvest desc",
+                "buyout": 0
+            },
+            "6530": {
+                "slug": "clothing_nftwesternvest",
+                "name": "clothing_nftwesternvest name",
+                "description": "clothing_nftwesternvest desc",
+                "buyout": 0
+            },
+            "6525": {
+                "slug": "clothing_nftrainbowbikini",
+                "name": "Regenbogen-Bikini",
+                "description": "clothing_nftrainbowbikini desc",
+                "buyout": 0
+            },
+            "6524": {
+                "slug": "clothing_nftrainbowbikini",
+                "name": "Regenbogen-Bikini",
+                "description": "clothing_nftrainbowbikini desc",
+                "buyout": 0
+            },
+            "6517": {
+                "slug": "clothing_tentacledress",
+                "name": "Tentakelkleid",
+                "description": "$furni_clothing_tentacleddress_desc$",
+                "buyout": 0
+            },
+            "6516": {
+                "slug": "clothing_tentacledress",
+                "name": "Tentakelkleid",
+                "description": "$furni_clothing_tentacleddress_desc$",
+                "buyout": 0
+            },
+            "6515": {
+                "slug": "clothing_vintageswimsuit",
+                "name": "Vintage Badeanzug",
+                "description": "clothing_vintageswimsuit desc",
+                "buyout": 0
+            },
+            "6514": {
+                "slug": "clothing_vintageswimsuit",
+                "name": "Vintage Badeanzug",
+                "description": "clothing_vintageswimsuit desc",
+                "buyout": 0
+            },
+            "6510": {
+                "slug": "clothing_npc_roxie_test",
+                "name": "clothing_npc_roxie_test name",
+                "description": "clothing_npc_roxie_test desc",
+                "buyout": 0
+            },
+            "6502": {
+                "slug": "clothing_ducketcropshirt",
+                "name": "Bequemes kurzes Hemd",
+                "description": "clothing_ducketcropshirt desc",
+                "buyout": 0
+            },
+            "6501": {
+                "slug": "clothing_ducketcropshirt",
+                "name": "Bequemes kurzes Hemd",
+                "description": "clothing_ducketcropshirt desc",
+                "buyout": 0
+            },
+            "6498": {
+                "slug": "clothing_tattoobody2",
+                "name": "T\u00e4ttowierter K\u00f6rper",
+                "description": "clothing_tattoobody2 desc",
+                "buyout": 0
+            },
+            "6497": {
+                "slug": "clothing_tattoobody2",
+                "name": "T\u00e4ttowierter K\u00f6rper",
+                "description": "clothing_tattoobody2 desc",
+                "buyout": 0
+            },
+            "6494": {
+                "slug": "clothing_cozysailoruniform",
+                "name": "Bequemer Matrosenanzug",
+                "description": "clothing_cozysailoruniform desc",
+                "buyout": 0
+            },
+            "6493": {
+                "slug": "clothing_cozysailoruniform",
+                "name": "Bequemer Matrosenanzug",
+                "description": "clothing_cozysailoruniform desc",
+                "buyout": 0
+            },
+            "6477": {
+                "slug": "clothing_footballuniform",
+                "name": "Fu\u00dfballkleidung",
+                "description": "clothing_footballuniform desc",
+                "buyout": 1
+            },
+            "6476": {
+                "slug": "clothing_footballuniform",
+                "name": "Fu\u00dfballkleidung",
+                "description": "clothing_footballuniform desc",
+                "buyout": 1
+            },
+            "6463": {
+                "slug": "clothing_mafiasuit",
+                "name": "\u00dcppiger Anzug",
+                "description": "clothing_mafiasuit desc",
+                "buyout": 1
+            },
+            "6462": {
+                "slug": "clothing_mafiasuit",
+                "name": "\u00dcppiger Anzug",
+                "description": "clothing_mafiasuit desc",
+                "buyout": 1
+            },
+            "6459": {
+                "slug": "clothing_femmefataledress",
+                "name": "Femme Fatale-Kleid",
+                "description": "clothing_femmefataledress desc",
+                "buyout": 1
+            },
+            "6458": {
+                "slug": "clothing_femmefataledress",
+                "name": "Femme Fatale-Kleid",
+                "description": "clothing_femmefataledress desc",
+                "buyout": 1
+            },
+            "6433": {
+                "slug": "clothing_nt_merch26",
+                "name": "clothing_nt_merch26 name",
+                "description": "clothing_nt_merch26 desc",
+                "buyout": 0
+            },
+            "6432": {
+                "slug": "clothing_nt_merch26",
+                "name": "clothing_nt_merch26 name",
+                "description": "clothing_nt_merch26 desc",
+                "buyout": 0
+            },
+            "6431": {
+                "slug": "clothing_nt_merch26",
+                "name": "clothing_nt_merch26 name",
+                "description": "clothing_nt_merch26 desc",
+                "buyout": 0
+            },
+            "6430": {
+                "slug": "clothing_nt_merch26",
+                "name": "clothing_nt_merch26 name",
+                "description": "clothing_nt_merch26 desc",
+                "buyout": 0
+            },
+            "6419": {
+                "slug": "clothing_nt_merch26",
+                "name": "clothing_nt_merch26 name",
+                "description": "clothing_nt_merch26 desc",
+                "buyout": 0
+            },
+            "6418": {
+                "slug": "clothing_nt_merch26",
+                "name": "clothing_nt_merch26 name",
+                "description": "clothing_nt_merch26 desc",
+                "buyout": 0
+            },
+            "6417": {
+                "slug": "clothing_nt_merch26",
+                "name": "clothing_nt_merch26 name",
+                "description": "clothing_nt_merch26 desc",
+                "buyout": 0
+            },
+            "6416": {
+                "slug": "clothing_nt_merch26",
+                "name": "clothing_nt_merch26 name",
+                "description": "clothing_nt_merch26 desc",
+                "buyout": 0
+            },
+            "6415": {
+                "slug": "clothing_nt_merch26",
+                "name": "clothing_nt_merch26 name",
+                "description": "clothing_nt_merch26 desc",
+                "buyout": 0
+            },
+            "6414": {
+                "slug": "clothing_nt_merch26",
+                "name": "clothing_nt_merch26 name",
+                "description": "clothing_nt_merch26 desc",
+                "buyout": 0
+            },
+            "6401": {
+                "slug": "clothing_creatorhoodie",
+                "name": "Creator Hoodie",
+                "description": "clothing_creatorhoodie desc",
+                "buyout": 0
+            },
+            "6400": {
+                "slug": "clothing_creatorhoodie",
+                "name": "Creator Hoodie",
+                "description": "clothing_creatorhoodie desc",
+                "buyout": 0
+            },
+            "6388": {
+                "slug": "clothing_r26_tigeronesie",
+                "name": "Tiger-Einteiler",
+                "description": "clothing_r26_tigeronesie desc",
+                "buyout": 0
+            },
+            "6379": {
+                "slug": "clothing_duckethoneyshirt",
+                "name": "Honigfleckenhemd",
+                "description": "clothing_duckethoneyshirt desc",
+                "buyout": 0
+            },
+            "6378": {
+                "slug": "clothing_duckethoneyshirt",
+                "name": "Honigfleckenhemd",
+                "description": "clothing_duckethoneyshirt desc",
+                "buyout": 0
+            },
+            "6354": {
+                "slug": "clothing_sleepytimeadonis",
+                "name": "Heartbreaker Boxershorts",
+                "description": "clothing_sleepytimeadonis desc",
+                "buyout": 0
+            },
+            "6353": {
+                "slug": "clothing_sleepytimeadonis",
+                "name": "Heartbreaker Boxershorts",
+                "description": "clothing_sleepytimeadonis desc",
+                "buyout": 0
+            },
+            "6352": {
+                "slug": "clothing_borrowedshirt3",
+                "name": "Dreamcore Tshirt",
+                "description": "clothing_borrowedshirt3 desc",
+                "buyout": 0
+            },
+            "6351": {
+                "slug": "clothing_borrowedshirt3",
+                "name": "Dreamcore Tshirt",
+                "description": "clothing_borrowedshirt3 desc",
+                "buyout": 0
+            },
+            "6350": {
+                "slug": "clothing_borrowedshirt2",
+                "name": "Sch\u00e4fchenz\u00e4hler-Tshirt",
+                "description": "clothing_borrowedshirt2 desc",
+                "buyout": 0
+            },
+            "6349": {
+                "slug": "clothing_borrowedshirt2",
+                "name": "Sch\u00e4fchenz\u00e4hler-Tshirt",
+                "description": "clothing_borrowedshirt2 desc",
+                "buyout": 0
+            },
+            "6348": {
+                "slug": "clothing_borrowedshirt1",
+                "name": "Kosmisches Schlaf-Tshirt",
+                "description": "clothing_borrowedshirt1 desc",
+                "buyout": 0
+            },
+            "6347": {
+                "slug": "clothing_borrowedshirt1",
+                "name": "Kosmisches Schlaf-Tshirt",
+                "description": "clothing_borrowedshirt1 desc",
+                "buyout": 0
+            },
+            "6327": {
+                "slug": "clothing_sharkonesie",
+                "name": "Kuscheliger Hai-Einteiler",
+                "description": "clothing_sharkonesie desc",
+                "buyout": 0
+            },
+            "6321": {
+                "slug": "clothing_elvenmithriltop",
+                "name": "Elfen-Mithril-Top",
+                "description": "clothing_elvenmithriltop desc",
+                "buyout": 0
+            },
+            "6320": {
+                "slug": "clothing_elvenmithriltop",
+                "name": "Elfen-Mithril-Top",
+                "description": "clothing_elvenmithriltop desc",
+                "buyout": 0
+            },
+            "6312": {
+                "slug": "clothing_elvenoutfit",
+                "name": "Elfen-Umhang",
+                "description": "clothing_elvenoutfit desc",
+                "buyout": 0
+            },
+            "6311": {
+                "slug": "clothing_elvenoutfit",
+                "name": "Elfen-Umhang",
+                "description": "clothing_elvenoutfit desc",
+                "buyout": 0
+            },
+            "6293": {
+                "slug": "clothing_elvendress",
+                "name": "Elfen-Kleid",
+                "description": "clothing_elvendress desc",
+                "buyout": 0
+            },
+            "6292": {
+                "slug": "clothing_elvendress",
+                "name": "Elfen-Kleid",
+                "description": "clothing_elvendress desc",
+                "buyout": 0
+            },
+            "6275": {
+                "slug": "clothing_nftwizardsrobe",
+                "name": "Traditionelles Zauberergewand",
+                "description": "clothing_nftwizardsrobe desc",
+                "buyout": 0
+            },
+            "6268": {
+                "slug": "clothing_gamertee",
+                "name": "Habbo Gamer-T-Shirt",
+                "description": "clothing_gamertee desc",
+                "buyout": 0
+            },
+            "6267": {
+                "slug": "clothing_gamertee",
+                "name": "Habbo Gamer-T-Shirt",
+                "description": "clothing_gamertee desc",
+                "buyout": 0
+            },
             "6223": {
                 "slug": "clothing_scruffyplaidshirt",
                 "name": "Abgetragenes Tartan-Hemd",
@@ -2806,13 +3343,13 @@
             },
             "5311": {
                 "slug": "clothing_misssantaoutfit",
-                "name": "Freches Santa-Outfit",
+                "name": "Reizendes Weihnachtsoutfit",
                 "description": "clothing_misssantaoutfit desc",
                 "buyout": 0
             },
             "5310": {
                 "slug": "clothing_misssantaoutfit",
-                "name": "Freches Santa-Outfit",
+                "name": "Reizendes Weihnachtsoutfit",
                 "description": "clothing_misssantaoutfit desc",
                 "buyout": 0
             },
@@ -2896,13 +3433,13 @@
             },
             "5240": {
                 "slug": "clothing_ltd23_80sretro",
-                "name": "80er-Jahre Nostalige-Outfit",
+                "name": "80er-Jahre Nostalgie-Outfit",
                 "description": "clothing_ltd23_80sretro desc",
                 "buyout": 0
             },
             "5239": {
                 "slug": "clothing_ltd23_80sretro",
-                "name": "80er-Jahre Nostalige-Outfit",
+                "name": "80er-Jahre Nostalgie-Outfit",
                 "description": "clothing_ltd23_80sretro desc",
                 "buyout": 0
             },
@@ -4625,7 +5162,7 @@
             },
             "3459": {
                 "slug": "clothing_santaoutfit",
-                "name": "Weihnachtsmann Anzug",
+                "name": "Weihnachtsmann-Outfit",
                 "description": "Habbo Couture: Weihnachten 2015",
                 "buyout": 0
             },
@@ -4901,6 +5438,66 @@
             "210": null
         },
         "lg": {
+            "6526": {
+                "slug": "clothing_nftrainbowbikini",
+                "name": "Regenbogen-Bikini",
+                "description": "clothing_nftrainbowbikini desc",
+                "buyout": 0
+            },
+            "6523": {
+                "slug": "clothing_nftrainbowswimshorts",
+                "name": "Regenbogen-Badehose",
+                "description": "clothing_nftrainbowswimshorts desc",
+                "buyout": 0
+            },
+            "6511": {
+                "slug": "clothing_npc_roxie_test",
+                "name": "clothing_npc_roxie_test name",
+                "description": "clothing_npc_roxie_test desc",
+                "buyout": 0
+            },
+            "6492": {
+                "slug": "clothing_cozysailoruniform",
+                "name": "Bequemer Matrosenanzug",
+                "description": "clothing_cozysailoruniform desc",
+                "buyout": 0
+            },
+            "6478": {
+                "slug": "clothing_footballuniform",
+                "name": "Fu\u00dfballkleidung",
+                "description": "clothing_footballuniform desc",
+                "buyout": 1
+            },
+            "6464": {
+                "slug": "clothing_mafiasuit",
+                "name": "\u00dcppiger Anzug",
+                "description": "clothing_mafiasuit desc",
+                "buyout": 1
+            },
+            "6412": {
+                "slug": "clothing_fishnetsskirt",
+                "name": "Stylischer Fischnetz-Rock",
+                "description": "clothing_fishnetsskirt desc",
+                "buyout": 0
+            },
+            "6355": {
+                "slug": "clothing_sleepytimeadonis",
+                "name": "Heartbreaker Boxershorts",
+                "description": "clothing_sleepytimeadonis desc",
+                "buyout": 0
+            },
+            "6303": {
+                "slug": "clothing_nftwinter25pants",
+                "name": "Warme Winterhose",
+                "description": "clothing_nftwinter25pants desc",
+                "buyout": 0
+            },
+            "6290": {
+                "slug": "clothing_nftsatyr",
+                "name": "Satyr-Beine",
+                "description": "clothing_nftsatyr desc",
+                "buyout": 0
+            },
             "6161": {
                 "slug": "clothing_scruffyjeans",
                 "name": "Abgetragene Jeans",
@@ -4951,13 +5548,13 @@
             },
             "5974": {
                 "slug": "clothing_bratzjadeskirt",
-                "name": "Bratz Jade\u2019s Rock",
+                "name": "Bratz Jades Rock",
                 "description": "clothing_bratzjadeskirt desc",
                 "buyout": 0
             },
             "5970": {
                 "slug": "clothing_bratzeitantrousers",
-                "name": "Bratz Eitan\u2019s Hose",
+                "name": "Bratz Eitans Hose",
                 "description": "clothing_bratzeitantrousers desc",
                 "buyout": 0
             },
@@ -5060,7 +5657,7 @@
             "5332": null,
             "5312": {
                 "slug": "clothing_misssantaoutfit",
-                "name": "Freches Santa-Outfit",
+                "name": "Reizendes Weihnachtsoutfit",
                 "description": "clothing_misssantaoutfit desc",
                 "buyout": 0
             },
@@ -5405,7 +6002,7 @@
             },
             "3460": {
                 "slug": "clothing_santapants",
-                "name": "Weihnachtsmann Hosen",
+                "name": "Weihnachtsmann-Unterteil",
                 "description": "Habbo Couture: Weihnachten 2015",
                 "buyout": 0
             },
@@ -5571,6 +6168,36 @@
             "270": null
         },
         "sh": {
+            "6482": {
+                "slug": "clothing_footballuniform",
+                "name": "Fu\u00dfballkleidung",
+                "description": "clothing_footballuniform desc",
+                "buyout": 1
+            },
+            "6455": {
+                "slug": "clothing_fishnetsskirt",
+                "name": "Stylischer Fischnetz-Rock",
+                "description": "clothing_fishnetsskirt desc",
+                "buyout": 0
+            },
+            "6454": {
+                "slug": "clothing_fishnetsskirt",
+                "name": "Stylischer Fischnetz-Rock",
+                "description": "clothing_fishnetsskirt desc",
+                "buyout": 0
+            },
+            "6425": {
+                "slug": "clothing_discoskates",
+                "name": "Disko-Rollschuhe",
+                "description": "clothing_discoskates desc",
+                "buyout": 0
+            },
+            "6305": {
+                "slug": "clothing_nftwinter25boots",
+                "name": "Robuste Winterstiefel",
+                "description": "clothing_nftwinter25boots desc",
+                "buyout": 0
+            },
             "6182": {
                 "slug": "clothing_blessedoutfit",
                 "name": "Gesegnete Toga",
@@ -5807,7 +6434,7 @@
             },
             "5242": {
                 "slug": "clothing_ltd23_80sretro",
-                "name": "80er-Jahre Nostalige-Outfit",
+                "name": "80er-Jahre Nostalgie-Outfit",
                 "description": "clothing_ltd23_80sretro desc",
                 "buyout": 0
             },
@@ -6022,40 +6649,196 @@
             "290": null
         },
         "ha": {
+            "6543": {
+                "slug": "clothing_nftstrawhat",
+                "name": "clothing_nftstrawhat name",
+                "description": "clothing_nftstrawhat desc",
+                "buyout": 0
+            },
+            "6540": {
+                "slug": "clothing_nftwesternhat",
+                "name": "clothing_nftwesternhat name",
+                "description": "clothing_nftwesternhat desc",
+                "buyout": 0
+            },
+            "6537": {
+                "slug": "clothing_cowonesie",
+                "name": "clothing_cowonesie name",
+                "description": "clothing_cowonesie desc",
+                "buyout": 0
+            },
+            "6529": {
+                "slug": "clothing_tomatoberet",
+                "name": "clothing_tomatoberet name",
+                "description": "clothing_tomatoberet desc",
+                "buyout": 0
+            },
+            "6528": {
+                "slug": "clothing_beachvisor",
+                "name": "Strandk\u00e4ppi",
+                "description": "clothing_beachvisor desc",
+                "buyout": 0
+            },
+            "6490": {
+                "slug": "clothing_cozysailorhat",
+                "name": "Bequeme Matrosenm\u00fctze",
+                "description": "clothing_cozysailorhat desc",
+                "buyout": 0
+            },
+            "6480": {
+                "slug": "clothing_r26_moodoctopus",
+                "name": "Stimmungs-Tintenfisch",
+                "description": "clothing_r26_moodoctopus desc",
+                "buyout": 0
+            },
+            "6479": {
+                "slug": "clothing_r26_moodoctopus",
+                "name": "Stimmungs-Tintenfisch",
+                "description": "clothing_r26_moodoctopus desc",
+                "buyout": 0
+            },
+            "6474": {
+                "slug": "clothing_ducketsailorcap",
+                "name": "Schlanke Matrosenm\u00fctze",
+                "description": "clothing_ducketsailorcap desc",
+                "buyout": 1
+            },
+            "6471": {
+                "slug": "clothing_nftnewsboycap",
+                "name": "Klassische Zeitungsjungen-M\u00fctze",
+                "description": "clothing_nftnewsboycap desc",
+                "buyout": 1
+            },
+            "6422": {
+                "slug": "clothing_r26_iridescentcoat",
+                "name": "Schillernder Regenmantel",
+                "description": "clothing_r26_iridescentcoat desc",
+                "buyout": 0
+            },
+            "6413": {
+                "slug": "clothing_nt_merch26",
+                "name": "clothing_nt_merch26 name",
+                "description": "clothing_nt_merch26 desc",
+                "buyout": 0
+            },
+            "6389": {
+                "slug": "clothing_r26_tigeronesie",
+                "name": "Tiger-Einteiler",
+                "description": "clothing_r26_tigeronesie desc",
+                "buyout": 0
+            },
+            "6375": {
+                "slug": "clothing_r26_flowerpothair",
+                "name": "Topfhaar",
+                "description": "clothing_r26_flowerpothair desc",
+                "buyout": 0
+            },
+            "6366": {
+                "slug": "clothing_nfthorsecrown",
+                "name": "Jahr des Pferdes-Krone",
+                "description": "clothing_nfthorsecrown desc",
+                "buyout": 0
+            },
+            "6356": {
+                "slug": "clothing_nfticaruscrown",
+                "name": "Ikarus-Krone",
+                "description": "clothing_nfticaruscrown desc",
+                "buyout": 0
+            },
+            "6326": {
+                "slug": "clothing_sharkonesie",
+                "name": "Kuscheliger Hai-Einteiler",
+                "description": "clothing_sharkonesie desc",
+                "buyout": 0
+            },
+            "6302": {
+                "slug": "clothing_nftwinter25beanie",
+                "name": "Winterbommelm\u00fctze",
+                "description": "clothing_nftwinter25beanie desc",
+                "buyout": 0
+            },
+            "6301": {
+                "slug": "clothing_nftturkeyhat",
+                "name": "Truthahn-M\u00fctze",
+                "description": "clothing_nftturkeyhat desc",
+                "buyout": 0
+            },
+            "6300": {
+                "slug": "clothing_nftpineapplehelmet",
+                "name": "Saftige M\u00fctze",
+                "description": "clothing_nftpineapplehelmet desc",
+                "buyout": 0
+            },
+            "6291": {
+                "slug": "clothing_nftregalblackcrown",
+                "name": "K\u00f6niglich schwarze Krone",
+                "description": "clothing_nftregalblackcrown desc",
+                "buyout": 0
+            },
+            "6283": {
+                "slug": "clothing_nft2025santahat",
+                "name": "Frostige Weihnachtsmannm\u00fctze",
+                "description": "clothing_nft2025santahat desc",
+                "buyout": 0
+            },
+            "6277": {
+                "slug": "clothing_nftwizardshat",
+                "name": "Traditioneller Zaubererhut",
+                "description": "clothing_nftwizardshat desc",
+                "buyout": 0
+            },
+            "6273": {
+                "slug": "clothing_nftwizardshat",
+                "name": "Traditioneller Zaubererhut",
+                "description": "clothing_nftwizardshat desc",
+                "buyout": 0
+            },
             "6250": {
                 "slug": "clothing_eyriehat",
-                "name": "clothing_eyriehat name",
+                "name": "Eyrie-K\u00e4ppi",
                 "description": "clothing_eyriehat desc",
                 "buyout": 0
             },
             "6249": {
                 "slug": "clothing_kougrahat",
-                "name": "clothing_kougrahat name",
+                "name": "Kougra-K\u00e4ppi",
                 "description": "clothing_kougrahat desc",
+                "buyout": 0
+            },
+            "6246": {
+                "slug": "clothing_xmashatpatchwork",
+                "name": "Patchwork-Weihnachtsm\u00fctze",
+                "description": "clothing_xmashatpatchwork desc",
                 "buyout": 0
             },
             "6244": {
                 "slug": "clothing_shoyruhat",
-                "name": "clothing_shoyruhat name",
+                "name": "Shoyru-K\u00e4ppi",
                 "description": "clothing_shoyruhat desc",
                 "buyout": 0
             },
             "6243": {
                 "slug": "clothing_cybunnyhat",
-                "name": "clothing_cybunnyhat name",
+                "name": "Cybunny-K\u00e4ppi",
                 "description": "clothing_cybunnyhat desc",
                 "buyout": 0
             },
             "6241": {
                 "slug": "clothing_lupehat",
-                "name": "clothing_lupehat name",
+                "name": "Lupe-K\u00e4ppi",
                 "description": "clothing_lupehat desc",
                 "buyout": 0
             },
             "6240": {
                 "slug": "clothing_aishahat",
-                "name": "clothing_aishahat name",
+                "name": "Aisha-K\u00e4ppi",
                 "description": "clothing_aishahat desc",
+                "buyout": 0
+            },
+            "6225": {
+                "slug": "clothing_penguinhat",
+                "name": "Pinguin-M\u00fctze",
+                "description": "clothing_penguinhat desc",
                 "buyout": 0
             },
             "6209": {
@@ -6072,7 +6855,7 @@
             },
             "6203": {
                 "slug": "clothing_autumnberet",
-                "name": "clothing_autumnberet name",
+                "name": "Herbstliche Baskenm\u00fctze",
                 "description": "clothing_autumnberet desc",
                 "buyout": 0
             },
@@ -6390,7 +7173,7 @@
             },
             "5774": {
                 "slug": "clothing_flippedxmashat",
-                "name": "\u00dcbergro\u00dfer Weihnachtsmannhut",
+                "name": "\u00dcbergro\u00dfe Weihnachtsm\u00fctze",
                 "description": "clothing_flippedxmashat desc",
                 "buyout": 0
             },
@@ -6775,7 +7558,7 @@
             },
             "5366": {
                 "slug": "clothing_misssantahat",
-                "name": "Frecher Santa-Hut",
+                "name": "Reizende Weihnachtsm\u00fctze",
                 "description": "clothing_misssantahat desc",
                 "buyout": 0
             },
@@ -6937,7 +7720,7 @@
             },
             "5241": {
                 "slug": "clothing_ltd23_80sretro",
-                "name": "80er-Jahre Nostalige-Outfit",
+                "name": "80er-Jahre Nostalgie-Outfit",
                 "description": "clothing_ltd23_80sretro desc",
                 "buyout": 0
             },
@@ -7352,49 +8135,49 @@
             },
             "4326": {
                 "slug": "clothing_goldhatpack2",
-                "name": "Goldener Hut Paket 2.0",
+                "name": "Goldener Hut Paket 2",
                 "description": "clothing_goldhatpack2 desc",
                 "buyout": 0
             },
             "4325": {
                 "slug": "clothing_goldhatpack2",
-                "name": "Goldener Hut Paket 2.0",
+                "name": "Goldener Hut Paket 2",
                 "description": "clothing_goldhatpack2 desc",
                 "buyout": 0
             },
             "4324": {
                 "slug": "clothing_goldhatpack2",
-                "name": "Goldener Hut Paket 2.0",
+                "name": "Goldener Hut Paket 2",
                 "description": "clothing_goldhatpack2 desc",
                 "buyout": 0
             },
             "4323": {
                 "slug": "clothing_goldhatpack2",
-                "name": "Goldener Hut Paket 2.0",
+                "name": "Goldener Hut Paket 2",
                 "description": "clothing_goldhatpack2 desc",
                 "buyout": 0
             },
             "4322": {
                 "slug": "clothing_goldhatpack2",
-                "name": "Goldener Hut Paket 2.0",
+                "name": "Goldener Hut Paket 2",
                 "description": "clothing_goldhatpack2 desc",
                 "buyout": 0
             },
             "4321": {
                 "slug": "clothing_goldhatpack2",
-                "name": "Goldener Hut Paket 2.0",
+                "name": "Goldener Hut Paket 2",
                 "description": "clothing_goldhatpack2 desc",
                 "buyout": 0
             },
             "4320": {
                 "slug": "clothing_goldhatpack2",
-                "name": "Goldener Hut Paket 2.0",
+                "name": "Goldener Hut Paket 2",
                 "description": "clothing_goldhatpack2 desc",
                 "buyout": 0
             },
             "4319": {
                 "slug": "clothing_goldhatpack2",
-                "name": "Goldener Hut Paket 2.0",
+                "name": "Goldener Hut Paket 2",
                 "description": "clothing_goldhatpack2 desc",
                 "buyout": 0
             },
@@ -7640,49 +8423,49 @@
             },
             "4057": {
                 "slug": "clothing_goldhatpack1",
-                "name": "Goldener Hut Paket V.1",
+                "name": "Goldener Hut Paket 1",
                 "description": "clothing_goldhatpack1 desc",
                 "buyout": 0
             },
             "4056": {
                 "slug": "clothing_goldhatpack1",
-                "name": "Goldener Hut Paket V.1",
+                "name": "Goldener Hut Paket 1",
                 "description": "clothing_goldhatpack1 desc",
                 "buyout": 0
             },
             "4055": {
                 "slug": "clothing_goldhatpack1",
-                "name": "Goldener Hut Paket V.1",
+                "name": "Goldener Hut Paket 1",
                 "description": "clothing_goldhatpack1 desc",
                 "buyout": 0
             },
             "4054": {
                 "slug": "clothing_goldhatpack1",
-                "name": "Goldener Hut Paket V.1",
+                "name": "Goldener Hut Paket 1",
                 "description": "clothing_goldhatpack1 desc",
                 "buyout": 0
             },
             "4053": {
                 "slug": "clothing_goldhatpack1",
-                "name": "Goldener Hut Paket V.1",
+                "name": "Goldener Hut Paket 1",
                 "description": "clothing_goldhatpack1 desc",
                 "buyout": 0
             },
             "4052": {
                 "slug": "clothing_goldhatpack1",
-                "name": "Goldener Hut Paket V.1",
+                "name": "Goldener Hut Paket 1",
                 "description": "clothing_goldhatpack1 desc",
                 "buyout": 0
             },
             "4051": {
                 "slug": "clothing_goldhatpack1",
-                "name": "Goldener Hut Paket V.1",
+                "name": "Goldener Hut Paket 1",
                 "description": "clothing_goldhatpack1 desc",
                 "buyout": 0
             },
             "4050": {
                 "slug": "clothing_goldhatpack1",
-                "name": "Goldener Hut Paket V.1",
+                "name": "Goldener Hut Paket 1",
                 "description": "clothing_goldhatpack1 desc",
                 "buyout": 0
             },
@@ -8402,7 +9185,7 @@
             },
             "3461": {
                 "slug": "clothing_santaoutfit",
-                "name": "Weihnachtsmann Anzug",
+                "name": "Weihnachtsmann-Outfit",
                 "description": "Habbo Couture: Weihnachten 2015",
                 "buyout": 0
             },
@@ -8640,10 +9423,154 @@
             "1001": null
         },
         "he": {
+            "6506": {
+                "slug": "clothing_npc_roxie_test",
+                "name": "clothing_npc_roxie_test name",
+                "description": "clothing_npc_roxie_test desc",
+                "buyout": 0
+            },
+            "6503": {
+                "slug": "clothing_summerbraid",
+                "name": "Sommerzopf",
+                "description": "clothing_summerbraid desc",
+                "buyout": 0
+            },
+            "6489": {
+                "slug": "clothing_nftflowerearrings",
+                "name": "Blumen-Ohrringe",
+                "description": "clothing_nftflowerearrings desc",
+                "buyout": 0
+            },
+            "6444": {
+                "slug": "clothing_nftledhorns",
+                "name": "LED-H\u00f6rner",
+                "description": "clothing_nftledhorns desc",
+                "buyout": 0
+            },
+            "6443": {
+                "slug": "clothing_nftledhorns",
+                "name": "LED-H\u00f6rner",
+                "description": "clothing_nftledhorns desc",
+                "buyout": 0
+            },
+            "6391": {
+                "slug": "clothing_triangularearrings",
+                "name": "Gepl\u00fcnderte Tempel-Ohrringe",
+                "description": "clothing_triangularearrings desc",
+                "buyout": 1
+            },
+            "6390": {
+                "slug": "clothing_r26_spider",
+                "name": "Giftspinnen-Hut",
+                "description": "clothing_r26_spider desc",
+                "buyout": 0
+            },
+            "6386": {
+                "slug": "clothing_crownedfantasydemon",
+                "name": "Gewinner Fantasy-Teufel",
+                "description": "clothing_crownedfantasydemon desc",
+                "buyout": 0
+            },
+            "6384": {
+                "slug": "clothing_fantasydemon",
+                "name": "Fantasy-Teufel",
+                "description": "clothing_fantasydemon desc",
+                "buyout": 0
+            },
+            "6377": {
+                "slug": "clothing_r26_countingsheep",
+                "name": "Sch\u00e4fchen z\u00e4hlen",
+                "description": "clothing_r26_countingsheep desc",
+                "buyout": 0
+            },
+            "6373": {
+                "slug": "clothing_nftmoon",
+                "name": "L\u00e4chelnder Mond",
+                "description": "clothing_nftmoon desc",
+                "buyout": 0
+            },
+            "6370": {
+                "slug": "clothing_nftflyingheart",
+                "name": "Fliegendes Herz",
+                "description": "clothing_nftflyingheart desc",
+                "buyout": 0
+            },
+            "6368": {
+                "slug": "clothing_nftheartearrings",
+                "name": "Herzohrringe",
+                "description": "clothing_nftheartearrings desc",
+                "buyout": 0
+            },
+            "6360": {
+                "slug": "clothing_elvenearring",
+                "name": "Elfen-Ohrring",
+                "description": "clothing_elvenearring desc",
+                "buyout": 0
+            },
+            "6344": {
+                "slug": "clothing_sleepytimebun",
+                "name": "Deluxe SleepBand",
+                "description": "clothing_sleepytimebun desc",
+                "buyout": 0
+            },
+            "6309": {
+                "slug": "clothing_elvenshortears",
+                "name": "Kurzohr-Elf",
+                "description": "clothing_elvenshortears desc",
+                "buyout": 0
+            },
+            "6308": {
+                "slug": "clothing_elvenlongears",
+                "name": "Langohr-Elf",
+                "description": "clothing_elvenlongears desc",
+                "buyout": 0
+            },
+            "6297": {
+                "slug": "clothing_leafantlers",
+                "name": "Blatt-Geweih",
+                "description": "clothing_leafantlers desc",
+                "buyout": 0
+            },
+            "6296": {
+                "slug": "clothing_flowerantlers",
+                "name": "Blumen-Geweih",
+                "description": "clothing_flowerantlers desc",
+                "buyout": 0
+            },
+            "6264": {
+                "slug": "clothing_cnyhorse",
+                "name": "Pferdezubeh\u00f6r",
+                "description": "clothing_cnyhorse desc",
+                "buyout": 0
+            },
+            "6254": {
+                "slug": "clothing_nftbighorns",
+                "name": "Gro\u00dfe schlichte H\u00f6rner",
+                "description": "clothing_nftbighorns desc",
+                "buyout": 0
+            },
+            "6237": {
+                "slug": "clothing_headlamp",
+                "name": "Stirnlampe",
+                "description": "clothing_headlamp desc",
+                "buyout": 0
+            },
             "6236": {
                 "slug": "clothing_r25_queenfyora",
-                "name": "clothing_r25_queenfyora name",
+                "name": "K\u00f6nigin Fyoras Accessoires",
                 "description": "clothing_r25_queenfyora desc",
+                "buyout": 0
+            },
+            "6224": {
+                "slug": "clothing_fleeceheadwrap",
+                "name": "Fleece-Stirnband",
+                "description": "clothing_fleeceheadwrap desc",
+                "buyout": 0
+            },
+            "6215": {
+                "slug": "clothing_polkadotbow",
+                "name": "H\u00fcbsch gepunktete Schleife",
+                "description": "clothing_polkadotbow desc",
                 "buyout": 0
             },
             "6194": {
@@ -8898,12 +9825,6 @@
                 "description": "clothing_nftgoodvsevil desc",
                 "buyout": 0
             },
-            "5808": {
-                "slug": "clothing_dreamsparkles",
-                "name": "Schlafstaub ",
-                "description": "clothing_dreamsparkles desc",
-                "buyout": 0
-            },
             "5804": {
                 "slug": "clothing_dreambubble",
                 "name": "Von Enten tr\u00e4umen ",
@@ -9140,7 +10061,7 @@
             },
             "5314": {
                 "slug": "clothing_bigbowhairclip",
-                "name": "XL Schleifenhaarspange",
+                "name": "XL-Schleifenhaarspange",
                 "description": "clothing_bigbowhairclip desc",
                 "buyout": 0
             },
@@ -9846,6 +10767,132 @@
             "1601": null
         },
         "ea": {
+            "6522": {
+                "slug": "clothing_nftrainbowpartyshades",
+                "name": "Regenbogen-Party-Sonnenbrille",
+                "description": "clothing_nftrainbowpartyshades desc",
+                "buyout": 0
+            },
+            "6521": {
+                "slug": "clothing_nftpartyshades",
+                "name": "Party-Sonnenbrille",
+                "description": "clothing_nftpartyshades desc",
+                "buyout": 0
+            },
+            "6472": {
+                "slug": "clothing_nftrollerskatershades",
+                "name": "Skater-Sonnenbrille",
+                "description": "clothing_nftrollerskatershades desc",
+                "buyout": 0
+            },
+            "6460": {
+                "slug": "clothing_susglasses",
+                "name": "Blackout-Sonnenbrille",
+                "description": "clothing_susglasses desc",
+                "buyout": 0
+            },
+            "6447": {
+                "slug": "clothing_nfttintedglasses",
+                "name": "Get\u00f6nte Sonnenbrille",
+                "description": "clothing_nfttintedglasses desc",
+                "buyout": 0
+            },
+            "6372": {
+                "slug": "clothing_nftpandamask",
+                "name": "Panda-Augenbinde",
+                "description": "clothing_nftpandamask desc",
+                "buyout": 0
+            },
+            "6371": {
+                "slug": "clothing_nftteddymask",
+                "name": "Teddy-Augenbinde",
+                "description": "clothing_nftteddymask desc",
+                "buyout": 0
+            },
+            "6357": {
+                "slug": "clothing_flowereye",
+                "name": "Blumenauge",
+                "description": "clothing_flowereye desc",
+                "buyout": 0
+            },
+            "6340": {
+                "slug": "clothing_nftheterocromia",
+                "name": "Verschiedenfarbige Kontaktlinsen",
+                "description": "clothing_nftheterocromia desc",
+                "buyout": 0
+            },
+            "6339": {
+                "slug": "clothing_nftheterocromia",
+                "name": "Verschiedenfarbige Kontaktlinsen",
+                "description": "clothing_nftheterocromia desc",
+                "buyout": 0
+            },
+            "6338": {
+                "slug": "clothing_nftheterocromia",
+                "name": "Verschiedenfarbige Kontaktlinsen",
+                "description": "clothing_nftheterocromia desc",
+                "buyout": 0
+            },
+            "6337": {
+                "slug": "clothing_nftheterocromia",
+                "name": "Verschiedenfarbige Kontaktlinsen",
+                "description": "clothing_nftheterocromia desc",
+                "buyout": 0
+            },
+            "6336": {
+                "slug": "clothing_nftheterocromia",
+                "name": "Verschiedenfarbige Kontaktlinsen",
+                "description": "clothing_nftheterocromia desc",
+                "buyout": 0
+            },
+            "6335": {
+                "slug": "clothing_nftheterocromia",
+                "name": "Verschiedenfarbige Kontaktlinsen",
+                "description": "clothing_nftheterocromia desc",
+                "buyout": 0
+            },
+            "6334": {
+                "slug": "clothing_nftheterocromia",
+                "name": "Verschiedenfarbige Kontaktlinsen",
+                "description": "clothing_nftheterocromia desc",
+                "buyout": 0
+            },
+            "6333": {
+                "slug": "clothing_nftheterocromia",
+                "name": "Verschiedenfarbige Kontaktlinsen",
+                "description": "clothing_nftheterocromia desc",
+                "buyout": 0
+            },
+            "6332": {
+                "slug": "clothing_nftheterocromia",
+                "name": "Verschiedenfarbige Kontaktlinsen",
+                "description": "clothing_nftheterocromia desc",
+                "buyout": 0
+            },
+            "6331": {
+                "slug": "clothing_nftheterocromia",
+                "name": "Verschiedenfarbige Kontaktlinsen",
+                "description": "clothing_nftheterocromia desc",
+                "buyout": 0
+            },
+            "6330": {
+                "slug": "clothing_nftheterocromia",
+                "name": "Verschiedenfarbige Kontaktlinsen",
+                "description": "clothing_nftheterocromia desc",
+                "buyout": 0
+            },
+            "6329": {
+                "slug": "clothing_nftheterocromia",
+                "name": "Verschiedenfarbige Kontaktlinsen",
+                "description": "clothing_nftheterocromia desc",
+                "buyout": 0
+            },
+            "6270": {
+                "slug": "clothing_nftwizardsglasses",
+                "name": "Zauberer-Brille",
+                "description": "clothing_nftwizardsglasses desc",
+                "buyout": 0
+            },
             "6231": {
                 "slug": "clothing_nftfungalinfection",
                 "name": "Pilzinfektion",
@@ -10049,7 +11096,7 @@
             },
             "4161": {
                 "slug": "clothing_gemglasses",
-                "name": "Jewelled Glasses",
+                "name": "Holografische Brille",
                 "description": "clothing_gemglasses desc",
                 "buyout": 0
             },
@@ -10248,6 +11295,114 @@
             "1401": null
         },
         "fa": {
+            "6544": {
+                "slug": "clothing_nftstrawmouth",
+                "name": "clothing_nftstrawmouth name",
+                "description": "clothing_nftstrawmouth desc",
+                "buyout": 0
+            },
+            "6534": {
+                "slug": "clothing_nftgoldgrills",
+                "name": "Goldz\u00e4hne",
+                "description": "clothing_nftgoldgrills desc",
+                "buyout": 0
+            },
+            "6504": {
+                "slug": "clothing_sunburntcheeks",
+                "name": "Sonnenger\u00f6tete Wangen",
+                "description": "clothing_sunburntcheeks desc",
+                "buyout": 0
+            },
+            "6485": {
+                "slug": "clothing_nftgoldjunglemask",
+                "name": "Goldene Dschungel-Maske",
+                "description": "clothing_nftgoldjunglemask desc",
+                "buyout": 0
+            },
+            "6484": {
+                "slug": "clothing_nftsilverjunglemask",
+                "name": "Silberne Dschungel-Maske",
+                "description": "clothing_nftsilverjunglemask desc",
+                "buyout": 0
+            },
+            "6483": {
+                "slug": "clothing_nftbronzejunglemask",
+                "name": "Bronzene Dschungel-Maske",
+                "description": "clothing_nftbronzejunglemask desc",
+                "buyout": 0
+            },
+            "6469": {
+                "slug": "clothing_nftmouthtape",
+                "name": "Zugeschn\u00fcrter Mund",
+                "description": "clothing_nftmouthtape desc",
+                "buyout": 0
+            },
+            "6450": {
+                "slug": "clothing_r26_roboface",
+                "name": "Niedliches Robo-Gesicht",
+                "description": "clothing_r26_roboface desc",
+                "buyout": 0
+            },
+            "6398": {
+                "slug": "clothing_scruffystyle",
+                "name": "Dschungel-Schiffbr\u00fcchiger",
+                "description": "clothing_scruffystyle desc",
+                "buyout": 1
+            },
+            "6396": {
+                "slug": "clothing_nfthollywoodsmile",
+                "name": "Hollywood-L\u00e4cheln",
+                "description": "clothing_nfthollywoodsmile desc",
+                "buyout": 0
+            },
+            "6367": {
+                "slug": "clothing_nftkissmark",
+                "name": "Kussabdruck",
+                "description": "clothing_nftkissmark desc",
+                "buyout": 0
+            },
+            "6304": {
+                "slug": "clothing_nfttubescarf",
+                "name": "Schlauchschal",
+                "description": "clothing_nfttubescarf desc",
+                "buyout": 0
+            },
+            "6286": {
+                "slug": "clothing_nftheartfacepaint",
+                "name": "Herz-Gesichtsbemalung",
+                "description": "clothing_nftheartfacepaint desc",
+                "buyout": 0
+            },
+            "6285": {
+                "slug": "clothing_nftstarfacepaint",
+                "name": "Stern-Gesichtsbemalung",
+                "description": "clothing_nftstarfacepaint desc",
+                "buyout": 0
+            },
+            "6284": {
+                "slug": "clothing_nftrudolphsnose",
+                "name": "Rudolphs gl\u00e4nzende Nase",
+                "description": "clothing_nftrudolphsnose desc",
+                "buyout": 0
+            },
+            "6274": {
+                "slug": "clothing_nftxmaslollipop",
+                "name": "Weihnachtslolli",
+                "description": "clothing_nftxmaslollipop desc",
+                "buyout": 0
+            },
+            "6272": {
+                "slug": "clothing_nftwizardsbeard",
+                "name": "Zauberer-Bart",
+                "description": "clothing_nftwizardsbeard desc",
+                "buyout": 0
+            },
+            "6271": {
+                "slug": "clothing_nftwizardsbeard",
+                "name": "Zauberer-Bart",
+                "description": "clothing_nftwizardsbeard desc",
+                "buyout": 0
+            },
             "6245": {
                 "slug": "clothing_nftwarpaint",
                 "name": "Kriegsbemalung",
@@ -10847,17 +12002,189 @@
             "1201": null
         },
         "ca": {
-            "6253": null,
-            "6252": null,
+            "6545": {
+                "slug": "clothing_pumpkinbag2",
+                "name": "clothing_pumpkinbag2 name",
+                "description": "clothing_pumpkinbag2 desc",
+                "buyout": 0
+            },
+            "6499": {
+                "slug": "clothing_mafiarose",
+                "name": "Knopflochrose",
+                "description": "clothing_mafiarose desc",
+                "buyout": 1
+            },
+            "6491": {
+                "slug": "clothing_r26_mantabag",
+                "name": "Mantarochen-Rucksack",
+                "description": "clothing_r26_mantabag desc",
+                "buyout": 0
+            },
+            "6475": {
+                "slug": "clothing_refereewhistle",
+                "name": "Schiedsrichterpfeife",
+                "description": "clothing_refereewhistle desc",
+                "buyout": 1
+            },
+            "6473": {
+                "slug": "clothing_ducketsailorcollar",
+                "name": "Matrosenkragen",
+                "description": "clothing_ducketsailorcollar desc",
+                "buyout": 1
+            },
+            "6457": {
+                "slug": "clothing_mafiascarf",
+                "name": "Stylischer Schal",
+                "description": "clothing_mafiascarf desc",
+                "buyout": 1
+            },
+            "6399": {
+                "slug": "clothing_ltd26_vinewings",
+                "name": "Weinrebenfl\u00fcgel",
+                "description": "clothing_ltd26_vinewings desc",
+                "buyout": 0
+            },
+            "6395": {
+                "slug": "clothing_nftpopcorn",
+                "name": "Kino-Popcorn",
+                "description": "clothing_nftpopcorn desc",
+                "buyout": 0
+            },
+            "6393": {
+                "slug": "clothing_nftsoda",
+                "name": "Kino-Getr\u00e4nk",
+                "description": "clothing_nftsoda desc",
+                "buyout": 0
+            },
+            "6380": {
+                "slug": "clothing_ducketbearbag",
+                "name": "Kuscheliger B\u00e4renrucksack",
+                "description": "clothing_ducketbearbag desc",
+                "buyout": 0
+            },
+            "6359": {
+                "slug": "clothing_leafbrooch",
+                "name": "Blatt-Brosche",
+                "description": "clothing_leafbrooch desc",
+                "buyout": 0
+            },
+            "6358": {
+                "slug": "clothing_flowerheart",
+                "name": "Blumenherz",
+                "description": "clothing_flowerheart desc",
+                "buyout": 0
+            },
+            "6343": {
+                "slug": "clothing_snakeyscarf",
+                "name": "Schlangenschal",
+                "description": "clothing_snakeyscarf desc",
+                "buyout": 0
+            },
+            "6328": {
+                "slug": "clothing_stripeywinterscarf",
+                "name": "Gestreifter Winterschal",
+                "description": "clothing_stripeywinterscarf desc",
+                "buyout": 0
+            },
+            "6325": {
+                "slug": "clothing_r26_plushiewings",
+                "name": "Vintage Cupid-Fl\u00fcgel",
+                "description": "clothing_r26_plushiewings desc",
+                "buyout": 0
+            },
+            "6324": {
+                "slug": "clothing_ducketpenguinbackpack",
+                "name": "Praller Pinguinrucksack",
+                "description": "clothing_ducketpenguinbackpack desc",
+                "buyout": 0
+            },
+            "6276": {
+                "slug": "clothing_r26_glitterwings",
+                "name": "Glitterfl\u00fcgel",
+                "description": "clothing_r26_glitterwings desc",
+                "buyout": 0
+            },
+            "6263": {
+                "slug": "clothing_r25_nystargarland8",
+                "name": "Punklila Sch\u00e4rpe",
+                "description": "clothing_r25_nystargarland8 desc",
+                "buyout": 0
+            },
+            "6262": {
+                "slug": "clothing_r25_nystargarland7",
+                "name": "Smaragdgr\u00fcne Sch\u00e4rpe",
+                "description": "clothing_r25_nystargarland7 desc",
+                "buyout": 0
+            },
+            "6261": {
+                "slug": "clothing_r25_nystargarland6",
+                "name": "Schneeblaue Sch\u00e4rpe",
+                "description": "clothing_r25_nystargarland6 desc",
+                "buyout": 0
+            },
+            "6260": {
+                "slug": "clothing_r25_nystargarland5",
+                "name": "Hellorange Sch\u00e4rpe",
+                "description": "clothing_r25_nystargarland5 desc",
+                "buyout": 0
+            },
+            "6259": {
+                "slug": "clothing_r25_nystargarland4",
+                "name": "Mitternachtsblaue Sch\u00e4rpe",
+                "description": "clothing_r25_nystargarland4 desc",
+                "buyout": 0
+            },
+            "6258": {
+                "slug": "clothing_r25_nystargarland3",
+                "name": "Goldgelbe Sch\u00e4rpe",
+                "description": "clothing_r25_nystargarland3 desc",
+                "buyout": 0
+            },
+            "6257": {
+                "slug": "clothing_r25_nystargarland2",
+                "name": "Rubinrote Sch\u00e4rpe",
+                "description": "clothing_r25_nystargarland2 desc",
+                "buyout": 0
+            },
+            "6256": {
+                "slug": "clothing_r25_nystargarland1",
+                "name": "Babyrosa Sch\u00e4rpe",
+                "description": "clothing_r25_nystargarland1 desc",
+                "buyout": 0
+            },
+            "6253": {
+                "slug": "clothing_nftutility",
+                "name": "Werkzeugg\u00fcrtel mit Riemen",
+                "description": "clothing_nftutility desc",
+                "buyout": 0
+            },
+            "6252": {
+                "slug": "clothing_nftrockstar",
+                "name": "Rockstar-Gitarre",
+                "description": "clothing_nftrockstar desc",
+                "buyout": 0
+            },
             "6242": {
                 "slug": "clothing_r25_illusenwings",
-                "name": "clothing_r25_illusenwings name",
+                "name": "Illusens Feenfl\u00fcgel",
                 "description": "clothing_r25_illusenwings desc",
+                "buyout": 0
+            },
+            "6239": {
+                "slug": "clothing_r25_habubuglam",
+                "name": "Glamour-Habubu-Umh\u00e4ngetasche",
+                "description": "clothing_r25_habubuglam desc",
+                "buyout": 0
+            },
+            "6238": {
+                "slug": "clothing_r25_habubu",
+                "name": "Habubu-Umh\u00e4ngetasche",
+                "description": "clothing_r25_habubu desc",
                 "buyout": 0
             },
             "6235": {
                 "slug": "clothing_r25_queenfyora",
-                "name": "clothing_r25_queenfyora name",
+                "name": "K\u00f6nigin Fyoras Accessoires",
                 "description": "clothing_r25_queenfyora desc",
                 "buyout": 0
             },
@@ -10879,6 +12206,12 @@
                 "description": "clothing_nfthobbyhorse1 desc",
                 "buyout": 0
             },
+            "6226": {
+                "slug": "clothing_r25_kittybag",
+                "name": "Katzentasche",
+                "description": "clothing_r25_kittybag desc",
+                "buyout": 0
+            },
             "6214": {
                 "slug": "clothing_nftbowandquiver",
                 "name": "Goldener Pfeil und Bogen",
@@ -10889,6 +12222,12 @@
                 "slug": "clothing_nftbowandquiver",
                 "name": "Goldener Pfeil und Bogen",
                 "description": "clothing_nftbowandquiver desc",
+                "buyout": 0
+            },
+            "6212": {
+                "slug": "clothing_snowflakenecklace",
+                "name": "Schneeflocken-Halskette",
+                "description": "clothing_snowflakenecklace desc",
                 "buyout": 0
             },
             "6208": {
@@ -11043,13 +12382,13 @@
             },
             "5984": {
                 "slug": "clothing_bratzcloebag",
-                "name": "Bratz Cloe\u2019s Tasche",
+                "name": "Bratz Cloes Tasche",
                 "description": "clothing_bratzcloebag desc",
                 "buyout": 0
             },
             "5983": {
                 "slug": "clothing_bratzyasminpearls",
-                "name": "Bratz Yasmin\u2019s Perlen",
+                "name": "Bratz Yasmins Perlen",
                 "description": "clothing_bratzyasminpearls desc",
                 "buyout": 0
             },
@@ -11559,7 +12898,7 @@
             },
             "5365": {
                 "slug": "clothing_chunkyknitscarf",
-                "name": "Gestrickter Schal mit Weihnachtskugel",
+                "name": "Strickschal mit Bommel",
                 "description": "clothing_chunkyknitscarf desc",
                 "buyout": 0
             },
@@ -11583,7 +12922,7 @@
             },
             "5313": {
                 "slug": "clothing_misssantaoutfit",
-                "name": "Freches Santa-Outfit",
+                "name": "Reizendes Weihnachtsoutfit",
                 "description": "clothing_misssantaoutfit desc",
                 "buyout": 0
             },
@@ -12295,6 +13634,54 @@
             "1801": null
         },
         "wa": {
+            "6470": {
+                "slug": "clothing_nftsuspenders",
+                "name": "Schnieke Hosentr\u00e4ger",
+                "description": "clothing_nftsuspenders desc",
+                "buyout": 1
+            },
+            "6394": {
+                "slug": "clothing_nftpopcorn",
+                "name": "Kino-Popcorn",
+                "description": "clothing_nftpopcorn desc",
+                "buyout": 0
+            },
+            "6392": {
+                "slug": "clothing_nftsoda",
+                "name": "Kino-Getr\u00e4nk",
+                "description": "clothing_nftsoda desc",
+                "buyout": 0
+            },
+            "6387": {
+                "slug": "clothing_crownedfantasydemon",
+                "name": "Gewinner Fantasy-Teufel",
+                "description": "clothing_crownedfantasydemon desc",
+                "buyout": 0
+            },
+            "6385": {
+                "slug": "clothing_fantasydemon",
+                "name": "Fantasy-Teufel",
+                "description": "clothing_fantasydemon desc",
+                "buyout": 0
+            },
+            "6319": {
+                "slug": "clothing_elvensatchel",
+                "name": "Blatt-Tasche",
+                "description": "clothing_elvensatchel desc",
+                "buyout": 0
+            },
+            "6298": {
+                "slug": "clothing_elvenlamp",
+                "name": "Mystische Lampe",
+                "description": "clothing_elvenlamp desc",
+                "buyout": 0
+            },
+            "6265": {
+                "slug": "clothing_cnyhorse",
+                "name": "Pferdezubeh\u00f6r",
+                "description": "clothing_cnyhorse desc",
+                "buyout": 0
+            },
             "6234": {
                 "slug": "clothing_nftflashlight",
                 "name": "Apokalypsentaschenlampe",
@@ -12339,7 +13726,7 @@
             },
             "5986": {
                 "slug": "clothing_bratzdylanbelt",
-                "name": "Bratz Dylan\u2019s G\u00fcrtel",
+                "name": "Bratz Dylans G\u00fcrtel",
                 "description": "clothing_bratzdylanbelt desc",
                 "buyout": 0
             },
@@ -12531,16 +13918,88 @@
         "cc": {
             "9865": null,
             "9563": null,
-            "6251": {
-                "slug": "clothing_nftumbrella",
-                "name": "Regentag-Schirm",
-                "description": "clothing_nftumbrella desc",
+            "6532": {
+                "slug": "clothing_nftwesternvest",
+                "name": "clothing_nftwesternvest name",
+                "description": "clothing_nftwesternvest desc",
                 "buyout": 0
             },
-            "6247": {
-                "slug": "clothing_nftumbrella",
-                "name": "Regentag-Schirm",
-                "description": "clothing_nftumbrella desc",
+            "6518": {
+                "slug": "clothing_gardencardigan",
+                "name": "clothing_gardencardigan name",
+                "description": "clothing_gardencardigan desc",
+                "buyout": 0
+            },
+            "6513": {
+                "slug": "clothing_sturdylifejacket",
+                "name": "Stabile Rettungsweste",
+                "description": "clothing_sturdylifejacket desc",
+                "buyout": 0
+            },
+            "6429": {
+                "slug": "clothing_nt_merch26",
+                "name": "clothing_nt_merch26 name",
+                "description": "clothing_nt_merch26 desc",
+                "buyout": 0
+            },
+            "6428": {
+                "slug": "clothing_nt_merch26",
+                "name": "clothing_nt_merch26 name",
+                "description": "clothing_nt_merch26 desc",
+                "buyout": 0
+            },
+            "6427": {
+                "slug": "clothing_nt_merch26",
+                "name": "clothing_nt_merch26 name",
+                "description": "clothing_nt_merch26 desc",
+                "buyout": 0
+            },
+            "6426": {
+                "slug": "clothing_nt_merch26",
+                "name": "clothing_nt_merch26 name",
+                "description": "clothing_nt_merch26 desc",
+                "buyout": 0
+            },
+            "6423": {
+                "slug": "clothing_r26_iridescentcoat",
+                "name": "Schillernder Regenmantel",
+                "description": "clothing_r26_iridescentcoat desc",
+                "buyout": 0
+            },
+            "6411": {
+                "slug": "clothing_croppedhoodie",
+                "name": "Superbauchfreies Kapuzen-Top",
+                "description": "clothing_croppedhoodie desc",
+                "buyout": 0
+            },
+            "6341": {
+                "slug": "clothing_bedroll",
+                "name": "Kissenschlacht-R\u00fcstung",
+                "description": "clothing_bedroll desc",
+                "buyout": 0
+            },
+            "6310": {
+                "slug": "clothing_elvenoutfit",
+                "name": "Elfen-Umhang",
+                "description": "clothing_elvenoutfit desc",
+                "buyout": 0
+            },
+            "6307": {
+                "slug": "clothing_nftwinte25jacket",
+                "name": "Winter-Steppjacke",
+                "description": "clothing_nftwinte25jacket desc",
+                "buyout": 0
+            },
+            "6306": {
+                "slug": "clothing_nftwinte25jacket",
+                "name": "Winter-Steppjacke",
+                "description": "clothing_nftwinte25jacket desc",
+                "buyout": 0
+            },
+            "6294": {
+                "slug": "clothing_elvendress",
+                "name": "Elfen-Kleid",
+                "description": "clothing_elvendress desc",
                 "buyout": 0
             },
             "6233": {
@@ -12549,29 +14008,17 @@
                 "description": "clothing_nftbiohazardjacket desc",
                 "buyout": 0
             },
-            "6230": {
-                "slug": "clothing_nftcakeoutfit",
-                "name": "Gro\u00dfes Torten-Outfit",
-                "description": "clothing_nftcakeoutfit desc",
-                "buyout": 0
-            },
-            "6217": {
-                "slug": "clothing_r25_yellowaisha",
-                "name": "clothing_r25_yellowaisha name",
-                "description": "clothing_r25_yellowaisha desc",
-                "buyout": 0
-            },
             "6205": {
                 "slug": "clothing_autumnjacket",
                 "name": "Herbstliche Bomberjacke",
                 "description": "clothing_autumnjacket desc",
-                "buyout": 1
+                "buyout": 0
             },
             "6204": {
                 "slug": "clothing_autumnjacket",
                 "name": "Herbstliche Bomberjacke",
                 "description": "clothing_autumnjacket desc",
-                "buyout": 1
+                "buyout": 0
             },
             "6200": {
                 "slug": "clothing_nftbionic",
@@ -12585,22 +14032,10 @@
                 "description": "clothing_blessedoutfit desc",
                 "buyout": 0
             },
-            "6178": {
-                "slug": "clothing_blessingofhades",
-                "name": "Der Hund des Hades",
-                "description": "clothing_blessingofhades desc",
-                "buyout": 0
-            },
             "6175": {
                 "slug": "clothing_olympiantoga",
                 "name": "Olympische Toga",
                 "description": "clothing_olympiantoga desc",
-                "buyout": 0
-            },
-            "6166": {
-                "slug": "clothing_r25_shroomie",
-                "name": "Pilziger Begleiter",
-                "description": "clothing_r25_shroomie desc",
                 "buyout": 0
             },
             "6164": {
@@ -12621,34 +14056,16 @@
                 "description": "clothing_r25_mushroomcape desc",
                 "buyout": 0
             },
-            "6150": {
-                "slug": "clothing_nftmonkeyfriend",
-                "name": "Pers\u00f6nlicher Dschungelf\u00fchrer",
-                "description": "clothing_nftmonkeyfriend desc",
-                "buyout": 0
-            },
             "6134": {
                 "slug": "clothing_nftdenimjacket",
                 "name": "Jeansjacke",
                 "description": "clothing_nftdenimjacket desc",
                 "buyout": 0
             },
-            "6119": {
-                "slug": "clothing_r25_unicorncompanion",
-                "name": "Einhornfreund",
-                "description": "clothing_r25_unicorncompanion desc",
-                "buyout": 0
-            },
             "6118": {
                 "slug": "clothing_goodluckbearoutfit",
                 "name": "Gl\u00fccksb\u00e4rchi-Outfit",
                 "description": "clothing_goodluckbearoutfit desc",
-                "buyout": 0
-            },
-            "6115": {
-                "slug": "clothing_recycler_patchlongscarf",
-                "name": "Langer Patchwork-Schal",
-                "description": "clothing_recycler_patchlongscarf desc",
                 "buyout": 0
             },
             "6114": {
@@ -12693,42 +14110,6 @@
                 "description": "clothing_nfttrench desc",
                 "buyout": 0
             },
-            "6077": {
-                "slug": "clothing_r25_bunnycompanion",
-                "name": "Hasenbegleiter",
-                "description": "clothing_r25_bunnycompanion desc",
-                "buyout": 0
-            },
-            "6070": {
-                "slug": "clothing_nftcat",
-                "name": "Katzencaf\u00e9-Katze",
-                "description": "clothing_nftcat desc",
-                "buyout": 0
-            },
-            "6069": {
-                "slug": "clothing_nftcat",
-                "name": "Katzencaf\u00e9-Katze",
-                "description": "clothing_nftcat desc",
-                "buyout": 0
-            },
-            "6050": {
-                "slug": "clothing_hearttrumpet",
-                "name": "Trompete der Herzen",
-                "description": "clothing_hearttrumpet desc",
-                "buyout": 0
-            },
-            "6031": {
-                "slug": "clothing_nftsnake",
-                "name": "Adoptierte Abenteuer-Schlange",
-                "description": "clothing_nftsnake desc",
-                "buyout": 0
-            },
-            "5996": {
-                "slug": "clothing_nftvalentinesrose",
-                "name": "Valentinsrose",
-                "description": "clothing_nftvalentinesrose desc",
-                "buyout": 0
-            },
             "5995": {
                 "slug": "clothing_nftwinter3",
                 "name": "Braune Kleidung f\u00fcr Minusgrade",
@@ -12765,12 +14146,6 @@
                 "description": "clothing_r25_valentinesgroom desc",
                 "buyout": 0
             },
-            "5961": {
-                "slug": "clothing_teddycompanion",
-                "name": "Habbington B\u00e4r",
-                "description": "clothing_teddycompanion desc",
-                "buyout": 0
-            },
             "5951": {
                 "slug": "clothing_r25_bosscoat",
                 "name": "Boss-Mantel",
@@ -12795,29 +14170,11 @@
                 "description": "clothing_nftbunnycapeoutfit desc",
                 "buyout": 0
             },
-            "5942": {
-                "slug": "clothing_umbrella",
-                "name": "Grosser Regenschirm",
-                "description": "clothing_umbrella desc",
-                "buyout": 1
-            },
             "5926": {
                 "slug": "clothing_offshoulderjacket",
                 "name": "Schulterfreie Jacke",
                 "description": "clothing_offshoulderjacket desc",
                 "buyout": 1
-            },
-            "5925": {
-                "slug": "clothing_sharkplushie",
-                "name": "Pl\u00fcsch-Hai",
-                "description": "clothing_sharkplushie desc",
-                "buyout": 0
-            },
-            "5895": {
-                "slug": "clothing_nftsack",
-                "name": "Rasta Santas Geschenkebeutel",
-                "description": "clothing_nftsack desc",
-                "buyout": 0
             },
             "5892": {
                 "slug": "clothing_nftrastasantajacket",
@@ -12829,54 +14186,6 @@
                 "slug": "clothing_nftrastasantajacket",
                 "name": "Rasta Santas Jacke ",
                 "description": "clothing_nftrastasantajacket desc",
-                "buyout": 0
-            },
-            "5843": {
-                "slug": "clothing_nftbabysnowman",
-                "name": "Mini-Schneemann ",
-                "description": "clothing_nftbabysnowman desc",
-                "buyout": 0
-            },
-            "5842": {
-                "slug": "clothing_nftbabyrudolf",
-                "name": "Mini Rentier ",
-                "description": "clothing_nftbabyrudolf desc",
-                "buyout": 0
-            },
-            "5829": {
-                "slug": "clothing_nftbiglollipop",
-                "name": "Bonus-Lollipop",
-                "description": "clothing_nftbiglollipop desc",
-                "buyout": 0
-            },
-            "5826": {
-                "slug": "clothing_r25_goosefriend",
-                "name": "G\u00e4nsefreund",
-                "description": "clothing_r25_goosefriend desc",
-                "buyout": 0
-            },
-            "5825": {
-                "slug": "clothing_nftspdemon",
-                "name": "Schlafparalyse-D\u00e4mon",
-                "description": "clothing_nftspdemon desc",
-                "buyout": 0
-            },
-            "5810": {
-                "slug": "clothing_dreamerpillow",
-                "name": "Tr\u00e4umer-Kopfkissen",
-                "description": "clothing_dreamerpillow desc",
-                "buyout": 0
-            },
-            "5800": {
-                "slug": "clothing_dreamlongscarf",
-                "name": "Umh\u00e4ngeschal",
-                "description": "clothing_dreamlongscarf desc",
-                "buyout": 0
-            },
-            "5796": {
-                "slug": "clothing_nftsuitcase",
-                "name": "Mit Bargeld gef\u00fcllter Koffer",
-                "description": "clothing_nftsuitcase desc",
                 "buyout": 0
             },
             "5761": {
@@ -12897,12 +14206,6 @@
                 "description": "clothing_mariachioutfit desc",
                 "buyout": 0
             },
-            "5742": {
-                "slug": "clothing_nftsummerbird",
-                "name": "S\u00fcsser kleiner Vogel",
-                "description": "clothing_nftsummerbird desc",
-                "buyout": 0
-            },
             "5734": {
                 "slug": "clothing_bloodypromtux",
                 "name": "Blutiger Ball-Smoking",
@@ -12914,12 +14217,6 @@
                 "name": "Blutiger Ball-Smoking",
                 "description": "clothing_bloodypromtux desc",
                 "buyout": 1
-            },
-            "5690": {
-                "slug": "clothing_r24_ghostfriend",
-                "name": "Geisterhafte Freunde",
-                "description": "clothing_r24_ghostfriend desc",
-                "buyout": 0
             },
             "5629": {
                 "slug": "clothing_mercuryoutfit",
@@ -12943,24 +14240,6 @@
                 "slug": "clothing_nftpompomcardigan",
                 "name": "Bommel-Strickjacke",
                 "description": "clothing_nftpompomcardigan desc",
-                "buyout": 0
-            },
-            "5611": {
-                "slug": "clothing_nftshiba",
-                "name": "Treuer Shiba Inu ",
-                "description": "clothing_nftshiba desc",
-                "buyout": 0
-            },
-            "5610": {
-                "slug": "clothing_nftshiba",
-                "name": "Treuer Shiba Inu ",
-                "description": "clothing_nftshiba desc",
-                "buyout": 0
-            },
-            "5609": {
-                "slug": "clothing_nftshiba",
-                "name": "Treuer Shiba Inu ",
-                "description": "clothing_nftshiba desc",
                 "buyout": 0
             },
             "5581": {
@@ -12987,22 +14266,10 @@
                 "description": "clothing_nftsbrangerjacket desc",
                 "buyout": 0
             },
-            "5569": {
-                "slug": "clothing_nftsbraygun",
-                "name": "Laser Blaster",
-                "description": "clothing_nftsbraygun desc",
-                "buyout": 0
-            },
             "5558": {
                 "slug": "clothing_r24_techjacket",
                 "name": "Techwear Fashion Jacke",
                 "description": "clothing_r24_techjacket desc",
-                "buyout": 0
-            },
-            "5518": {
-                "slug": "clothing_r24_python",
-                "name": "Knuddelige Pythonschlange",
-                "description": "clothing_r24_python desc",
                 "buyout": 0
             },
             "5509": {
@@ -13041,28 +14308,10 @@
                 "description": "clothing_nftwintergreen desc",
                 "buyout": 0
             },
-            "5500": {
-                "slug": "clothing_nftgiftbox2",
-                "name": "Lila Geschenkbox-Outfit",
-                "description": "clothing_nftgiftbox2 desc",
-                "buyout": 0
-            },
-            "5498": {
-                "slug": "clothing_nftgiftbox",
-                "name": "Blaues Geschenkbox-Outfit",
-                "description": "clothing_nftgiftbox desc",
-                "buyout": 0
-            },
             "5485": {
                 "slug": "clothing_r24_pufferjacket",
                 "name": "Gro\u00dfer Daunenmantel",
                 "description": "clothing_r24_pufferjacket desc",
-                "buyout": 0
-            },
-            "5461": {
-                "slug": "clothing_r24_bunnyplushie",
-                "name": "Tr\u00f6stender Pl\u00fcschhase",
-                "description": "clothing_r24_bunnyplushie desc",
                 "buyout": 0
             },
             "5447": {
@@ -13406,12 +14655,6 @@
                 "description": "clothing_techapron desc",
                 "buyout": 1
             },
-            "4356": {
-                "slug": "clothing_bohonecklace",
-                "name": "Nomadischer Schmuck",
-                "description": "clothing_bohonecklace desc",
-                "buyout": 1
-            },
             "4314": {
                 "slug": "clothing_po",
                 "name": "Teletubbies - Po-Outfit",
@@ -13452,12 +14695,6 @@
                 "slug": "clothing_salesoutfit",
                 "name": "Vertreterkleidung",
                 "description": "clothing_salesoutfit desc",
-                "buyout": 0
-            },
-            "4282": {
-                "slug": "clothing_r21_trainoutfit",
-                "name": "Zug-Kost\u00fcm",
-                "description": "clothing_r21_trainoutfit desc",
                 "buyout": 0
             },
             "4278": {
@@ -13513,12 +14750,6 @@
                 "slug": "clothing_pridehoodie",
                 "name": "Gestreifter Pride-Kapuzenpulli",
                 "description": "clothing_pridehoodie desc",
-                "buyout": 0
-            },
-            "4137": {
-                "slug": "clothing_r21_muaythaioutfit",
-                "name": "Muay Thai Outfit",
-                "description": "clothing_r21_muaythaioutfit desc",
                 "buyout": 0
             },
             "4124": {
@@ -13581,12 +14812,6 @@
                 "description": "clothing_patternhoodie desc",
                 "buyout": 0
             },
-            "4091": {
-                "slug": "clothing_leathergloves",
-                "name": "Kunstlederhandschuhe",
-                "description": "clothing_leathergloves desc",
-                "buyout": 1
-            },
             "4080": {
                 "slug": "clothing_tiedyehoodie",
                 "name": "Regenbogen-Kapuzenpulli",
@@ -13621,12 +14846,6 @@
                 "slug": "clothing_camohoodie",
                 "name": "Camo-Kapuzenpulli",
                 "description": "clothing_camohoodie desc",
-                "buyout": 0
-            },
-            "4041": {
-                "slug": "clothing_r20_bearset",
-                "name": "Winter-B\u00e4r Accessoires",
-                "description": "clothing_r20_bearset desc",
                 "buyout": 0
             },
             "4033": {
@@ -13676,12 +14895,6 @@
                 "name": "Neon Punk",
                 "description": "clothing_r20_neonpunkset desc",
                 "buyout": 0
-            },
-            "3975": {
-                "slug": "clothing_silkgloves",
-                "name": "Seidenhandschuhe",
-                "description": "clothing_silkgloves desc",
-                "buyout": 1
             },
             "3955": {
                 "slug": "clothing_exoticcape",
@@ -13833,12 +15046,6 @@
                 "description": "clothing_nt_leatherhoodie desc",
                 "buyout": 0
             },
-            "3867": {
-                "slug": "clothing_nordicscarf",
-                "name": "Schal in Normalgr\u00f6\u00dfe",
-                "description": "clothing_nordicscarf desc",
-                "buyout": 0
-            },
             "3863": {
                 "slug": "clothing_nt_snowmansuit",
                 "name": "Schneemannanzug (nicht tauschbar)",
@@ -13916,12 +15123,6 @@
                 "name": "K\u00fcnstlerweste",
                 "description": "clothing_bohovest desc",
                 "buyout": 0
-            },
-            "3744": {
-                "slug": "clothing_mittens",
-                "name": "2018 Weihnachtsf\u00e4ustlinge",
-                "description": "clothing_mittens desc",
-                "buyout": 1
             },
             "3739": {
                 "slug": "clothing_regiment",
@@ -14036,12 +15237,6 @@
                 "name": "K\u00fcchensch\u00fcrze",
                 "description": "\"Eigentum von W.W.\"",
                 "buyout": 1
-            },
-            "3542": {
-                "slug": "clothing_longscarf",
-                "name": "\u00dcbergrosser Schal",
-                "description": "Wiegt so viel wie du.",
-                "buyout": 0
             },
             "3532": {
                 "slug": "clothing_tiedjumper",
@@ -14175,12 +15370,6 @@
                 "description": "Die Uniform im Neo-Habbo.",
                 "buyout": 1
             },
-            "3360": {
-                "slug": "clothing_mockymouse",
-                "name": "Mocky Maus",
-                "description": "Design fertig zum Tragen",
-                "buyout": 1
-            },
             "3327": {
                 "slug": "clothing_waistcoatsuit",
                 "name": "Dreiteiliges Sacko",
@@ -14226,6 +15415,120 @@
             "260": null
         },
         "cp": {
+            "6406": {
+                "slug": "clothing_crmic",
+                "name": "Creator Streamer-Druck",
+                "description": "clothing_crmic desc",
+                "buyout": 0
+            },
+            "6405": {
+                "slug": "clothing_crfilm",
+                "name": "Creator Videofilmer-Druck",
+                "description": "clothing_crfilm desc",
+                "buyout": 0
+            },
+            "6404": {
+                "slug": "clothing_crdance",
+                "name": "Creator Tanz-Druck",
+                "description": "clothing_crdance desc",
+                "buyout": 0
+            },
+            "6403": {
+                "slug": "clothing_crchatter",
+                "name": "Creator Chat-Druck",
+                "description": "clothing_crchatter desc",
+                "buyout": 0
+            },
+            "6402": {
+                "slug": "clothing_crphoto",
+                "name": "Creator Foto-Druck",
+                "description": "clothing_crphoto desc",
+                "buyout": 0
+            },
+            "6365": {
+                "slug": "clothing_nfthorseyearmark4",
+                "name": "Gr\u00fcnes Pferd-Brustaufdruck",
+                "description": "clothing_nfthorseyearmark4 desc",
+                "buyout": 0
+            },
+            "6364": {
+                "slug": "clothing_nfthorseyearmark3",
+                "name": "Blaues Pferd-Brustaufdruck",
+                "description": "clothing_nfthorseyearmark3 desc",
+                "buyout": 0
+            },
+            "6363": {
+                "slug": "clothing_nfthorseyearmark2",
+                "name": "Rotes Pferd-Brustaufdruck",
+                "description": "clothing_nfthorseyearmark2 desc",
+                "buyout": 0
+            },
+            "6362": {
+                "slug": "clothing_nfthorseyearmark1",
+                "name": "Schwarzes Pferd-Brustaufdruck",
+                "description": "clothing_nfthorseyearmark1 desc",
+                "buyout": 0
+            },
+            "6317": {
+                "slug": "clothing_nftrastasantaprint",
+                "name": "Rasta-Weihnachtsmannaufdruck",
+                "description": "clothing_nftrastasantaprint desc",
+                "buyout": 0
+            },
+            "6316": {
+                "slug": "clothing_nftxmasbonnieprint",
+                "name": "Weihnachtsbonnie-Aufdruck",
+                "description": "clothing_nftxmasbonnieprint desc",
+                "buyout": 0
+            },
+            "6315": {
+                "slug": "clothing_nftrudolphprint",
+                "name": "Rudolph-Aufdruck",
+                "description": "clothing_nftrudolphprint desc",
+                "buyout": 0
+            },
+            "6288": {
+                "slug": "clothing_nft2026",
+                "name": "Silvester-2026-Halskette",
+                "description": "clothing_nft2026 desc",
+                "buyout": 0
+            },
+            "6287": {
+                "slug": "clothing_nfthappy2026print",
+                "name": "Happy 2026 Aufdruck",
+                "description": "clothing_nfthappy2026print desc",
+                "buyout": 0
+            },
+            "6282": {
+                "slug": "clothing_nftmerryxmasprint",
+                "name": "Merry Xmas Aufdruck",
+                "description": "clothing_nftmerryxmasprint desc",
+                "buyout": 0
+            },
+            "6281": {
+                "slug": "clothing_nfthohohoprint",
+                "name": "Ho Ho Ho Aufdruck",
+                "description": "clothing_nfthohohoprint desc",
+                "buyout": 0
+            },
+            "6280": {
+                "slug": "clothing_nftxmasbonnieprint",
+                "name": "Weihnachtsbonnie-Aufdruck",
+                "description": "clothing_nftxmasbonnieprint desc",
+                "buyout": 0
+            },
+            "6279": {
+                "slug": "clothing_nftrudolphprint",
+                "name": "Rudolph-Aufdruck",
+                "description": "clothing_nftrudolphprint desc",
+                "buyout": 0
+            },
+            "6278": {
+                "slug": "clothing_nftrastasantaprint",
+                "name": "Rasta-Weihnachtsmannaufdruck",
+                "description": "clothing_nftrastasantaprint desc",
+                "buyout": 0
+            },
             "6193": {
                 "slug": "clothing_nfthabbo25necklace3",
                 "name": "Goldene Habbo 25-Kette",
@@ -14441,6 +15744,520 @@
             "3121": null,
             "3120": null,
             "3119": null
+        },
+        "pt": {
+            "6553": {
+                "slug": "clothing_nftshoulderdragon2",
+                "name": "clothing_nftshoulderdragon2 name",
+                "description": "clothing_nftshoulderdragon2 desc",
+                "buyout": 0
+            },
+            "6539": {
+                "slug": "clothing_toastfriend",
+                "name": "Kleiner Toast-Freund",
+                "description": "clothing_toastfriend desc",
+                "buyout": 0
+            },
+            "6512": {
+                "slug": "clothing_adorablepetshark",
+                "name": "Niedlicher Haustierhai",
+                "description": "clothing_adorablepetshark desc",
+                "buyout": 0
+            },
+            "6488": {
+                "slug": "clothing_scallywagseagull",
+                "name": "Schlingel-M\u00f6we",
+                "description": "clothing_scallywagseagull desc",
+                "buyout": 0
+            },
+            "6487": {
+                "slug": "clothing_nftlittlemonkey",
+                "name": "Mini-Schulteraffe",
+                "description": "clothing_nftlittlemonkey desc",
+                "buyout": 0
+            },
+            "6442": {
+                "slug": "clothing_nftsquirrel",
+                "name": "Eichh\u00f6rnchen-Begleiter",
+                "description": "clothing_nftsquirrel desc",
+                "buyout": 0
+            },
+            "6383": {
+                "slug": "clothing_r26_toucancompanion",
+                "name": "Tukan-Haustier",
+                "description": "clothing_r26_toucancompanion desc",
+                "buyout": 0
+            },
+            "6381": {
+                "slug": "clothing_shroomietest",
+                "name": "clothing_shroomietest name",
+                "description": "clothing_shroomietest desc",
+                "buyout": 0
+            },
+            "6376": {
+                "slug": "clothing_r26_robotcompanion",
+                "name": "Robotbegleiter",
+                "description": "clothing_r26_robotcompanion desc",
+                "buyout": 0
+            },
+            "6342": {
+                "slug": "clothing_nftshoulderdragon1",
+                "name": "Feuerdrachen-Schutzgeist",
+                "description": "clothing_nftshoulderdragon1 desc",
+                "buyout": 0
+            },
+            "6322": {
+                "slug": "clothing_r26_wisp",
+                "name": "Begleitendes W\u00f6lkchen",
+                "description": "clothing_r26_wisp desc",
+                "buyout": 0
+            },
+            "6299": {
+                "slug": "clothing_r26_mysticdragon",
+                "name": "Drachenbaby",
+                "description": "clothing_r26_mysticdragon desc",
+                "buyout": 0
+            },
+            "6266": {
+                "slug": "clothing_r26_minielephant",
+                "name": "Grauer Mini-Elefant",
+                "description": "clothing_r26_minielephant desc",
+                "buyout": 0
+            },
+            "6217": {
+                "slug": "clothing_r25_yellowaisha",
+                "name": "Gelber Aisha-Gef\u00e4hrte",
+                "description": "clothing_r25_yellowaisha desc",
+                "buyout": 0
+            },
+            "6178": {
+                "slug": "clothing_blessingofhades",
+                "name": "Der Hund des Hades",
+                "description": "clothing_blessingofhades desc",
+                "buyout": 0
+            },
+            "6166": {
+                "slug": "clothing_r25_shroomie",
+                "name": "Pilziger Begleiter",
+                "description": "clothing_r25_shroomie desc",
+                "buyout": 0
+            },
+            "6150": {
+                "slug": "clothing_nftmonkeyfriend",
+                "name": "Pers\u00f6nlicher Dschungelf\u00fchrer",
+                "description": "clothing_nftmonkeyfriend desc",
+                "buyout": 0
+            },
+            "6119": {
+                "slug": "clothing_r25_unicorncompanion",
+                "name": "Einhornfreund",
+                "description": "clothing_r25_unicorncompanion desc",
+                "buyout": 0
+            },
+            "6077": {
+                "slug": "clothing_r25_bunnycompanion",
+                "name": "Hasenbegleiter",
+                "description": "clothing_r25_bunnycompanion desc",
+                "buyout": 0
+            },
+            "6070": {
+                "slug": "clothing_nftcat",
+                "name": "Katzencaf\u00e9-Katze",
+                "description": "clothing_nftcat desc",
+                "buyout": 0
+            },
+            "6069": {
+                "slug": "clothing_nftcat",
+                "name": "Katzencaf\u00e9-Katze",
+                "description": "clothing_nftcat desc",
+                "buyout": 0
+            },
+            "6031": {
+                "slug": "clothing_nftsnake",
+                "name": "Adoptierte Abenteuer-Schlange",
+                "description": "clothing_nftsnake desc",
+                "buyout": 0
+            },
+            "5961": {
+                "slug": "clothing_teddycompanion",
+                "name": "Habbington B\u00e4r",
+                "description": "clothing_teddycompanion desc",
+                "buyout": 0
+            },
+            "5843": {
+                "slug": "clothing_nftbabysnowman",
+                "name": "Mini-Schneemann ",
+                "description": "clothing_nftbabysnowman desc",
+                "buyout": 0
+            },
+            "5842": {
+                "slug": "clothing_nftbabyrudolf",
+                "name": "Mini Rentier ",
+                "description": "clothing_nftbabyrudolf desc",
+                "buyout": 0
+            },
+            "5826": {
+                "slug": "clothing_r25_goosefriend",
+                "name": "G\u00e4nsefreund",
+                "description": "clothing_r25_goosefriend desc",
+                "buyout": 0
+            },
+            "5742": {
+                "slug": "clothing_nftsummerbird",
+                "name": "S\u00fcsser kleiner Vogel",
+                "description": "clothing_nftsummerbird desc",
+                "buyout": 0
+            },
+            "5690": {
+                "slug": "clothing_r24_ghostfriend",
+                "name": "Geisterhafte Freunde",
+                "description": "clothing_r24_ghostfriend desc",
+                "buyout": 0
+            },
+            "5611": {
+                "slug": "clothing_nftshiba",
+                "name": "Treuer Shiba Inu ",
+                "description": "clothing_nftshiba desc",
+                "buyout": 0
+            },
+            "5610": {
+                "slug": "clothing_nftshiba",
+                "name": "Treuer Shiba Inu ",
+                "description": "clothing_nftshiba desc",
+                "buyout": 0
+            },
+            "5609": {
+                "slug": "clothing_nftshiba",
+                "name": "Treuer Shiba Inu ",
+                "description": "clothing_nftshiba desc",
+                "buyout": 0
+            }
+        },
+        "mc": {
+            "6548": {
+                "slug": "clothing_glowingfireflies",
+                "name": "clothing_glowingfireflies name",
+                "description": "clothing_glowingfireflies desc",
+                "buyout": 0
+            },
+            "6547": {
+                "slug": "clothing_r26_lambplush",
+                "name": "clothing_r26_lambplush name",
+                "description": "clothing_r26_lambplush desc",
+                "buyout": 0
+            },
+            "6527": {
+                "slug": "clothing_nftpinwheel",
+                "name": "Buntes Windr\u00e4dchen",
+                "description": "clothing_nftpinwheel desc",
+                "buyout": 0
+            },
+            "6509": {
+                "slug": "clothing_npc_roxie_test",
+                "name": "clothing_npc_roxie_test name",
+                "description": "clothing_npc_roxie_test desc",
+                "buyout": 0
+            },
+            "6486": {
+                "slug": "clothing_nfttreasurechest",
+                "name": "Dschungel-Schatztruhe",
+                "description": "clothing_nfttreasurechest desc",
+                "buyout": 0
+            },
+            "6481": {
+                "slug": "clothing_nftrollerskate",
+                "name": "Riesen-Rollschuh",
+                "description": "clothing_nftrollerskate desc",
+                "buyout": 0
+            },
+            "6468": {
+                "slug": "clothing_nftkeytar",
+                "name": "Keyboard-Guitarre",
+                "description": "clothing_nftkeytar desc",
+                "buyout": 0
+            },
+            "6461": {
+                "slug": "clothing_mafiacane",
+                "name": "Gehstock mit Entengriff",
+                "description": "clothing_mafiacane desc",
+                "buyout": 1
+            },
+            "6452": {
+                "slug": "clothing_r26_goldwatch",
+                "name": "24k Gold-Uhr",
+                "description": "clothing_r26_goldwatch desc",
+                "buyout": 0
+            },
+            "6451": {
+                "slug": "clothing_nftwarhammer",
+                "name": "Riesen-Kriegshammer",
+                "description": "clothing_nftwarhammer desc",
+                "buyout": 0
+            },
+            "6449": {
+                "slug": "clothing_nftyoyo",
+                "name": "Jo-Jo",
+                "description": "clothing_nftyoyo desc",
+                "buyout": 0
+            },
+            "6448": {
+                "slug": "clothing_nftmusicalnotes",
+                "name": "Musiknoten",
+                "description": "clothing_nftmusicalnotes desc",
+                "buyout": 0
+            },
+            "6446": {
+                "slug": "clothing_nftledbracelet",
+                "name": "LED-Armband",
+                "description": "clothing_nftledbracelet desc",
+                "buyout": 0
+            },
+            "6445": {
+                "slug": "clothing_nftledbracelet",
+                "name": "LED-Armband",
+                "description": "clothing_nftledbracelet desc",
+                "buyout": 0
+            },
+            "6437": {
+                "slug": "clothing_discoboombox",
+                "name": "Disko-Ghettoblaster",
+                "description": "clothing_discoboombox desc",
+                "buyout": 0
+            },
+            "6424": {
+                "slug": "clothing_r26_lasersword",
+                "name": "Laser-Schwert",
+                "description": "clothing_r26_lasersword desc",
+                "buyout": 0
+            },
+            "6410": {
+                "slug": "clothing_keychainshark",
+                "name": "Hai-Schl\u00fcsselanh\u00e4nger",
+                "description": "clothing_keychainshark desc",
+                "buyout": 0
+            },
+            "6409": {
+                "slug": "clothing_keychaintoast",
+                "name": "Toast-Schl\u00fcsselanh\u00e4nger",
+                "description": "clothing_keychaintoast desc",
+                "buyout": 0
+            },
+            "6408": {
+                "slug": "clothing_keychainegg",
+                "name": "Spiegelei-Schl\u00fcsselanh\u00e4nger",
+                "description": "clothing_keychainegg desc",
+                "buyout": 0
+            },
+            "6382": {
+                "slug": "clothing_simpleglovetest",
+                "name": "clothing_simpleglovetest name",
+                "description": "clothing_simpleglovetest desc",
+                "buyout": 0
+            },
+            "6369": {
+                "slug": "clothing_nftbluerose",
+                "name": "Blaue Rose",
+                "description": "clothing_nftbluerose desc",
+                "buyout": 0
+            },
+            "6346": {
+                "slug": "clothing_diykittyplush",
+                "name": "Katzen Pl\u00fcschtier",
+                "description": "clothing_diykittyplush desc",
+                "buyout": 0
+            },
+            "6255": {
+                "slug": "clothing_nftswordnshiled",
+                "name": "Schwert und Schild",
+                "description": "clothing_nftswordnshiled desc",
+                "buyout": 0
+            },
+            "6251": {
+                "slug": "clothing_nftumbrella",
+                "name": "Regentag-Schirm",
+                "description": "clothing_nftumbrella desc",
+                "buyout": 0
+            },
+            "6247": {
+                "slug": "clothing_nftumbrella",
+                "name": "Regentag-Schirm",
+                "description": "clothing_nftumbrella desc",
+                "buyout": 0
+            },
+            "6230": {
+                "slug": "clothing_nftcakeoutfit",
+                "name": "Gro\u00dfes Torten-Outfit",
+                "description": "clothing_nftcakeoutfit desc",
+                "buyout": 0
+            },
+            "6210": {
+                "slug": "clothing_polkadotmittens",
+                "name": "Gepunktete Handschuhe",
+                "description": "clothing_polkadotmittens desc",
+                "buyout": 0
+            },
+            "6115": {
+                "slug": "clothing_recycler_patchlongscarf",
+                "name": "Langer Patchwork-Schal",
+                "description": "clothing_recycler_patchlongscarf desc",
+                "buyout": 0
+            },
+            "6050": {
+                "slug": "clothing_hearttrumpet",
+                "name": "Trompete der Herzen",
+                "description": "clothing_hearttrumpet desc",
+                "buyout": 0
+            },
+            "5996": {
+                "slug": "clothing_nftvalentinesrose",
+                "name": "Valentinsrose",
+                "description": "clothing_nftvalentinesrose desc",
+                "buyout": 0
+            },
+            "5942": {
+                "slug": "clothing_umbrella",
+                "name": "Grosser Regenschirm",
+                "description": "clothing_umbrella desc",
+                "buyout": 1
+            },
+            "5925": {
+                "slug": "clothing_sharkplushie",
+                "name": "Pl\u00fcsch-Hai",
+                "description": "clothing_sharkplushie desc",
+                "buyout": 0
+            },
+            "5895": {
+                "slug": "clothing_nftsack",
+                "name": "Rasta Santas Geschenkebeutel",
+                "description": "clothing_nftsack desc",
+                "buyout": 0
+            },
+            "5829": {
+                "slug": "clothing_nftbiglollipop",
+                "name": "Bonus-Lollipop",
+                "description": "clothing_nftbiglollipop desc",
+                "buyout": 0
+            },
+            "5825": {
+                "slug": "clothing_nftspdemon",
+                "name": "Schlafparalyse-D\u00e4mon",
+                "description": "clothing_nftspdemon desc",
+                "buyout": 0
+            },
+            "5810": {
+                "slug": "clothing_dreamerpillow",
+                "name": "Tr\u00e4umer-Kopfkissen",
+                "description": "clothing_dreamerpillow desc",
+                "buyout": 0
+            },
+            "5808": {
+                "slug": "clothing_dreamsparkles",
+                "name": "Schlafstaub ",
+                "description": "clothing_dreamsparkles desc",
+                "buyout": 0
+            },
+            "5800": {
+                "slug": "clothing_dreamlongscarf",
+                "name": "Umh\u00e4ngeschal",
+                "description": "clothing_dreamlongscarf desc",
+                "buyout": 0
+            },
+            "5796": {
+                "slug": "clothing_nftsuitcase",
+                "name": "Mit Bargeld gef\u00fcllter Koffer",
+                "description": "clothing_nftsuitcase desc",
+                "buyout": 0
+            },
+            "5569": {
+                "slug": "clothing_nftsbraygun",
+                "name": "Laser Blaster",
+                "description": "clothing_nftsbraygun desc",
+                "buyout": 0
+            },
+            "5518": {
+                "slug": "clothing_r24_python",
+                "name": "Knuddelige Pythonschlange",
+                "description": "clothing_r24_python desc",
+                "buyout": 0
+            },
+            "5500": {
+                "slug": "clothing_nftgiftbox2",
+                "name": "Lila Geschenkbox-Outfit",
+                "description": "clothing_nftgiftbox2 desc",
+                "buyout": 0
+            },
+            "5498": {
+                "slug": "clothing_nftgiftbox",
+                "name": "Blaues Geschenkbox-Outfit",
+                "description": "clothing_nftgiftbox desc",
+                "buyout": 0
+            },
+            "5461": {
+                "slug": "clothing_r24_bunnyplushie",
+                "name": "Tr\u00f6stender Pl\u00fcschhase",
+                "description": "clothing_r24_bunnyplushie desc",
+                "buyout": 0
+            },
+            "4356": {
+                "slug": "clothing_bohonecklace",
+                "name": "Nomadischer Schmuck",
+                "description": "clothing_bohonecklace desc",
+                "buyout": 1
+            },
+            "4282": {
+                "slug": "clothing_r21_trainoutfit",
+                "name": "Zug-Kost\u00fcm",
+                "description": "clothing_r21_trainoutfit desc",
+                "buyout": 0
+            },
+            "4137": {
+                "slug": "clothing_r21_muaythaioutfit",
+                "name": "Muay Thai Outfit",
+                "description": "clothing_r21_muaythaioutfit desc",
+                "buyout": 0
+            },
+            "4091": {
+                "slug": "clothing_leathergloves",
+                "name": "Kunstlederhandschuhe",
+                "description": "clothing_leathergloves desc",
+                "buyout": 1
+            },
+            "4041": {
+                "slug": "clothing_r20_bearset",
+                "name": "Winter-B\u00e4r Accessoires",
+                "description": "clothing_r20_bearset desc",
+                "buyout": 0
+            },
+            "3975": {
+                "slug": "clothing_silkgloves",
+                "name": "Seidenhandschuhe",
+                "description": "clothing_silkgloves desc",
+                "buyout": 1
+            },
+            "3867": {
+                "slug": "clothing_nordicscarf",
+                "name": "Schal in Normalgr\u00f6\u00dfe",
+                "description": "clothing_nordicscarf desc",
+                "buyout": 0
+            },
+            "3744": {
+                "slug": "clothing_mittens",
+                "name": "2018 Weihnachtsf\u00e4ustlinge",
+                "description": "clothing_mittens desc",
+                "buyout": 1
+            },
+            "3542": {
+                "slug": "clothing_longscarf",
+                "name": "\u00dcbergrosser Schal",
+                "description": "Wiegt so viel wie du.",
+                "buyout": 0
+            },
+            "3360": {
+                "slug": "clothing_mockymouse",
+                "name": "Mocky Maus",
+                "description": "Design fertig zum Tragen",
+                "buyout": 1
+            }
         }
     }
 }
