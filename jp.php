@@ -13,7 +13,7 @@ return [
     "Badge owners" => "バッジ所有者",
     "News" => "ニュース",
     "About" => "このサイトについて",
- 
+
     // Layout
     "Copyright" => "著作権",
     /* -- "Made with :love: by :link: using the :link:" */
@@ -22,12 +22,12 @@ return [
     "using the" => "使用技術：",
     "Generated in" => "生成時間",
     "Current server time" => "現在のサーバー時刻",
- 
+
     // Landing page
     "What's your Habbo name?" => "あなたのHabboネームは？",
     /* -- Try to add the <br> at around 70 characters, so the next part goes on a new line */
     "landing_page_info" => "スタッフや友達、そしてあなた自身のハボに関するあらゆる情報を<br>検索・抽出・集計します。",
- 
+
     // General
     "Habbo" => "ハボ",
     "Hotel" => "ホテル",
@@ -36,17 +36,17 @@ return [
     "from" => "—", // "Viewing page of :habbo: from :hotel:"
     "View Habinfo" => "Habinfoを見る",
     "This hotel does not exist, redirecting you.." => "このホテルは存在しません。リダイレクトします…",
- 
+
     // [habbo] Birthdays
     /* -- "Birthdays in Habbo.:hotel:" */
-    "Birthdays in Habbo." => "誕生日 in Habbo.",
+    "Birthdays in Habbo." => "誕生日＠Habbo.",
     "Do you know anyone?" => "知り合いはいますか？",
     "There are no birthdays in this hotel as far as we know?" => "私たちが知る限り、このホテルに誕生日のハボはいません。",
     "Pick another date" => "別の日付を選ぶ",
     "All years" => "すべての年",
     "You have supplied an invalid date" => "無効な日付が入力されました",
     "This date lies in the future and can not be used" => "この日付は未来のため使用できません",
- 
+
     // Habinfo Form
     "Find Habinfo on.." => "Habinfoを検索…",
     "Find" => "検索", // Button on the Habinfo form
@@ -57,7 +57,7 @@ return [
     "You forgot the Habbo name.." => "Habboネームが入力されていません…",
     "Extracting Habinfo of %s from Habbo.%s" => "%s のHabinfoを Habbo.%s から取得しています", // Leave the %s intact
     "Extracting Habinfo of someone from Habbo.%s" => "Habbo.%s から誰かのHabinfoを取得しています",
- 
+
     /* -- "Looking for :name: on :hotel:" */
     "Looking for" => "検索中：",
     "someone" => "誰か",
@@ -68,13 +68,13 @@ return [
     "Return to the Habinfo widget" => "Habinfoウィジェットに戻る",
     "Visit Habinfo history" => "Habinfo履歴を見る",
     "habinfo_user_banned" => "このハボはBANされているため、情報を取得できません。",
- 
+
     // Habinfo
     "Closed profile, loading might take longer." => "非公開プロフィールのため、読み込みに時間がかかる場合があります。",
     "This Habbo is banned. We can not get any new information.." => "このハボはBANされています。新しい情報は取得できません…",
-    "Previous mottos" => "以前のモットー",
+    "Previous mottos" => "以前のひとこと",
     "Previous looks" => "以前の見た目",
-    "Last online" => "最終オンライン",
+    "Last online" => "最終ログイン",
     "Last change" => "最終更新",
     "Go to profile" => "プロフィールへ",
     "Closed profile" => "非公開プロフィール",
@@ -85,54 +85,54 @@ return [
     "and last updated" => "最終更新：",
     "Friends" => "フレンド",
     "Groups" => "グループ",
-    "Rooms" => "ルーム",
+    "Rooms" => "部屋",
     "Photos" => "フォト",
     "new" => "新", // Little label on new badges/friends etc.
     "This Habbo is not in the Habinfo system yet" => "このハボはまだHabinfoに登録されていません",
     "Show old badges" => "過去のバッジを表示",
     "Show old friends" => "過去のフレンドを表示",
     "Show old groups" => "過去のグループを表示",
-    "Show old rooms" => "過去のルームを表示",
+    "Show old rooms" => "過去の部屋を表示",
     "Administrator" => "管理者", // Someone with admin rights in a group
     "Group created" => "グループ作成",
     "Group joined" => "グループ加入",
     "Group updated" => "グループ更新",
-    "Go to grouproom" => "グループルームへ",
-    "Room created" => "ルーム作成",
-    "Room updated" => "ルーム更新",
+    "Go to grouproom" => "グループ部屋へ",
+    "Room created" => "部屋作成",
+    "Room updated" => "部屋更新",
     "Rating" => "評価",
     "Maximum visitors" => "最大来場者数",
-    "Go to room" => "ルームへ",
+    "Go to room" => "部屋へ",
     // "Taken in this room on :date: and received :number: likes
     "Taken in" => "撮影場所：",
-    "this room" => "このルーム",
+    "this room" => "この部屋",
     "and received" => "獲得：",
     "likes" => "いいね",
     "Show on Habbo" => "ハボで表示",
     "Who else has this badge?" => "他に誰がこのバッジを持っている？",
     "Removed" => "削除済み",
-    "%s has been a Habbo since %s and has %d badges, %d friends, %d groups and %d rooms!" => "%s は %s からのハボで、バッジ%d個、フレンド%d人、グループ%d個、ルーム%d個を持っています！", // Leave the %s and %d intact
+    "%s has been a Habbo since %s and has %d badges, %d friends, %d groups and %d rooms!" => "%s は %s からのハボで、バッジ%d個、フレンド%d人、グループ%d個、部屋%d個を持っています！", // Leave the %s and %d intact
     "Back to top" => "トップへ戻る",
     "Go to Badges" => "バッジへ",
     "Go to Friends" => "フレンドへ",
     "Go to Groups" => "グループへ",
-    "Go to Rooms" => "ルームへ",
+    "Go to Rooms" => "部屋へ",
     "Go to Photos" => "フォトへ",
     "Toggle achievements" => "アチーブメントの表示切替",
     "Toggle unique badges" => "ユニークバッジの表示切替",
- 
+
     // Maintenance
     "Maintenance.." => "メンテナンス中…",
     "maintenance_paragraph_one" => "こんにちは、ハボ！ 現在サイトのメンテナンスを行っています。",
     "maintenance_paragraph_two" => "しばらくお待ちください。すぐに戻ります！",
     "Follow us on Twitter for updates" => "最新情報はTwitterでご確認ください",
- 
+
     // 404
     "Oops, page not found" => "おっと、ページが見つかりません",
     "The page you tried to request doesn't exist.." => "リクエストされたページは存在しません…",
     "page_not_found_paragraph" => "でもご心配なく。%sホーム%sに戻るか、知り合いが%s誕生日%sを迎えていないか見てみましょう！", // Leave the %s intact, they will become links
     "Return" => "戻る",
- 
+
     // Badges
     "Achievement top x for" => "アチーブメントトップ%d ＠", // "Achievement top x for :hotel:"
     "Last updated" => "最終更新",
@@ -157,7 +157,7 @@ return [
     "Compare two badges and see who wins!" => "2つのバッジを比較して、どちらが勝つか見てみよう！",
     "Send two badges into battle and find out which one wins!" => "2つのバッジをバトルさせて、どちらが勝つか確かめよう！",
     "Battle!" => "バトル！",
- 
+
     // Time
     "today" => "今日",
     "and" => "と",
@@ -166,21 +166,21 @@ return [
     "years" => "年",
     "months" => "ヶ月",
     "days" => "日",
- 
+
     // Habbo Ticker
     "Latest updates from Habbo Ticker" => "Habbo Tickerの最新情報",
     // This habbo added more than 5 new badges, 3 new groups and changed their look
-    "changed their motto" => "モットーを変更しました",
+    "changed their motto" => "ひとことを変更しました",
     "changed their look" => "見た目を変更しました",
     "more than x" => "%d以上",
     "new badge(s)" => "個の新しいバッジ",
     "new group(s)" => "個の新しいグループ",
-    "new room(s)" => "個の新しいルーム",
+    "new room(s)" => "個の新しい部屋",
     "new friend(s)" => "人の新しいフレンド",
     "new photo(s)" => "枚の新しいフォト",
     "joined" => "参加しました", // This habbo joined Habbowidgets
     "added" => "追加しました",
- 
+
     // Habbo Closet
     "Habbo Closet" => "Habboクローゼット",
     "What are Habbos wearing?" => "ハボは何を着ている？",
@@ -189,7 +189,7 @@ return [
     "Try something else" => "別のものを試す",
     "Search for .." => "検索…",
     "No clothing items found.." => "服が見つかりません…",
- 
+
     // Habbo Star Gems
     "Star Gems top x for" => "Star Gems トップ%d ＠"
 ];
